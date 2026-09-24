@@ -20,6 +20,12 @@
       "name": "American Airlines Group Inc."
     },
     {
+      "key": "AAP-RM",
+      "isin": "US00751Y1064",
+      "kind": "Equity",
+      "name": "ADVANCE AUTO PARTS, INC ORDSHS"
+    },
+    {
       "key": "AAPL-RM",
       "isin": "US0378331005",
       "kind": "Equity",
@@ -30,6 +36,12 @@
       "isin": "US00287Y1091",
       "kind": "Equity",
       "name": "AbbVie Inc."
+    },
+    {
+      "key": "ABC-RM",
+      "isin": "US03073E1055",
+      "kind": "Equity",
+      "name": "Cencora, Inc. ORD SHS"
     },
     {
       "key": "ABIO",
@@ -104,6 +116,12 @@
       "name": "Am Eagle Outfitter Inc ORD SHS"
     },
     {
+      "key": "AEP-RM",
+      "isin": "US0255371017",
+      "kind": "Equity",
+      "name": "American Electr. Power ORD SHS"
+    },
+    {
       "key": "AES-RM",
       "isin": "US00130H1059",
       "kind": "Equity",
@@ -134,6 +152,12 @@
       "name": "Агрофирма Мценская ао"
     },
     {
+      "key": "AGNC-RM",
+      "isin": "US00123Q1040",
+      "kind": "Equity",
+      "name": "AGNC Investment Corp. ORD SHS"
+    },
+    {
       "key": "AGRT",
       "isin": "RU000A0JQPP7",
       "kind": "Equity",
@@ -144,6 +168,12 @@
       "isin": "US0268747849",
       "kind": "Equity",
       "name": "American International ORD SHS"
+    },
+    {
+      "key": "AIZ-RM",
+      "isin": "US04621X1081",
+      "kind": "Equity",
+      "name": "Assurant Ord Shs"
     },
     {
       "key": "AJG-RM",
@@ -272,6 +302,12 @@
       "name": "Albemarle Ord Shs"
     },
     {
+      "key": "ALGN-RM",
+      "isin": "US0162551016",
+      "kind": "Equity",
+      "name": "Align Technology, Inc. ORD SHS"
+    },
+    {
       "key": "ALK-RM",
       "isin": "US0116591092",
       "kind": "Equity",
@@ -302,10 +338,22 @@
       "name": "ПАО \"СФ \"АЛМАЗ\" ап"
     },
     {
+      "key": "ALNP",
+      "isin": "RU0006625498",
+      "kind": "Equity",
+      "name": "ПАО НК Роснефть-Алтайнефтепрод"
+    },
+    {
       "key": "ALRS",
       "isin": "RU0007252813",
       "kind": "Equity",
       "name": "АЛРОСА ПАО ао"
+    },
+    {
+      "key": "AMC-RM",
+      "isin": "US00165C3025",
+      "kind": "Equity",
+      "name": "AMC Entertainment Holdings"
     },
     {
       "key": "AMD-RM",
@@ -404,6 +452,12 @@
       "name": "Amazon.com Inc."
     },
     {
+      "key": "ANF-RM",
+      "isin": "US0028962076",
+      "kind": "Equity",
+      "name": "Abercrombie & Fitch_ORDSH CL A"
+    },
+    {
       "key": "ANGE",
       "isin": "RU000A0JNM99",
       "kind": "Equity",
@@ -464,6 +518,12 @@
       "name": "ARES CAPORD SHS"
     },
     {
+      "key": "ARMK-RM",
+      "isin": "US03852U1060",
+      "kind": "Equity",
+      "name": "Aramark ORD SHS"
+    },
+    {
       "key": "ARPO",
       "isin": "RU000A0JQ2C2",
       "kind": "Equity",
@@ -480,6 +540,12 @@
       "isin": "RU000A0JP0Q7",
       "kind": "Equity",
       "name": "УК Арсагера ПАО-ао"
+    },
+    {
+      "key": "ASO-RM",
+      "isin": "US00402L1070",
+      "kind": "Equity",
+      "name": "Academy Sports Outdoors ORDSHS"
     },
     {
       "key": "ASSB",
@@ -530,6 +596,18 @@
       "name": "Broadcom Inc."
     },
     {
+      "key": "AVTR-RM",
+      "isin": "US05352A1007",
+      "kind": "Equity",
+      "name": "Avantor, Inc. ORD SHS"
+    },
+    {
+      "key": "AVY-RM",
+      "isin": "US0536111091",
+      "kind": "Equity",
+      "name": "Avery Dennison Corp ORD SHS"
+    },
+    {
       "key": "AWK-RM",
       "isin": "US0304201033",
       "kind": "Equity",
@@ -564,6 +642,12 @@
       "isin": "US0605051046",
       "kind": "Equity",
       "name": "Bank of America Corporation"
+    },
+    {
+      "key": "BALL-RM",
+      "isin": "US0584981064",
+      "kind": "Equity",
+      "name": "Ball Corporation ORD SHS"
     },
     {
       "key": "BANE",
@@ -710,6 +794,12 @@
       "name": "Bilibili ADR Class Z"
     },
     {
+      "key": "BILL-RM",
+      "isin": "US0900431000",
+      "kind": "Equity",
+      "name": "BILL Holdings, Inc ORD SH"
+    },
+    {
       "key": "BIO-RM",
       "isin": "US0905722072",
       "kind": "Equity",
@@ -746,6 +836,12 @@
       "name": "Baker Hughes A Ge CO Cl A"
     },
     {
+      "key": "BLDR-RM",
+      "isin": "US12008R1077",
+      "kind": "Equity",
+      "name": "Builders FirstSource ORD SHS"
+    },
+    {
       "key": "BLGH",
       "isin": "RU000A0JRB15",
       "kind": "Equity",
@@ -758,6 +854,12 @@
       "name": "АО \"БЕЛГОРОД ХЛАДОКОМБИНАТ\" ап"
     },
     {
+      "key": "BLMN-RM",
+      "isin": "US0942351083",
+      "kind": "Equity",
+      "name": "Bloomin Brands, Inc. ORD SHS"
+    },
+    {
       "key": "BLNG",
       "isin": "RU000A0J2QG8",
       "kind": "Equity",
@@ -768,6 +870,18 @@
       "isin": "US09354A1007",
       "kind": "Equity",
       "name": "Blink Charging Co. ORD SHS"
+    },
+    {
+      "key": "BLRE",
+      "isin": "RU000A0JPGT0",
+      "kind": "Equity",
+      "name": "СХАО \"Белореченское\" ао"
+    },
+    {
+      "key": "BLREP",
+      "isin": "RU000A0JPSU3",
+      "kind": "Equity",
+      "name": "СХАО \"Белореченское\" ап"
     },
     {
       "key": "BMKK",
@@ -836,6 +950,12 @@
       "name": "ДОХОДЪ Сбондс Корп. обл. РФ"
     },
     {
+      "key": "BOTZ-RM",
+      "isin": "US37954Y7159",
+      "kind": "Fund",
+      "name": "Global X Robotics & AI ETF"
+    },
+    {
       "key": "BOX-RM",
       "isin": "US10316T1043",
       "kind": "Equity",
@@ -846,6 +966,12 @@
       "isin": "US0556221044",
       "kind": "Equity",
       "name": "BP PLC ADR ORD SHS"
+    },
+    {
+      "key": "BR-RM",
+      "isin": "US11133T1034",
+      "kind": "Equity",
+      "name": "Broadridge Finan Solut ORD SHS"
     },
     {
       "key": "BRAD",
@@ -924,6 +1050,12 @@
       "isin": "US0997241064",
       "kind": "Equity",
       "name": "BorgWarner Inc. ORD SHS"
+    },
+    {
+      "key": "BX-RM",
+      "isin": "US09260D1072",
+      "kind": "Equity",
+      "name": "Blackstone Inc. ORD SHS"
     },
     {
       "key": "BYM000001818",
@@ -1096,6 +1228,12 @@
       "name": "Cadence Design Systems ORD SHS"
     },
     {
+      "key": "CDW-RM",
+      "isin": "US12514G1085",
+      "kind": "Equity",
+      "name": "CDW Corporation ORD SHS"
+    },
+    {
       "key": "CE-RM",
       "isin": "US1508701034",
       "kind": "Equity",
@@ -1132,6 +1270,12 @@
       "name": "CHURCH AND DWIGHT CO.IN ORDSHS"
     },
     {
+      "key": "CHGG-RM",
+      "isin": "US1630921096",
+      "kind": "Equity",
+      "name": "Chegg, Inc. ORD SHS"
+    },
+    {
       "key": "CHGZ",
       "isin": "RU0009082291",
       "kind": "Equity",
@@ -1160,6 +1304,12 @@
       "isin": "US12541W2098",
       "kind": "Equity",
       "name": "C.H. Robinson Worldwide, Inc."
+    },
+    {
+      "key": "CHTR-RM",
+      "isin": "US16119P1084",
+      "kind": "Equity",
+      "name": "Charter Communications, Inc."
     },
     {
       "key": "CHWY-RM",
@@ -1226,6 +1376,12 @@
       "isin": "US12572Q1058",
       "kind": "Equity",
       "name": "CME Group Inc."
+    },
+    {
+      "key": "CMG-RM",
+      "isin": "US1696561059",
+      "kind": "Equity",
+      "name": "CHIPOTLE MEXICAN GRILLORDSHS"
     },
     {
       "key": "CMI-RM",
@@ -1300,6 +1456,12 @@
       "name": "Coherent Corp"
     },
     {
+      "key": "COO-RM",
+      "isin": "US2166485019",
+      "kind": "Equity",
+      "name": "The Cooper Companies ORD SHS"
+    },
+    {
       "key": "COP-RM",
       "isin": "US20825C1045",
       "kind": "Equity",
@@ -1330,6 +1492,18 @@
       "name": "Coursera, Inc. ORD SHS"
     },
     {
+      "key": "CPAY-RM",
+      "isin": "US2199481068",
+      "kind": "Equity",
+      "name": "Corpay, Inc. ORD SHS"
+    },
+    {
+      "key": "CPB-RM",
+      "isin": "US1344291091",
+      "kind": "Equity",
+      "name": "Campbell Soup Company"
+    },
+    {
       "key": "CPNG-RM",
       "isin": "US22266T1097",
       "kind": "Equity",
@@ -1340,6 +1514,12 @@
       "isin": "US2172041061",
       "kind": "Equity",
       "name": "Copart, Inc."
+    },
+    {
+      "key": "CRL-RM",
+      "isin": "US1598641074",
+      "kind": "Equity",
+      "name": "Charles River Labor Int ORDSHS"
     },
     {
       "key": "CRM-RM",
@@ -1412,6 +1592,12 @@
       "isin": "US1667641005",
       "kind": "Equity",
       "name": "Chevron Corporation"
+    },
+    {
+      "key": "CZR-RM",
+      "isin": "US12769G1004",
+      "kind": "Equity",
+      "name": "Caesars Entertainment ORD SHS"
     },
     {
       "key": "D-RM",
@@ -1516,6 +1702,12 @@
       "name": "D.R. Horton, Inc."
     },
     {
+      "key": "DHR-RM",
+      "isin": "US2358511028",
+      "kind": "Equity",
+      "name": "Danaher Corporation ORD SHS"
+    },
+    {
       "key": "DIAS",
       "isin": "RU000A107ER5",
       "kind": "Equity",
@@ -1538,6 +1730,18 @@
       "isin": "RU000A102N02",
       "kind": "Fund",
       "name": "БПИФ ДОХОДЪ Инд дивид акций"
+    },
+    {
+      "key": "DKS-RM",
+      "isin": "US2533931026",
+      "kind": "Equity",
+      "name": "DICKS Sport Goods Inc ORD SHS"
+    },
+    {
+      "key": "DLTR-RM",
+      "isin": "US2567461080",
+      "kind": "Equity",
+      "name": "Dollar Tree, Inc ORDSHS"
     },
     {
       "key": "DOCS-RM",
@@ -1576,6 +1780,12 @@
       "name": "Dow Inc."
     },
     {
+      "key": "DPZ-RM",
+      "isin": "US25754A2015",
+      "kind": "Equity",
+      "name": "Dominos Pizza, Inc ORD SHS"
+    },
+    {
       "key": "DRI-RM",
       "isin": "US2371941053",
       "kind": "Equity",
@@ -1594,6 +1804,12 @@
       "name": "Duke Energy Corp ORD SHS"
     },
     {
+      "key": "DVA-RM",
+      "isin": "US23918K1088",
+      "kind": "Equity",
+      "name": "DaVita Inc. ORD SHS"
+    },
+    {
       "key": "DVEC",
       "isin": "RU000A0JP2W1",
       "kind": "Equity",
@@ -1604,6 +1820,12 @@
       "isin": "US25179M1036",
       "kind": "Equity",
       "name": "Devon Energy Ord Shs"
+    },
+    {
+      "key": "DXC-RM",
+      "isin": "US23355L1061",
+      "kind": "Equity",
+      "name": "DXC Technology Co ORD SHS"
     },
     {
       "key": "DXCM-RM",
@@ -1630,6 +1852,12 @@
       "name": "eBay Inc."
     },
     {
+      "key": "ECL-RM",
+      "isin": "US2788651006",
+      "kind": "Equity",
+      "name": "Ecolab Inc."
+    },
+    {
       "key": "ED-RM",
       "isin": "US2091151041",
       "kind": "Equity",
@@ -1646,6 +1874,18 @@
       "isin": "RU000A0JWW54",
       "kind": "Equity",
       "name": "\"ЕвропЭлектротехника\" ПАО ао"
+    },
+    {
+      "key": "EEM-RM",
+      "isin": "US4642872349",
+      "kind": "Fund",
+      "name": "iShares MSCI EM ETF"
+    },
+    {
+      "key": "EFX-RM",
+      "isin": "US2944291051",
+      "kind": "Equity",
+      "name": "Equifax Inc. ORD SHS"
     },
     {
       "key": "EGHT-RM",
@@ -1670,6 +1910,12 @@
       "isin": "US5184391044",
       "kind": "Equity",
       "name": "Estee Lauder Co Inc ORDSH CL A"
+    },
+    {
+      "key": "ELAN-RM",
+      "isin": "US28414H1032",
+      "kind": "Equity",
+      "name": "Elanco Animal Heal Inc ORD SHS"
     },
     {
       "key": "ELFV",
@@ -1706,6 +1952,12 @@
       "isin": "RU000A0JRMM9",
       "kind": "Equity",
       "name": "АО \"Электромагистраль\" ап"
+    },
+    {
+      "key": "EMN-RM",
+      "isin": "US2774321002",
+      "kind": "Equity",
+      "name": "Eastman Chemical Comp ORD SHS"
     },
     {
       "key": "EMR-RM",
@@ -1816,6 +2068,12 @@
       "name": "EXELIXIS INC ORDSHS"
     },
     {
+      "key": "EXPD-RM",
+      "isin": "US3021301094",
+      "kind": "Equity",
+      "name": "Expeditors Ord Shs"
+    },
+    {
       "key": "EXPE-RM",
       "isin": "US30212P3038",
       "kind": "Equity",
@@ -1838,6 +2096,12 @@
       "isin": "US3119001044",
       "kind": "Equity",
       "name": "Fastenal Company ORD SHS"
+    },
+    {
+      "key": "FBIN-RM",
+      "isin": "US34964C1062",
+      "kind": "Equity",
+      "name": "Fortune Brands Innovations"
     },
     {
       "key": "FCX-RM",
@@ -2026,6 +2290,12 @@
       "name": "Fortinet, Inc. ORD SHS"
     },
     {
+      "key": "FTV-RM",
+      "isin": "US34959J1088",
+      "kind": "Equity",
+      "name": "Fortive Corporation ORD SHS"
+    },
+    {
       "key": "GAZA",
       "isin": "RU0009034268",
       "kind": "Equity",
@@ -2152,6 +2422,18 @@
       "name": "ГМК \"Нор.Никель\" ПАО ао"
     },
     {
+      "key": "GNRC-RM",
+      "isin": "US3687361044",
+      "kind": "Equity",
+      "name": "Generac Holdings Inc. ORD SHS"
+    },
+    {
+      "key": "GNTX-RM",
+      "isin": "US3719011096",
+      "kind": "Equity",
+      "name": "Gentex Corporation ORD SHS"
+    },
+    {
       "key": "GNYAP",
       "isin": "RU000A0JQ1T8",
       "kind": "Equity",
@@ -2186,6 +2468,12 @@
       "isin": "US3724601055",
       "kind": "Equity",
       "name": "Genuine Parts Ord Shs"
+    },
+    {
+      "key": "GPN-RM",
+      "isin": "US37940X1028",
+      "kind": "Equity",
+      "name": "Global Payments Inc. ORD SHS"
     },
     {
       "key": "GPS-RM",
@@ -2254,6 +2542,12 @@
       "name": "ПАО \"ГТМ\" ао"
     },
     {
+      "key": "GWW-RM",
+      "isin": "US3848021040",
+      "kind": "Equity",
+      "name": "WW Grainger Ord Shs"
+    },
+    {
       "key": "GZAV",
       "isin": "RU000A0JPMM3",
       "kind": "Equity",
@@ -2320,6 +2614,12 @@
       "name": "Химпром ПАО ап"
     },
     {
+      "key": "HLT-RM",
+      "isin": "US43300A2033",
+      "kind": "Equity",
+      "name": "Hilton Worldwide Hold ORD SHS"
+    },
+    {
       "key": "HNFG",
       "isin": "RU000A106XF2",
       "kind": "Equity",
@@ -2368,10 +2668,22 @@
       "name": "Heron Therapeutics Ord Shs"
     },
     {
+      "key": "HSIC-RM",
+      "isin": "US8064071025",
+      "kind": "Equity",
+      "name": "Henry Schein, Inc. ORD SHS"
+    },
+    {
       "key": "HSY-RM",
       "isin": "US4278661081",
       "kind": "Equity",
       "name": "The Hershey Company"
+    },
+    {
+      "key": "HUM-RM",
+      "isin": "US4448591028",
+      "kind": "Equity",
+      "name": "Humana Inc."
     },
     {
       "key": "HWM-RM",
@@ -2410,6 +2722,12 @@
       "name": "Intercontinental Exchan ORDSHS"
     },
     {
+      "key": "ICLN-RM",
+      "isin": "US4642882249",
+      "kind": "Fund",
+      "name": "iShares Global CleanEnergy ETF"
+    },
+    {
       "key": "IDXX-RM",
       "isin": "US45168D1046",
       "kind": "Equity",
@@ -2420,6 +2738,24 @@
       "isin": "RU000A0JQQP5",
       "kind": "Equity",
       "name": "АО \"ИЭСК\""
+    },
+    {
+      "key": "IEX-RM",
+      "isin": "US45167R1041",
+      "kind": "Equity",
+      "name": "IDEX Corporation ORD SHS"
+    },
+    {
+      "key": "IFF-RM",
+      "isin": "US4595061015",
+      "kind": "Equity",
+      "name": "Inter Flav&Frag Inc ORD SHS"
+    },
+    {
+      "key": "IGF-RM",
+      "isin": "US4642883726",
+      "kind": "Fund",
+      "name": "iShares Global Infrastr. ETF"
     },
     {
       "key": "IGST",
@@ -2464,6 +2800,12 @@
       "name": "БПИФ Ингосстрах Корп облигации"
     },
     {
+      "key": "INSG-RM",
+      "isin": "US45782B3024",
+      "kind": "Equity",
+      "name": "Inseego Corp. ORD SHS"
+    },
+    {
       "key": "INTC-RM",
       "isin": "US4581401001",
       "kind": "Equity",
@@ -2492,6 +2834,18 @@
       "isin": "US4601461035",
       "kind": "Equity",
       "name": "International Paper Co ORD SHS"
+    },
+    {
+      "key": "IPGP-RM",
+      "isin": "US44980X1090",
+      "kind": "Equity",
+      "name": "IPG Photonics CoORD SHS"
+    },
+    {
+      "key": "IQV-RM",
+      "isin": "US46266C1053",
+      "kind": "Equity",
+      "name": "IQVIA HOLDINGS INC ORDSHS"
     },
     {
       "key": "IR-RM",
@@ -2548,6 +2902,18 @@
       "name": "АО \"ГР Иваново\" ап"
     },
     {
+      "key": "IYR-RM",
+      "isin": "US4642877397",
+      "kind": "Fund",
+      "name": "iShares U.S. Real Estate ETF"
+    },
+    {
+      "key": "JBHT-RM",
+      "isin": "US4456581077",
+      "kind": "Equity",
+      "name": "J.B HUNT TRANSPORT SERV ORDSHS"
+    },
+    {
       "key": "JD-RM",
       "isin": "US47215P1066",
       "kind": "Equity",
@@ -2558,6 +2924,18 @@
       "isin": "US47233W1099",
       "kind": "Equity",
       "name": "Jefferies Financial Gr ORD SHS"
+    },
+    {
+      "key": "JETS-RM",
+      "isin": "US26922A8421",
+      "kind": "Fund",
+      "name": "U.S. Global Jets ETF"
+    },
+    {
+      "key": "JKHY-RM",
+      "isin": "US4262811015",
+      "kind": "Equity",
+      "name": "Jack Henry Associates ORD SHS"
     },
     {
       "key": "JNJ-RM",
@@ -2648,6 +3026,12 @@
       "isin": "US4932671088",
       "kind": "Equity",
       "name": "Keycorp Ord Shs"
+    },
+    {
+      "key": "KEYS-RM",
+      "isin": "US49338L1035",
+      "kind": "Equity",
+      "name": "Keysight Techno Inc ORD SHS"
     },
     {
       "key": "KFAR",
@@ -2956,6 +3340,12 @@
       "name": "ПАО \"Кузбассэнергосбыт\" ао"
     },
     {
+      "key": "L-RM",
+      "isin": "US5404241086",
+      "kind": "Equity",
+      "name": "LOEWS CORPORATION ORDSHS"
+    },
+    {
       "key": "LDNH",
       "isin": "RU000A101LC5",
       "kind": "Equity",
@@ -2972,6 +3362,12 @@
       "isin": "RU000A0JNN56",
       "kind": "Equity",
       "name": "АО \"Ленгазспецстрой\" ао"
+    },
+    {
+      "key": "LEN-RM",
+      "isin": "US5260571048",
+      "kind": "Equity",
+      "name": "Lennar Corporation ORDSHS CL A"
     },
     {
       "key": "LENT",
@@ -2998,6 +3394,12 @@
       "name": "Фармсинтез ПАО ао"
     },
     {
+      "key": "LIT-RM",
+      "isin": "US37954Y8553",
+      "kind": "Fund",
+      "name": "Global X Lithium & Battery ETF"
+    },
+    {
       "key": "LKOH",
       "isin": "RU0009024277",
       "kind": "Equity",
@@ -3020,6 +3422,12 @@
       "isin": "RU000A108ZX6",
       "kind": "Equity",
       "name": "Ламбумиз"
+    },
+    {
+      "key": "LNC-RM",
+      "isin": "US5341871094",
+      "kind": "Equity",
+      "name": "Lincoln National Corporation"
     },
     {
       "key": "LNT-RM",
@@ -3058,10 +3466,22 @@
       "name": "Липецкая энергосбыт.ком.ОАО ао"
     },
     {
+      "key": "LPX-RM",
+      "isin": "US5463471053",
+      "kind": "Equity",
+      "name": "Louisiana-Pacific Corp ORDSHS"
+    },
+    {
       "key": "LQDT",
       "isin": "RU000A1014L8",
       "kind": "Fund",
       "name": "БПИФ Ликвидность УК ВИМ"
+    },
+    {
+      "key": "LSCC-RM",
+      "isin": "US5184151042",
+      "kind": "Equity",
+      "name": "Lattice Semicond Corp ORD SHS"
     },
     {
       "key": "LSNG",
@@ -3080,6 +3500,12 @@
       "isin": "RU000A0JPFP0",
       "kind": "Equity",
       "name": "Группа ЛСР ПАО ао"
+    },
+    {
+      "key": "LULU-RM",
+      "isin": "US5500211090",
+      "kind": "Equity",
+      "name": "lululemon athletica inc ORDSHS"
     },
     {
       "key": "LUMN-RM",
@@ -3106,10 +3532,22 @@
       "name": "Las Vegas Sands Corp."
     },
     {
+      "key": "LW-RM",
+      "isin": "US5132721045",
+      "kind": "Equity",
+      "name": "Lamb Weston Holdings ORD SHS"
+    },
+    {
       "key": "LYFT-RM",
       "isin": "US55087P1049",
       "kind": "Equity",
       "name": "Lyft, Inc. ORD SHS Cl A"
+    },
+    {
+      "key": "LYV-RM",
+      "isin": "US5380341090",
+      "kind": "Equity",
+      "name": "Live Nation Entertainm ORD SHS"
     },
     {
       "key": "M-RM",
@@ -3190,10 +3628,22 @@
       "name": "Microchip Technology Inc ORDSH"
     },
     {
+      "key": "MCK-RM",
+      "isin": "US58155Q1031",
+      "kind": "Equity",
+      "name": "McKesson CorporationORD SHS"
+    },
+    {
       "key": "MCO-RM",
       "isin": "US6153691059",
       "kind": "Equity",
       "name": "Moodys CorporationORD SHS"
+    },
+    {
+      "key": "MDLZ-RM",
+      "isin": "US6092071058",
+      "kind": "Equity",
+      "name": "Mondelez International, Inc."
     },
     {
       "key": "MDMG",
@@ -3286,6 +3736,12 @@
       "name": "Mgnlia Oil & Gas Corp ORDSHS A"
     },
     {
+      "key": "MHK-RM",
+      "isin": "US6081901042",
+      "kind": "Equity",
+      "name": "Mohawk Industries, Inc ORD SHS"
+    },
+    {
       "key": "MISB",
       "isin": "RU000A0D8K33",
       "kind": "Equity",
@@ -3308,6 +3764,24 @@
       "isin": "US5797802064",
       "kind": "Equity",
       "name": "McCormick & Co Non-Voting Ord"
+    },
+    {
+      "key": "MKTX-RM",
+      "isin": "US57060D1081",
+      "kind": "Equity",
+      "name": "MarketAxess Hld Inc. ORD SHS"
+    },
+    {
+      "key": "MLM-RM",
+      "isin": "US5732841060",
+      "kind": "Equity",
+      "name": "Martin Marietta Mater ORD SHS"
+    },
+    {
+      "key": "MMC-RM",
+      "isin": "US5717481023",
+      "kind": "Equity",
+      "name": "Marsh & McLennan ORD SHS"
     },
     {
       "key": "MMM-RM",
@@ -3362,6 +3836,12 @@
       "isin": "US56585A1025",
       "kind": "Equity",
       "name": "Marathon Petroleum Corporation"
+    },
+    {
+      "key": "MPWR-RM",
+      "isin": "US6098391054",
+      "kind": "Equity",
+      "name": "Monolithic Power Syst ORD SHS"
     },
     {
       "key": "MQQ-RM",
@@ -3502,6 +3982,12 @@
       "name": "Match Group, Inc. ORD SHS"
     },
     {
+      "key": "MTD-RM",
+      "isin": "US5926881054",
+      "kind": "Equity",
+      "name": "METTLER-TOLEDO INTERNAT ORDSHS"
+    },
+    {
       "key": "MTG-RM",
       "isin": "US5528481030",
       "kind": "Equity",
@@ -3536,6 +4022,12 @@
       "isin": "RU0007775219",
       "kind": "Equity",
       "name": "Мобильные ТелеСистемы ПАО ао"
+    },
+    {
+      "key": "MTUM-RM",
+      "isin": "US46432F3964",
+      "kind": "Fund",
+      "name": "iShares MSCI USA Momentum ETF"
     },
     {
       "key": "MTVG",
@@ -3632,6 +4124,12 @@
       "isin": "US64110L1061",
       "kind": "Equity",
       "name": "Netflix, Inc."
+    },
+    {
+      "key": "NI-RM",
+      "isin": "US65473P1057",
+      "kind": "Equity",
+      "name": "NiSource Inc. ORD SHS"
     },
     {
       "key": "NIO-RM",
@@ -3754,6 +4252,12 @@
       "name": "Nrg Energy, Inc. ORD SHS"
     },
     {
+      "key": "NSC-RM",
+      "isin": "US6558441084",
+      "kind": "Equity",
+      "name": "NORFOLK SOUTHERN CORPOR ORDSHS"
+    },
+    {
       "key": "NSVZ",
       "isin": "RU000A0JQLB6",
       "kind": "Equity",
@@ -3778,6 +4282,12 @@
       "name": "Nutanix, Inc. ORD SHS CL A"
     },
     {
+      "key": "NTRS-RM",
+      "isin": "US6658591044",
+      "kind": "Equity",
+      "name": "Northern Trust Corp ORD SHS"
+    },
+    {
       "key": "NTZL",
       "isin": "RU0002614686",
       "kind": "Equity",
@@ -3794,6 +4304,12 @@
       "isin": "US67066G1040",
       "kind": "Equity",
       "name": "NVIDIA Corporation"
+    },
+    {
+      "key": "NVR-RM",
+      "isin": "US62944T1051",
+      "kind": "Equity",
+      "name": "NVR Ord Shs"
     },
     {
       "key": "NVS-RM",
@@ -3854,6 +4370,12 @@
       "isin": "RU000A10FAA7",
       "kind": "Fund",
       "name": "БПИФ УК ОЗОН-ОФЗ"
+    },
+    {
+      "key": "OGE-RM",
+      "isin": "US6708371033",
+      "kind": "Equity",
+      "name": "OGE Energy Corp. ORD SHS"
     },
     {
       "key": "OGKB",
@@ -3920,6 +4442,12 @@
       "isin": "US6821891057",
       "kind": "Equity",
       "name": "ON Semiconductor Corp ORD SHS"
+    },
+    {
+      "key": "ONLN-RM",
+      "isin": "US74347B1695",
+      "kind": "Fund",
+      "name": "ProShares Online Retail ETF"
     },
     {
       "key": "ORCL-RM",
@@ -4000,6 +4528,12 @@
       "name": "Paycom Software Ord Shs"
     },
     {
+      "key": "PAYX-RM",
+      "isin": "US7043261079",
+      "kind": "Equity",
+      "name": "Paychex, Inc."
+    },
+    {
       "key": "PAZA",
       "isin": "RU0009083240",
       "kind": "Equity",
@@ -4054,6 +4588,12 @@
       "name": "Public Serv Enterp Grp ORDSH"
     },
     {
+      "key": "PENN-RM",
+      "isin": "US7075691094",
+      "kind": "Equity",
+      "name": "Penn National Gaming ORD SHS"
+    },
+    {
       "key": "PEP-RM",
       "isin": "US7134481081",
       "kind": "Equity",
@@ -4066,6 +4606,18 @@
       "name": "PFIZER INC."
     },
     {
+      "key": "PFG-RM",
+      "isin": "US74251V1026",
+      "kind": "Equity",
+      "name": "PRINCIPAL FINANCIAL GRO ORDSHS"
+    },
+    {
+      "key": "PFGC-RM",
+      "isin": "US71377A1034",
+      "kind": "Equity",
+      "name": "Performance Food Gr Com ORDSHS"
+    },
+    {
       "key": "PG-RM",
       "isin": "US7427181091",
       "kind": "Equity",
@@ -4076,6 +4628,12 @@
       "isin": "US7433151039",
       "kind": "Equity",
       "name": "The Progressive Corp ORD SHS"
+    },
+    {
+      "key": "PH-RM",
+      "isin": "US7010941042",
+      "kind": "Equity",
+      "name": "Parker-Hannifin Corp ORD SHS"
     },
     {
       "key": "PHM-RM",
@@ -4106,6 +4664,18 @@
       "isin": "US6951561090",
       "kind": "Equity",
       "name": "Packaging Corp of Amer ORD SHS"
+    },
+    {
+      "key": "PLAY-RM",
+      "isin": "US2383371091",
+      "kind": "Equity",
+      "name": "DaveandBusters EntrtainORD SHS"
+    },
+    {
+      "key": "PLNT-RM",
+      "isin": "US72703H1014",
+      "kind": "Equity",
+      "name": "Planet Fitness ORD SHS CL A"
     },
     {
       "key": "PLUG-RM",
@@ -4148,6 +4718,12 @@
       "isin": "US6934751057",
       "kind": "Equity",
       "name": "PNC Finan Service Group ORDSHS"
+    },
+    {
+      "key": "POOL-RM",
+      "isin": "US73278L1052",
+      "kind": "Equity",
+      "name": "Pool Corporation ORD SHS"
     },
     {
       "key": "POSI",
@@ -4246,6 +4822,12 @@
       "name": "PTC Inc. ORD SHS"
     },
     {
+      "key": "PTKN",
+      "isin": "RU000A10EJS3",
+      "kind": "Equity",
+      "name": "АО \"Петрокартон\" ао"
+    },
+    {
       "key": "PTON-RM",
       "isin": "US70614W1009",
       "kind": "Equity",
@@ -4274,6 +4856,12 @@
       "isin": "US7475251036",
       "kind": "Equity",
       "name": "QUALCOMM Incorporated"
+    },
+    {
+      "key": "QQQ-RM",
+      "isin": "US46090E1038",
+      "kind": "Fund",
+      "name": "Invesco QQQ Trust, Series 1"
     },
     {
       "key": "QRVO-RM",
@@ -4348,6 +4936,12 @@
       "name": "Росгосстрах СК ПАО ао"
     },
     {
+      "key": "RHI-RM",
+      "isin": "US7703231032",
+      "kind": "Equity",
+      "name": "Robert Half Inc. ORDSHS"
+    },
+    {
       "key": "RJF-RM",
       "isin": "US7547301090",
       "kind": "Equity",
@@ -4364,6 +4958,12 @@
       "isin": "US7512121010",
       "kind": "Equity",
       "name": "Ralph Lauren Corporation"
+    },
+    {
+      "key": "RMD-RM",
+      "isin": "US7611521078",
+      "kind": "Equity",
+      "name": "ResMed Inc. ORD SHS"
     },
     {
       "key": "RNCU",
@@ -4396,10 +4996,22 @@
       "name": "Roku, Inc. ORD SHS CL A"
     },
     {
+      "key": "ROL-RM",
+      "isin": "US7757111049",
+      "kind": "Equity",
+      "name": "Rollins, Inc. ORDSHS"
+    },
+    {
       "key": "ROLO",
       "isin": "RU000A0JU1B0",
       "kind": "Equity",
       "name": "\"Русолово\" ПАО ао"
+    },
+    {
+      "key": "ROP-RM",
+      "isin": "US7766961061",
+      "kind": "Equity",
+      "name": "Roper Technologies Ord Shs"
     },
     {
       "key": "ROSN",
@@ -4418,6 +5030,12 @@
       "isin": "US7782961038",
       "kind": "Equity",
       "name": "Ross Stores, Inc. ORD SHS"
+    },
+    {
+      "key": "RRC-RM",
+      "isin": "US75281A1097",
+      "kind": "Equity",
+      "name": "Range Resources Corp ORD SHS"
     },
     {
       "key": "RSG-RM",
@@ -4793,6 +5411,12 @@
         "couponFrequency": "SemiAnnual",
         "maturityDate": "2032-09-17"
       }
+    },
+    {
+      "key": "RU000A0JT4S1",
+      "isin": "RU000A0JT4S1",
+      "kind": "Fund",
+      "name": "ОПИФ Накопительный резерв"
     },
     {
       "key": "RU000A0JT6B2",
@@ -7730,6 +8354,12 @@
         "couponFrequency": "Annual",
         "maturityDate": "2033-12-02"
       }
+    },
+    {
+      "key": "RU000A0ZZY00",
+      "isin": "RU000A0ZZY00",
+      "kind": "Fund",
+      "name": "ЗПИФ Первая Венчурные инвест"
     },
     {
       "key": "RU000A0ZZYS0",
@@ -16546,6 +17176,12 @@
       }
     },
     {
+      "key": "RU000A1078J7",
+      "isin": "RU000A1078J7",
+      "kind": "Fund",
+      "name": "ЗПИФ Современный 8"
+    },
+    {
       "key": "RU000A1078K5",
       "isin": "RU000A1078K5",
       "kind": "Debt",
@@ -19762,6 +20398,12 @@
         "couponFrequency": "Quarterly",
         "maturityDate": "2028-05-09"
       }
+    },
+    {
+      "key": "RU000A108EK8",
+      "isin": "RU000A108EK8",
+      "kind": "Fund",
+      "name": "ЗПИФ Первая Прямые инвест"
     },
     {
       "key": "RU000A108F63",
@@ -24677,6 +25319,12 @@
       }
     },
     {
+      "key": "RU000A10AHL0",
+      "isin": "RU000A10AHL0",
+      "kind": "Fund",
+      "name": "ЗПИФ  ВИМ-Недвижимость"
+    },
+    {
       "key": "RU000A10AHM8",
       "isin": "RU000A10AHM8",
       "kind": "Debt",
@@ -27885,6 +28533,24 @@
       }
     },
     {
+      "key": "RU000A10B8Z2",
+      "isin": "RU000A10B8Z2",
+      "kind": "Fund",
+      "name": "ОПИФ «Блэк лайн»"
+    },
+    {
+      "key": "RU000A10B909",
+      "isin": "RU000A10B909",
+      "kind": "Fund",
+      "name": "ОПИФ Великолепная семерка"
+    },
+    {
+      "key": "RU000A10B917",
+      "isin": "RU000A10B917",
+      "kind": "Fund",
+      "name": "ОПИФ «Матрешка а-ля Рус»"
+    },
+    {
       "key": "RU000A10B925",
       "isin": "RU000A10B925",
       "kind": "Debt",
@@ -28614,6 +29280,12 @@
         "couponFrequency": "Monthly",
         "maturityDate": "2028-05-14"
       }
+    },
+    {
+      "key": "RU000A10BJY7",
+      "isin": "RU000A10BJY7",
+      "kind": "Fund",
+      "name": "ЗПИФ Первая Прямые инвест 2"
     },
     {
       "key": "RU000A10BK09",
@@ -30508,6 +31180,12 @@
         "couponFrequency": "Zero",
         "maturityDate": "2029-11-29"
       }
+    },
+    {
+      "key": "RU000A10BZ69",
+      "isin": "RU000A10BZ69",
+      "kind": "Fund",
+      "name": "ОПИФ Биткоган: фонд рын возмож"
     },
     {
       "key": "RU000A10BZH8",
@@ -32973,6 +33651,12 @@
       }
     },
     {
+      "key": "RU000A10CQ02",
+      "isin": "RU000A10CQ02",
+      "kind": "Fund",
+      "name": "ЗПИФ Современная Коллекция"
+    },
+    {
       "key": "RU000A10CQ77",
       "isin": "RU000A10CQ77",
       "kind": "Debt",
@@ -34942,6 +35626,12 @@
       }
     },
     {
+      "key": "RU000A10D1E0",
+      "isin": "RU000A10D1E0",
+      "kind": "Fund",
+      "name": "ОПИФ Консерват стратегия на МБ"
+    },
+    {
       "key": "RU000A10D1H3",
       "isin": "RU000A10D1H3",
       "kind": "Debt",
@@ -35639,6 +36329,12 @@
         "couponFrequency": "Monthly",
         "maturityDate": "2035-10-28"
       }
+    },
+    {
+      "key": "RU000A10D5D3",
+      "isin": "RU000A10D5D3",
+      "kind": "Fund",
+      "name": "ОПИФ Сбаланс Возможности"
     },
     {
       "key": "RU000A10D5F8",
@@ -37158,6 +37854,12 @@
       }
     },
     {
+      "key": "RU000A10DJU1",
+      "isin": "RU000A10DJU1",
+      "kind": "Fund",
+      "name": "ЗПИФ Первая Индия"
+    },
+    {
       "key": "RU000A10DJV9",
       "isin": "RU000A10DJV9",
       "kind": "Debt",
@@ -37911,6 +38613,12 @@
         "couponFrequency": "Monthly",
         "maturityDate": "2030-11-16"
       }
+    },
+    {
+      "key": "RU000A10DST4",
+      "isin": "RU000A10DST4",
+      "kind": "Fund",
+      "name": "ЗПИФ ИТ Девелопмент"
     },
     {
       "key": "RU000A10DSU2",
@@ -39708,6 +40416,12 @@
         "couponFrequency": "Annual",
         "maturityDate": "2031-03-28"
       }
+    },
+    {
+      "key": "RU000A10EBY8",
+      "isin": "RU000A10EBY8",
+      "kind": "Fund",
+      "name": "ОПИФ «Долгосрочные инвестиции»"
     },
     {
       "key": "RU000A10EC22",
@@ -44899,6 +45613,12 @@
       }
     },
     {
+      "key": "RU000A10FJU6",
+      "isin": "RU000A10FJU6",
+      "kind": "Fund",
+      "name": "ОПИФ Лягушка, слон и брокколи"
+    },
+    {
       "key": "RU000A10FK39",
       "isin": "RU000A10FK39",
       "kind": "Debt",
@@ -46985,6 +47705,12 @@
       "name": "Revolve Group, Inc. ORD SHS A"
     },
     {
+      "key": "RVTY-RM",
+      "isin": "US7140461093",
+      "kind": "Equity",
+      "name": "Revvity, Inc. ORD SHS"
+    },
+    {
       "key": "RYAZP",
       "isin": "RU0005294551",
       "kind": "Equity",
@@ -47273,6 +47999,12 @@
       "name": "АО \"СиГМА\" ао"
     },
     {
+      "key": "SGOL-RM",
+      "isin": "US00326A1043",
+      "kind": "Fund",
+      "name": "abrdn Physical Gold Shares ETF"
+    },
+    {
       "key": "SGZH",
       "isin": "RU000A102XG9",
       "kind": "Equity",
@@ -47331,6 +48063,12 @@
       "isin": "RU000A0JQKK9",
       "kind": "Equity",
       "name": "АО \"Себряковцемент\" ао"
+    },
+    {
+      "key": "SKYY-RM",
+      "isin": "US33734X1928",
+      "kind": "Fund",
+      "name": "First Trust Cloud Computing ET"
     },
     {
       "key": "SLAV",
@@ -47499,6 +48237,12 @@
       "isin": "US8036071004",
       "kind": "Equity",
       "name": "Sarepta Therapeutics Ord Shs"
+    },
+    {
+      "key": "SSNC-RM",
+      "isin": "US78467J1007",
+      "kind": "Equity",
+      "name": "SS&C Technologies Hld ORDSHS"
     },
     {
       "key": "STGR",
@@ -48454,6 +49198,12 @@
       "name": "TAL Education Group"
     },
     {
+      "key": "TAP-RM",
+      "isin": "US60871R2094",
+      "kind": "Equity",
+      "name": "Molson Coors Bev ORD SHS CL B"
+    },
+    {
       "key": "TASB",
       "isin": "RU000A0D8NG8",
       "kind": "Equity",
@@ -48494,6 +49244,12 @@
       "isin": "US88076W1036",
       "kind": "Equity",
       "name": "Teradata Corporation ORD SHS"
+    },
+    {
+      "key": "TDG-RM",
+      "isin": "US8936411003",
+      "kind": "Equity",
+      "name": "TRANSDIGM GROUP INC ORDSHS"
     },
     {
       "key": "TDIV",
@@ -48652,6 +49408,12 @@
       "name": "T-Mobile US, Inc."
     },
     {
+      "key": "TNAO",
+      "isin": "RU000A10AMQ9",
+      "kind": "Equity",
+      "name": "ТБанк ао"
+    },
+    {
       "key": "TNFP",
       "isin": "RU000A0JQ6Z4",
       "kind": "Equity",
@@ -48778,6 +49540,12 @@
       "name": "Т-Капитал Накопительный"
     },
     {
+      "key": "TSCO-RM",
+      "isin": "US8923561067",
+      "kind": "Equity",
+      "name": "TRACTOR SUPPLY CO. ORDSHS"
+    },
+    {
       "key": "TSLA-RM",
       "isin": "US88160R1014",
       "kind": "Equity",
@@ -48880,6 +49648,18 @@
       "name": "Texas Instruments Incorporated"
     },
     {
+      "key": "TXT-RM",
+      "isin": "US8832031012",
+      "kind": "Equity",
+      "name": "Textron Inc."
+    },
+    {
+      "key": "TYL-RM",
+      "isin": "US9022521051",
+      "kind": "Equity",
+      "name": "Tyler Technologies Ord Shs"
+    },
+    {
       "key": "TYPM",
       "isin": "RU000A0JNLN8",
       "kind": "Equity",
@@ -48952,6 +49732,12 @@
       "name": "ЮГК"
     },
     {
+      "key": "UHS-RM",
+      "isin": "US9139031002",
+      "kind": "Equity",
+      "name": "UNIVERSAL HEALTH SERV ORDSH B"
+    },
+    {
       "key": "UKUZ",
       "isin": "RU0005294775",
       "kind": "Equity",
@@ -49012,6 +49798,12 @@
       "name": "Юнипро ПАО ао"
     },
     {
+      "key": "UPS-RM",
+      "isin": "US9113121068",
+      "kind": "Equity",
+      "name": "United Parcel Service, Inc."
+    },
+    {
       "key": "UPWK-RM",
       "isin": "US91688F1049",
       "kind": "Equity",
@@ -49058,6 +49850,12 @@
       "isin": "RU0006929536",
       "kind": "Equity",
       "name": "БАНК УРАЛСИБ ПАО ао"
+    },
+    {
+      "key": "USFD-RM",
+      "isin": "US9120081099",
+      "kind": "Equity",
+      "name": "US Foods Holding Corp ORD SHS"
     },
     {
       "key": "UTAR",
@@ -49142,6 +49940,12 @@
       "isin": "RU000A0D8L57",
       "kind": "Equity",
       "name": "\"Волгоград.энергосбыткомп\" ПАО"
+    },
+    {
+      "key": "VGT-RM",
+      "isin": "US92204A7028",
+      "kind": "Fund",
+      "name": "VANGUARD INFORM TECHNOLOGY ETF"
     },
     {
       "key": "VIPS-RM",
@@ -49240,6 +50044,18 @@
       "name": "Vanguard S&P 500 ETF"
     },
     {
+      "key": "VOX-RM",
+      "isin": "US92204A8844",
+      "kind": "Fund",
+      "name": "Vanguard Communic Services ETF"
+    },
+    {
+      "key": "VRNS-RM",
+      "isin": "US9222801022",
+      "kind": "Equity",
+      "name": "Varonis Systems, Inc. ORD SHS"
+    },
+    {
       "key": "VRSB",
       "isin": "RU000A0DPG67",
       "kind": "Equity",
@@ -49252,10 +50068,28 @@
       "name": "ТНС энерго Воронеж ПАО ап"
     },
     {
+      "key": "VRSK-RM",
+      "isin": "US92345Y1064",
+      "kind": "Equity",
+      "name": "Verisk Analytics, Inc. ORD SHS"
+    },
+    {
+      "key": "VRSN-RM",
+      "isin": "US92343E1029",
+      "kind": "Equity",
+      "name": "VeriSign IncORD SHS"
+    },
+    {
       "key": "VRTX-RM",
       "isin": "US92532F1003",
       "kind": "Equity",
       "name": "Vertex Pharmaceuticals Inc"
+    },
+    {
+      "key": "VSBL",
+      "isin": "RU000A10AMS5",
+      "kind": "Equity",
+      "name": "АО \"Экзалтер\" ао"
     },
     {
       "key": "VSEH",
@@ -49280,6 +50114,12 @@
       "isin": "RU0006334380",
       "kind": "Equity",
       "name": "Выборгский Суд.Завод ПАО ап"
+    },
+    {
+      "key": "VT-RM",
+      "isin": "US9220427424",
+      "kind": "Fund",
+      "name": "Vang Total World Stock Index"
     },
     {
       "key": "VTBR",
@@ -49312,6 +50152,12 @@
       "name": "Vaxart, Inc. ORD SHS"
     },
     {
+      "key": "VXUS-RM",
+      "isin": "US9219097683",
+      "kind": "Fund",
+      "name": "VANGUARD TOT INTERNATIONAL ETF"
+    },
+    {
       "key": "VZ-RM",
       "isin": "US92343V1044",
       "kind": "Equity",
@@ -49328,6 +50174,12 @@
       "isin": "US9297401088",
       "kind": "Equity",
       "name": "WABTEC CORP ORD SHS"
+    },
+    {
+      "key": "WAT-RM",
+      "isin": "US9418481035",
+      "kind": "Equity",
+      "name": "Waters Corp ORD SHS"
     },
     {
       "key": "WDAY-RM",
@@ -49352,6 +50204,12 @@
       "isin": "US9497461015",
       "kind": "Equity",
       "name": "Wells Fargo and Company"
+    },
+    {
+      "key": "WHR-RM",
+      "isin": "US9633201069",
+      "kind": "Equity",
+      "name": "Whirlpool Corp ORD SHS"
     },
     {
       "key": "WILD",
@@ -49382,6 +50240,30 @@
       "isin": "US9311421039",
       "kind": "Equity",
       "name": "Walmart Inc."
+    },
+    {
+      "key": "WRB-RM",
+      "isin": "US0844231029",
+      "kind": "Equity",
+      "name": "W. R. Berkley Corp ORD SHS"
+    },
+    {
+      "key": "WSC-RM",
+      "isin": "US9713781048",
+      "kind": "Equity",
+      "name": "WillScot Mobile Mini ORD SHS"
+    },
+    {
+      "key": "WSM-RM",
+      "isin": "US9699041011",
+      "kind": "Equity",
+      "name": "Williams-Sonoma, Inc. ORD SHS"
+    },
+    {
+      "key": "WST-RM",
+      "isin": "US9553061055",
+      "kind": "Equity",
+      "name": "West Pharmaceutical Serv OS"
     },
     {
       "key": "WTCM",
@@ -49504,6 +50386,18 @@
       "name": "The Energy Sector SPDR ETF"
     },
     {
+      "key": "XLF-RM",
+      "isin": "US81369Y6059",
+      "kind": "Fund",
+      "name": "Financial Sector SPDR ETF"
+    },
+    {
+      "key": "XLV-RM",
+      "isin": "US81369Y2090",
+      "kind": "Fund",
+      "name": "The Health Care SPDR ETF"
+    },
+    {
       "key": "XNIRUM",
       "isin": "RU000A10E7S6",
       "kind": "Fund",
@@ -49532,6 +50426,12 @@
       "isin": "RU000A10AN56",
       "kind": "Fund",
       "name": "ИПИФ РЕКОРД КАПИТАЛ КВАНТ"
+    },
+    {
+      "key": "XRAY-RM",
+      "isin": "US24906P1093",
+      "kind": "Equity",
+      "name": "DENTSPLY SIRONA ORD SHS"
     },
     {
       "key": "XRX-RM",
@@ -49670,6 +50570,12 @@
       "name": "ЗПИФ Современный 10"
     },
     {
+      "key": "XSPEC",
+      "isin": "RU000A10EAU8",
+      "kind": "Fund",
+      "name": "ЗПИФ  ВИМ - Спектр"
+    },
+    {
       "key": "XTRIUMF",
       "isin": "RU000A108BZ2",
       "kind": "Fund",
@@ -49694,6 +50600,12 @@
       "name": "ЗПИФ Рентал ПРО"
     },
     {
+      "key": "XYL-RM",
+      "isin": "US98419M1009",
+      "kind": "Equity",
+      "name": "Xylem Inc. ORD SHS"
+    },
+    {
       "key": "YAKG",
       "isin": "RU0007796819",
       "kind": "Equity",
@@ -49704,6 +50616,12 @@
       "isin": "RU000A107T19",
       "kind": "Equity",
       "name": "МКПАО ЯНДЕКС"
+    },
+    {
+      "key": "YETI-RM",
+      "isin": "US98585X1046",
+      "kind": "Equity",
+      "name": "YETI Holdings, Inc. ORD SHS"
     },
     {
       "key": "YEXT-RM",
@@ -49746,6 +50664,12 @@
       "isin": "RU000A105SN8",
       "kind": "Fund",
       "name": "БПИФ Облигации в юанях"
+    },
+    {
+      "key": "YUM-RM",
+      "isin": "US9884981013",
+      "kind": "Equity",
+      "name": "Yum Brands, Inc.ORD SHS"
     },
     {
       "key": "YUMC-RM",
@@ -49800,6 +50724,12 @@
       "isin": "RU0006752904",
       "kind": "Equity",
       "name": "АМО ЗИЛ ап"
+    },
+    {
+      "key": "ZION-RM",
+      "isin": "US9897011071",
+      "kind": "Equity",
+      "name": "Zions Bancorp NA ORD SHS"
     },
     {
       "key": "ZIP-RM",

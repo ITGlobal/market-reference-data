@@ -391,12 +391,9 @@
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "reference": {
-          "code": "FIXCMG",
-          "venue": "MISX",
-          "board": "INPF"
-        }
-      }
+        "security": "CMG-RM"
+      },
+      "settlementFixing": "FIXCMG"
     },
     {
       "code": "CNI",
@@ -584,7 +581,7 @@
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "asset": "EUR"
       }
     },
     {
@@ -629,7 +626,7 @@
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "EEM-RM"
       }
     },
     {
@@ -998,7 +995,10 @@
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "reference": {
+          "code": "MIPO",
+          "venue": "MISX"
+        }
       }
     },
     {
@@ -1134,12 +1134,9 @@
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "reference": {
-          "code": "FIXLULU",
-          "venue": "MISX",
-          "board": "INPF"
-        }
-      }
+        "security": "LULU-RM"
+      },
+      "settlementFixing": "FIXLULU"
     },
     {
       "code": "MAGN",
@@ -1282,7 +1279,7 @@
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "QQQ-RM"
       }
     },
     {
@@ -1411,7 +1408,7 @@
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "asset": "OJ"
       }
     },
     {
@@ -1537,12 +1534,9 @@
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "reference": {
-          "code": "FIXQQQ",
-          "venue": "MISX",
-          "board": "INPF"
-        }
-      }
+        "security": "QQQ-RM"
+      },
+      "settlementFixing": "FIXQQQ"
     },
     {
       "code": "R2000",
@@ -2340,7 +2334,7 @@
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "asset": "USD"
       }
     },
     {

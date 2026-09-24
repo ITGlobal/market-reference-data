@@ -159,6 +159,27 @@
     { "symbol": "YER", "type": "Fiat", "name": "Йеменский риал", "isoCurrency": "YER" },
     { "symbol": "ZAR", "type": "Fiat", "name": "Рэнд", "isoCurrency": "ZAR" },
     { "symbol": "ZMW", "type": "Fiat", "name": "Замбийская квача", "isoCurrency": "ZMW" },
-    { "symbol": "ZWG", "type": "Fiat", "name": "Зимбабвийское золото", "isoCurrency": "ZWG" }
+    { "symbol": "ZWG", "type": "Fiat", "name": "Зимбабвийское золото", "isoCurrency": "ZWG" },
+    { "symbol": "BRENT", "type": "Commodity", "name": "Нефть Brent" },
+    { "symbol": "WTI", "type": "Commodity", "name": "Нефть WTI" },
+    { "symbol": "AI92", "type": "Commodity", "name": "Бензин АИ-92" },
+    { "symbol": "AI95", "type": "Commodity", "name": "Бензин АИ-95" },
+    { "symbol": "DTL", "type": "Commodity", "name": "Дизельное топливо" },
+    { "symbol": "NG", "type": "Commodity", "name": "Природный газ" },
+    { "symbol": "TTF", "type": "Commodity", "name": "Природный газ TTF" },
+    { "symbol": "COPPER", "type": "Commodity", "name": "Медь" },
+    { "symbol": "ALUM", "type": "Commodity", "name": "Алюминий" },
+    { "symbol": "NICKEL", "type": "Commodity", "name": "Никель" },
+    { "symbol": "ZINC", "type": "Commodity", "name": "Цинк" },
+    { "symbol": "COCOA", "type": "Commodity", "name": "Какао" },
+    { "symbol": "COFFEE", "type": "Commodity", "name": "Кофе" },
+    { "symbol": "SUGAR", "type": "Commodity", "name": "Сахар" },
+    { "symbol": "WHEAT", "type": "Commodity", "name": "Пшеница" },
+    { "symbol": "OJ", "type": "Commodity", "name": "Апельсиновый сок замороженный концентрированный" },
+    { "symbol": "BTC", "type": "Crypto", "name": "Биткоин" },
+    { "symbol": "ETH", "type": "Crypto", "name": "Эфириум" },
+    { "symbol": "TRX", "type": "Crypto", "name": "Трон" },
+    { "symbol": "XRP", "type": "Crypto", "name": "Рипл" },
+    { "symbol": "SOL", "type": "Crypto", "name": "Солана" }
   ]
 }

@@ -1111,6 +1111,14 @@
     },
     {
       "type": "Index",
+      "code": "MIPO",
+      "description": "Индекс МосБиржи IPO",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
       "code": "RUSFAR",
       "description": "RUSFAR",
       "venue": "MISX",
