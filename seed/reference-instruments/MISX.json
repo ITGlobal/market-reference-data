@@ -1,0 +1,1130 @@
+{
+  "$schema": "../../schema/reference-instruments.schema.json",
+  "instruments": [
+    {
+      "type": "ReferenceRate",
+      "code": "BYNFIXME",
+      "description": "Фиксинг белорусский рубль/российский рубль Московской Биржи",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "CNYFIXME",
+      "description": "Фиксинг китайский юань/российский рубль",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "EURFIXME",
+      "description": "Фиксинг евро США/российский рубль",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "EURUSDFIXME",
+      "description": "Фиксинг евро/доллар США",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "GOLDFIXME",
+      "description": "Фиксинг золота Московской Биржи",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "HKDFIXME",
+      "description": "Фиксинг гонконгский доллар/российский рубль Московской Биржи",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "PALADFIXME",
+      "description": "Фиксинг палладия Московской Биржи",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "PLATFIXME",
+      "description": "Фиксинг платины Московской Биржи",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "SILVFIXME",
+      "description": "Фиксинг серебра Московской Биржи",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "TRYFIXME",
+      "description": "Фиксинг турецкая лира/российский рубль Московской Биржи",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDCNYFIXME",
+      "description": "Фиксинг доллар США/китайский юань Московской Биржи",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "CNY",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDFIXME",
+      "description": "Фиксинг доллар США/российский рубль",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDKZTFIXME",
+      "description": "Фиксинг доллар США/казахстанский тенге Московской Биржи",
+      "venue": "MISX",
+      "board": "FIXI",
+      "quoteUnit": "Currency",
+      "settlementAsset": "KZT",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXAFKS",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО АФК Система",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXAFLT",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Аэрофлот",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXAGRO",
+      "description": "Фиксинг МосБиржи ДР РОС АГРО ПЛС",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXALRS",
+      "description": "Фиксинг МосБиржи обыкновенных акций АК АЛРОСА (ПАО)",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXAMD",
+      "description": "Фиксинг МосБиржи AMD",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXAMZN",
+      "description": "Фиксинг МосБиржи AMZN",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXAPP",
+      "description": "Фиксинг МосБиржи APP",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXASTR",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Астра",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXBSPB",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Банк \"Санкт-Петербург\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXBSX",
+      "description": "Фиксинг МосБиржи BSX",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXCBOM",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО МОСКОВСКИЙ КРЕДИТНЫЙ БАНК",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXCHMF",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Северсталь",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXCMG",
+      "description": "Фиксинг МосБиржи CMG",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXCNRU",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Циан\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXCOHR",
+      "description": "Фиксинг МосБиржи COHR",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXCOIN",
+      "description": "Фиксинг МосБиржи COIN",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXCRWD",
+      "description": "Фиксинг МосБиржи CRWD",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXCVNA",
+      "description": "Фиксинг МосБиржи CVNA",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXDASH",
+      "description": "Фиксинг МосБиржи DASH",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXDOMRF",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО ДОМ.РФ",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXENPG",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ЭН+ ГРУП",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXFEES",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО ФСК - Россети",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXFIVE",
+      "description": "Фиксинг МосБиржи ДР Икс 5 Ритейл Груп Н.В.",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXFIXP",
+      "description": "Фиксинг МосБиржи ДР Фикс Прайс Груп Лтд",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXFLOT",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Совкомфлот",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXGAZP",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Газпром",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXGLTR",
+      "description": "Фиксинг МосБиржи ДР Глобалтранс Инвестмент ПЛС",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXGMKN",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО ГМК Норильский никель",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXHEAD",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО Хэдхантер",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXHOOD",
+      "description": "Фиксинг МосБиржи HOOD",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXHYDR",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО РусГидро",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXIRAO",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Интер РАО",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXLEAS",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"ЛК \"Европлан\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXLENT",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Лента\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXLITE",
+      "description": "Фиксинг МосБиржи LITE",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXLKOH",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО ЛУКОЙЛ",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXLULU",
+      "description": "Фиксинг МосБиржи LULU",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXMAGN",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО ММК",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXMDMG",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"МД Медикал Груп\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXMGNT",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Магнит",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXMOEX",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Московская Биржа",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXMSNG",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Мосэнерго",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXMTLR",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Мечел",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXMTLRP",
+      "description": "Фиксинг МосБиржи привилегированных акций ПАО Мечел",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXMTSS",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО МТС",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXNBIS",
+      "description": "Фиксинг МосБиржи NBIS",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXNFLX",
+      "description": "Фиксинг МосБиржи NFLX",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXNLMK",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО НЛМК",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXNVTK",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО НОВАТЭК",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXOZON",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Озон\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXPANW",
+      "description": "Фиксинг МосБиржи PANW",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXPHOR",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО ФосАгро",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXPIKK",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Компаний ПИК",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXPLZL",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Полюс",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXPOLY",
+      "description": "Фиксинг МосБиржи обыкновенных акций Полиметалл Интернэшнл плс",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXPOSI",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Позитив",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXQIWI",
+      "description": "Фиксинг МосБиржи ДР QIWI PLC",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXQQQ",
+      "description": "Фиксинг МосБиржи QQQ ETF",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXRAGR",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"Группа \"Русагро\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXRENI",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"Группа Ренессанс Страхование\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXROSN",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО НК Роснефть",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXRTKM",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Ростелеком",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXRUAL",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО Объединенная компания РУСАЛ",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSBER",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Сбербанк",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSBERP",
+      "description": "Фиксинг МосБиржи привилегированных акций ПАО Сбербанк",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSELG",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Селигдар",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSGZH",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО ГК Сегежа",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSMCI",
+      "description": "Фиксинг МосБиржи SMCI",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSMLT",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО ГК Самолет",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSNDK",
+      "description": "Фиксинг МосБиржи SNDK",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSNGS",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Сургутнефтегаз",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSNGSP",
+      "description": "Фиксинг МосБиржи привилегированных акций ПАО Сургутнефтегаз",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSPCX",
+      "description": "Фиксинг МосБиржи SPCX",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSPY",
+      "description": "Фиксинг МосБиржи SPY ETF",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXSVCB",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Совкомбанк",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXT",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Т-Технологии\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXTATN",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Татнефть им. В.Д. Шашина",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXTATNP",
+      "description": "Фиксинг МосБиржи привилегированных акций ПАО Татнефть им. В.Д. Шашина",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXTCSG",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ТКС Холдинг",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXTRNFP",
+      "description": "Фиксинг МосБиржи привилегированных акций ПАО Транснефть",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXTSLA",
+      "description": "Фиксинг МосБиржи TSLA",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXUBER",
+      "description": "Фиксинг МосБиржи UBER",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXUGLD",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО ЮГК",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXUPRO",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО Юнипро",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXVKCO",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ВК",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXVTBR",
+      "description": "Фиксинг МосБиржи обыкновенных акций Банк ВТБ (ПАО)",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXX5",
+      "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"Корпоративный центр ИКС 5\"",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXYDEX",
+      "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ЯНДЕКС",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FIXYNDX",
+      "description": "Фиксинг МосБиржи обыкновенных акций Яндекс Н.В.",
+      "venue": "MISX",
+      "board": "INPF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "RTSI",
+      "description": "Индекс РТС",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "IMOEX",
+      "description": "Индекс МосБиржи",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "RGBI",
+      "description": "Индекс Мосбиржи государственных облигаций ценовой",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "RGBILP",
+      "description": "Индекс МосБиржи Государственных Облигаций RGBILP",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "RVI",
+      "description": "Индекс волатильности RVI",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "MOEXOG",
+      "description": "Индекс МосБиржи нефти и газа",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "MOEXFN",
+      "description": "Индекс МосБиржи финансов",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "MOEXMM",
+      "description": "Индекс МосБиржи металлов и добычи",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "MOEXCN",
+      "description": "Индекс МосБиржи потребительского сектора",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "IMOEXCNY",
+      "description": "Индекс МосБиржи в юанях",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "MREDC",
+      "description": "Индекс московской недвижимости Домклик",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "Index",
+      "code": "RUSFAR",
+      "description": "RUSFAR",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "RUONIA",
+      "description": "Ставка RUONIA (Ruble Overnight Index Average)",
+      "venue": "MISX",
+      "quoteUnit": "PercentPerAnnum",
+      "methodology": "Средневзвешенная ставка однодневных межбанковских рублёвых кредитов (депозитов) по операциям банков-контрибьюторов, рассчитывается и публикуется Банком России",
+      "provider": "Банк России"
+    }
+  ]
+}

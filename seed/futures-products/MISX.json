@@ -1,0 +1,2491 @@
+{
+  "$schema": "../../schema/futures-products.schema.json",
+  "products": [
+    {
+      "code": "1MFR",
+      "name": "Фьючерсный контракт на ставку RUSFAR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RUSFAR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "AED",
+      "name": "Фьючерсный контракт на курс дирхам ОАЭ – российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "AED"
+      }
+    },
+    {
+      "code": "AFKS",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Акционерная финансовая корпорация «Система»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "AFKS"
+      }
+    },
+    {
+      "code": "AFLT",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"Аэрофлот\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "AFLT"
+      }
+    },
+    {
+      "code": "AFRICA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI South Africa ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "AI92",
+      "name": "Фьючерсный контракт на бензин АИ-92",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "AI92"
+      }
+    },
+    {
+      "code": "AI95",
+      "name": "Фьючерсный контракт на бензин АИ-95",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "AI95"
+      }
+    },
+    {
+      "code": "ALIBABA",
+      "name": "Фьючерсный контракт на американские депозитарные расписки на акции Алибаба Груп Холдинг Лимитед",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "BABA-RM"
+      }
+    },
+    {
+      "code": "ALRS",
+      "name": "Фьючерсный контракт на обыкновенные акции АК \"АЛРОСА\" (ПАО)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "ALRS"
+      }
+    },
+    {
+      "code": "ALUM",
+      "name": "Фьючерсный контракт на алюминий",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ALUM"
+      }
+    },
+    {
+      "code": "AMD",
+      "name": "Фьючерсный контракт на курс армянский драм – российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "AMDF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи AMD",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "AMD-RM"
+      },
+      "settlementFixing": "FIXAMD"
+    },
+    {
+      "code": "AMZNF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи AMZN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "AMZN-RM"
+      },
+      "settlementFixing": "FIXAMZN"
+    },
+    {
+      "code": "APPF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи APP",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "APP-RM"
+      },
+      "settlementFixing": "FIXAPP"
+    },
+    {
+      "code": "ARGT",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI Argentina ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "ASML",
+      "name": "Фьючерсный контракт на расч. значение равное 0,1 стоимости ДР на акции ASML",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "ASTR",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО Группа Астра",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "ASTR"
+      }
+    },
+    {
+      "code": "ASTRM",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО Группа Астра (макси)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "ASTR"
+      }
+    },
+    {
+      "code": "AUDU",
+      "name": "Фьючерсный контракт на курс австралийский доллар – доллар США",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "AUD"
+      }
+    },
+    {
+      "code": "BAIDU",
+      "name": "Фьючерсный контракт на американские депозитарные расписки на акции Байду Инк.",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "BIDU-RM"
+      }
+    },
+    {
+      "code": "BANE",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО АНК \"Башнефть\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "BANE"
+      }
+    },
+    {
+      "code": "BELUGA",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"НоваБев Групп\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "BELU"
+      }
+    },
+    {
+      "code": "BELUGAM",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «НоваБев Групп» (макси)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "BELU"
+      }
+    },
+    {
+      "code": "BR",
+      "name": "Фьючерсный контракт на нефть Брэнт",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BRENT"
+      }
+    },
+    {
+      "code": "BRAZIL",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI Brazil ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "BRM",
+      "name": "Фьючерсный контракт на нефть Брэнт (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BRENT"
+      }
+    },
+    {
+      "code": "BSPB",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Банк «Санкт-Петербург»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "BSPB"
+      }
+    },
+    {
+      "code": "BSXF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи BSX",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "BSX-RM"
+      },
+      "settlementFixing": "FIXBSX"
+    },
+    {
+      "code": "BTC",
+      "name": "Фьючерсный контракт на Индекс МосБиржи Биткоина",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
+      "code": "BTCUSDF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Индекс МосБиржи Биткоина",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
+      "code": "BYN",
+      "name": "Фьючерсный контракт на курс белорусский рубль - российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BYN"
+      },
+      "settlementFixing": "BYNFIXME"
+    },
+    {
+      "code": "CBOM",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"МОСКОВСКИЙ КРЕДИТНЫЙ БАНК\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "CBOM"
+      }
+    },
+    {
+      "code": "CHINA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI China ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "MCHI-RM"
+      }
+    },
+    {
+      "code": "CHMFM",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Северсталь» (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "CHMF"
+      }
+    },
+    {
+      "code": "CMGF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи CMG",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FIXCMG",
+          "venue": "MISX",
+          "board": "INPF"
+        }
+      }
+    },
+    {
+      "code": "CNI",
+      "name": "Фьючерсный контракт на Индекс Потребительского сектора",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MOEXCN",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "CNY",
+      "name": "Фьючерсный контракт на курс китайский юань – российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "CNY"
+      },
+      "settlementFixing": "CNYFIXME"
+    },
+    {
+      "code": "CNYRUBTOM",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на курс китайский юань - российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "CNY"
+      },
+      "settlementFixing": "CNYFIXME"
+    },
+    {
+      "code": "COCOA",
+      "name": "Фьючерсный контракт на какао",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "COCOA"
+      }
+    },
+    {
+      "code": "COFFEE",
+      "name": "Фьючерсный контракт на кофе",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "COFFEE"
+      }
+    },
+    {
+      "code": "COHRF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи COHR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "COHR-RM"
+      },
+      "settlementFixing": "FIXCOHR"
+    },
+    {
+      "code": "COINF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи COIN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FIXCOIN",
+          "venue": "MISX",
+          "board": "INPF"
+        }
+      }
+    },
+    {
+      "code": "COPPER",
+      "name": "Фьючерсный контракт на медь",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "COPPER"
+      }
+    },
+    {
+      "code": "CRWDF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи CRWD",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "CRWD-RM"
+      },
+      "settlementFixing": "FIXCRWD"
+    },
+    {
+      "code": "CVNAF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи CVNA",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "CVNA-RM"
+      },
+      "settlementFixing": "FIXCVNA"
+    },
+    {
+      "code": "DASHF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи DASH",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "DASH-RM"
+      },
+      "settlementFixing": "FIXDASH"
+    },
+    {
+      "code": "DAX",
+      "name": "Фьючерсный контракт на инвестиционные паи Дакс ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "DJ30",
+      "name": "Фьючерсный контракт на инвестиционные паи DJ Industrial Average ETF Trust",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "DOMRF",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО ДОМ.РФ",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "DOMRF"
+      }
+    },
+    {
+      "code": "DTL",
+      "name": "Фьючерсный контракт на дизель летний",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "DTL"
+      }
+    },
+    {
+      "code": "ECAD",
+      "name": "Фьючерсный контракт на курс евро-канадский доллар",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "ED",
+      "name": "Фьючерсный контракт на курс евро-доллар США",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "EUR"
+      },
+      "settlementFixing": "EURUSDFIXME"
+    },
+    {
+      "code": "EGBP",
+      "name": "Фьючерсный контракт на курс евро– фунт стерлингов",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "GBP"
+      }
+    },
+    {
+      "code": "EJPY",
+      "name": "Фьючерсный контракт на курс евро-японская йена",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "JPY"
+      }
+    },
+    {
+      "code": "EM",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда iShares MSCI Emerging Markets ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "ENPG",
+      "name": "Фьючерсный контракт на обыкновенные акции МКПАО ЭН+ ГРУП ао",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "ENPG"
+      }
+    },
+    {
+      "code": "ETH",
+      "name": "Фьючерсный контракт на Индекс МосБиржи Эфира",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "code": "ETHA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда ETHA Trust ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "code": "ETHUSDF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Индекс МосБиржи Эфира",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "code": "EURM",
+      "name": "Фьючерсный контракт на курс евро – российский рубль мини",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "EUR"
+      }
+    },
+    {
+      "code": "EURRUBTOM",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на курс евро - российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "EUR"
+      },
+      "settlementFixing": "EURFIXME"
+    },
+    {
+      "code": "Eu",
+      "name": "Фьючерсный контракт на курс евро-российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "EUR"
+      },
+      "settlementFixing": "EURFIXME"
+    },
+    {
+      "code": "FEES",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Федеральная сетевая компания-Россети»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "FEES"
+      }
+    },
+    {
+      "code": "FESH",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"ДВМП\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "FESH"
+      }
+    },
+    {
+      "code": "FIXR",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"Фикс Прайс\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "FIXR"
+      }
+    },
+    {
+      "code": "FLOT",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО “Совкомфлот”",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "FLOT"
+      }
+    },
+    {
+      "code": "FNI",
+      "name": "Фьючерсный контракт на Индекс Финансов",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MOEXFN",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "GAZPF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на обыкновенные акции ПАО «Газпром»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "GAZP"
+      }
+    },
+    {
+      "code": "GAZR",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Газпром»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "GAZP"
+      }
+    },
+    {
+      "code": "GBPU",
+      "name": "Фьючерсный контракт на курс фунт стерлингов – доллар США",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "GBP"
+      }
+    },
+    {
+      "code": "GL",
+      "name": "Расчетный фьючерсный контракт на золото",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAU"
+      },
+      "settlementFixing": "GOLDFIXME"
+    },
+    {
+      "code": "GLDRUBTOM",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на золото",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAU"
+      },
+      "settlementFixing": "GOLDFIXME"
+    },
+    {
+      "code": "GMKN",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «ГМК «Норильский никель»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "GMKN"
+      }
+    },
+    {
+      "code": "GOLD",
+      "name": "Фьючерсный контракт на золото",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAU"
+      },
+      "settlementFixing": "GOLDFIXME"
+    },
+    {
+      "code": "GOLDM",
+      "name": "Фьючерсный контракт на золото (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAU"
+      },
+      "settlementFixing": "GOLDFIXME"
+    },
+    {
+      "code": "HANG",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда Tracker Fund of Hong Kong ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "HEAD",
+      "name": "Фьючерсный контракт на обыкновенные акции МКПАО «Хэдхантер»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "HEAD"
+      }
+    },
+    {
+      "code": "HKD",
+      "name": "Фьючерсный контракт на курс Гонконгский доллар - российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "HKD"
+      },
+      "settlementFixing": "HKDFIXME"
+    },
+    {
+      "code": "HOME",
+      "name": "Фьючерсный контракт на Индекс московской недвижимости Домклик",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MREDC",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "HOODF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи HOOD",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "HOOD-RM"
+      },
+      "settlementFixing": "FIXHOOD"
+    },
+    {
+      "code": "HYDR",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «РусГидро»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "HYDR"
+      }
+    },
+    {
+      "code": "HYNIX",
+      "name": "Фьючерсный контракт на расчетное значение, равное 0,1 стоимости акции Эс-Кей Хайникс",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "IBIT",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда IBIT Trust ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "IMOEX",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Индекс МосБиржи",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IMOEX",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "INDIA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI India UCITS ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "INR",
+      "name": "Фьючерсный контракт на курс индийская рупия – российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "INR"
+      }
+    },
+    {
+      "code": "IPO",
+      "name": "Фьючерсный контракт на Индекс МосБиржи IPO",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "IRAO",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Интер РАО ЕЭС»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "IRAO"
+      }
+    },
+    {
+      "code": "ISKJ",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"Артген\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "ABIO"
+      }
+    },
+    {
+      "code": "IVAT",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «ИВА» ао",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "IVAT"
+      }
+    },
+    {
+      "code": "JDCOM",
+      "name": "Фьючерсный контракт на АДР на акции Джей Ди Ком",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "JD-RM"
+      }
+    },
+    {
+      "code": "KMAZ",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"КАМАЗ\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "KMAZ"
+      }
+    },
+    {
+      "code": "KOREA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI South Korea ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "KZT",
+      "name": "Фьючерсный контракт на курс казахстанский тенге – российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "KZT"
+      }
+    },
+    {
+      "code": "LEAS",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"ЛК \"Европлан\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "LEAS"
+      }
+    },
+    {
+      "code": "LENT",
+      "name": "Фьючерсный контракт на обыкновенные акции МКПАО «Лента»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "LENT"
+      }
+    },
+    {
+      "code": "LITEF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи LITE",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FIXLITE",
+          "venue": "MISX",
+          "board": "INPF"
+        }
+      }
+    },
+    {
+      "code": "LKOH",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «НК «ЛУКОЙЛ»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "LKOH"
+      }
+    },
+    {
+      "code": "LULUF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи LULU",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FIXLULU",
+          "venue": "MISX",
+          "board": "INPF"
+        }
+      }
+    },
+    {
+      "code": "MAGN",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Магнитогорский металлургический комбинат»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "MAGN"
+      }
+    },
+    {
+      "code": "MDMG",
+      "name": "Фьючерсный контракт на обыкновенные акции МКПАО «МД Медикал Груп»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "MDMG"
+      }
+    },
+    {
+      "code": "MGNT",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Магнит»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "MGNT"
+      }
+    },
+    {
+      "code": "MIX",
+      "name": "Фьючерсный контракт на Индекс МосБиржи",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IMOEX",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "MMI",
+      "name": "Фьючерсный контракт на Индекс Металлов и добычи",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MOEXMM",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "MOEX",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО Московская Биржа",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "MOEX"
+      }
+    },
+    {
+      "code": "MOEXCNY",
+      "name": "Фьючерсный контракт на Индекс МосБиржи в юанях",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IMOEXCNY",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "MTLR",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Мечел»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "MTLR"
+      }
+    },
+    {
+      "code": "MTSI",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «МТС»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "MTSS"
+      }
+    },
+    {
+      "code": "MVID",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"М.видео\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "MVID"
+      }
+    },
+    {
+      "code": "MXI",
+      "name": "Фьючерсный контракт на Индекс МосБиржи (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IMOEX",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "NASD",
+      "name": "Фьючерсный контракт на инвестиционные паи QQQ ETF Trust",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "NBISF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи NBIS",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FIXNBIS",
+          "venue": "MISX",
+          "board": "INPF"
+        }
+      }
+    },
+    {
+      "code": "NFLXF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи NFLX",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "NFLX-RM"
+      },
+      "settlementFixing": "FIXNFLX"
+    },
+    {
+      "code": "NG",
+      "name": "Фьючерсный контракт на природный газ Генри Хаб",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "NG"
+      }
+    },
+    {
+      "code": "NGM",
+      "name": "Фьючерсный контракт на природный газ Генри Хаб (микро)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "NG"
+      }
+    },
+    {
+      "code": "NICKEL",
+      "name": "Фьючерсный контракт на никель",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "NICKEL"
+      }
+    },
+    {
+      "code": "NIKK",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда Nikkei 225 ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "NLMK",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «НЛМК»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "NLMK"
+      }
+    },
+    {
+      "code": "NOTKM",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «НОВАТЭК» (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "NVTK"
+      }
+    },
+    {
+      "code": "NOVARTIS",
+      "name": "Фьючерсный контракт на АДР на акции Новартис АГ",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "NVS-RM"
+      }
+    },
+    {
+      "code": "OGI",
+      "name": "Фьючерсный контракт на Индекс Нефти и газа",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MOEXOG",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "ORANGE",
+      "name": "Фьючерсный контракт на апельсиновый сок",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "OZON",
+      "name": "Фьючерсный контракт на обыкновенные акции МКПАО \"ОЗОН\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "OZON"
+      }
+    },
+    {
+      "code": "PANWF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи PANW",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "PANW-RM"
+      },
+      "settlementFixing": "FIXPANW"
+    },
+    {
+      "code": "PDD",
+      "name": "Фьючерсный контракт на АДР на акции PDD Holdings Inc",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "PHOR",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"ФосАгро\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "PHOR"
+      }
+    },
+    {
+      "code": "PLD",
+      "name": "Фьючерсный контракт на палладий",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XPD"
+      },
+      "settlementFixing": "PALADFIXME"
+    },
+    {
+      "code": "PLDM",
+      "name": "Фьючерсный контракт на палладий (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XPD"
+      },
+      "settlementFixing": "PALADFIXME"
+    },
+    {
+      "code": "PLT",
+      "name": "Фьючерсный контракт на платину",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XPT"
+      },
+      "settlementFixing": "PLATFIXME"
+    },
+    {
+      "code": "PLTM",
+      "name": "Фьючерсный контракт на платину (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XPT"
+      },
+      "settlementFixing": "PLATFIXME"
+    },
+    {
+      "code": "PLZLM",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"Полюс\" (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "PLZL"
+      }
+    },
+    {
+      "code": "POSI",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"Группа Позитив\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "POSI"
+      }
+    },
+    {
+      "code": "QQQF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи QQQ ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FIXQQQ",
+          "venue": "MISX",
+          "board": "INPF"
+        }
+      }
+    },
+    {
+      "code": "R2000",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда Russell 2000 ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "RAGR",
+      "name": "Фьючерсный контракт на обыкновенные акции Группа Русагро",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RAGR"
+      }
+    },
+    {
+      "code": "RASP",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"Распадская\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RASP"
+      }
+    },
+    {
+      "code": "RENI",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Группа Ренессанс Страхование»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RENI"
+      }
+    },
+    {
+      "code": "RGBI",
+      "name": "Фьючерсный контракт на Индекс RGBI",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RGBI",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "RGBIF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Индекс МосБиржи государственных облигаций RGBILP",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RGBILP",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "RNFT",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО НК \"РуссНефть\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RNFT"
+      }
+    },
+    {
+      "code": "ROSN",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «НК «Роснефть»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "ROSN"
+      }
+    },
+    {
+      "code": "RTKM",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Ростелеком»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RTKM"
+      }
+    },
+    {
+      "code": "RTKMP",
+      "name": "Фьючерсный контракт на привилегированные акции ПАО «Ростелеком»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RTKMP"
+      }
+    },
+    {
+      "code": "RTS",
+      "name": "Фьючерсный контракт на Индекс РТС",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RTSI",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "RTSM",
+      "name": "Фьючерсный контракт на Индекс РТС (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RTSI",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "RUAL",
+      "name": "Фьючерсный контракт на обыкновенные акции МКПАО «ОК «РУСАЛ»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RUAL"
+      }
+    },
+    {
+      "code": "RUON",
+      "name": "фьючерсный контракт на ставку однодневных кредитов RUONIA",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RUONIA",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "RUONIA",
+      "name": "Фьючерсный контракт на индекс RUONIA",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RUONIA",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "RVI",
+      "name": "Фьючерсный контракт на волатильность российского рынка",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RVI",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "SAMSUNG",
+      "name": "Фьючерсный контракт на акции Самсунг Электроникс",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "SAP",
+      "name": "Фьючерсный контракт на американские депозитарные расписки на акции САП",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "SAP-RM"
+      }
+    },
+    {
+      "code": "SAUDI",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI Saudi Arabia ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "SBERF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на обыкновенные акции ПАО Сбербанк",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "SBER"
+      }
+    },
+    {
+      "code": "SBPR",
+      "name": "Фьючерсный контракт на привилегированные акции ПАО Сбербанк",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SBERP"
+      }
+    },
+    {
+      "code": "SBRF",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО Сбербанк",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SBER"
+      }
+    },
+    {
+      "code": "SFIN",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"ЭсЭфАй\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SFIN"
+      }
+    },
+    {
+      "code": "SGZH",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО “Сегежа Групп”",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SGZH"
+      }
+    },
+    {
+      "code": "SIBN",
+      "name": "Фьючерский контракт на обыкновенные акции ПАО «Газпром нефть»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SIBN"
+      }
+    },
+    {
+      "code": "SILV",
+      "name": "Фьючерсный контракт на серебро",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAG"
+      },
+      "settlementFixing": "SILVFIXME"
+    },
+    {
+      "code": "SILVM",
+      "name": "Фьючерсный контракт на серебро (мини)",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAG"
+      },
+      "settlementFixing": "SILVFIXME"
+    },
+    {
+      "code": "SL",
+      "name": "Расчетный фьючерсный контракт на серебро",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAG"
+      },
+      "settlementFixing": "SILVFIXME"
+    },
+    {
+      "code": "SLVRUBTOM",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на серебро",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAG"
+      },
+      "settlementFixing": "SILVFIXME"
+    },
+    {
+      "code": "SMCIF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи SMCI",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FIXSMCI",
+          "venue": "MISX",
+          "board": "INPF"
+        }
+      }
+    },
+    {
+      "code": "SMLT",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Группа компаний «Самолет»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SMLT"
+      }
+    },
+    {
+      "code": "SNDKF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи SNDK",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FIXSNDK",
+          "venue": "MISX",
+          "board": "INPF"
+        }
+      }
+    },
+    {
+      "code": "SNGP",
+      "name": "Фьючерсный контракт на привилегированные акции ПАО «Сургутнефтегаз»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SNGSP"
+      }
+    },
+    {
+      "code": "SNGR",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Сургутнефтегаз»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SNGS"
+      }
+    },
+    {
+      "code": "SOFL",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"Софтлайн\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SOFL"
+      }
+    },
+    {
+      "code": "SOL",
+      "name": "Фьючерсный контракт на Индекс МосБиржи Соланы",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SOL"
+      }
+    },
+    {
+      "code": "SOLUSDF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Индекс МосБиржи Соланы",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SOL"
+      }
+    },
+    {
+      "code": "SONY",
+      "name": "Фьючерсный контракт на АДР на акции Сони Груп Корпорейшн",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "SONY-RM"
+      }
+    },
+    {
+      "code": "SOXQ",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда SOXQ ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "SP500F",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи SPY ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "SPY-RM"
+      },
+      "settlementFixing": "FIXSPY"
+    },
+    {
+      "code": "SPBE",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"СПБ Биржа\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SPBE"
+      }
+    },
+    {
+      "code": "SPYF",
+      "name": "Фьючерсный контракт на инвестиционные паи SPY ETF Trust",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "SPY-RM"
+      }
+    },
+    {
+      "code": "STOX",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда Евро Стокс 50 ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "SUGAR",
+      "name": "Расчетный фьючерсный контракт на сахар",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SUGAR"
+      }
+    },
+    {
+      "code": "SUGR",
+      "name": "Фьючерсный контракт на сахар-сырец",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SUGAR"
+      }
+    },
+    {
+      "code": "SVCB",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"Совкомбанк\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "SVCB"
+      }
+    },
+    {
+      "code": "Si",
+      "name": "Фьючерсный контракт на курс доллар США - российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "USD"
+      },
+      "settlementFixing": "USDFIXME"
+    },
+    {
+      "code": "T",
+      "name": "Фьючерсный контракт на обыкновенные акции МКПАО \"Т-Технологии\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "T"
+      }
+    },
+    {
+      "code": "TATN",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Татнефть» им. В.Д. Шашина",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "TATN"
+      }
+    },
+    {
+      "code": "TATP",
+      "name": "Фьючерсный контракт на привилегированные акции ПАО «Татнефть» им. В.Д. Шашина",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "TATNP"
+      }
+    },
+    {
+      "code": "TENCENT",
+      "name": "Фьючерсный контракт на акции Тенсент Холдингс Лимитед",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "TLT",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда TLT ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "TOYOTA",
+      "name": "Фьючерсный контракт на АДР на акции Тойота Мотор Корпорейшн",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "TM-RM"
+      }
+    },
+    {
+      "code": "TRNF",
+      "name": "Фьючерсный контракт на привилегированные акции ПАО «Транснефть»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "TRNFP"
+      }
+    },
+    {
+      "code": "TRX",
+      "name": "Фьючерсный контракт на Индекс МосБиржи Трона",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TRX"
+      }
+    },
+    {
+      "code": "TRXUSDF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Индекс МосБиржи Трона",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TRX"
+      }
+    },
+    {
+      "code": "TRY",
+      "name": "Фьючерсный контракт на курс турецкая лира – российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TRY"
+      },
+      "settlementFixing": "TRYFIXME"
+    },
+    {
+      "code": "TSLAF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи TSLA",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "TSLA-RM"
+      },
+      "settlementFixing": "FIXTSLA"
+    },
+    {
+      "code": "TSM",
+      "name": "Фьючерсный контракт на американские депозитарные расписки на акции TSMC",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "TSM-RM"
+      }
+    },
+    {
+      "code": "TTF",
+      "name": "Фьючерсный контракт на природный газ Датч ТТФ",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TTF"
+      }
+    },
+    {
+      "code": "UBERF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Фиксинг МосБиржи UBER",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "UBER-RM"
+      },
+      "settlementFixing": "FIXUBER"
+    },
+    {
+      "code": "UCAD",
+      "name": "Фьючерсный контракт на курс доллар США - канадский доллар",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "CAD"
+      }
+    },
+    {
+      "code": "UCHF",
+      "name": "Фьючерсный контракт на курс доллар США-швейцарский франк",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "CHF"
+      }
+    },
+    {
+      "code": "UCNY",
+      "name": "Фьючерсный контракт на курс доллар США – китайский юань",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "CNY"
+      },
+      "settlementFixing": "USDCNYFIXME"
+    },
+    {
+      "code": "UINR",
+      "name": "Фьючерсный контракт на курс доллар США – индийская рупия",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "INR"
+      }
+    },
+    {
+      "code": "UJPY",
+      "name": "Фьючерсный контракт на курс доллар США – японская йена",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "JPY"
+      }
+    },
+    {
+      "code": "UKZT",
+      "name": "Фьючерсный контракт на курс доллар США - казахстанский тенге",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "KZT"
+      },
+      "settlementFixing": "USDKZTFIXME"
+    },
+    {
+      "code": "UPRO",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Юнипро»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "UPRO"
+      }
+    },
+    {
+      "code": "USDM",
+      "name": "Фьючерсный контракт на курс доллар США – российский рубль мини",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "USDRUBTOM",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на курс доллар США - российский рубль",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "USD"
+      },
+      "settlementFixing": "USDFIXME"
+    },
+    {
+      "code": "UTRY",
+      "name": "Фьючерсный контракт на курс доллар США - турецкая лира",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TRY"
+      }
+    },
+    {
+      "code": "VKCO",
+      "name": "Фьючерсный контракт на обыкновенные акции МКПАО «ВК»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "VKCO"
+      }
+    },
+    {
+      "code": "VTBR",
+      "name": "Фьючерсный контракт на обыкновенные акции Банк ВТБ",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "VTBR"
+      }
+    },
+    {
+      "code": "WHEAT",
+      "name": "Фьючерсный контракт на пшеницу",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "WHEAT"
+      }
+    },
+    {
+      "code": "WTI",
+      "name": "Фьючерсный контракт на нефть ВТИ",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "WTI"
+      }
+    },
+    {
+      "code": "WUSH",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО \"ВУШ Холдинг\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "WUSH"
+      }
+    },
+    {
+      "code": "X5",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Корпоративный центр ИКС 5»",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "X5"
+      }
+    },
+    {
+      "code": "XIA",
+      "name": "Фьючерсный контракт на акции Сяоми Корпорэйшн",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "code": "XRP",
+      "name": "Фьючерсный контракт на Индекс МосБиржи Рипла",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XRP"
+      }
+    },
+    {
+      "code": "XRPUSDF",
+      "name": "Однодневный фьючерсный контракт с автопролонгацией на Индекс МосБиржи Рипла",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XRP"
+      }
+    },
+    {
+      "code": "YDEX",
+      "name": "Фьючерсный контракт на обыкновенные акции МКПАО \"ЯНДЕКС\"",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "YDEX"
+      }
+    },
+    {
+      "code": "ZINC",
+      "name": "Фьючерсный контракт на цинк",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ZINC"
+      }
+    }
+  ]
+}

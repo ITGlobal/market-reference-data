@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Register seed — venues",
+  "type": "object",
+  "required": ["venues"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "venues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["mic", "name"],
+        "properties": {
+          "mic": { "type": "string", "pattern": "^[A-Z0-9]{4}$" },
+          "name": { "type": "string", "minLength": 1 },
+          "boards": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "object",
+              "required": ["code", "name"],
+              "properties": {
+                "code": { "type": "string", "minLength": 1 },
+                "name": { "type": "string", "minLength": 1 }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
