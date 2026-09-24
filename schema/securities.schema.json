@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Register seed — securities",
+  "type": "object",
+  "required": ["securities"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "securities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["key", "isin", "kind", "name"],
+        "properties": {
+          "key": { "type": "string", "minLength": 1 },
+          "isin": { "type": "string", "minLength": 1 },
+          "kind": { "type": "string", "enum": ["Equity", "Fund", "Debt"] },
+          "name": { "type": "string", "minLength": 1 },
+          "issuerName": { "type": "string" },
+          "debt": {
+            "type": "object",
+            "required": ["faceValue", "faceCurrency", "rateType", "couponFrequency", "maturityDate"],
+            "properties": {
+              "faceValue": { "type": "number", "exclusiveMinimum": 0 },
+              "faceCurrency": { "type": "string", "pattern": "^[A-Z]{3}$" },
+              "rateType": { "type": "string", "enum": ["Fixed", "Floating", "Zero"] },
+              "couponRate": { "type": "number" },
+              "couponFrequency": { "type": "string", "enum": ["Annual", "SemiAnnual", "Quarterly", "Monthly", "Zero"] },
+              "dayCount": { "type": "string", "enum": ["ActAct", "Act360", "Act365", "Thirty360"] },
+              "issueDate": { "type": "string", "format": "date" },
+              "firstCouponDate": { "type": "string", "format": "date" },
+              "maturityDate": { "type": "string", "format": "date" },
+              "floatBenchmark": {
+                "type": "object",
+                "required": ["code", "venue"],
+                "properties": {
+                  "code": { "type": "string", "minLength": 1 },
+                  "venue": { "type": "string", "pattern": "^[A-Z0-9]{4}$" },
+                  "board": { "type": "string", "minLength": 1 }
+                },
+                "additionalProperties": false
+              },
+              "floatSpreadBps": { "type": "number" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Register seed — options products",
+  "type": "object",
+  "required": ["products"],
+  "$defs": {
+    "underlying": {
+      "type": "object",
+      "minProperties": 1,
+      "maxProperties": 1,
+      "properties": {
+        "asset": { "type": "string", "minLength": 1 },
+        "security": { "type": "string", "minLength": 1 },
+        "reference": {
+          "type": "object",
+          "required": ["code", "venue"],
+          "properties": {
+            "code": { "type": "string", "minLength": 1 },
+            "venue": { "type": "string", "pattern": "^[A-Z0-9]{4}$" },
+            "board": { "type": "string", "minLength": 1 }
+          },
+          "additionalProperties": false
+        },
+        "futuresProduct": {
+          "type": "object",
+          "required": ["code", "venue"],
+          "properties": {
+            "code": { "type": "string", "minLength": 1 },
+            "venue": { "type": "string", "pattern": "^[A-Z0-9]{4}$" }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "properties": {
+    "$schema": { "type": "string" },
+    "products": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "code", "venue", "name", "quoteUnit", "quoteAsset", "exerciseStyle", "settlementMethod", "premiumStyle", "underlying"
+        ],
+        "properties": {
+          "code": { "type": "string", "minLength": 1 },
+          "venue": { "type": "string", "pattern": "^[A-Z0-9]{4}$" },
+          "name": { "type": "string", "minLength": 1 },
+          "contractSize": { "type": "number", "exclusiveMinimum": 0 },
+          "quoteUnit": { "type": "string", "enum": ["Currency", "Points", "PercentOfFace", "PercentPerAnnum"] },
+          "quoteAsset": { "type": "string", "minLength": 1 },
+          "exerciseStyle": { "type": "string", "enum": ["American", "European"] },
+          "settlementMethod": { "type": "string", "enum": ["Physical", "Cash"] },
+          "premiumStyle": { "type": "string", "enum": ["Upfront", "Margined"] },
+          "underlying": { "$ref": "#/$defs/underlying" },
+          "settlementFixing": { "type": "string", "minLength": 1 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

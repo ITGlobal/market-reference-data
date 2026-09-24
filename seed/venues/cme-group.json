@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schema/venues.schema.json",
+  "venues": [
+    {
+      "mic": "XCME",
+      "name": "Chicago Mercantile Exchange",
+      "boards": []
+    },
+    {
+      "mic": "XCBT",
+      "name": "Chicago Board of Trade",
+      "boards": []
+    },
+    {
+      "mic": "XCEC",
+      "name": "Commodity Exchange, Inc. (COMEX)",
+      "boards": []
+    },
+    {
+      "mic": "XNYM",
+      "name": "New York Mercantile Exchange",
+      "boards": []
+    }
+  ]
+}
