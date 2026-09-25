@@ -3,7 +3,7 @@
   "products": [
     {
       "code": "AFKS",
-      "name": "Опционы на AKH7",
+      "name": "Опционы на AFKS",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -19,7 +19,7 @@
     },
     {
       "code": "AFLT",
-      "name": "Опционы на AFH7",
+      "name": "Опционы на AFLT",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -61,7 +61,7 @@
     },
     {
       "code": "BR",
-      "name": "Опционы на BRZ6",
+      "name": "Опционы на BR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -90,7 +90,7 @@
     },
     {
       "code": "CNY",
-      "name": "Опционы на CRU7",
+      "name": "Опционы на CNY",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -106,7 +106,7 @@
     },
     {
       "code": "DAX",
-      "name": "Опционы на DXH7",
+      "name": "Опционы на DAX",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -135,7 +135,7 @@
     },
     {
       "code": "ED",
-      "name": "Опционы на EDH7",
+      "name": "Опционы на ED",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -151,7 +151,7 @@
     },
     {
       "code": "Eu",
-      "name": "Опционы на EuH7",
+      "name": "Опционы на Eu",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -167,7 +167,7 @@
     },
     {
       "code": "FEES",
-      "name": "Опционы на FSH7",
+      "name": "Опционы на FEES",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -223,7 +223,7 @@
     },
     {
       "code": "GOLD",
-      "name": "Опционы на GDH7",
+      "name": "Опционы на GOLD",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -239,7 +239,7 @@
     },
     {
       "code": "HANG",
-      "name": "Опционы на HSH7",
+      "name": "Опционы на HANG",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -255,7 +255,7 @@
     },
     {
       "code": "HYDR",
-      "name": "Опционы на HYH7",
+      "name": "Опционы на HYDR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -287,7 +287,7 @@
     },
     {
       "code": "IRAO",
-      "name": "Опционы на IRH7",
+      "name": "Опционы на IRAO",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -329,7 +329,7 @@
     },
     {
       "code": "MAGN",
-      "name": "Опционы на MGH7",
+      "name": "Опционы на MAGN",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -358,7 +358,7 @@
     },
     {
       "code": "MIX",
-      "name": "Опционы на MXU8",
+      "name": "Опционы на MIX",
       "venue": "MISX",
       "quoteUnit": "Points",
       "quoteAsset": "RUB",
@@ -426,7 +426,7 @@
     },
     {
       "code": "MXI",
-      "name": "Опционы на MMZ7",
+      "name": "Опционы на MXI",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -442,7 +442,7 @@
     },
     {
       "code": "NASD",
-      "name": "Опционы на NAH7",
+      "name": "Опционы на NASD",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -458,7 +458,7 @@
     },
     {
       "code": "NG",
-      "name": "Опционы на NGX6",
+      "name": "Опционы на NG",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -474,7 +474,7 @@
     },
     {
       "code": "NLMK",
-      "name": "Опционы на NMH7",
+      "name": "Опционы на NLMK",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -516,7 +516,7 @@
     },
     {
       "code": "PLT",
-      "name": "Опционы на PTH7",
+      "name": "Опционы на PLT",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -571,7 +571,7 @@
     },
     {
       "code": "RTKM",
-      "name": "Опционы на RTH7",
+      "name": "Опционы на RTKM",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -587,7 +587,7 @@
     },
     {
       "code": "RTS",
-      "name": "Опционы на RIZ7",
+      "name": "Опционы на RTS",
       "venue": "MISX",
       "quoteUnit": "Points",
       "quoteAsset": "RUB",
@@ -616,7 +616,7 @@
     },
     {
       "code": "SBPR",
-      "name": "Опционы на SPH7",
+      "name": "Опционы на SBPR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -658,7 +658,7 @@
     },
     {
       "code": "SILV",
-      "name": "Опционы на SVH7",
+      "name": "Опционы на SILV",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -701,7 +701,7 @@
     },
     {
       "code": "SNGP",
-      "name": "Опционы на SGH7",
+      "name": "Опционы на SNGP",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -717,7 +717,7 @@
     },
     {
       "code": "SNGR",
-      "name": "Опционы на SNH7",
+      "name": "Опционы на SNGR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -746,7 +746,7 @@
     },
     {
       "code": "SPYF",
-      "name": "Опционы на SFH7",
+      "name": "Опционы на SPYF",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -762,7 +762,7 @@
     },
     {
       "code": "STOX",
-      "name": "Опционы на SXH7",
+      "name": "Опционы на STOX",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -791,7 +791,7 @@
     },
     {
       "code": "Si",
-      "name": "Опционы на SiH7",
+      "name": "Опционы на Si",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -846,7 +846,7 @@
     },
     {
       "code": "TRNF",
-      "name": "Опционы на TNH7",
+      "name": "Опционы на TRNF",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -862,7 +862,7 @@
     },
     {
       "code": "UCNY",
-      "name": "Опционы на UCH7",
+      "name": "Опционы на UCNY",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -891,7 +891,7 @@
     },
     {
       "code": "VTBR",
-      "name": "Опционы на VBH7",
+      "name": "Опционы на VTBR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -907,7 +907,7 @@
     },
     {
       "code": "WHEAT",
-      "name": "Опционы на W4X6",
+      "name": "Опционы на WHEAT",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
