@@ -1,0 +1,938 @@
+{
+  "$schema": "../../schema/options-products.schema.json",
+  "products": [
+    {
+      "code": "AFKS",
+      "name": "Опционы на AFKS",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "AFKS",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "AFLT",
+      "name": "Опционы на AFLT",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "AFLT",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "ALRS",
+      "name": "Опционы на ALRS",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "ALRS"
+      }
+    },
+    {
+      "code": "ASTR",
+      "name": "Опционы на ASTR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "ASTR"
+      }
+    },
+    {
+      "code": "BR",
+      "name": "Опционы на BR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "BR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "CHMF",
+      "name": "Опционы на CHMF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "CHMF"
+      }
+    },
+    {
+      "code": "CNY",
+      "name": "Опционы на CNY",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "CNY",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "DAX",
+      "name": "Опционы на DAX",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "DAX",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "DIAS",
+      "name": "Опционы на DIAS",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "DIAS"
+      }
+    },
+    {
+      "code": "ED",
+      "name": "Опционы на ED",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "ED",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "Eu",
+      "name": "Опционы на Eu",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "Eu",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "FEES",
+      "name": "Опционы на FEES",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "FEES",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "GAZR",
+      "name": "Опционы на GAZP",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "GAZP"
+      }
+    },
+    {
+      "code": "GL",
+      "name": "Опционы на GLDRUB_TOM",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "XAU"
+      },
+      "settlementFixing": "GOLDFIXME"
+    },
+    {
+      "code": "GMKN",
+      "name": "Опционы на GMKN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "GMKN"
+      }
+    },
+    {
+      "code": "GOLD",
+      "name": "Опционы на GOLD",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "GOLD",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "HANG",
+      "name": "Опционы на HANG",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "HKD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "HANG",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "HYDR",
+      "name": "Опционы на HYDR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "HYDR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "IMX",
+      "name": "Опционы на IMOEX",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "reference": {
+          "code": "IMOEX",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "IRAO",
+      "name": "Опционы на IRAO",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "IRAO",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "ISKJ",
+      "name": "Опционы на ABIO",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "ABIO"
+      }
+    },
+    {
+      "code": "LKOH",
+      "name": "Опционы на LKOH",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "LKOH"
+      }
+    },
+    {
+      "code": "MAGN",
+      "name": "Опционы на MAGN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MAGN",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "MGNT",
+      "name": "Опционы на MGNT",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "MGNT"
+      }
+    },
+    {
+      "code": "MIX",
+      "name": "Опционы на MIX",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MIX",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "MOEX",
+      "name": "Опционы на MOEX",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "MOEX"
+      }
+    },
+    {
+      "code": "MSNG",
+      "name": "Опционы на MSNG",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "MSNG"
+      }
+    },
+    {
+      "code": "MTLR",
+      "name": "Опционы на MTLR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "MTLR"
+      }
+    },
+    {
+      "code": "MTSI",
+      "name": "Опционы на MTSS",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "MTSS"
+      }
+    },
+    {
+      "code": "MXI",
+      "name": "Опционы на MXI",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MXI",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "NASD",
+      "name": "Опционы на NASD",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "NASD",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "NG",
+      "name": "Опционы на NG",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "NG",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "NLMK",
+      "name": "Опционы на NLMK",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "NLMK",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "NOTK",
+      "name": "Опционы на NVTK",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "NVTK"
+      }
+    },
+    {
+      "code": "OZON",
+      "name": "Опционы на OZON",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "OZON"
+      }
+    },
+    {
+      "code": "PLT",
+      "name": "Опционы на PLT",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "PLT",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "PLZL",
+      "name": "Опционы на PLZL",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "PLZL"
+      }
+    },
+    {
+      "code": "POSI",
+      "name": "Опционы на POSI",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "POSI"
+      }
+    },
+    {
+      "code": "ROSN",
+      "name": "Опционы на ROSN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "ROSN"
+      }
+    },
+    {
+      "code": "RTKM",
+      "name": "Опционы на RTKM",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "RTKM",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "RTS",
+      "name": "Опционы на RTS",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "RTS",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "RUAL",
+      "name": "Опционы на RUAL",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RUAL"
+      }
+    },
+    {
+      "code": "SBPR",
+      "name": "Опционы на SBPR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SBPR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "SBRF",
+      "name": "Опционы на SBER",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "SBER"
+      }
+    },
+    {
+      "code": "SIBN",
+      "name": "Опционы на SIBN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "SIBN"
+      }
+    },
+    {
+      "code": "SILV",
+      "name": "Опционы на SILV",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SILV",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "SL",
+      "name": "Опционы на SLVRUB_TOM",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "XAG"
+      },
+      "settlementFixing": "SILVFIXME"
+    },
+    {
+      "code": "SMLT",
+      "name": "Опционы на SMLT",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "SMLT"
+      }
+    },
+    {
+      "code": "SNGP",
+      "name": "Опционы на SNGP",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SNGP",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "SNGR",
+      "name": "Опционы на SNGR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SNGR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "SPBE",
+      "name": "Опционы на SPBE",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "SPBE"
+      }
+    },
+    {
+      "code": "SPYF",
+      "name": "Опционы на SPYF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SPYF",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "STOX",
+      "name": "Опционы на STOX",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "STOX",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "SVCB",
+      "name": "Опционы на SVCB",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "SVCB"
+      }
+    },
+    {
+      "code": "Si",
+      "name": "Опционы на Si",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "Si",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "TATN",
+      "name": "Опционы на TATN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "TATN"
+      }
+    },
+    {
+      "code": "TATP",
+      "name": "Опционы на TATNP",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "TATNP"
+      }
+    },
+    {
+      "code": "TCSI",
+      "name": "Опционы на T",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "T"
+      }
+    },
+    {
+      "code": "TRNF",
+      "name": "Опционы на TRNF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "TRNF",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "UCNY",
+      "name": "Опционы на UCNY",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "CNY",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "UCNY",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "VKCO",
+      "name": "Опционы на VKCO",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "VKCO"
+      }
+    },
+    {
+      "code": "VTBR",
+      "name": "Опционы на VTBR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "VTBR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "WHEAT",
+      "name": "Опционы на WHEAT",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "WHEAT",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "code": "YDEX",
+      "name": "Опционы на YDEX",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "YDEX"
+      }
+    }
+  ]
+}
