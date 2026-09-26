@@ -24,6 +24,7 @@ const ajv = new Ajv2020({ allErrors: true, strict: true });
 addFormats(ajv);
 
 let hasError = false;
+const loaded = Object.fromEntries(categories.map(({ target }) => [target, []]));
 
 for (const { schema, target, dir } of categories) {
   const schemaPath = join(schemaDir, schema);
@@ -41,6 +42,7 @@ for (const { schema, target, dir } of categories) {
   for (const file of files) {
     const relPath = relative(root, file);
     const data = JSON.parse(readFileSync(file, "utf8"));
+    loaded[target].push({ file: relPath, data });
 
     if (typeof data.$schema !== "string") {
       console.error(`x ${relPath}: missing "$schema" field`);
@@ -68,9 +70,94 @@ for (const { schema, target, dir } of categories) {
   }
 }
 
+if (!hasError) {
+  checkReferences();
+}
+
 if (hasError) {
   console.error("\nValidation failed.");
   process.exit(1);
 }
 
 console.log("\nAll seed files are valid.");
+
+// Уникальность ключей и существование ссылок между файлами; ключи — по data-model §3.1, §5, §6.
+// settlementFixing не проверяется: это нестрогая ссылка (data-model §8.9).
+function checkReferences() {
+  const fail = (message) => {
+    console.error(`x ${message}`);
+    hasError = true;
+  };
+
+  const rows = (target, prop) =>
+    loaded[target].flatMap(({ file, data }) => data[prop].map((row) => ({ file, row })));
+
+  const index = (items, keyOf, what) => {
+    const seen = new Map();
+    for (const { file, row } of items) {
+      const key = keyOf(row);
+      if (seen.has(key)) {
+        fail(`${file}: duplicate ${what} ${key} (first in ${seen.get(key)})`);
+      } else {
+        seen.set(key, file);
+      }
+    }
+    return seen;
+  };
+
+  const need = (keys, key, file, where, what) => {
+    if (!keys.has(key)) fail(`${file}: ${where}: unknown ${what} ${key}`);
+  };
+
+  // Борд входит в ключ справочного инструмента, пустой борд — тоже значение (data-model §3.1).
+  const refKey = (r) => `${r.venue}/${r.board ?? ""}/${r.code}`;
+
+  const venueItems = rows("venues", "venues");
+  const boardItems = venueItems.flatMap(({ file, row }) =>
+    (row.boards ?? []).map((board) => ({ file, row: { key: `${row.mic}/${board.code}` } })),
+  );
+  const securityItems = rows("securities.json", "securities");
+  const referenceItems = rows("reference-instruments", "instruments");
+  const futuresItems = rows("futures-products", "products");
+  const optionsItems = rows("options-products", "products");
+
+  const venues = index(venueItems, (v) => v.mic, "venue");
+  const boards = index(boardItems, (b) => b.key, "board");
+  const assets = index(rows("assets.json", "assets"), (a) => a.symbol, "asset");
+  // Продукты ссылаются на бумагу по key — полю сида, а не по ISIN.
+  const securities = index(securityItems, (s) => s.key, "security");
+  index(securityItems, (s) => s.isin, "isin");
+  const references = index(referenceItems, refKey, "reference instrument");
+  const futures = index(futuresItems, (p) => `${p.venue}/${p.code}`, "futures product");
+  // Один код на площадке может быть у двух классов опционов: маржируемого и с премией (data-model §5.2).
+  index(optionsItems, (p) => `${p.venue}/${p.code}/${p.exerciseStyle}/${p.premiumStyle}`, "options product");
+
+  for (const { file, row: r } of referenceItems) {
+    const where = `reference instrument ${r.code}`;
+    need(venues, r.venue, file, where, "venue");
+    // Борд должен быть заведён у той же площадки.
+    if (r.board) need(boards, `${r.venue}/${r.board}`, file, where, "board");
+    if (r.settlementAsset) need(assets, r.settlementAsset, file, where, "asset");
+  }
+
+  for (const { file, row: p } of [...futuresItems, ...optionsItems]) {
+    const where = `product ${p.code}`;
+    const u = p.underlying;
+    need(venues, p.venue, file, where, "venue");
+    need(assets, p.quoteAsset, file, where, "asset");
+    if (u.asset) need(assets, u.asset, file, where, "asset");
+    if (u.security) need(securities, u.security, file, where, "security");
+    if (u.reference) need(references, refKey(u.reference), file, where, "reference instrument");
+    if (u.futuresProduct) {
+      need(futures, `${u.futuresProduct.venue}/${u.futuresProduct.code}`, file, where, "futures product");
+    }
+  }
+
+  for (const { file, row: s } of securityItems) {
+    if (!s.debt) continue;
+    const where = `security ${s.key}`;
+    // Все валюты, фиатные и крипто, заведены как активы.
+    need(assets, s.debt.faceCurrency, file, where, "asset");
+    if (s.debt.floatBenchmark) need(references, refKey(s.debt.floatBenchmark), file, where, "reference instrument");
+  }
+}
