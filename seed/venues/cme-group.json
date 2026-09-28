@@ -12,11 +12,6 @@
       "boards": []
     },
     {
-      "mic": "XCEC",
-      "name": "Commodity Exchange, Inc. (COMEX)",
-      "boards": []
-    },
-    {
       "mic": "XNYM",
       "name": "New York Mercantile Exchange",
       "boards": []
