@@ -3,7 +3,7 @@
   "products": [
     {
       "code": "AFKS",
-      "name": "Опционы на AFKS",
+      "name": "Опционы на фьючерсы AFKS",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -19,7 +19,7 @@
     },
     {
       "code": "AFLT",
-      "name": "Опционы на AFLT",
+      "name": "Опционы на фьючерсы AFLT",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -35,12 +35,12 @@
     },
     {
       "code": "ALRS",
-      "name": "Опционы на ALRS",
+      "name": "Опционы на акции ALRS",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "ALRS"
@@ -48,12 +48,12 @@
     },
     {
       "code": "ASTR",
-      "name": "Опционы на ASTR",
+      "name": "Опционы на акции ASTR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "ASTR"
@@ -61,7 +61,7 @@
     },
     {
       "code": "BR",
-      "name": "Опционы на BR",
+      "name": "Опционы на фьючерсы BR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -77,12 +77,12 @@
     },
     {
       "code": "CHMF",
-      "name": "Опционы на CHMF",
+      "name": "Опционы на акции CHMF",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "CHMF"
@@ -90,7 +90,7 @@
     },
     {
       "code": "CNY",
-      "name": "Опционы на CNY",
+      "name": "Опционы на фьючерсы CNY",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -106,7 +106,7 @@
     },
     {
       "code": "DAX",
-      "name": "Опционы на DAX",
+      "name": "Опционы на фьючерсы DAX",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "EUR",
@@ -122,12 +122,12 @@
     },
     {
       "code": "DIAS",
-      "name": "Опционы на DIAS",
+      "name": "Опционы на акции DIAS",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "DIAS"
@@ -135,7 +135,7 @@
     },
     {
       "code": "ED",
-      "name": "Опционы на ED",
+      "name": "Опционы на фьючерсы ED",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -151,7 +151,7 @@
     },
     {
       "code": "Eu",
-      "name": "Опционы на Eu",
+      "name": "Опционы на фьючерсы Eu",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -167,7 +167,7 @@
     },
     {
       "code": "FEES",
-      "name": "Опционы на FEES",
+      "name": "Опционы на фьючерсы FEES",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -183,12 +183,12 @@
     },
     {
       "code": "GAZR",
-      "name": "Опционы на GAZP",
+      "name": "Опционы на акции GAZP",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "GAZP"
@@ -196,12 +196,12 @@
     },
     {
       "code": "GL",
-      "name": "Опционы на GLDRUB_TOM",
+      "name": "Опционы на золото",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "asset": "XAU"
@@ -210,12 +210,12 @@
     },
     {
       "code": "GMKN",
-      "name": "Опционы на GMKN",
+      "name": "Опционы на акции GMKN",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "GMKN"
@@ -223,7 +223,7 @@
     },
     {
       "code": "GOLD",
-      "name": "Опционы на GOLD",
+      "name": "Опционы на фьючерсы GOLD",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -239,7 +239,7 @@
     },
     {
       "code": "HANG",
-      "name": "Опционы на HANG",
+      "name": "Опционы на фьючерсы HANG",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "HKD",
@@ -255,7 +255,7 @@
     },
     {
       "code": "HYDR",
-      "name": "Опционы на HYDR",
+      "name": "Опционы на фьючерсы HYDR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -271,12 +271,12 @@
     },
     {
       "code": "IMX",
-      "name": "Опционы на IMOEX",
+      "name": "Опционы на индекс МосБиржи",
       "venue": "MISX",
       "quoteUnit": "Points",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "reference": {
@@ -287,7 +287,7 @@
     },
     {
       "code": "IRAO",
-      "name": "Опционы на IRAO",
+      "name": "Опционы на фьючерсы IRAO",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -303,12 +303,12 @@
     },
     {
       "code": "ISKJ",
-      "name": "Опционы на ABIO",
+      "name": "Опционы на акции ABIO",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "ABIO"
@@ -316,12 +316,12 @@
     },
     {
       "code": "LKOH",
-      "name": "Опционы на LKOH",
+      "name": "Опционы на акции LKOH",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "LKOH"
@@ -329,7 +329,7 @@
     },
     {
       "code": "MAGN",
-      "name": "Опционы на MAGN",
+      "name": "Опционы на фьючерсы MAGN",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -345,12 +345,12 @@
     },
     {
       "code": "MGNT",
-      "name": "Опционы на MGNT",
+      "name": "Опционы на акции MGNT",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "MGNT"
@@ -358,7 +358,7 @@
     },
     {
       "code": "MIX",
-      "name": "Опционы на MIX",
+      "name": "Опционы на фьючерсы MIX",
       "venue": "MISX",
       "quoteUnit": "Points",
       "quoteAsset": "RUB",
@@ -374,12 +374,12 @@
     },
     {
       "code": "MOEX",
-      "name": "Опционы на MOEX",
+      "name": "Опционы на акции MOEX",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "MOEX"
@@ -387,12 +387,12 @@
     },
     {
       "code": "MSNG",
-      "name": "Опционы на MSNG",
+      "name": "Опционы на акции MSNG",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "MSNG"
@@ -400,12 +400,12 @@
     },
     {
       "code": "MTLR",
-      "name": "Опционы на MTLR",
+      "name": "Опционы на акции MTLR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "MTLR"
@@ -413,12 +413,12 @@
     },
     {
       "code": "MTSI",
-      "name": "Опционы на MTSS",
+      "name": "Опционы на акции MTSS",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "MTSS"
@@ -426,7 +426,7 @@
     },
     {
       "code": "MXI",
-      "name": "Опционы на MXI",
+      "name": "Опционы на фьючерсы MXI",
       "venue": "MISX",
       "quoteUnit": "Points",
       "quoteAsset": "RUB",
@@ -442,7 +442,7 @@
     },
     {
       "code": "NASD",
-      "name": "Опционы на NASD",
+      "name": "Опционы на фьючерсы NASD",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -458,7 +458,7 @@
     },
     {
       "code": "NG",
-      "name": "Опционы на NG",
+      "name": "Опционы на фьючерсы NG",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -474,7 +474,7 @@
     },
     {
       "code": "NLMK",
-      "name": "Опционы на NLMK",
+      "name": "Опционы на фьючерсы NLMK",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -490,12 +490,12 @@
     },
     {
       "code": "NOTK",
-      "name": "Опционы на NVTK",
+      "name": "Опционы на акции NVTK",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "NVTK"
@@ -503,12 +503,12 @@
     },
     {
       "code": "OZON",
-      "name": "Опционы на OZON",
+      "name": "Опционы на акции OZON",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "OZON"
@@ -516,7 +516,7 @@
     },
     {
       "code": "PLT",
-      "name": "Опционы на PLT",
+      "name": "Опционы на фьючерсы PLT",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -532,12 +532,12 @@
     },
     {
       "code": "PLZL",
-      "name": "Опционы на PLZL",
+      "name": "Опционы на акции PLZL",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "PLZL"
@@ -545,12 +545,12 @@
     },
     {
       "code": "POSI",
-      "name": "Опционы на POSI",
+      "name": "Опционы на акции POSI",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "POSI"
@@ -558,12 +558,12 @@
     },
     {
       "code": "ROSN",
-      "name": "Опционы на ROSN",
+      "name": "Опционы на акции ROSN",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "ROSN"
@@ -571,7 +571,7 @@
     },
     {
       "code": "RTKM",
-      "name": "Опционы на RTKM",
+      "name": "Опционы на фьючерсы RTKM",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -587,7 +587,7 @@
     },
     {
       "code": "RTS",
-      "name": "Опционы на RTS",
+      "name": "Опционы на фьючерсы RTS",
       "venue": "MISX",
       "quoteUnit": "Points",
       "quoteAsset": "USD",
@@ -603,12 +603,12 @@
     },
     {
       "code": "RUAL",
-      "name": "Опционы на RUAL",
+      "name": "Опционы на акции RUAL",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "RUAL"
@@ -616,7 +616,7 @@
     },
     {
       "code": "SBPR",
-      "name": "Опционы на SBPR",
+      "name": "Опционы на фьючерсы SBPR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -632,12 +632,12 @@
     },
     {
       "code": "SBRF",
-      "name": "Опционы на SBER",
+      "name": "Опционы на акции SBER",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "SBER"
@@ -645,12 +645,12 @@
     },
     {
       "code": "SIBN",
-      "name": "Опционы на SIBN",
+      "name": "Опционы на акции SIBN",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "SIBN"
@@ -658,7 +658,7 @@
     },
     {
       "code": "SILV",
-      "name": "Опционы на SILV",
+      "name": "Опционы на фьючерсы SILV",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -674,12 +674,12 @@
     },
     {
       "code": "SL",
-      "name": "Опционы на SLVRUB_TOM",
+      "name": "Опционы на серебро",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "asset": "XAG"
@@ -688,12 +688,12 @@
     },
     {
       "code": "SMLT",
-      "name": "Опционы на SMLT",
+      "name": "Опционы на акции SMLT",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "SMLT"
@@ -701,7 +701,7 @@
     },
     {
       "code": "SNGP",
-      "name": "Опционы на SNGP",
+      "name": "Опционы на фьючерсы SNGP",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -717,7 +717,7 @@
     },
     {
       "code": "SNGR",
-      "name": "Опционы на SNGR",
+      "name": "Опционы на фьючерсы SNGR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -733,12 +733,12 @@
     },
     {
       "code": "SPBE",
-      "name": "Опционы на SPBE",
+      "name": "Опционы на акции SPBE",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "SPBE"
@@ -746,7 +746,7 @@
     },
     {
       "code": "SPYF",
-      "name": "Опционы на SPYF",
+      "name": "Опционы на фьючерсы SPYF",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -762,7 +762,7 @@
     },
     {
       "code": "STOX",
-      "name": "Опционы на STOX",
+      "name": "Опционы на фьючерсы STOX",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "EUR",
@@ -778,12 +778,12 @@
     },
     {
       "code": "SVCB",
-      "name": "Опционы на SVCB",
+      "name": "Опционы на акции SVCB",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "SVCB"
@@ -791,7 +791,7 @@
     },
     {
       "code": "Si",
-      "name": "Опционы на Si",
+      "name": "Опционы на фьючерсы Si",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -807,12 +807,12 @@
     },
     {
       "code": "TATN",
-      "name": "Опционы на TATN",
+      "name": "Опционы на акции TATN",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "TATN"
@@ -820,12 +820,12 @@
     },
     {
       "code": "TATP",
-      "name": "Опционы на TATNP",
+      "name": "Опционы на акции TATNP",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "TATNP"
@@ -833,12 +833,12 @@
     },
     {
       "code": "TCSI",
-      "name": "Опционы на T",
+      "name": "Опционы на акции T",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "T"
@@ -846,7 +846,7 @@
     },
     {
       "code": "TRNF",
-      "name": "Опционы на TRNF",
+      "name": "Опционы на фьючерсы TRNF",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -862,7 +862,7 @@
     },
     {
       "code": "UCNY",
-      "name": "Опционы на UCNY",
+      "name": "Опционы на фьючерсы UCNY",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "CNY",
@@ -878,12 +878,12 @@
     },
     {
       "code": "VKCO",
-      "name": "Опционы на VKCO",
+      "name": "Опционы на акции VKCO",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "VKCO"
@@ -891,7 +891,7 @@
     },
     {
       "code": "VTBR",
-      "name": "Опционы на VTBR",
+      "name": "Опционы на фьючерсы VTBR",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -907,7 +907,7 @@
     },
     {
       "code": "WHEAT",
-      "name": "Опционы на WHEAT",
+      "name": "Опционы на фьючерсы WHEAT",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
@@ -923,12 +923,12 @@
     },
     {
       "code": "YDEX",
-      "name": "Опционы на YDEX",
+      "name": "Опционы на акции YDEX",
       "venue": "MISX",
       "quoteUnit": "Currency",
       "quoteAsset": "RUB",
       "exerciseStyle": "European",
-      "settlementMethod": "Physical",
+      "settlementMethod": "Cash",
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "YDEX"

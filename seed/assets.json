@@ -175,7 +175,7 @@
     { "symbol": "COFFEE", "type": "Commodity", "name": "Coffee" },
     { "symbol": "SUGAR", "type": "Commodity", "name": "Sugar" },
     { "symbol": "WHEAT", "type": "Commodity", "name": "Wheat" },
-    { "symbol": "OJ", "type": "Commodity", "name": "Frozen Concentrated Orange Juice" },
+    { "symbol": "ORANGE", "type": "Commodity", "name": "Frozen Concentrated Orange Juice" },
     { "symbol": "BTC", "type": "Crypto", "name": "Bitcoin" },
     { "symbol": "ETH", "type": "Crypto", "name": "Ethereum" },
     { "symbol": "TRX", "type": "Crypto", "name": "TRON" },
