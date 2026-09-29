@@ -1,0 +1,1460 @@
+{
+  "products": [
+    {
+      "id": "01a0ed7b-4692-7568-bfb9-d6b0f3140254",
+      "code": "1000BONK_USDC-PERPETUAL",
+      "name": "1000BONK perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BONK"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-72bc-92f2-512ff07645b9",
+      "code": "1000MOG_USDC-PERPETUAL",
+      "name": "1000MOG perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "MOG"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7b1a-bc9f-96ff84ed10ea",
+      "code": "1000PEPE_USDC-PERPETUAL",
+      "name": "1000PEPE perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PEPE"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7e12-92c3-fa6004e762f7",
+      "code": "1000SHIB_USDC-PERPETUAL",
+      "name": "1000SHIB perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SHIB"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7fa6-87e1-ec9d080f3357",
+      "code": "AAVE_USDC-PERPETUAL",
+      "name": "AAVE perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "AAVE"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7ba7-8aea-921620858c64",
+      "code": "ADA_USDC-PERPETUAL",
+      "name": "ADA perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ADA"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7d13-9f36-1ffa5ef3b23a",
+      "code": "AERO_USDC-PERPETUAL",
+      "name": "AERO perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "AERO"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-78b3-a487-57fdad656f76",
+      "code": "ALGO_USDC-PERPETUAL",
+      "name": "ALGO perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ALGO"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-758b-8453-1bffd203eb85",
+      "code": "ALT_USDC-PERPETUAL",
+      "name": "ALT perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ALT"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7131-88f6-a8732eda2618",
+      "code": "APE_USDC-PERPETUAL",
+      "name": "APE perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "APE"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7c56-a26a-82f5f470a185",
+      "code": "APT_USDC-PERPETUAL",
+      "name": "APT perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "APT"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-755c-93cf-25cdea0c189a",
+      "code": "ARB_USDC-PERPETUAL",
+      "name": "ARB perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ARB"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7ce2-83c2-c636dbceafff",
+      "code": "ASTER_USDC-PERPETUAL",
+      "name": "ASTER perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ASTER"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7c8c-a6e7-1a5a2245cb61",
+      "code": "ATOM_USDC-PERPETUAL",
+      "name": "ATOM perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ATOM"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7da4-a9d3-f9136e0bafd7",
+      "code": "AVAX_USDC",
+      "name": "AVAX futures (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "AVAX"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7431-930d-02f3caf440a1",
+      "code": "AVAX_USDC-PERPETUAL",
+      "name": "AVAX perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "AVAX"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7e77-8531-232e60adefb6",
+      "code": "AVNT_USDC-PERPETUAL",
+      "name": "AVNT perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "AVNT"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-71f3-9004-59f2b6104e3c",
+      "code": "BASED1_USDC-PERPETUAL",
+      "name": "BASED1 perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BASED1"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7820-93ce-1e9a9bb953a1",
+      "code": "BCH_USDC-PERPETUAL",
+      "name": "BCH perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BCH"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7a7b-a9f1-64e7e5666f44",
+      "code": "BERA_USDC-PERPETUAL",
+      "name": "BERA perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BERA"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7cd7-98ae-a931e946350a",
+      "code": "BILL_USDC-PERPETUAL",
+      "name": "BILL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BILL"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7333-a3fe-331e120873c1",
+      "code": "BNB_USDC-PERPETUAL",
+      "name": "BNB perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BNB"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-787e-9344-a7a3bb1d2df9",
+      "code": "BOME_USDC-PERPETUAL",
+      "name": "BOME perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BOME"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-77e6-ad4c-b2d78c2bb249",
+      "code": "BRENTOIL_USDC-PERPETUAL",
+      "name": "BRENTOIL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BRENT"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7d88-87f0-8e0966a02e6d",
+      "code": "BTC",
+      "name": "BTC futures (inverse, settled in BTC)",
+      "venue": "DRBT",
+      "contractSize": 10.0,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7068-8c19-38ba922fab48",
+      "code": "BTC-PERPETUAL",
+      "name": "BTC perpetual (inverse, settled in BTC)",
+      "venue": "DRBT",
+      "contractSize": 10.0,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7805-b142-95bc583ea63a",
+      "code": "BTC_USDC",
+      "name": "BTC futures (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.0001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7076-be47-6f8b58663440",
+      "code": "BTC_USDC-PERPETUAL",
+      "name": "BTC perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.0001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7084-9d83-7d2b23a3e57b",
+      "code": "CFX_USDC-PERPETUAL",
+      "name": "CFX perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "CFX"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7cbc-9456-136136208f0c",
+      "code": "CHIP_USDC-PERPETUAL",
+      "name": "CHIP perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "CHIP"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7b6a-99a3-1038050b8a1b",
+      "code": "COMP_USDC-PERPETUAL",
+      "name": "COMP perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "COMP"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-73b8-b6a2-af14d9394d8c",
+      "code": "CRV_USDC-PERPETUAL",
+      "name": "CRV perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "CRV"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7390-b73e-008d91d4892e",
+      "code": "DASH_USDC-PERPETUAL",
+      "name": "DASH perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "DASH"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7a42-a603-91c620c93631",
+      "code": "DOGE_USDC-PERPETUAL",
+      "name": "DOGE perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "DOGE"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7b34-bfc8-575100cea714",
+      "code": "DOT_USDC-PERPETUAL",
+      "name": "DOT perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "DOT"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7bc2-b3a7-7c300f63d5d0",
+      "code": "DYDX_USDC-PERPETUAL",
+      "name": "DYDX perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "DYDX"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7e36-a8c3-4a59caa480b3",
+      "code": "EDGEX_USDC-PERPETUAL",
+      "name": "EDGEX perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "EDGEX"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7a62-9b22-a2bb805987ef",
+      "code": "EIGEN_USDC-PERPETUAL",
+      "name": "EIGEN perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "EIGEN"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-76f2-9184-aedb0cdd20d5",
+      "code": "ENA_USDC-PERPETUAL",
+      "name": "ENA perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ENA"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7905-a68c-3729efce60c7",
+      "code": "ETC_USDC-PERPETUAL",
+      "name": "ETC perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETC"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-75f4-8f11-12a5c5723c6c",
+      "code": "ETH",
+      "name": "ETH futures (inverse, settled in ETH)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7148-9221-b766bf6cd882",
+      "code": "ETH-PERPETUAL",
+      "name": "ETH perpetual (inverse, settled in ETH)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-75df-a76f-fdf33a05f34f",
+      "code": "ETHFI_USDC-PERPETUAL",
+      "name": "ETHFI perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETHFI"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7af1-a06c-0f68d1bac548",
+      "code": "ETH_USDC",
+      "name": "ETH futures (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-785b-98a5-5757b908a86d",
+      "code": "ETH_USDC-PERPETUAL",
+      "name": "ETH perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.0001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7002-8dbb-d414bb15789d",
+      "code": "EURC_USDC-PERPETUAL",
+      "name": "EURC perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "EURC"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-794e-9bcb-e054d0d0c115",
+      "code": "FARTCOIN_USDC-PERPETUAL",
+      "name": "FARTCOIN perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "FARTCOIN"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7f6a-bc9b-0aa96acb60b1",
+      "code": "FET_USDC-PERPETUAL",
+      "name": "FET perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "FET"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-79b8-8058-250cb192964d",
+      "code": "FIL_USDC-PERPETUAL",
+      "name": "FIL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "FIL"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7fe9-ab60-b72902ee23a8",
+      "code": "GOLD_USDC-PERPETUAL",
+      "name": "GOLD perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAU"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7c33-89ec-248b501f2c7f",
+      "code": "HBAR_USDC-PERPETUAL",
+      "name": "HBAR perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "HBAR"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7d9c-b236-d31f82baff92",
+      "code": "HYPE_USDC",
+      "name": "HYPE futures (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "HYPE"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7863-81b8-98bc86cd003a",
+      "code": "HYPE_USDC-PERPETUAL",
+      "name": "HYPE perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "HYPE"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7e1d-a552-6f5a41c4c087",
+      "code": "ICP_USDC-PERPETUAL",
+      "name": "ICP perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ICP"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-742e-ae2d-d9554450474b",
+      "code": "INJ_USDC-PERPETUAL",
+      "name": "INJ perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "INJ"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-77ff-8aaa-c8e1337ce012",
+      "code": "INX_USDC-PERPETUAL",
+      "name": "INX perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "INX"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7f5a-bcca-579a45083d76",
+      "code": "JASMY_USDC-PERPETUAL",
+      "name": "JASMY perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "JASMY"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-71a1-884f-6309e724c8ea",
+      "code": "JTO_USDC-PERPETUAL",
+      "name": "JTO perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "JTO"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-72cf-ba9d-38d90754213a",
+      "code": "JUP_USDC-PERPETUAL",
+      "name": "JUP perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "JUP"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7c23-b181-b0e94a5e5e61",
+      "code": "LDO_USDC-PERPETUAL",
+      "name": "LDO perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "LDO"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7705-9b77-1f6428d80888",
+      "code": "LINK_USDC-PERPETUAL",
+      "name": "LINK perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "LINK"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-77be-bf2d-364727f241f0",
+      "code": "LIT_USDC-PERPETUAL",
+      "name": "LIT perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "LIT"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7472-98c3-824322ce4ae1",
+      "code": "LTC_USDC-PERPETUAL",
+      "name": "LTC perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "LTC"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7352-98c1-3da891a78b56",
+      "code": "MEGA_USDC-PERPETUAL",
+      "name": "MEGA perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "MEGA"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7446-9a6c-700ae4ec3a7d",
+      "code": "MERL_USDC-PERPETUAL",
+      "name": "MERL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "MERL"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7415-acef-1cdd364eb064",
+      "code": "MON_USDC-PERPETUAL",
+      "name": "MON perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "MON"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-71fd-838d-fbe1e712261d",
+      "code": "MORPHO_USDC-PERPETUAL",
+      "name": "MORPHO perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "MORPHO"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7087-9561-d380ee9946ac",
+      "code": "NEAR_USDC-PERPETUAL",
+      "name": "NEAR perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "NEAR"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-701a-a517-8d96f662b2e5",
+      "code": "NIGHT_USDC-PERPETUAL",
+      "name": "NIGHT perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "NIGHT"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-72af-b17b-cc7b94ef1cb1",
+      "code": "ONDO_USDC-PERPETUAL",
+      "name": "ONDO perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ONDO"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-70e9-b3ed-26e1bbb2e9d8",
+      "code": "OPG_USDC-PERPETUAL",
+      "name": "OPG perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "OPG"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7afd-abd3-81dd9286da66",
+      "code": "OPN_USDC-PERPETUAL",
+      "name": "OPN perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "OPN"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-78f2-bf0e-c0a101abd330",
+      "code": "OP_USDC-PERPETUAL",
+      "name": "OP perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "OP"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-76ea-9dbe-3d4e6952d81a",
+      "code": "PAXG_USDC-PERPETUAL",
+      "name": "PAXG perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.0001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PAXG"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-784a-8212-ecd4b19b8beb",
+      "code": "PENDLE_USDC-PERPETUAL",
+      "name": "PENDLE perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PENDLE"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-777a-a4f2-9dc4346347be",
+      "code": "PENGU_USDC-PERPETUAL",
+      "name": "PENGU perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PENGU"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7812-b362-5eea4e589d6e",
+      "code": "PNUT_USDC-PERPETUAL",
+      "name": "PNUT perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PNUT"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-713a-8249-e7b81c2ffb47",
+      "code": "POL_USDC-PERPETUAL",
+      "name": "POL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "POL"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-773d-8dde-8f55ce0100b0",
+      "code": "PRL_USDC-PERPETUAL",
+      "name": "PRL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PRL"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7920-ba9a-30383c72b12d",
+      "code": "PUMP_USDC-PERPETUAL",
+      "name": "PUMP perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PUMP"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7b8f-bfba-fefa63cb1890",
+      "code": "PYTH_USDC-PERPETUAL",
+      "name": "PYTH perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PYTH"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7fa0-9b8f-841d18421080",
+      "code": "RENDER_USDC-PERPETUAL",
+      "name": "RENDER perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "RENDER"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7acb-9aba-bdb55e4fb643",
+      "code": "RESOLV_USDC-PERPETUAL",
+      "name": "RESOLV perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "RESOLV"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7745-bfa9-dfe3a34444f8",
+      "code": "ROBO_USDC-PERPETUAL",
+      "name": "ROBO perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ROBO"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7208-b0e9-d696040b7e66",
+      "code": "RUNE_USDC-PERPETUAL",
+      "name": "RUNE perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "RUNE"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7d6d-8495-28be44b8b134",
+      "code": "SAGA_USDC-PERPETUAL",
+      "name": "SAGA perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SAGA"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7c16-b009-db372aed9b08",
+      "code": "SEI_USDC-PERPETUAL",
+      "name": "SEI perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SEI"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7261-aae3-103966cf8120",
+      "code": "SILVER_USDC-PERPETUAL",
+      "name": "SILVER perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAG"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7f6c-b4f2-42d554bfd3e6",
+      "code": "SOL_USDC",
+      "name": "SOL futures (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SOL"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-791e-8b6a-f1a2e38d9273",
+      "code": "SOL_USDC-PERPETUAL",
+      "name": "SOL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SOL"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7a03-8cbb-4251730b8631",
+      "code": "STRK_USDC-PERPETUAL",
+      "name": "STRK perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "STRK"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-780b-a9e6-acd690256479",
+      "code": "SUI_USDC-PERPETUAL",
+      "name": "SUI perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "SUI"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-76c8-9690-8d19edc42d99",
+      "code": "S_USDC-PERPETUAL",
+      "name": "S perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "S"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-79fe-b8ca-1511f7e01ee3",
+      "code": "TAO_USDC-PERPETUAL",
+      "name": "TAO perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TAO"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7ec4-b6c5-bb9b43b43fab",
+      "code": "TIA_USDC-PERPETUAL",
+      "name": "TIA perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TIA"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-798c-8b17-fc4566d8b05c",
+      "code": "TOWNS_USDC-PERPETUAL",
+      "name": "TOWNS perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TOWNS"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7293-9f4e-365014e2de6a",
+      "code": "TRUMP_USDC-PERPETUAL",
+      "name": "TRUMP perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TRUMP"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-762c-8538-5a1a96c81dea",
+      "code": "TRX_USDC",
+      "name": "TRX futures (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 2,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TRX"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7c67-ac36-582d4121041c",
+      "code": "TRX_USDC-PERPETUAL",
+      "name": "TRX perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TRX"
+      }
+    },
+    {
+      "id": "01a0ed7b-469a-7376-b9c6-72521c0c917d",
+      "code": "UNI_USDC-PERPETUAL",
+      "name": "UNI perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "UNI"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-767e-a5f7-3c610c6748bb",
+      "code": "VIRTUAL_USDC-PERPETUAL",
+      "name": "VIRTUAL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "VIRTUAL"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-79fe-ba69-26072fa8fd8b",
+      "code": "VVV_USDC-PERPETUAL",
+      "name": "VVV perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "VVV"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-7d12-bbf8-620011e7335c",
+      "code": "WIF_USDC-PERPETUAL",
+      "name": "WIF perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "WIF"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-707c-a43a-b7778d157598",
+      "code": "WLD_USDC-PERPETUAL",
+      "name": "WLD perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "WLD"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-7bf2-aa90-8610db4b8c7e",
+      "code": "WLFI_USDC-PERPETUAL",
+      "name": "WLFI perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "WLFI"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-7b01-bdae-2f324f66df83",
+      "code": "WTIOIL_USDC-PERPETUAL",
+      "name": "WTIOIL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "WTI"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-7eaf-861d-b55d6eb9e49b",
+      "code": "W_USDC-PERPETUAL",
+      "name": "W perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "W"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-70e4-858c-8f406a8b2755",
+      "code": "XLM_USDC-PERPETUAL",
+      "name": "XLM perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XLM"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-738c-b92e-d8cc59cc203c",
+      "code": "XPL_USDC-PERPETUAL",
+      "name": "XPL perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XPL"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-73fc-9617-1f7a755493f0",
+      "code": "XRP_USDC",
+      "name": "XRP futures (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XRP"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-7bf6-a7e9-790d76a8fcb2",
+      "code": "XRP_USDC-PERPETUAL",
+      "name": "XRP perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XRP"
+      }
+    },
+    {
+      "id": "01a0ed7b-469b-7b0c-bec9-7b51ef851b8b",
+      "code": "ZEC_USDC-PERPETUAL",
+      "name": "ZEC perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ZEC"
+      }
+    }
+  ]
+}

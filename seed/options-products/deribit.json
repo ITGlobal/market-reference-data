@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": "01a0ed7b-46a0-7cf2-8a99-2eaa0a8b7561",
+      "code": "AVAX_USDC",
+      "name": "AVAX options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "AVAX"
+      }
+    },
+    {
+      "id": "01a0ed7b-46a2-759e-b403-702a04707b26",
+      "code": "BTC",
+      "name": "BTC options (inverse, settled in BTC)",
+      "venue": "DRBT",
+      "contractSize": 1.0,
+      "quoteUnit": "Currency",
+      "quoteAsset": "BTC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
+      "id": "01a0ed7b-46a2-7b91-918b-a38ba38664dc",
+      "code": "BTC_USDC",
+      "name": "BTC options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1.0,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
+      "id": "01a0ed7b-46a2-7fcd-a7cb-49d9d87c5961",
+      "code": "ETH",
+      "name": "ETH options (inverse, settled in ETH)",
+      "venue": "DRBT",
+      "contractSize": 1.0,
+      "quoteUnit": "Currency",
+      "quoteAsset": "ETH",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "id": "01a0ed7b-46a2-7683-a4ac-3d072c992188",
+      "code": "ETH_USDC",
+      "name": "ETH options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1.0,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "id": "01a0ed7b-46a2-7313-9d4c-b180c2702cf2",
+      "code": "HYPE_USDC",
+      "name": "HYPE options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "HYPE"
+      }
+    },
+    {
+      "id": "01a0ed7b-46a2-7c0f-a8ef-5c92ea48fb23",
+      "code": "SOL_USDC",
+      "name": "SOL options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "SOL"
+      }
+    },
+    {
+      "id": "01a0ed7b-46a2-7266-80cd-32ab9902a40d",
+      "code": "TRX_USDC",
+      "name": "TRX options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 10000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "TRX"
+      }
+    },
+    {
+      "id": "01a0ed7b-46a2-7615-bfe4-73f456355a03",
+      "code": "XRP_USDC",
+      "name": "XRP options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "XRP"
+      }
+    }
+  ]
+}

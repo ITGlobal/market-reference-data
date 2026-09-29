@@ -1239,6 +1239,594 @@
       "type": "Crypto",
       "name": "Solana",
       "id": "01a0ec4b-0446-7bb9-a267-5b4aec4fb8d8"
+    },
+    {
+      "symbol": "AAVE",
+      "type": "Crypto",
+      "name": "Aave",
+      "id": "01a0ed47-b495-7975-9b2d-ade8c328471b"
+    },
+    {
+      "symbol": "ADA",
+      "type": "Crypto",
+      "name": "Cardano",
+      "id": "01a0ed47-b495-7c1d-bc27-16cb932262ff"
+    },
+    {
+      "symbol": "AERO",
+      "type": "Crypto",
+      "name": "Aerodrome Finance",
+      "id": "01a0ed47-b495-7c8e-88c8-fca3650058d1"
+    },
+    {
+      "symbol": "ALGO",
+      "type": "Crypto",
+      "name": "Algorand",
+      "id": "01a0ed47-b495-77e0-943a-36abb7cd3430"
+    },
+    {
+      "symbol": "ALT",
+      "type": "Crypto",
+      "name": "Altlayer",
+      "id": "01a0ed47-b495-7d9a-8190-afd27875abda"
+    },
+    {
+      "symbol": "APE",
+      "type": "Crypto",
+      "name": "ApeCoin",
+      "id": "01a0ed47-b495-7428-9729-5a84352028e8"
+    },
+    {
+      "symbol": "APT",
+      "type": "Crypto",
+      "name": "Aptos",
+      "id": "01a0ed47-b495-7c3f-8db4-0df757a38264"
+    },
+    {
+      "symbol": "ARB",
+      "type": "Crypto",
+      "name": "Arbitrum",
+      "id": "01a0ed47-b495-7d94-9b5f-d0616d0eff2b"
+    },
+    {
+      "symbol": "ASTER",
+      "type": "Crypto",
+      "name": "Aster",
+      "id": "01a0ed47-b495-70df-a3cb-31bd11721696"
+    },
+    {
+      "symbol": "ATOM",
+      "type": "Crypto",
+      "name": "Cosmos",
+      "id": "01a0ed47-b495-7a6c-bd19-bb0fc0a308af"
+    },
+    {
+      "symbol": "AVAX",
+      "type": "Crypto",
+      "name": "Avalanche",
+      "id": "01a0ed47-b495-7ab4-b7e2-f21d673de95d"
+    },
+    {
+      "symbol": "AVNT",
+      "type": "Crypto",
+      "name": "Avantis",
+      "id": "01a0ed47-b495-7bde-88e9-e7a549de4a95"
+    },
+    {
+      "symbol": "BASED1",
+      "type": "Crypto",
+      "name": "Based One",
+      "id": "01a0ed47-b495-72e7-aebc-007ca15d3013"
+    },
+    {
+      "symbol": "BCH",
+      "type": "Crypto",
+      "name": "Bitcoin Cash",
+      "id": "01a0ed47-b495-74a2-86c6-50a028571018"
+    },
+    {
+      "symbol": "BERA",
+      "type": "Crypto",
+      "name": "Berachain",
+      "id": "01a0ed47-b495-7e44-b7b8-31eba4e230ec"
+    },
+    {
+      "symbol": "BILL",
+      "type": "Crypto",
+      "name": "Billions Network",
+      "id": "01a0ed47-b495-7360-a3aa-856c9256d697"
+    },
+    {
+      "symbol": "BNB",
+      "type": "Crypto",
+      "name": "BNB",
+      "id": "01a0ed47-b495-75c9-9d2f-82ea5dab4067"
+    },
+    {
+      "symbol": "BOME",
+      "type": "Crypto",
+      "name": "BOOK OF MEME",
+      "id": "01a0ed47-b495-7394-876a-6125640c93e3"
+    },
+    {
+      "symbol": "BONK",
+      "type": "Crypto",
+      "name": "Bonk",
+      "id": "01a0ed47-b495-729e-b3db-7d6428e86ced"
+    },
+    {
+      "symbol": "CFX",
+      "type": "Crypto",
+      "name": "Conflux",
+      "id": "01a0ed47-b495-720c-9500-d2486ddc3921"
+    },
+    {
+      "symbol": "CHIP",
+      "type": "Crypto",
+      "name": "USD.AI",
+      "id": "01a0ed47-b495-7383-b65c-3863f47e659a"
+    },
+    {
+      "symbol": "COMP",
+      "type": "Crypto",
+      "name": "Compound",
+      "id": "01a0ed47-b495-79b7-8b3b-c235dcb7f1dd"
+    },
+    {
+      "symbol": "CRV",
+      "type": "Crypto",
+      "name": "Curve DAO Token",
+      "id": "01a0ed47-b495-7de2-b705-13727df60df4"
+    },
+    {
+      "symbol": "DASH",
+      "type": "Crypto",
+      "name": "Dash",
+      "id": "01a0ed47-b495-79c9-b521-461d4055b9cb"
+    },
+    {
+      "symbol": "DOGE",
+      "type": "Crypto",
+      "name": "Dogecoin",
+      "id": "01a0ed47-b495-72c5-93e7-1d54820c7c8b"
+    },
+    {
+      "symbol": "DOT",
+      "type": "Crypto",
+      "name": "Polkadot",
+      "id": "01a0ed47-b495-7bb2-9155-16417fda5d54"
+    },
+    {
+      "symbol": "DYDX",
+      "type": "Crypto",
+      "name": "dYdX",
+      "id": "01a0ed47-b495-71a0-8248-e6315b07d771"
+    },
+    {
+      "symbol": "EDGEX",
+      "type": "Crypto",
+      "name": "Edgex",
+      "id": "01a0ed47-b495-766d-b6ac-e11bdfcce8fc"
+    },
+    {
+      "symbol": "EIGEN",
+      "type": "Crypto",
+      "name": "Eigenlayer",
+      "id": "01a0ed47-b495-73c9-9555-2915f7cd2e0f"
+    },
+    {
+      "symbol": "ENA",
+      "type": "Crypto",
+      "name": "Ethena",
+      "id": "01a0ed47-b495-79ff-b990-4ac5012203b5"
+    },
+    {
+      "symbol": "ETC",
+      "type": "Crypto",
+      "name": "Ethereum Classic",
+      "id": "01a0ed47-b495-71eb-9c74-1c8fdbca0a95"
+    },
+    {
+      "symbol": "ETHFI",
+      "type": "Crypto",
+      "name": "Ether.Fi",
+      "id": "01a0ed47-b495-74e4-9299-d1e00d3a2246"
+    },
+    {
+      "symbol": "FARTCOIN",
+      "type": "Crypto",
+      "name": "Fartcoin",
+      "id": "01a0ed47-b495-7224-9c7b-eb375a7d99e1"
+    },
+    {
+      "symbol": "FET",
+      "type": "Crypto",
+      "name": "Fetch.ai",
+      "id": "01a0ed47-b495-7137-ab5d-a75c1b6afaeb"
+    },
+    {
+      "symbol": "FIL",
+      "type": "Crypto",
+      "name": "Filecoin",
+      "id": "01a0ed47-b495-7d3f-97b4-2b98055b79fd"
+    },
+    {
+      "symbol": "HBAR",
+      "type": "Crypto",
+      "name": "Hedera",
+      "id": "01a0ed47-b495-7d83-b818-9f530e70ecc1"
+    },
+    {
+      "symbol": "HYPE",
+      "type": "Crypto",
+      "name": "Hyperliquid",
+      "id": "01a0ed47-b495-7a8c-9e3f-b09ec5586ec0"
+    },
+    {
+      "symbol": "ICP",
+      "type": "Crypto",
+      "name": "Internet Computer",
+      "id": "01a0ed47-b495-7b6f-beea-869527095137"
+    },
+    {
+      "symbol": "INJ",
+      "type": "Crypto",
+      "name": "Injective",
+      "id": "01a0ed47-b495-7137-921f-83f1591fad5c"
+    },
+    {
+      "symbol": "INX",
+      "type": "Crypto",
+      "name": "Infinex",
+      "id": "01a0ed47-b495-7916-b4c2-4f5660cf02bc"
+    },
+    {
+      "symbol": "JASMY",
+      "type": "Crypto",
+      "name": "JasmyCoin",
+      "id": "01a0ed47-b495-73f7-a043-3da886d4ab72"
+    },
+    {
+      "symbol": "JTO",
+      "type": "Crypto",
+      "name": "Jito",
+      "id": "01a0ed47-b495-7edc-8941-b0d91f20fdca"
+    },
+    {
+      "symbol": "JUP",
+      "type": "Crypto",
+      "name": "Jupiter",
+      "id": "01a0ed47-b495-7310-aa9c-75dff0f5484a"
+    },
+    {
+      "symbol": "LDO",
+      "type": "Crypto",
+      "name": "Lido DAO",
+      "id": "01a0ed47-b495-757b-ba59-d08b781e4fda"
+    },
+    {
+      "symbol": "LINK",
+      "type": "Crypto",
+      "name": "Chainlink",
+      "id": "01a0ed47-b495-7114-ae41-761733ef8d62"
+    },
+    {
+      "symbol": "LIT",
+      "type": "Crypto",
+      "name": "Litentry",
+      "id": "01a0ed47-b495-7e5d-a329-0e431420894b"
+    },
+    {
+      "symbol": "LTC",
+      "type": "Crypto",
+      "name": "Litecoin",
+      "id": "01a0ed47-b495-7eb2-99df-f10fe4315c2b"
+    },
+    {
+      "symbol": "MEGA",
+      "type": "Crypto",
+      "name": "MegaETH",
+      "id": "01a0ed47-b495-7441-ad8b-cdbebaba8ff1"
+    },
+    {
+      "symbol": "MERL",
+      "type": "Crypto",
+      "name": "Merlin Chain",
+      "id": "01a0ed47-b495-7b7b-a177-bb0a4e7b3104"
+    },
+    {
+      "symbol": "MOG",
+      "type": "Crypto",
+      "name": "Mog Coin",
+      "id": "01a0ed47-b495-7762-a71a-f963fe7bc1ef"
+    },
+    {
+      "symbol": "MON",
+      "type": "Crypto",
+      "name": "Monad",
+      "id": "01a0ed47-b495-726b-9280-f3ad77b91742"
+    },
+    {
+      "symbol": "MORPHO",
+      "type": "Crypto",
+      "name": "Morpho",
+      "id": "01a0ed47-b495-71cc-9ea5-98be13bdb990"
+    },
+    {
+      "symbol": "NEAR",
+      "type": "Crypto",
+      "name": "NEAR Protocol",
+      "id": "01a0ed47-b495-7339-8b71-b2e8b5f6d718"
+    },
+    {
+      "symbol": "NIGHT",
+      "type": "Crypto",
+      "name": "Midnight",
+      "id": "01a0ed47-b495-7120-bb13-1111f4cb1cfc"
+    },
+    {
+      "symbol": "ONDO",
+      "type": "Crypto",
+      "name": "Ondo",
+      "id": "01a0ed47-b495-77f3-b774-1a4457657925"
+    },
+    {
+      "symbol": "OP",
+      "type": "Crypto",
+      "name": "Optimism",
+      "id": "01a0ed47-b495-7202-acb5-7f0c66499972"
+    },
+    {
+      "symbol": "OPG",
+      "type": "Crypto",
+      "name": "Opengradient",
+      "id": "01a0ed47-b495-7464-9117-ab33c838cc42"
+    },
+    {
+      "symbol": "OPN",
+      "type": "Crypto",
+      "name": "OPINION",
+      "id": "01a0ed47-b495-72ad-a41c-8ce05ac60c09"
+    },
+    {
+      "symbol": "PAXG",
+      "type": "Crypto",
+      "name": "Pax Gold",
+      "id": "01a0ed47-b495-75da-ae6d-9ba585db2d4b"
+    },
+    {
+      "symbol": "PENDLE",
+      "type": "Crypto",
+      "name": "Pendle",
+      "id": "01a0ed47-b495-7c99-90bc-0f0fd62ad92e"
+    },
+    {
+      "symbol": "PENGU",
+      "type": "Crypto",
+      "name": "Pudgy Penguins",
+      "id": "01a0ed47-b495-72a6-88e6-f3d5ac113557"
+    },
+    {
+      "symbol": "PEPE",
+      "type": "Crypto",
+      "name": "Pepe",
+      "id": "01a0ed47-b495-7b00-8e3b-494a8b6c8278"
+    },
+    {
+      "symbol": "PNUT",
+      "type": "Crypto",
+      "name": "Peanut The Squirrel",
+      "id": "01a0ed47-b495-763a-b8ee-d92b719a5c5a"
+    },
+    {
+      "symbol": "POL",
+      "type": "Crypto",
+      "name": "Polygon Ecosystem Token",
+      "id": "01a0ed47-b495-7066-886e-c7710ae64da5"
+    },
+    {
+      "symbol": "PRL",
+      "type": "Crypto",
+      "name": "Perle",
+      "id": "01a0ed47-b495-79e4-b2e6-c500d37cf739"
+    },
+    {
+      "symbol": "PUMP",
+      "type": "Crypto",
+      "name": "Pump.fun",
+      "id": "01a0ed47-b495-72f7-8551-8c04e1956df6"
+    },
+    {
+      "symbol": "PYTH",
+      "type": "Crypto",
+      "name": "Pyth Network",
+      "id": "01a0ed47-b495-76fc-b986-fc418edd4bfc"
+    },
+    {
+      "symbol": "RENDER",
+      "type": "Crypto",
+      "name": "Render Network",
+      "id": "01a0ed47-b495-7c43-8e42-710e0efe84c7"
+    },
+    {
+      "symbol": "RESOLV",
+      "type": "Crypto",
+      "name": "Resolv",
+      "id": "01a0ed47-b495-76a6-9c17-d687bed6688c"
+    },
+    {
+      "symbol": "ROBO",
+      "type": "Crypto",
+      "name": "Robo Token",
+      "id": "01a0ed47-b495-74aa-a604-4e56afc7ffb4"
+    },
+    {
+      "symbol": "RUNE",
+      "type": "Crypto",
+      "name": "THORChain",
+      "id": "01a0ed47-b495-712a-8208-d1ccf5f2612a"
+    },
+    {
+      "symbol": "S",
+      "type": "Crypto",
+      "name": "Sonic",
+      "id": "01a0ed47-b495-775e-9a31-94d370112ce6"
+    },
+    {
+      "symbol": "SAGA",
+      "type": "Crypto",
+      "name": "Saga",
+      "id": "01a0ed47-b495-7f0b-ba7c-309e799f9464"
+    },
+    {
+      "symbol": "SEI",
+      "type": "Crypto",
+      "name": "Sei",
+      "id": "01a0ed47-b495-7f6a-9901-4790de3e8517"
+    },
+    {
+      "symbol": "SHIB",
+      "type": "Crypto",
+      "name": "Shiba Inu",
+      "id": "01a0ed47-b495-7bdf-9005-e3ab383803c5"
+    },
+    {
+      "symbol": "STRK",
+      "type": "Crypto",
+      "name": "Starknet",
+      "id": "01a0ed47-b495-72d0-9435-49755df345eb"
+    },
+    {
+      "symbol": "SUI",
+      "type": "Crypto",
+      "name": "Sui",
+      "id": "01a0ed47-b495-7740-abdf-bab0b99ef246"
+    },
+    {
+      "symbol": "TAO",
+      "type": "Crypto",
+      "name": "Bittensor",
+      "id": "01a0ed47-b495-7dd3-a994-824c30a38e7d"
+    },
+    {
+      "symbol": "TIA",
+      "type": "Crypto",
+      "name": "Celestia",
+      "id": "01a0ed47-b495-7bb4-af55-ebd76ec6fa98"
+    },
+    {
+      "symbol": "TOWNS",
+      "type": "Crypto",
+      "name": "Towns Protocol",
+      "id": "01a0ed47-b495-7207-aa6e-57f1bab4c9d8"
+    },
+    {
+      "symbol": "TRUMP",
+      "type": "Crypto",
+      "name": "Official Trump",
+      "id": "01a0ed47-b495-7428-97b7-cc0d48b86774"
+    },
+    {
+      "symbol": "UNI",
+      "type": "Crypto",
+      "name": "Uniswap",
+      "id": "01a0ed47-b495-7f84-9f54-1c147b0eca07"
+    },
+    {
+      "symbol": "VIRTUAL",
+      "type": "Crypto",
+      "name": "Virtuals Protocol",
+      "id": "01a0ed47-b495-7a30-9b9d-0758a72d3a7b"
+    },
+    {
+      "symbol": "VVV",
+      "type": "Crypto",
+      "name": "Venice Token",
+      "id": "01a0ed47-b495-7e56-a822-651598b08947"
+    },
+    {
+      "symbol": "W",
+      "type": "Crypto",
+      "name": "Wormhole",
+      "id": "01a0ed47-b495-730c-a2a0-d368c15a77bf"
+    },
+    {
+      "symbol": "WIF",
+      "type": "Crypto",
+      "name": "Dogwifhat",
+      "id": "01a0ed47-b495-7736-b02b-34b08c0178e2"
+    },
+    {
+      "symbol": "WLD",
+      "type": "Crypto",
+      "name": "Worldcoin",
+      "id": "01a0ed47-b495-7706-98cf-6fe8ba4e47fd"
+    },
+    {
+      "symbol": "WLFI",
+      "type": "Crypto",
+      "name": "World Liberty Financial",
+      "id": "01a0ed47-b495-7c49-ad61-298ae7828068"
+    },
+    {
+      "symbol": "XLM",
+      "type": "Crypto",
+      "name": "Stellar",
+      "id": "01a0ed47-b495-75ec-b28d-2236b063cade"
+    },
+    {
+      "symbol": "XPL",
+      "type": "Crypto",
+      "name": "Plasma",
+      "id": "01a0ed47-b495-761a-8d34-046d4c8e00db"
+    },
+    {
+      "symbol": "ZEC",
+      "type": "Crypto",
+      "name": "Zcash",
+      "id": "01a0ed47-b495-78aa-8084-50071833076e"
+    },
+    {
+      "symbol": "EURC",
+      "type": "Stablecoin",
+      "name": "Euro Coin",
+      "id": "01a0ed47-b495-785c-979e-f855ef5700f4"
+    },
+    {
+      "symbol": "USDC",
+      "type": "Stablecoin",
+      "name": "USD Coin",
+      "id": "01a0ed47-b495-7ab7-8e2b-c7af853c7599"
+    },
+    {
+      "symbol": "STETH",
+      "type": "Crypto",
+      "name": "Lido Staked Ether",
+      "id": "01a0ed84-7f54-7272-8742-6b33d5ea8856"
+    },
+    {
+      "symbol": "THETA",
+      "type": "Crypto",
+      "name": "Theta Network",
+      "id": "01a0ed84-7f54-7e81-808a-d999cb03dc79"
+    },
+    {
+      "symbol": "USYC",
+      "type": "Crypto",
+      "name": "USYC",
+      "id": "01a0ed84-7f54-74c9-9f3a-711a59601a31"
+    },
+    {
+      "symbol": "USDE",
+      "type": "Stablecoin",
+      "name": "Ethena USDe",
+      "id": "01a0ed84-7f54-71f0-b29f-d2221df75c49"
+    },
+    {
+      "symbol": "USDT",
+      "type": "Stablecoin",
+      "name": "Tether",
+      "id": "01a0ed84-7f54-7ba5-9fd7-e8f004596a5f"
     }
   ]
 }
