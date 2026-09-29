@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schema/venues.schema.json",
   "venues": [
     {
       "id": "01a0ec4b-0435-752c-b2a2-95c22a299a8b",

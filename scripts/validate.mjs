@@ -8,12 +8,15 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const schemaDir = join(root, "schema");
 const seedDir = join(root, "seed");
 
+// Заглушка, которую генераторы сидов ставят вместо значения, которое не смогли определить.
+const REVIEW_PLACEHOLDER = "REVIEW_REQUIRED";
+
 // One entry per register seed category. `dir: true` categories accept any number of
 // *.json files contributed by different sources (see admin's SeedFileLoader.ReadDirectoryAsync);
 // `dir: false` categories are single files written by exactly one source.
 const categories = [
   { schema: "assets.schema.json", target: "assets.json", dir: false },
-  { schema: "securities.schema.json", target: "securities.json", dir: false },
+  { schema: "securities.schema.json", target: "securities", dir: true },
   { schema: "venues.schema.json", target: "venues", dir: true },
   { schema: "reference-instruments.schema.json", target: "reference-instruments", dir: true },
   { schema: "futures-products.schema.json", target: "futures-products", dir: true },
@@ -106,6 +109,8 @@ function checkReferences() {
   };
 
   const need = (keys, key, file, where, what) => {
+    // Заглушка генератора уже отмечена отдельной ошибкой ниже — не дублируем её как битую ссылку.
+    if (key === REVIEW_PLACEHOLDER) return;
     if (!keys.has(key)) fail(`${file}: ${where}: unknown ${what} ${key}`);
   };
 
@@ -114,19 +119,55 @@ function checkReferences() {
 
   const venueItems = rows("venues", "venues");
   const boardItems = venueItems.flatMap(({ file, row }) =>
-    (row.boards ?? []).map((board) => ({ file, row: { key: `${row.mic}/${board.code}` } })),
+    (row.boards ?? []).map((board) => ({ file, row: { key: `${row.mic}/${board.code}`, id: board.id } })),
   );
-  const securityItems = rows("securities.json", "securities");
+  const securityItems = rows("securities", "securities");
   const referenceItems = rows("reference-instruments", "instruments");
   const futuresItems = rows("futures-products", "products");
   const optionsItems = rows("options-products", "products");
 
+  const assetItems = rows("assets.json", "assets");
+
+  // id сквозной по всем данным: один uuid не может принадлежать двум записям, даже разного вида.
+  // Сравнение без учёта регистра — схема допускает hex в обоих регистрах.
+  const ids = new Map();
+  const entities = [
+    [venueItems, "venue", (v) => v.mic],
+    [boardItems, "board", (b) => b.key],
+    [assetItems, "asset", (a) => a.symbol],
+    [securityItems, "security", (s) => s.key],
+    [referenceItems, "reference instrument", refKey],
+    [futuresItems, "futures product", (p) => `${p.venue}/${p.code}`],
+    [optionsItems, "options product", (p) => `${p.venue}/${p.code}`],
+  ];
+  for (const [items, what, keyOf] of entities) {
+    for (const { file, row } of items) {
+      const id = row.id.toLowerCase();
+      const owner = `${what} ${keyOf(row)} (${file})`;
+      if (ids.has(id)) {
+        fail(`${file}: duplicate id ${row.id} on ${owner}, already used by ${ids.get(id)}`);
+      } else {
+        ids.set(id, owner);
+      }
+    }
+  }
+
+  // Генератор ставит REVIEW_REQUIRED, когда не смог определить значение сам; такая строка
+  // не заливается провижном, поэтому в сиде её быть не должно — значение нужно заполнить руками.
+  for (const [items, what, keyOf] of entities) {
+    for (const { file, row } of items) {
+      if (JSON.stringify(row).includes(REVIEW_PLACEHOLDER)) {
+        fail(`${file}: ${what} ${keyOf(row)}: unresolved ${REVIEW_PLACEHOLDER}`);
+      }
+    }
+  }
+
   const venues = index(venueItems, (v) => v.mic, "venue");
   const boards = index(boardItems, (b) => b.key, "board");
-  const assets = index(rows("assets.json", "assets"), (a) => a.symbol, "asset");
-  // Продукты ссылаются на бумагу по key — полю сида, а не по ISIN.
-  const securities = index(securityItems, (s) => s.key, "security");
-  index(securityItems, (s) => s.isin, "isin");
+  const assets = index(assetItems, (a) => a.symbol, "asset");
+  index(securityItems, (s) => s.key, "security");
+  // Продукты ссылаются на бумагу по ISIN.
+  const securities = index(securityItems, (s) => s.isin, "isin");
   const references = index(referenceItems, refKey, "reference instrument");
   const futures = index(futuresItems, (p) => `${p.venue}/${p.code}`, "futures product");
   // Один код на площадке может быть у двух классов опционов: маржируемого и с премией (data-model §5.2).

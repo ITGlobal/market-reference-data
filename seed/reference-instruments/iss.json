@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schema/reference-instruments.schema.json",
   "instruments": [
     {
       "id": "01a0ecaa-c6e5-7225-9c2b-833c52f5d86d",

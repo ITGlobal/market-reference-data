@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schema/securities.schema.json",
   "securities": [
     {
       "id": "01a0ec4b-0465-70d5-93c4-d892be6f4748",
