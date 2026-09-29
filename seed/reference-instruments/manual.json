@@ -1,0 +1,85 @@
+{
+  "$schema": "../../schema/reference-instruments.schema.json",
+  "instruments": [
+    {
+      "type": "ReferenceRate",
+      "code": "RUONIA",
+      "description": "Ставка RUONIA (Ruble Overnight Index Average)",
+      "venue": "MISX",
+      "quoteUnit": "PercentPerAnnum",
+      "methodology": "Средневзвешенная ставка однодневных межбанковских рублёвых кредитов (депозитов) по операциям банков-контрибьюторов, рассчитывается и публикуется Банком России",
+      "provider": "Банк России",
+      "id": "01a0ec4b-044e-7ef0-b3f6-f569169695ae"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "RUONIA3M",
+      "description": "Срочная версия RUONIA на 3 месяца",
+      "venue": "MISX",
+      "quoteUnit": "PercentPerAnnum",
+      "methodology": "Рассчитывается Банком России на основании индекса RUONIA для срока 3 месяца, публикуется по рабочим дням",
+      "provider": "Банк России",
+      "id": "01a0ec4b-044e-7d6e-a047-9f1d99fec720"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "RUONIA6M",
+      "description": "Срочная версия RUONIA на 6 месяцев",
+      "venue": "MISX",
+      "quoteUnit": "PercentPerAnnum",
+      "methodology": "Рассчитывается Банком России на основании индекса RUONIA для срока 6 месяцев, публикуется по рабочим дням",
+      "provider": "Банк России",
+      "id": "01a0ec4b-044e-7ce8-9356-9d9afbb07e4d"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "RUONIA_IND",
+      "description": "Индекс RUONIA (накопленное значение)",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "methodology": "Рассчитывается Банком России ежедневно на базе значения индекса и ставки RUONIA за предыдущий расчётный день",
+      "provider": "Банк России",
+      "id": "01a0ec4b-044e-7cec-87a4-35f73e72f0d6"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "RREFKEYR",
+      "description": "Ключевая ставка Банка России",
+      "venue": "MISX",
+      "quoteUnit": "PercentPerAnnum",
+      "methodology": "Устанавливается Советом директоров Банка России на заседаниях по денежно-кредитной политике",
+      "provider": "Банк России",
+      "id": "01a0ec4b-044e-7319-a30f-32a7aed18380"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "CPI",
+      "description": "Индекс потребительских цен (ИПЦ)",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "methodology": "Официальный индекс потребительских цен, публикуется Росстатом ежемесячно; используется как база для облигаций с индексируемым купоном/номиналом",
+      "provider": "Росстат",
+      "id": "01a0ec4b-044e-71e8-b300-93ee6f0d8efa"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "ZR_YLD_CRV",
+      "description": "Кривая бескупонной доходности государственных облигаций (G-кривая)",
+      "venue": "MISX",
+      "quoteUnit": "PercentPerAnnum",
+      "methodology": "Рассчитывается и публикуется Московской Биржей на основании доходности ОФЗ; используется как бенчмарк для купонов корпоративных облигаций",
+      "provider": "Московская Биржа",
+      "id": "01a0ec4b-044e-7e1a-aef1-e26d601385f5"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "RUSFAR",
+      "description": "RUSFAR",
+      "venue": "MISX",
+      "quoteUnit": "PercentPerAnnum",
+      "methodology": "Рассчитывается Московской Биржей по заявкам РЕПО с ЦК под обеспечение КСУ пула GC Bonds",
+      "provider": "Московская Биржа",
+      "id": "01a0ec4b-044e-7bc1-a0d9-ffb2826e94ac"
+    }
+  ]
+}

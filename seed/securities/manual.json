@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/securities.schema.json",
+  "securities": [
+    {
+      "key": "COIN-RM",
+      "isin": "US19260Q1076",
+      "kind": "Equity",
+      "name": "Coinbase Global, Inc.",
+      "id": "01a0ec4b-0468-7ce1-bf24-c8c11a245e93"
+    },
+    {
+      "key": "LITE-RM",
+      "isin": "US55024U1097",
+      "kind": "Equity",
+      "name": "Lumentum Holdings Inc.",
+      "id": "01a0ec4b-046a-72ae-8743-f9b332a05e76"
+    },
+    {
+      "key": "NBIS-RM",
+      "isin": "NL0009805522",
+      "kind": "Equity",
+      "name": "Nebius Group N.V.",
+      "id": "01a0ec4b-046b-7739-9d54-59ce95377d34"
+    },
+    {
+      "key": "SMCI-RM",
+      "isin": "US86800U3023",
+      "kind": "Equity",
+      "name": "Super Micro Computer, Inc.",
+      "id": "01a0ec4b-047c-7333-9f97-1bd982cfb083"
+    },
+    {
+      "key": "SNDK-RM",
+      "isin": "US80004C2008",
+      "kind": "Equity",
+      "name": "Sandisk Corporation",
+      "id": "01a0ec4b-047c-78dd-9aba-c9c96873761a"
+    }
+  ]
+}

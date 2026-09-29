@@ -9,8 +9,9 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["symbol", "type", "name"],
+        "required": ["id", "symbol", "type", "name"],
         "properties": {
+          "id": { "type": "string", "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-7[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" },
           "symbol": { "type": "string", "minLength": 1 },
           "type": { "type": "string", "enum": ["Fiat", "Crypto", "Stablecoin", "Metal", "Commodity"] },
           "name": { "type": "string", "minLength": 1 },
