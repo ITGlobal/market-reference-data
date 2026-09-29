@@ -1,0 +1,268 @@
+{
+  "products": [
+    {
+      "id": "01a0ec4b-0497-72a0-94e5-89b8c6d6890c",
+      "code": "AFRICA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI South Africa ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-7e3f-a3af-89695c32c701",
+      "code": "ARGT",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI Argentina ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-75da-9239-bf19015697c3",
+      "code": "BRAZIL",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI Brazil ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-7304-b5d1-5052363f67b3",
+      "code": "DAX",
+      "name": "Фьючерсный контракт на инвестиционные паи Дакс ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-7ff5-8962-655c11499080",
+      "code": "DJ30",
+      "name": "Фьючерсный контракт на инвестиционные паи DJ Industrial Average ETF Trust",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-72b1-8c32-fcefe0437a12",
+      "code": "ETHA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда ETHA Trust ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-75d6-acc6-bf6f7946a777",
+      "code": "HANG",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда Tracker Fund of Hong Kong ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "HKD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-788d-b29f-578e897ef251",
+      "code": "HYNIX",
+      "name": "Фьючерсный контракт на расчетное значение, равное 0,1 стоимости акции Эс-Кей Хайникс",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-78bc-83ea-3a56a9be0741",
+      "code": "IBIT",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда IBIT Trust ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-747e-add8-581c93fd41a2",
+      "code": "INDIA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI India UCITS ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ecaa-c728-797a-924c-60996d7acb44",
+      "code": "KEYRATE",
+      "name": "Фьючерсный контракт на индекс ключевой ставки",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-79b8-9cdb-81b9c2bf3c0f",
+      "code": "KOREA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI South Korea ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-75d8-a11f-69aac482dae7",
+      "code": "NIKK",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда Nikkei 225 ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "JPY",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-7299-bcc2-fab4622189c4",
+      "code": "PDD",
+      "name": "Фьючерсный контракт на АДР на акции PDD Holdings Inc",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-73e6-bf82-759ea2b0196b",
+      "code": "R2000",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда Russell 2000 ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-7c3b-9b76-b3fb222bb121",
+      "code": "SAMSUNG",
+      "name": "Фьючерсный контракт на акции Самсунг Электроникс",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-73ed-ad43-c6a69a40d1ec",
+      "code": "SAUDI",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI Saudi Arabia ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-7755-bc39-77774265b39b",
+      "code": "SOXQ",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда SOXQ ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-781b-bbb0-6652a97dd971",
+      "code": "STOX",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда Евро Стокс 50 ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-7a86-933b-f71d61d00c72",
+      "code": "TENCENT",
+      "name": "Фьючерсный контракт на акции Тенсент Холдингс Лимитед",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "HKD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-721b-a6c1-a6fc418eef67",
+      "code": "TLT",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда TLT ETF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ec4b-0498-768f-a8fd-d7d88932f73e",
+      "code": "XIA",
+      "name": "Фьючерсный контракт на акции Сяоми Корпорэйшн",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "HKD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "REVIEW_REQUIRED"
+      }
+    }
+  ]
+}

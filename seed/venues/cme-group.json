@@ -4,17 +4,20 @@
     {
       "mic": "XCME",
       "name": "Chicago Mercantile Exchange",
-      "boards": []
+      "boards": [],
+      "id": "01a0ec4b-043c-7cd4-9787-88d5564311dc"
     },
     {
       "mic": "XCBT",
       "name": "Chicago Board of Trade",
-      "boards": []
+      "boards": [],
+      "id": "01a0ec4b-043c-71e7-bb53-95e0d6bb8790"
     },
     {
       "mic": "XNYM",
       "name": "New York Mercantile Exchange",
-      "boards": []
+      "boards": [],
+      "id": "01a0ec4b-043c-71cf-b9a1-b72fe683c923"
     }
   ]
 }

@@ -9,8 +9,9 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["key", "isin", "kind", "name"],
+        "required": ["id", "key", "isin", "kind", "name"],
         "properties": {
+          "id": { "type": "string", "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-7[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" },
           "key": { "type": "string", "minLength": 1 },
           "isin": { "type": "string", "minLength": 1 },
           "kind": { "type": "string", "enum": ["Equity", "Fund", "Debt"] },

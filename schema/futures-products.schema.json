@@ -31,8 +31,9 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["code", "venue", "name", "quoteUnit", "quoteAsset", "settlementMethod", "underlying"],
+        "required": ["id", "code", "venue", "name", "quoteUnit", "quoteAsset", "settlementMethod", "underlying"],
         "properties": {
+          "id": { "type": "string", "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-7[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" },
           "code": { "type": "string", "minLength": 1 },
           "venue": { "type": "string", "pattern": "^[A-Z0-9]{4}$" },
           "name": { "type": "string", "minLength": 1 },
