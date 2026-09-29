@@ -37,6 +37,19 @@
       }
     },
     {
+      "id": "01a0ed84-7f52-7247-babc-94951a877f03",
+      "code": "BTC_USDT-PERPETUAL",
+      "name": "BTC perpetual (linear, settled in USDT)",
+      "venue": "DRBT",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
       "id": "01a0ec4b-0498-7304-b5d1-5052363f67b3",
       "code": "DAX",
       "name": "Фьючерсный контракт на инвестиционные паи Дакс ETF",
@@ -70,6 +83,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ed84-7f52-7bff-b1e8-049cda550b8f",
+      "code": "ETH_USDT-PERPETUAL",
+      "name": "ETH perpetual (linear, settled in USDT)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ETH"
       }
     },
     {
@@ -157,6 +183,19 @@
       }
     },
     {
+      "id": "01a0ed84-7f52-7910-9a7e-8f2ac3a7bea5",
+      "code": "PAXG_USDC",
+      "name": "PAXG futures (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PAXG"
+      }
+    },
+    {
       "id": "01a0ec4b-0498-7299-bcc2-fab4622189c4",
       "code": "PDD",
       "name": "Фьючерсный контракт на АДР на акции PDD Holdings Inc",
@@ -238,6 +277,18 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "REVIEW_REQUIRED"
+      }
+    },
+    {
+      "id": "01a0ed84-7f52-7c21-82f6-69d754746c9a",
+      "code": "THETA_USDC-PERPETUAL",
+      "name": "THETA perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "THETA"
       }
     },
     {

@@ -1,4 +1,50 @@
 {
   "$schema": "../../schema/options-products.schema.json",
-  "products": []
+  "products": [
+    {
+      "id": "01a0ed84-7f53-726b-850f-a3037525739e",
+      "code": "BNB_USDC",
+      "name": "BNB options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "BNB"
+      }
+    },
+    {
+      "id": "01a0ed84-7f53-7845-bdc2-dbf8ca1a90fa",
+      "code": "DOGE_USDC",
+      "name": "DOGE options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 20000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "DOGE"
+      }
+    },
+    {
+      "id": "01a0ed84-7f53-78f1-b86b-e7663eb49723",
+      "code": "PAXG_USDC",
+      "name": "PAXG options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "PAXG"
+      }
+    }
+  ]
 }

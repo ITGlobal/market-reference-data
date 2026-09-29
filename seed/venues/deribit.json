@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schema/venues.schema.json",
+  "venues": [
+    {
+      "id": "01a0ed7b-4679-7ff7-bc85-3cd8b123b0a1",
+      "mic": "DRBT",
+      "name": "Deribit",
+      "boards": [
+        {
+          "id": "01a0ed7b-467a-7145-9459-44f609730387",
+          "code": "RDRB",
+          "name": "Deribit (ROQ)"
+        },
+        {
+          "id": "01a0ed7b-467a-7aa1-926e-ed936ce20121",
+          "code": "XDRB",
+          "name": "Deribit"
+        }
+      ]
+    }
+  ]
+}
