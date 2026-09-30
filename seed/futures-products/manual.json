@@ -1,3 +1,4 @@
 {
+  "$schema": "../../schema/futures-products.schema.json",
   "products": []
 }
