@@ -111,23 +111,6 @@
       }
     },
     {
-      "id": "01a0ec4b-049f-7d76-8b6c-2e8576b0947c",
-      "code": "DAX",
-      "name": "Опционы на фьючерсы DAX",
-      "venue": "MISX",
-      "quoteUnit": "Currency",
-      "quoteAsset": "EUR",
-      "exerciseStyle": "American",
-      "settlementMethod": "Physical",
-      "premiumStyle": "Margined",
-      "underlying": {
-        "futuresProduct": {
-          "code": "DAX",
-          "venue": "MISX"
-        }
-      }
-    },
-    {
       "id": "01a0ec4b-049f-7390-b7d7-18fce487c259",
       "code": "DIAS",
       "name": "Опционы на акции DIAS",
@@ -248,23 +231,6 @@
       "underlying": {
         "futuresProduct": {
           "code": "GOLD",
-          "venue": "MISX"
-        }
-      }
-    },
-    {
-      "id": "01a0ec4b-049f-7a57-b862-fd229b465c93",
-      "code": "HANG",
-      "name": "Опционы на фьючерсы HANG",
-      "venue": "MISX",
-      "quoteUnit": "Currency",
-      "quoteAsset": "HKD",
-      "exerciseStyle": "American",
-      "settlementMethod": "Physical",
-      "premiumStyle": "Margined",
-      "underlying": {
-        "futuresProduct": {
-          "code": "HANG",
           "venue": "MISX"
         }
       }
@@ -807,23 +773,6 @@
       "underlying": {
         "futuresProduct": {
           "code": "SPYF",
-          "venue": "MISX"
-        }
-      }
-    },
-    {
-      "id": "01a0ec4b-049f-7934-8ff1-003959396eca",
-      "code": "STOX",
-      "name": "Опционы на фьючерсы STOX",
-      "venue": "MISX",
-      "quoteUnit": "Currency",
-      "quoteAsset": "EUR",
-      "exerciseStyle": "American",
-      "settlementMethod": "Physical",
-      "premiumStyle": "Margined",
-      "underlying": {
-        "futuresProduct": {
-          "code": "STOX",
           "venue": "MISX"
         }
       }
