@@ -145,6 +145,50 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a0f24e-734d-7547-88a0-8db8a6fc86dc",
+      "type": "ReferenceRate",
+      "code": "CNYRUB_WAP0",
+      "description": "CNYRUB_WAP0 - CNY/РУБ",
+      "venue": "MISX",
+      "board": "WAPN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7455-bd92-86ff9ef848f2",
+      "type": "ReferenceRate",
+      "code": "CNYRUB_WAP0",
+      "description": "CNYRUB_WAP0 - CNY/РУБ",
+      "venue": "MISX",
+      "board": "WAPS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-725e-9fc7-5124c3656c0e",
+      "type": "ReferenceRate",
+      "code": "CNYRUB_FIX0",
+      "description": "CNYRUB_FIX0 - CNY/РУБ",
+      "venue": "MISX",
+      "board": "FIXN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7c18-8aa2-02f3756a779e",
+      "type": "ReferenceRate",
+      "code": "CNYRUB_FIX0",
+      "description": "CNYRUB_FIX0 - CNY/РУБ",
+      "venue": "MISX",
+      "board": "FIXS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ecaa-c6e5-7572-9224-959bfb9a616d",
       "type": "Index",
       "code": "CREI",
@@ -232,6 +276,28 @@
       "description": "Индекс МосБиржи Рейтинги Устойчивого Развития полной доходности",
       "venue": "MISX",
       "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-74e7-85e5-ba4c3fafde4f",
+      "type": "ReferenceRate",
+      "code": "EURRUB_FIX0",
+      "description": "EURRUB_FIX0 - EUR/РУБ",
+      "venue": "MISX",
+      "board": "FIXN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7ded-9be9-7da7d4ffd9c3",
+      "type": "ReferenceRate",
+      "code": "EURRUB_FIX0",
+      "description": "EURRUB_FIX0 - EUR/РУБ",
+      "venue": "MISX",
+      "board": "FIXS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {
@@ -5429,6 +5495,50 @@
       "description": "Ежедневный внебиржевой индекс сахара в ПФО",
       "venue": "MISX",
       "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-75ea-b2f3-56854f25e540",
+      "type": "ReferenceRate",
+      "code": "USDRUB_WAP0",
+      "description": "USDRUB_WAP0 - USD/РУБ",
+      "venue": "MISX",
+      "board": "WAPN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-79e2-bbc8-9120eac23ed4",
+      "type": "ReferenceRate",
+      "code": "USDRUB_WAP0",
+      "description": "USDRUB_WAP0 - USD/РУБ",
+      "venue": "MISX",
+      "board": "WAPS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7eff-877f-990b5b800518",
+      "type": "ReferenceRate",
+      "code": "USDRUB_FIX0",
+      "description": "USDRUB_FIX0 - USD/РУБ",
+      "venue": "MISX",
+      "board": "FIXN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7b30-8284-da47b0639d45",
+      "type": "ReferenceRate",
+      "code": "USDRUB_FIX0",
+      "description": "USDRUB_FIX0 - USD/РУБ",
+      "venue": "MISX",
+      "board": "FIXS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {
