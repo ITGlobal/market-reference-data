@@ -1,0 +1,1244 @@
+{
+  "$schema": "../schema/assets.schema.json",
+  "assets": [
+    {
+      "symbol": "AED",
+      "type": "Fiat",
+      "name": "UAE Dirham",
+      "isoCurrency": "AED",
+      "id": "01a0ec4b-0445-7829-83b6-fe9becf51b45"
+    },
+    {
+      "symbol": "AFN",
+      "type": "Fiat",
+      "name": "Afghani",
+      "isoCurrency": "AFN",
+      "id": "01a0ec4b-0445-7643-86c4-f360e35ba0ad"
+    },
+    {
+      "symbol": "ALL",
+      "type": "Fiat",
+      "name": "Lek",
+      "isoCurrency": "ALL",
+      "id": "01a0ec4b-0445-74ec-97f1-f38d42c8b4f1"
+    },
+    {
+      "symbol": "AMD",
+      "type": "Fiat",
+      "name": "Armenian Dram",
+      "isoCurrency": "AMD",
+      "id": "01a0ec4b-0445-77b7-a7ea-8e21991a008d"
+    },
+    {
+      "symbol": "AOA",
+      "type": "Fiat",
+      "name": "Kwanza",
+      "isoCurrency": "AOA",
+      "id": "01a0ec4b-0445-7d33-a44e-eadd3c30529e"
+    },
+    {
+      "symbol": "ARS",
+      "type": "Fiat",
+      "name": "Argentine Peso",
+      "isoCurrency": "ARS",
+      "id": "01a0ec4b-0445-7dc8-85d2-a16953cc4b89"
+    },
+    {
+      "symbol": "AUD",
+      "type": "Fiat",
+      "name": "Australian Dollar",
+      "isoCurrency": "AUD",
+      "id": "01a0ec4b-0445-79cf-aca6-c9444a2c019d"
+    },
+    {
+      "symbol": "AWG",
+      "type": "Fiat",
+      "name": "Aruban Florin",
+      "isoCurrency": "AWG",
+      "id": "01a0ec4b-0445-700c-b773-5222ae784f0d"
+    },
+    {
+      "symbol": "AZN",
+      "type": "Fiat",
+      "name": "Azerbaijan Manat",
+      "isoCurrency": "AZN",
+      "id": "01a0ec4b-0445-70db-857f-b6c5b7158602"
+    },
+    {
+      "symbol": "BAM",
+      "type": "Fiat",
+      "name": "Convertible Mark",
+      "isoCurrency": "BAM",
+      "id": "01a0ec4b-0445-7ffa-923b-eac4738b7341"
+    },
+    {
+      "symbol": "BBD",
+      "type": "Fiat",
+      "name": "Barbados Dollar",
+      "isoCurrency": "BBD",
+      "id": "01a0ec4b-0445-79c9-a4af-e47d305144ab"
+    },
+    {
+      "symbol": "BDT",
+      "type": "Fiat",
+      "name": "Taka",
+      "isoCurrency": "BDT",
+      "id": "01a0ec4b-0445-7fbd-ab75-03027528765c"
+    },
+    {
+      "symbol": "BHD",
+      "type": "Fiat",
+      "name": "Bahraini Dinar",
+      "isoCurrency": "BHD",
+      "id": "01a0ec4b-0445-79e4-bfc1-430e9c25a058"
+    },
+    {
+      "symbol": "BIF",
+      "type": "Fiat",
+      "name": "Burundi Franc",
+      "isoCurrency": "BIF",
+      "id": "01a0ec4b-0445-7874-a026-e19bf728da1c"
+    },
+    {
+      "symbol": "BMD",
+      "type": "Fiat",
+      "name": "Bermudian Dollar",
+      "isoCurrency": "BMD",
+      "id": "01a0ec4b-0445-7bac-9099-5e9f25935bef"
+    },
+    {
+      "symbol": "BND",
+      "type": "Fiat",
+      "name": "Brunei Dollar",
+      "isoCurrency": "BND",
+      "id": "01a0ec4b-0445-7a94-8141-75773529449c"
+    },
+    {
+      "symbol": "BOB",
+      "type": "Fiat",
+      "name": "Boliviano",
+      "isoCurrency": "BOB",
+      "id": "01a0ec4b-0445-7c95-a9aa-fd99a5c83661"
+    },
+    {
+      "symbol": "BRL",
+      "type": "Fiat",
+      "name": "Brazilian Real",
+      "isoCurrency": "BRL",
+      "id": "01a0ec4b-0445-72d3-b5b1-d0e697933239"
+    },
+    {
+      "symbol": "BSD",
+      "type": "Fiat",
+      "name": "Bahamian Dollar",
+      "isoCurrency": "BSD",
+      "id": "01a0ec4b-0445-7b58-b4d3-763633d0a23a"
+    },
+    {
+      "symbol": "BTN",
+      "type": "Fiat",
+      "name": "Ngultrum",
+      "isoCurrency": "BTN",
+      "id": "01a0ec4b-0445-751d-a84e-289f4f414212"
+    },
+    {
+      "symbol": "BWP",
+      "type": "Fiat",
+      "name": "Pula",
+      "isoCurrency": "BWP",
+      "id": "01a0ec4b-0445-7aa8-8425-14ab9bc20209"
+    },
+    {
+      "symbol": "BYN",
+      "type": "Fiat",
+      "name": "Belarusian Ruble",
+      "isoCurrency": "BYN",
+      "id": "01a0ec4b-0445-7b53-b68a-2915c37ee442"
+    },
+    {
+      "symbol": "BZD",
+      "type": "Fiat",
+      "name": "Belize Dollar",
+      "isoCurrency": "BZD",
+      "id": "01a0ec4b-0445-762b-b4bd-daec875f0fd4"
+    },
+    {
+      "symbol": "CAD",
+      "type": "Fiat",
+      "name": "Canadian Dollar",
+      "isoCurrency": "CAD",
+      "id": "01a0ec4b-0445-7a15-9982-1a8d792c6a38"
+    },
+    {
+      "symbol": "CDF",
+      "type": "Fiat",
+      "name": "Congolese Franc",
+      "isoCurrency": "CDF",
+      "id": "01a0ec4b-0445-7e31-864a-e5783a42f17f"
+    },
+    {
+      "symbol": "CHF",
+      "type": "Fiat",
+      "name": "Swiss Franc",
+      "isoCurrency": "CHF",
+      "id": "01a0ec4b-0445-7b98-ac14-0d70fd302ff1"
+    },
+    {
+      "symbol": "CLP",
+      "type": "Fiat",
+      "name": "Chilean Peso",
+      "isoCurrency": "CLP",
+      "id": "01a0ec4b-0445-74c0-9590-64b3b5b5bd8d"
+    },
+    {
+      "symbol": "CNY",
+      "type": "Fiat",
+      "name": "Yuan Renminbi",
+      "isoCurrency": "CNY",
+      "id": "01a0ec4b-0445-7fa0-81cd-3b6b51f301cb"
+    },
+    {
+      "symbol": "COP",
+      "type": "Fiat",
+      "name": "Colombian Peso",
+      "isoCurrency": "COP",
+      "id": "01a0ec4b-0445-7368-a7a2-0df3d4d3cb44"
+    },
+    {
+      "symbol": "CRC",
+      "type": "Fiat",
+      "name": "Costa Rican Colon",
+      "isoCurrency": "CRC",
+      "id": "01a0ec4b-0445-7c98-8a4e-fa46c9336211"
+    },
+    {
+      "symbol": "CUP",
+      "type": "Fiat",
+      "name": "Cuban Peso",
+      "isoCurrency": "CUP",
+      "id": "01a0ec4b-0445-7f1f-b9e7-92b54d2faeac"
+    },
+    {
+      "symbol": "CVE",
+      "type": "Fiat",
+      "name": "Cabo Verde Escudo",
+      "isoCurrency": "CVE",
+      "id": "01a0ec4b-0445-7d9f-9ec3-1b24193aba74"
+    },
+    {
+      "symbol": "CZK",
+      "type": "Fiat",
+      "name": "Czech Koruna",
+      "isoCurrency": "CZK",
+      "id": "01a0ec4b-0445-7f8d-9a68-ba08651de546"
+    },
+    {
+      "symbol": "DJF",
+      "type": "Fiat",
+      "name": "Djibouti Franc",
+      "isoCurrency": "DJF",
+      "id": "01a0ec4b-0445-7c3b-88ff-7a45554181bb"
+    },
+    {
+      "symbol": "DKK",
+      "type": "Fiat",
+      "name": "Danish Krone",
+      "isoCurrency": "DKK",
+      "id": "01a0ec4b-0445-750d-8576-bb0a7ff57f26"
+    },
+    {
+      "symbol": "DOP",
+      "type": "Fiat",
+      "name": "Dominican Peso",
+      "isoCurrency": "DOP",
+      "id": "01a0ec4b-0445-776b-84b8-dd11623b23e6"
+    },
+    {
+      "symbol": "DZD",
+      "type": "Fiat",
+      "name": "Algerian Dinar",
+      "isoCurrency": "DZD",
+      "id": "01a0ec4b-0445-7473-bd14-b9b96c977827"
+    },
+    {
+      "symbol": "EGP",
+      "type": "Fiat",
+      "name": "Egyptian Pound",
+      "isoCurrency": "EGP",
+      "id": "01a0ec4b-0445-7b27-b331-b3b9558626e5"
+    },
+    {
+      "symbol": "ERN",
+      "type": "Fiat",
+      "name": "Nakfa",
+      "isoCurrency": "ERN",
+      "id": "01a0ec4b-0445-70b5-a4de-a3d406218dae"
+    },
+    {
+      "symbol": "ETB",
+      "type": "Fiat",
+      "name": "Ethiopian Birr",
+      "isoCurrency": "ETB",
+      "id": "01a0ec4b-0445-75f3-af6e-cb07404f1408"
+    },
+    {
+      "symbol": "EUR",
+      "type": "Fiat",
+      "name": "Euro",
+      "isoCurrency": "EUR",
+      "id": "01a0ec4b-0445-739d-bc7e-e093ddf218ec"
+    },
+    {
+      "symbol": "FJD",
+      "type": "Fiat",
+      "name": "Fiji Dollar",
+      "isoCurrency": "FJD",
+      "id": "01a0ec4b-0445-78eb-9d3d-9d0a95c62440"
+    },
+    {
+      "symbol": "FKP",
+      "type": "Fiat",
+      "name": "Falkland Islands Pound",
+      "isoCurrency": "FKP",
+      "id": "01a0ec4b-0445-7c88-b55c-fff64d0bc70c"
+    },
+    {
+      "symbol": "GBP",
+      "type": "Fiat",
+      "name": "Pound Sterling",
+      "isoCurrency": "GBP",
+      "id": "01a0ec4b-0445-7f83-96b0-0fb30bb23b83"
+    },
+    {
+      "symbol": "GEL",
+      "type": "Fiat",
+      "name": "Lari",
+      "isoCurrency": "GEL",
+      "id": "01a0ec4b-0445-75fb-aabd-9b044673ed21"
+    },
+    {
+      "symbol": "GHS",
+      "type": "Fiat",
+      "name": "Ghana Cedi",
+      "isoCurrency": "GHS",
+      "id": "01a0ec4b-0445-7e77-81a8-e58fdb908584"
+    },
+    {
+      "symbol": "GIP",
+      "type": "Fiat",
+      "name": "Gibraltar Pound",
+      "isoCurrency": "GIP",
+      "id": "01a0ec4b-0445-7561-a7fd-3ecb69ab00f0"
+    },
+    {
+      "symbol": "GMD",
+      "type": "Fiat",
+      "name": "Dalasi",
+      "isoCurrency": "GMD",
+      "id": "01a0ec4b-0445-7a3d-b418-6fcf58737e77"
+    },
+    {
+      "symbol": "GNF",
+      "type": "Fiat",
+      "name": "Guinean Franc",
+      "isoCurrency": "GNF",
+      "id": "01a0ec4b-0445-7400-bd83-da9602f9c85d"
+    },
+    {
+      "symbol": "GTQ",
+      "type": "Fiat",
+      "name": "Quetzal",
+      "isoCurrency": "GTQ",
+      "id": "01a0ec4b-0445-753c-9f68-7bb868c55c62"
+    },
+    {
+      "symbol": "GYD",
+      "type": "Fiat",
+      "name": "Guyana Dollar",
+      "isoCurrency": "GYD",
+      "id": "01a0ec4b-0445-7e57-8161-225bd199c470"
+    },
+    {
+      "symbol": "HKD",
+      "type": "Fiat",
+      "name": "Hong Kong Dollar",
+      "isoCurrency": "HKD",
+      "id": "01a0ec4b-0445-73e7-acf2-d5627d0f31dd"
+    },
+    {
+      "symbol": "HNL",
+      "type": "Fiat",
+      "name": "Lempira",
+      "isoCurrency": "HNL",
+      "id": "01a0ec4b-0445-7960-9253-c361f838c2e8"
+    },
+    {
+      "symbol": "HTG",
+      "type": "Fiat",
+      "name": "Gourde",
+      "isoCurrency": "HTG",
+      "id": "01a0ec4b-0445-7009-94ec-b5c97790af0e"
+    },
+    {
+      "symbol": "HUF",
+      "type": "Fiat",
+      "name": "Forint",
+      "isoCurrency": "HUF",
+      "id": "01a0ec4b-0445-7370-bf02-e4aa92bc311c"
+    },
+    {
+      "symbol": "IDR",
+      "type": "Fiat",
+      "name": "Rupiah",
+      "isoCurrency": "IDR",
+      "id": "01a0ec4b-0445-7646-8b73-74800a0d505b"
+    },
+    {
+      "symbol": "ILS",
+      "type": "Fiat",
+      "name": "New Israeli Sheqel",
+      "isoCurrency": "ILS",
+      "id": "01a0ec4b-0445-7489-8e67-6fa8e7f47e00"
+    },
+    {
+      "symbol": "INR",
+      "type": "Fiat",
+      "name": "Indian Rupee",
+      "isoCurrency": "INR",
+      "id": "01a0ec4b-0445-7ea6-82b4-f4f655cd8756"
+    },
+    {
+      "symbol": "IQD",
+      "type": "Fiat",
+      "name": "Iraqi Dinar",
+      "isoCurrency": "IQD",
+      "id": "01a0ec4b-0445-72cf-8619-7604e590c902"
+    },
+    {
+      "symbol": "IRR",
+      "type": "Fiat",
+      "name": "Iranian Rial",
+      "isoCurrency": "IRR",
+      "id": "01a0ec4b-0445-74ee-a04c-b09c981e228e"
+    },
+    {
+      "symbol": "ISK",
+      "type": "Fiat",
+      "name": "Iceland Krona",
+      "isoCurrency": "ISK",
+      "id": "01a0ec4b-0445-713f-9bdc-16f69f837516"
+    },
+    {
+      "symbol": "JMD",
+      "type": "Fiat",
+      "name": "Jamaican Dollar",
+      "isoCurrency": "JMD",
+      "id": "01a0ec4b-0445-7460-adf1-558bf8b134ef"
+    },
+    {
+      "symbol": "JOD",
+      "type": "Fiat",
+      "name": "Jordanian Dinar",
+      "isoCurrency": "JOD",
+      "id": "01a0ec4b-0445-7c8f-bd51-381044b44689"
+    },
+    {
+      "symbol": "JPY",
+      "type": "Fiat",
+      "name": "Yen",
+      "isoCurrency": "JPY",
+      "id": "01a0ec4b-0445-7702-8f98-03b232c4159e"
+    },
+    {
+      "symbol": "KES",
+      "type": "Fiat",
+      "name": "Kenyan Shilling",
+      "isoCurrency": "KES",
+      "id": "01a0ec4b-0445-77d4-957f-e553a1095876"
+    },
+    {
+      "symbol": "KGS",
+      "type": "Fiat",
+      "name": "Som",
+      "isoCurrency": "KGS",
+      "id": "01a0ec4b-0445-728b-9b0c-79c62484a10b"
+    },
+    {
+      "symbol": "KHR",
+      "type": "Fiat",
+      "name": "Riel",
+      "isoCurrency": "KHR",
+      "id": "01a0ec4b-0445-7296-8ca7-a4a3d5e8d4f8"
+    },
+    {
+      "symbol": "KMF",
+      "type": "Fiat",
+      "name": "Comorian Franc",
+      "isoCurrency": "KMF",
+      "id": "01a0ec4b-0445-7b58-bf21-b46f51697c3c"
+    },
+    {
+      "symbol": "KPW",
+      "type": "Fiat",
+      "name": "North Korean Won",
+      "isoCurrency": "KPW",
+      "id": "01a0ec4b-0445-7832-975f-67ff5fa7d641"
+    },
+    {
+      "symbol": "KRW",
+      "type": "Fiat",
+      "name": "Won",
+      "isoCurrency": "KRW",
+      "id": "01a0ec4b-0445-7d03-98e5-bc113d9d8c3d"
+    },
+    {
+      "symbol": "KWD",
+      "type": "Fiat",
+      "name": "Kuwaiti Dinar",
+      "isoCurrency": "KWD",
+      "id": "01a0ec4b-0445-724d-ac81-453efa24d230"
+    },
+    {
+      "symbol": "KYD",
+      "type": "Fiat",
+      "name": "Cayman Islands Dollar",
+      "isoCurrency": "KYD",
+      "id": "01a0ec4b-0445-7a47-b779-190e585d8f95"
+    },
+    {
+      "symbol": "KZT",
+      "type": "Fiat",
+      "name": "Tenge",
+      "isoCurrency": "KZT",
+      "id": "01a0ec4b-0445-7467-9747-3900c4665abe"
+    },
+    {
+      "symbol": "LAK",
+      "type": "Fiat",
+      "name": "Lao Kip",
+      "isoCurrency": "LAK",
+      "id": "01a0ec4b-0445-7bf4-9d23-0cdaf7fd01ba"
+    },
+    {
+      "symbol": "LBP",
+      "type": "Fiat",
+      "name": "Lebanese Pound",
+      "isoCurrency": "LBP",
+      "id": "01a0ec4b-0445-751e-809d-75869e7d9b44"
+    },
+    {
+      "symbol": "LKR",
+      "type": "Fiat",
+      "name": "Sri Lanka Rupee",
+      "isoCurrency": "LKR",
+      "id": "01a0ec4b-0445-7ba0-a4e5-97a4c162276e"
+    },
+    {
+      "symbol": "LRD",
+      "type": "Fiat",
+      "name": "Liberian Dollar",
+      "isoCurrency": "LRD",
+      "id": "01a0ec4b-0445-74b9-a661-fee81980492f"
+    },
+    {
+      "symbol": "LSL",
+      "type": "Fiat",
+      "name": "Loti",
+      "isoCurrency": "LSL",
+      "id": "01a0ec4b-0445-7666-a185-6978c1de70c1"
+    },
+    {
+      "symbol": "LYD",
+      "type": "Fiat",
+      "name": "Libyan Dinar",
+      "isoCurrency": "LYD",
+      "id": "01a0ec4b-0445-786a-835a-a715c743d8b3"
+    },
+    {
+      "symbol": "MAD",
+      "type": "Fiat",
+      "name": "Moroccan Dirham",
+      "isoCurrency": "MAD",
+      "id": "01a0ec4b-0445-7c92-baf9-84ec4faccd7f"
+    },
+    {
+      "symbol": "MDL",
+      "type": "Fiat",
+      "name": "Moldovan Leu",
+      "isoCurrency": "MDL",
+      "id": "01a0ec4b-0445-77e2-b118-ae27d8443b75"
+    },
+    {
+      "symbol": "MGA",
+      "type": "Fiat",
+      "name": "Malagasy Ariary",
+      "isoCurrency": "MGA",
+      "id": "01a0ec4b-0445-746c-a515-7685e55105a0"
+    },
+    {
+      "symbol": "MKD",
+      "type": "Fiat",
+      "name": "Denar",
+      "isoCurrency": "MKD",
+      "id": "01a0ec4b-0445-726a-b2f3-440d1a756019"
+    },
+    {
+      "symbol": "MMK",
+      "type": "Fiat",
+      "name": "Kyat",
+      "isoCurrency": "MMK",
+      "id": "01a0ec4b-0445-7c84-b2ff-4af26da7ce72"
+    },
+    {
+      "symbol": "MNT",
+      "type": "Fiat",
+      "name": "Tugrik",
+      "isoCurrency": "MNT",
+      "id": "01a0ec4b-0445-7a87-a2f0-2e9b726e4049"
+    },
+    {
+      "symbol": "MOP",
+      "type": "Fiat",
+      "name": "Pataca",
+      "isoCurrency": "MOP",
+      "id": "01a0ec4b-0445-70a8-95d0-9967c3fb214b"
+    },
+    {
+      "symbol": "MRU",
+      "type": "Fiat",
+      "name": "Ouguiya",
+      "isoCurrency": "MRU",
+      "id": "01a0ec4b-0445-7b45-88e5-e73d48937130"
+    },
+    {
+      "symbol": "MUR",
+      "type": "Fiat",
+      "name": "Mauritius Rupee",
+      "isoCurrency": "MUR",
+      "id": "01a0ec4b-0445-793f-9e6c-0f759f8546b7"
+    },
+    {
+      "symbol": "MVR",
+      "type": "Fiat",
+      "name": "Rufiyaa",
+      "isoCurrency": "MVR",
+      "id": "01a0ec4b-0445-7149-a016-039a3990a1db"
+    },
+    {
+      "symbol": "MWK",
+      "type": "Fiat",
+      "name": "Malawi Kwacha",
+      "isoCurrency": "MWK",
+      "id": "01a0ec4b-0445-721f-ab4d-f3be0f7cea2c"
+    },
+    {
+      "symbol": "MXN",
+      "type": "Fiat",
+      "name": "Mexican Peso",
+      "isoCurrency": "MXN",
+      "id": "01a0ec4b-0445-7cbe-9d2f-c3f310c41d9b"
+    },
+    {
+      "symbol": "MYR",
+      "type": "Fiat",
+      "name": "Malaysian Ringgit",
+      "isoCurrency": "MYR",
+      "id": "01a0ec4b-0445-7fd7-a9d8-3569161033a0"
+    },
+    {
+      "symbol": "MZN",
+      "type": "Fiat",
+      "name": "Mozambique Metical",
+      "isoCurrency": "MZN",
+      "id": "01a0ec4b-0445-7b86-8ed4-023316df7cc8"
+    },
+    {
+      "symbol": "NAD",
+      "type": "Fiat",
+      "name": "Namibia Dollar",
+      "isoCurrency": "NAD",
+      "id": "01a0ec4b-0445-738c-ac7b-cdb888a26c24"
+    },
+    {
+      "symbol": "NGN",
+      "type": "Fiat",
+      "name": "Naira",
+      "isoCurrency": "NGN",
+      "id": "01a0ec4b-0445-717f-8d50-0fd0e374a449"
+    },
+    {
+      "symbol": "NIO",
+      "type": "Fiat",
+      "name": "Cordoba Oro",
+      "isoCurrency": "NIO",
+      "id": "01a0ec4b-0445-7d82-9a3d-889cd91642fe"
+    },
+    {
+      "symbol": "NOK",
+      "type": "Fiat",
+      "name": "Norwegian Krone",
+      "isoCurrency": "NOK",
+      "id": "01a0ec4b-0445-7a76-aa4d-261f3f97c3dd"
+    },
+    {
+      "symbol": "NPR",
+      "type": "Fiat",
+      "name": "Nepalese Rupee",
+      "isoCurrency": "NPR",
+      "id": "01a0ec4b-0445-7dad-8842-dc9ab82a5256"
+    },
+    {
+      "symbol": "NZD",
+      "type": "Fiat",
+      "name": "New Zealand Dollar",
+      "isoCurrency": "NZD",
+      "id": "01a0ec4b-0445-727c-8e7b-09d995f1d41a"
+    },
+    {
+      "symbol": "OMR",
+      "type": "Fiat",
+      "name": "Rial Omani",
+      "isoCurrency": "OMR",
+      "id": "01a0ec4b-0445-79dc-8d6b-f6a515b7a145"
+    },
+    {
+      "symbol": "PAB",
+      "type": "Fiat",
+      "name": "Balboa",
+      "isoCurrency": "PAB",
+      "id": "01a0ec4b-0445-7820-b37e-0888cb0628d8"
+    },
+    {
+      "symbol": "PEN",
+      "type": "Fiat",
+      "name": "Sol",
+      "isoCurrency": "PEN",
+      "id": "01a0ec4b-0445-7270-bead-6234d6f7811c"
+    },
+    {
+      "symbol": "PGK",
+      "type": "Fiat",
+      "name": "Kina",
+      "isoCurrency": "PGK",
+      "id": "01a0ec4b-0446-7b8d-8d14-2f4dfb23c648"
+    },
+    {
+      "symbol": "PHP",
+      "type": "Fiat",
+      "name": "Philippine Peso",
+      "isoCurrency": "PHP",
+      "id": "01a0ec4b-0446-74a4-b9cb-b4169236d083"
+    },
+    {
+      "symbol": "PKR",
+      "type": "Fiat",
+      "name": "Pakistan Rupee",
+      "isoCurrency": "PKR",
+      "id": "01a0ec4b-0446-7808-b27c-5ef96311b44e"
+    },
+    {
+      "symbol": "PLN",
+      "type": "Fiat",
+      "name": "Zloty",
+      "isoCurrency": "PLN",
+      "id": "01a0ec4b-0446-7a6c-af7c-cac3aa561ced"
+    },
+    {
+      "symbol": "PYG",
+      "type": "Fiat",
+      "name": "Guarani",
+      "isoCurrency": "PYG",
+      "id": "01a0ec4b-0446-796b-ae65-2b3a9677dcd7"
+    },
+    {
+      "symbol": "QAR",
+      "type": "Fiat",
+      "name": "Qatari Rial",
+      "isoCurrency": "QAR",
+      "id": "01a0ec4b-0446-7f0b-a9a3-d4b1feedf79b"
+    },
+    {
+      "symbol": "RON",
+      "type": "Fiat",
+      "name": "Romanian Leu",
+      "isoCurrency": "RON",
+      "id": "01a0ec4b-0446-7e5a-9db0-2322a13ac887"
+    },
+    {
+      "symbol": "RSD",
+      "type": "Fiat",
+      "name": "Serbian Dinar",
+      "isoCurrency": "RSD",
+      "id": "01a0ec4b-0446-7660-b340-f82d70946fc8"
+    },
+    {
+      "symbol": "RUB",
+      "type": "Fiat",
+      "name": "Russian Ruble",
+      "isoCurrency": "RUB",
+      "id": "01a0ec4b-0446-790f-a467-bf8944c3fd30"
+    },
+    {
+      "symbol": "RWF",
+      "type": "Fiat",
+      "name": "Rwanda Franc",
+      "isoCurrency": "RWF",
+      "id": "01a0ec4b-0446-7712-b98e-0519e988aa0e"
+    },
+    {
+      "symbol": "SAR",
+      "type": "Fiat",
+      "name": "Saudi Riyal",
+      "isoCurrency": "SAR",
+      "id": "01a0ec4b-0446-7826-b23a-e158a7099751"
+    },
+    {
+      "symbol": "SBD",
+      "type": "Fiat",
+      "name": "Solomon Islands Dollar",
+      "isoCurrency": "SBD",
+      "id": "01a0ec4b-0446-76c6-bff0-4ae4f9877a51"
+    },
+    {
+      "symbol": "SCR",
+      "type": "Fiat",
+      "name": "Seychelles Rupee",
+      "isoCurrency": "SCR",
+      "id": "01a0ec4b-0446-7894-b8e9-0fb99915e7fb"
+    },
+    {
+      "symbol": "SDG",
+      "type": "Fiat",
+      "name": "Sudanese Pound",
+      "isoCurrency": "SDG",
+      "id": "01a0ec4b-0446-7d76-91a7-af8797de83f6"
+    },
+    {
+      "symbol": "SEK",
+      "type": "Fiat",
+      "name": "Swedish Krona",
+      "isoCurrency": "SEK",
+      "id": "01a0ec4b-0446-7497-a7c9-44b606735e52"
+    },
+    {
+      "symbol": "SGD",
+      "type": "Fiat",
+      "name": "Singapore Dollar",
+      "isoCurrency": "SGD",
+      "id": "01a0ec4b-0446-774d-aea8-e023f96b2f12"
+    },
+    {
+      "symbol": "SHP",
+      "type": "Fiat",
+      "name": "Saint Helena Pound",
+      "isoCurrency": "SHP",
+      "id": "01a0ec4b-0446-771d-bde3-fb8b0c65d4ab"
+    },
+    {
+      "symbol": "SLE",
+      "type": "Fiat",
+      "name": "Leone",
+      "isoCurrency": "SLE",
+      "id": "01a0ec4b-0446-77e7-891d-2d8ea56f236d"
+    },
+    {
+      "symbol": "SOS",
+      "type": "Fiat",
+      "name": "Somali Shilling",
+      "isoCurrency": "SOS",
+      "id": "01a0ec4b-0446-76d5-b6de-53af9a36c908"
+    },
+    {
+      "symbol": "SRD",
+      "type": "Fiat",
+      "name": "Surinam Dollar",
+      "isoCurrency": "SRD",
+      "id": "01a0ec4b-0446-72f5-ac68-0b84b68867a6"
+    },
+    {
+      "symbol": "SSP",
+      "type": "Fiat",
+      "name": "South Sudanese Pound",
+      "isoCurrency": "SSP",
+      "id": "01a0ec4b-0446-7910-a97b-f0ec57dd3d4d"
+    },
+    {
+      "symbol": "STN",
+      "type": "Fiat",
+      "name": "Dobra",
+      "isoCurrency": "STN",
+      "id": "01a0ec4b-0446-7534-af07-a487091e16f9"
+    },
+    {
+      "symbol": "SVC",
+      "type": "Fiat",
+      "name": "El Salvador Colon",
+      "isoCurrency": "SVC",
+      "id": "01a0ec4b-0446-7fdc-8ec9-d5d2a85f93a6"
+    },
+    {
+      "symbol": "SYP",
+      "type": "Fiat",
+      "name": "Syrian Pound",
+      "isoCurrency": "SYP",
+      "id": "01a0ec4b-0446-73ad-9da2-cb66b4756d49"
+    },
+    {
+      "symbol": "SZL",
+      "type": "Fiat",
+      "name": "Lilangeni",
+      "isoCurrency": "SZL",
+      "id": "01a0ec4b-0446-762a-a905-981f65277485"
+    },
+    {
+      "symbol": "THB",
+      "type": "Fiat",
+      "name": "Baht",
+      "isoCurrency": "THB",
+      "id": "01a0ec4b-0446-7f0c-8928-1d80123379c3"
+    },
+    {
+      "symbol": "TJS",
+      "type": "Fiat",
+      "name": "Somoni",
+      "isoCurrency": "TJS",
+      "id": "01a0ec4b-0446-777c-a62d-97c792b1b529"
+    },
+    {
+      "symbol": "TMT",
+      "type": "Fiat",
+      "name": "Turkmenistan New Manat",
+      "isoCurrency": "TMT",
+      "id": "01a0ec4b-0446-7e99-bdfe-cdbf6e65e5ec"
+    },
+    {
+      "symbol": "TND",
+      "type": "Fiat",
+      "name": "Tunisian Dinar",
+      "isoCurrency": "TND",
+      "id": "01a0ec4b-0446-709c-85c4-c16514f6e104"
+    },
+    {
+      "symbol": "TOP",
+      "type": "Fiat",
+      "name": "Pa’anga",
+      "isoCurrency": "TOP",
+      "id": "01a0ec4b-0446-7a3d-8952-2dde60fc58cb"
+    },
+    {
+      "symbol": "TRY",
+      "type": "Fiat",
+      "name": "Turkish Lira",
+      "isoCurrency": "TRY",
+      "id": "01a0ec4b-0446-7851-8378-dbd3662bb656"
+    },
+    {
+      "symbol": "TTD",
+      "type": "Fiat",
+      "name": "Trinidad and Tobago Dollar",
+      "isoCurrency": "TTD",
+      "id": "01a0ec4b-0446-70f2-907a-70b4d79322be"
+    },
+    {
+      "symbol": "TWD",
+      "type": "Fiat",
+      "name": "New Taiwan Dollar",
+      "isoCurrency": "TWD",
+      "id": "01a0ec4b-0446-79e2-8615-c45153e884b8"
+    },
+    {
+      "symbol": "TZS",
+      "type": "Fiat",
+      "name": "Tanzanian Shilling",
+      "isoCurrency": "TZS",
+      "id": "01a0ec4b-0446-79b0-91a3-39ccf942cd4e"
+    },
+    {
+      "symbol": "UAH",
+      "type": "Fiat",
+      "name": "Hryvnia",
+      "isoCurrency": "UAH",
+      "id": "01a0ec4b-0446-743b-a63e-b900278be6e1"
+    },
+    {
+      "symbol": "UGX",
+      "type": "Fiat",
+      "name": "Uganda Shilling",
+      "isoCurrency": "UGX",
+      "id": "01a0ec4b-0446-7a9b-8849-69f84f0c2098"
+    },
+    {
+      "symbol": "USD",
+      "type": "Fiat",
+      "name": "US Dollar",
+      "isoCurrency": "USD",
+      "id": "01a0ec4b-0446-7896-88e9-3422691952ab"
+    },
+    {
+      "symbol": "UYU",
+      "type": "Fiat",
+      "name": "Peso Uruguayo",
+      "isoCurrency": "UYU",
+      "id": "01a0ec4b-0446-7f2b-b8d2-4b5cd4d6c4e8"
+    },
+    {
+      "symbol": "UZS",
+      "type": "Fiat",
+      "name": "Uzbekistan Sum",
+      "isoCurrency": "UZS",
+      "id": "01a0ec4b-0446-78a3-a7c8-de9333302b5d"
+    },
+    {
+      "symbol": "VED",
+      "type": "Fiat",
+      "name": "Bolívar Soberano (Digital)",
+      "isoCurrency": "VED",
+      "id": "01a0ec4b-0446-76ca-afd0-7880f2aff550"
+    },
+    {
+      "symbol": "VES",
+      "type": "Fiat",
+      "name": "Bolívar Soberano",
+      "isoCurrency": "VES",
+      "id": "01a0ec4b-0446-7c84-8dc4-9264ed8854ce"
+    },
+    {
+      "symbol": "VND",
+      "type": "Fiat",
+      "name": "Dong",
+      "isoCurrency": "VND",
+      "id": "01a0ec4b-0446-79f1-b571-5fd337af1e36"
+    },
+    {
+      "symbol": "VUV",
+      "type": "Fiat",
+      "name": "Vatu",
+      "isoCurrency": "VUV",
+      "id": "01a0ec4b-0446-7c02-bf3e-20b1ab6a1926"
+    },
+    {
+      "symbol": "WST",
+      "type": "Fiat",
+      "name": "Tala",
+      "isoCurrency": "WST",
+      "id": "01a0ec4b-0446-7d92-9e9c-9d538a1c8598"
+    },
+    {
+      "symbol": "XAF",
+      "type": "Fiat",
+      "name": "CFA Franc BEAC",
+      "isoCurrency": "XAF",
+      "id": "01a0ec4b-0446-75bd-be59-29c88a711ee5"
+    },
+    {
+      "symbol": "XAG",
+      "type": "Metal",
+      "name": "Silver",
+      "isoCurrency": "XAG",
+      "id": "01a0ec4b-0446-7905-b9d1-533608f54b57"
+    },
+    {
+      "symbol": "XAU",
+      "type": "Metal",
+      "name": "Gold",
+      "isoCurrency": "XAU",
+      "id": "01a0ec4b-0446-71a3-9f5b-b8c5dc33f0c0"
+    },
+    {
+      "symbol": "XCD",
+      "type": "Fiat",
+      "name": "East Caribbean Dollar",
+      "isoCurrency": "XCD",
+      "id": "01a0ec4b-0446-7057-8c10-1ba51b3b1b7e"
+    },
+    {
+      "symbol": "XCG",
+      "type": "Fiat",
+      "name": "Caribbean Guilder",
+      "isoCurrency": "XCG",
+      "id": "01a0ec4b-0446-76c4-b43c-2a58513891c8"
+    },
+    {
+      "symbol": "XOF",
+      "type": "Fiat",
+      "name": "CFA Franc BCEAO",
+      "isoCurrency": "XOF",
+      "id": "01a0ec4b-0446-7806-9152-6a1abd6e048f"
+    },
+    {
+      "symbol": "XPD",
+      "type": "Metal",
+      "name": "Palladium",
+      "isoCurrency": "XPD",
+      "id": "01a0ec4b-0446-72c7-a1e3-6b630ef6803c"
+    },
+    {
+      "symbol": "XPF",
+      "type": "Fiat",
+      "name": "CFP Franc",
+      "isoCurrency": "XPF",
+      "id": "01a0ec4b-0446-7777-8109-80894c040003"
+    },
+    {
+      "symbol": "XPT",
+      "type": "Metal",
+      "name": "Platinum",
+      "isoCurrency": "XPT",
+      "id": "01a0ec4b-0446-7181-bb69-dc5db1fe7d35"
+    },
+    {
+      "symbol": "YER",
+      "type": "Fiat",
+      "name": "Yemeni Rial",
+      "isoCurrency": "YER",
+      "id": "01a0ec4b-0446-741e-99cd-3a8ca5ee867e"
+    },
+    {
+      "symbol": "ZAR",
+      "type": "Fiat",
+      "name": "Rand",
+      "isoCurrency": "ZAR",
+      "id": "01a0ec4b-0446-7085-b75f-fa071e936d7c"
+    },
+    {
+      "symbol": "ZMW",
+      "type": "Fiat",
+      "name": "Zambian Kwacha",
+      "isoCurrency": "ZMW",
+      "id": "01a0ec4b-0446-70ba-9ff3-6ff157291d63"
+    },
+    {
+      "symbol": "ZWG",
+      "type": "Fiat",
+      "name": "Zimbabwe Gold",
+      "isoCurrency": "ZWG",
+      "id": "01a0ec4b-0446-793f-ad7f-7a62977155a9"
+    },
+    {
+      "symbol": "BRENT",
+      "type": "Commodity",
+      "name": "Brent Crude Oil",
+      "id": "01a0ec4b-0446-7dc3-b513-12fe43c30eb7"
+    },
+    {
+      "symbol": "WTI",
+      "type": "Commodity",
+      "name": "WTI Crude Oil",
+      "id": "01a0ec4b-0446-7534-b034-31293ebfa741"
+    },
+    {
+      "symbol": "AI92",
+      "type": "Commodity",
+      "name": "AI-92 Gasoline",
+      "id": "01a0ec4b-0446-7225-88f5-49119f4ddd15"
+    },
+    {
+      "symbol": "AI95",
+      "type": "Commodity",
+      "name": "AI-95 Gasoline",
+      "id": "01a0ec4b-0446-77f4-911d-3450598999e2"
+    },
+    {
+      "symbol": "DTL",
+      "type": "Commodity",
+      "name": "Diesel Fuel",
+      "id": "01a0ec4b-0446-7d85-926d-cc9d15c71ee7"
+    },
+    {
+      "symbol": "NG",
+      "type": "Commodity",
+      "name": "Natural Gas",
+      "id": "01a0ec4b-0446-70f4-81e7-127be8dcc619"
+    },
+    {
+      "symbol": "TTF",
+      "type": "Commodity",
+      "name": "TTF Natural Gas",
+      "id": "01a0ec4b-0446-7199-8a33-59270566beaa"
+    },
+    {
+      "symbol": "COPPER",
+      "type": "Commodity",
+      "name": "Copper",
+      "id": "01a0ec4b-0446-756a-ac05-53a4e69a778b"
+    },
+    {
+      "symbol": "ALUM",
+      "type": "Commodity",
+      "name": "Aluminum",
+      "id": "01a0ec4b-0446-77f4-9fda-b7fff76d3c05"
+    },
+    {
+      "symbol": "NICKEL",
+      "type": "Commodity",
+      "name": "Nickel",
+      "id": "01a0ec4b-0446-7fc4-af3f-9cb21b0370d9"
+    },
+    {
+      "symbol": "ZINC",
+      "type": "Commodity",
+      "name": "Zinc",
+      "id": "01a0ec4b-0446-732e-a6e8-8363c21dbf9a"
+    },
+    {
+      "symbol": "COCOA",
+      "type": "Commodity",
+      "name": "Cocoa",
+      "id": "01a0ec4b-0446-760c-94fb-d59c944e425b"
+    },
+    {
+      "symbol": "COFFEE",
+      "type": "Commodity",
+      "name": "Coffee",
+      "id": "01a0ec4b-0446-7f3e-aaf4-0ee588653b16"
+    },
+    {
+      "symbol": "SUGAR",
+      "type": "Commodity",
+      "name": "Sugar",
+      "id": "01a0ec4b-0446-708f-a895-22588a3b82ef"
+    },
+    {
+      "symbol": "WHEAT",
+      "type": "Commodity",
+      "name": "Wheat",
+      "id": "01a0ec4b-0446-7b9a-b588-77ca70a16ec1"
+    },
+    {
+      "symbol": "ORANGE",
+      "type": "Commodity",
+      "name": "Frozen Concentrated Orange Juice",
+      "id": "01a0ec4b-0446-7121-9838-67c2f06658ed"
+    },
+    {
+      "symbol": "BTC",
+      "type": "Crypto",
+      "name": "Bitcoin",
+      "id": "01a0ec4b-0446-7da8-aac4-b05edc30c6d8"
+    },
+    {
+      "symbol": "ETH",
+      "type": "Crypto",
+      "name": "Ethereum",
+      "id": "01a0ec4b-0446-7fa7-b5f8-6731352050f8"
+    },
+    {
+      "symbol": "TRX",
+      "type": "Crypto",
+      "name": "TRON",
+      "id": "01a0ec4b-0446-7615-9953-419fd693fd0e"
+    },
+    {
+      "symbol": "XRP",
+      "type": "Crypto",
+      "name": "XRP",
+      "id": "01a0ec4b-0446-7b4f-9b58-5e7918d647b3"
+    },
+    {
+      "symbol": "SOL",
+      "type": "Crypto",
+      "name": "Solana",
+      "id": "01a0ec4b-0446-7bb9-a267-5b4aec4fb8d8"
+    }
+  ]
+}

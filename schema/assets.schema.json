@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Register seed — assets",
+  "type": "object",
+  "required": ["assets"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "assets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "symbol", "type", "name"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-7[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" },
+          "symbol": { "type": "string", "minLength": 1 },
+          "type": { "type": "string", "enum": ["Fiat", "Crypto", "Stablecoin", "Metal", "Commodity"] },
+          "name": { "type": "string", "minLength": 1 },
+          "isoCurrency": { "type": "string", "pattern": "^[A-Z]{3}$" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

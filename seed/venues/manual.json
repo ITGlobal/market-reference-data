@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schema/venues.schema.json",
+  "venues": [
+    {
+      "mic": "XOFF",
+      "name": "Off-exchange transactions — listed instruments",
+      "boards": [],
+      "id": "01a0ec4b-043f-758c-aba3-b123bec306b5"
+    },
+    {
+      "mic": "XXXX",
+      "name": "No market (e.g. unlisted)",
+      "boards": [],
+      "id": "01a0ec4b-043f-7ef5-96bd-b2aff4f3f270"
+    }
+  ]
+}
