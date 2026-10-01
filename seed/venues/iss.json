@@ -362,6 +362,11 @@
           "name": "Swap rates"
         },
         {
+          "id": "01a0f6d7-0262-7434-8b32-e9e68ae340e8",
+          "code": "ICUR",
+          "name": "Курс наличной валюты"
+        },
+        {
           "id": "01a0ec4b-0437-7a3b-a384-e9e9c0d56278",
           "code": "INAV",
           "name": "INAV"
