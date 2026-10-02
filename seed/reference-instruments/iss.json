@@ -151,7 +151,6 @@
       "code": "CNYBUYSPB",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Санкт-Петербург",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -162,7 +161,6 @@
       "code": "CNYBUYNN",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Нижний Новгород",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -173,7 +171,6 @@
       "code": "CNYBUYMSC",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Москва",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -184,7 +181,6 @@
       "code": "CNYBUYKZN",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Казань",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -195,18 +191,6 @@
       "code": "CNYBUYEKB",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Екатеринбург",
       "venue": "MISX",
-      "board": "ICUR",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-7547-88a0-8db8a6fc86dc",
-      "type": "ReferenceRate",
-      "code": "CNYRUB_WAP0",
-      "description": "CNYRUB_WAP0 - CNY/РУБ",
-      "venue": "MISX",
-      "board": "WAPN",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -217,31 +201,17 @@
       "code": "CNYRUB_WAP0",
       "description": "CNYRUB_WAP0 - CNY/РУБ",
       "venue": "MISX",
-      "board": "WAPS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-725e-9fc7-5124c3656c0e",
-      "type": "ReferenceRate",
-      "code": "CNYRUB_FIX0",
-      "description": "CNYRUB_FIX0 - CNY/РУБ",
-      "venue": "MISX",
-      "board": "FIXN",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {
       "id": "01a0f24e-734d-7c18-8aa2-02f3756a779e",
-      "type": "ReferenceRate",
+      "type": "Index",
       "code": "CNYRUB_FIX0",
       "description": "CNYRUB_FIX0 - CNY/РУБ",
       "venue": "MISX",
-      "board": "FIXS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
+      "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
     {
@@ -250,7 +220,6 @@
       "code": "CNYSELLSPB",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Санкт-Петербург",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -261,7 +230,6 @@
       "code": "CNYSELLNN",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Нижний Новгород",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -272,7 +240,6 @@
       "code": "CNYSELLMSC",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Москва",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -283,7 +250,6 @@
       "code": "CNYSELLKZN",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Казань",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -294,7 +260,6 @@
       "code": "CNYSELLEKB",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Екатеринбург",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -395,7 +360,6 @@
       "code": "EURBUYSPB",
       "description": "Индикатор Финуслуг покупки наличного евро, Санкт-Петербург",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -406,7 +370,6 @@
       "code": "EURBUYNN",
       "description": "Индикатор Финуслуг покупки наличного евро, Нижний Новгород",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -417,7 +380,6 @@
       "code": "EURBUYMSC",
       "description": "Индикатор Финуслуг покупки наличного евро, Москва",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -428,7 +390,6 @@
       "code": "EURBUYKZN",
       "description": "Индикатор Финуслуг покупки наличного евро, Казань",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -439,31 +400,17 @@
       "code": "EURBUYEKB",
       "description": "Индикатор Финуслуг покупки наличного евро, Екатеринбург",
       "venue": "MISX",
-      "board": "ICUR",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-74e7-85e5-ba4c3fafde4f",
-      "type": "ReferenceRate",
-      "code": "EURRUB_FIX0",
-      "description": "EURRUB_FIX0 - EUR/РУБ",
-      "venue": "MISX",
-      "board": "FIXN",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {
       "id": "01a0f24e-734d-7ded-9be9-7da7d4ffd9c3",
-      "type": "ReferenceRate",
+      "type": "Index",
       "code": "EURRUB_FIX0",
       "description": "EURRUB_FIX0 - EUR/РУБ",
       "venue": "MISX",
-      "board": "FIXS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
+      "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
     {
@@ -472,7 +419,6 @@
       "code": "EURSELLSPB",
       "description": "Индикатор Финуслуг продажи наличного евро, Санкт-Петербург",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -483,7 +429,6 @@
       "code": "EURSELLNN",
       "description": "Индикатор Финуслуг продажи наличного евро, Нижний Новгород",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -494,7 +439,6 @@
       "code": "EURSELLMSC",
       "description": "Индикатор Финуслуг продажи наличного евро, Москва",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -505,7 +449,6 @@
       "code": "EURSELLKZN",
       "description": "Индикатор Финуслуг продажи наличного евро, Казань",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -516,7 +459,6 @@
       "code": "EURSELLEKB",
       "description": "Индикатор Финуслуг продажи наличного евро, Екатеринбург",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -671,7 +613,6 @@
       "code": "FIXAFKS",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО АФК Система",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -681,7 +622,6 @@
       "code": "FIXAFLT",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Аэрофлот",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -691,7 +631,6 @@
       "code": "FIXAGRO",
       "description": "Фиксинг МосБиржи ДР РОС АГРО ПЛС",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -701,7 +640,6 @@
       "code": "FIXALRS",
       "description": "Фиксинг МосБиржи обыкновенных акций АК АЛРОСА (ПАО)",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -711,7 +649,6 @@
       "code": "FIXAMD",
       "description": "Фиксинг МосБиржи AMD",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -721,7 +658,6 @@
       "code": "FIXAMZN",
       "description": "Фиксинг МосБиржи AMZN",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -731,7 +667,6 @@
       "code": "FIXAPP",
       "description": "Фиксинг МосБиржи APP",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -741,7 +676,6 @@
       "code": "FIXASTR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Астра",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -751,7 +685,6 @@
       "code": "FIXBSPB",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Банк \"Санкт-Петербург\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -761,7 +694,6 @@
       "code": "FIXBSX",
       "description": "Фиксинг МосБиржи BSX",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -771,7 +703,6 @@
       "code": "FIXCBOM",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО МОСКОВСКИЙ КРЕДИТНЫЙ БАНК",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -781,7 +712,6 @@
       "code": "FIXCHMF",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Северсталь",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -791,7 +721,6 @@
       "code": "FIXCMG",
       "description": "Фиксинг МосБиржи CMG",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -801,7 +730,6 @@
       "code": "FIXCNRU",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Циан\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -811,7 +739,6 @@
       "code": "FIXCOHR",
       "description": "Фиксинг МосБиржи COHR",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -821,7 +748,6 @@
       "code": "FIXCOIN",
       "description": "Фиксинг МосБиржи COIN",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -831,7 +757,6 @@
       "code": "FIXCRWD",
       "description": "Фиксинг МосБиржи CRWD",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -841,7 +766,6 @@
       "code": "FIXCVNA",
       "description": "Фиксинг МосБиржи CVNA",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -851,7 +775,6 @@
       "code": "FIXDASH",
       "description": "Фиксинг МосБиржи DASH",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -861,7 +784,6 @@
       "code": "FIXDOMRF",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ДОМ.РФ",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -871,7 +793,6 @@
       "code": "FIXENPG",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ЭН+ ГРУП",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -881,7 +802,6 @@
       "code": "FIXFEES",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ФСК - Россети",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -891,7 +811,6 @@
       "code": "FIXFIVE",
       "description": "Фиксинг МосБиржи ДР Икс 5 Ритейл Груп Н.В.",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -901,7 +820,6 @@
       "code": "FIXFIXP",
       "description": "Фиксинг МосБиржи ДР Фикс Прайс Груп Лтд",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -911,7 +829,6 @@
       "code": "FIXFLOT",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Совкомфлот",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -921,7 +838,6 @@
       "code": "FIXGAZP",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Газпром",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -931,7 +847,6 @@
       "code": "FIXGLTR",
       "description": "Фиксинг МосБиржи ДР Глобалтранс Инвестмент ПЛС",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -941,7 +856,6 @@
       "code": "FIXGMKN",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ГМК Норильский никель",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -951,7 +865,6 @@
       "code": "FIXHEAD",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО Хэдхантер",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -961,7 +874,6 @@
       "code": "FIXHOOD",
       "description": "Фиксинг МосБиржи HOOD",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -971,7 +883,6 @@
       "code": "FIXHYDR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО РусГидро",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -981,7 +892,6 @@
       "code": "FIXIRAO",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Интер РАО",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -991,7 +901,6 @@
       "code": "FIXLEAS",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"ЛК \"Европлан\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1001,7 +910,6 @@
       "code": "FIXLENT",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Лента\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1011,7 +919,6 @@
       "code": "FIXLITE",
       "description": "Фиксинг МосБиржи LITE",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1021,7 +928,6 @@
       "code": "FIXLKOH",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ЛУКОЙЛ",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1031,7 +937,6 @@
       "code": "FIXLULU",
       "description": "Фиксинг МосБиржи LULU",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1041,7 +946,6 @@
       "code": "FIXMAGN",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ММК",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1051,7 +955,6 @@
       "code": "FIXMDMG",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"МД Медикал Груп\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1061,7 +964,6 @@
       "code": "FIXMGNT",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Магнит",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1071,7 +973,6 @@
       "code": "FIXMOEX",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Московская Биржа",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1081,7 +982,6 @@
       "code": "FIXMSNG",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Мосэнерго",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1091,7 +991,6 @@
       "code": "FIXMTLR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Мечел",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1101,7 +1000,6 @@
       "code": "FIXMTLRP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Мечел",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1111,7 +1009,6 @@
       "code": "FIXMTSS",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО МТС",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1121,7 +1018,6 @@
       "code": "FIXNBIS",
       "description": "Фиксинг МосБиржи NBIS",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1131,7 +1027,6 @@
       "code": "FIXNFLX",
       "description": "Фиксинг МосБиржи NFLX",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1141,7 +1036,6 @@
       "code": "FIXNLMK",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО НЛМК",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1151,7 +1045,6 @@
       "code": "FIXNVTK",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО НОВАТЭК",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1161,7 +1054,6 @@
       "code": "FIXOZON",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Озон\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1171,7 +1063,6 @@
       "code": "FIXPANW",
       "description": "Фиксинг МосБиржи PANW",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1181,7 +1072,6 @@
       "code": "FIXPHOR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ФосАгро",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1191,7 +1081,6 @@
       "code": "FIXPIKK",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Компаний ПИК",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1201,7 +1090,6 @@
       "code": "FIXPLZL",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Полюс",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1211,7 +1099,6 @@
       "code": "FIXPOLY",
       "description": "Фиксинг МосБиржи обыкновенных акций Полиметалл Интернэшнл плс",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1221,7 +1108,6 @@
       "code": "FIXPOSI",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Позитив",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1231,7 +1117,6 @@
       "code": "FIXQIWI",
       "description": "Фиксинг МосБиржи ДР QIWI PLC",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1241,7 +1126,6 @@
       "code": "FIXQQQ",
       "description": "Фиксинг МосБиржи QQQ ETF",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1251,7 +1135,6 @@
       "code": "FIXRAGR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"Группа \"Русагро\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1261,7 +1144,6 @@
       "code": "FIXRENI",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"Группа Ренессанс Страхование\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1271,7 +1153,6 @@
       "code": "FIXROSN",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО НК Роснефть",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1281,7 +1162,6 @@
       "code": "FIXRTKM",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Ростелеком",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1291,7 +1171,6 @@
       "code": "FIXRUAL",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО Объединенная компания РУСАЛ",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1301,7 +1180,6 @@
       "code": "FIXSBER",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Сбербанк",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1311,7 +1189,6 @@
       "code": "FIXSBERP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Сбербанк",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1321,7 +1198,6 @@
       "code": "FIXSELG",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Селигдар",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1331,7 +1207,6 @@
       "code": "FIXSGZH",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ГК Сегежа",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1341,7 +1216,6 @@
       "code": "FIXSMCI",
       "description": "Фиксинг МосБиржи SMCI",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1351,7 +1225,6 @@
       "code": "FIXSMLT",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ГК Самолет",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1361,7 +1234,6 @@
       "code": "FIXSNDK",
       "description": "Фиксинг МосБиржи SNDK",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1371,7 +1243,6 @@
       "code": "FIXSNGS",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Сургутнефтегаз",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1381,7 +1252,6 @@
       "code": "FIXSNGSP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Сургутнефтегаз",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1391,7 +1261,6 @@
       "code": "FIXSPCX",
       "description": "Фиксинг МосБиржи SPCX",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1401,7 +1270,6 @@
       "code": "FIXSPY",
       "description": "Фиксинг МосБиржи SPY ETF",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1411,7 +1279,6 @@
       "code": "FIXSVCB",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Совкомбанк",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1421,7 +1288,6 @@
       "code": "FIXT",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Т-Технологии\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1431,7 +1297,6 @@
       "code": "FIXTATN",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Татнефть им. В.Д. Шашина",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1441,7 +1306,6 @@
       "code": "FIXTATNP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Татнефть им. В.Д. Шашина",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1451,7 +1315,6 @@
       "code": "FIXTCSG",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ТКС Холдинг",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1461,7 +1324,6 @@
       "code": "FIXTRNFP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Транснефть",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1471,7 +1333,6 @@
       "code": "FIXTSLA",
       "description": "Фиксинг МосБиржи TSLA",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1481,7 +1342,6 @@
       "code": "FIXUBER",
       "description": "Фиксинг МосБиржи UBER",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1491,7 +1351,6 @@
       "code": "FIXUGLD",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ЮГК",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1501,7 +1360,6 @@
       "code": "FIXUPRO",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Юнипро",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1511,7 +1369,6 @@
       "code": "FIXVKCO",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ВК",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1521,7 +1378,6 @@
       "code": "FIXVTBR",
       "description": "Фиксинг МосБиржи обыкновенных акций Банк ВТБ (ПАО)",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1531,7 +1387,6 @@
       "code": "FIXX5",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"Корпоративный центр ИКС 5\"",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1541,7 +1396,6 @@
       "code": "FIXYDEX",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ЯНДЕКС",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1551,7 +1405,6 @@
       "code": "FIXYNDX",
       "description": "Фиксинг МосБиржи обыкновенных акций Яндекс Н.В.",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1579,7 +1432,6 @@
       "code": "GZGOLD",
       "description": "Гознак - аффинированное золото",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4667,7 +4519,6 @@
       "code": "RUGOLD",
       "description": "Индекс МосБиржи аффинированного золота",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5226,7 +5077,6 @@
       "code": "RUPALLAD",
       "description": "Индекс МосБиржи палладия",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5245,7 +5095,6 @@
       "code": "RUPLAT",
       "description": "Индекс МосБиржи платины",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5561,7 +5410,6 @@
       "code": "RUSILVER",
       "description": "Индекс МосБиржи серебра",
       "venue": "MISX",
-      "board": "INPF",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5724,7 +5572,6 @@
       "code": "USDBUYSPB",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Санкт-Петербург",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5735,7 +5582,6 @@
       "code": "USDBUYNN",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Нижний Новгород",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5746,7 +5592,6 @@
       "code": "USDBUYMSC",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Москва",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5757,7 +5602,6 @@
       "code": "USDBUYKZN",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Казань",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5768,18 +5612,6 @@
       "code": "USDBUYEKB",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Екатеринбург",
       "venue": "MISX",
-      "board": "ICUR",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-75ea-b2f3-56854f25e540",
-      "type": "ReferenceRate",
-      "code": "USDRUB_WAP0",
-      "description": "USDRUB_WAP0 - USD/РУБ",
-      "venue": "MISX",
-      "board": "WAPN",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5790,31 +5622,17 @@
       "code": "USDRUB_WAP0",
       "description": "USDRUB_WAP0 - USD/РУБ",
       "venue": "MISX",
-      "board": "WAPS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-7eff-877f-990b5b800518",
-      "type": "ReferenceRate",
-      "code": "USDRUB_FIX0",
-      "description": "USDRUB_FIX0 - USD/РУБ",
-      "venue": "MISX",
-      "board": "FIXN",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {
       "id": "01a0f24e-734d-7b30-8284-da47b0639d45",
-      "type": "ReferenceRate",
+      "type": "Index",
       "code": "USDRUB_FIX0",
       "description": "USDRUB_FIX0 - USD/РУБ",
       "venue": "MISX",
-      "board": "FIXS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
+      "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
     {
@@ -5823,7 +5641,6 @@
       "code": "USDSELLSPB",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Санкт-Петербург",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5834,7 +5651,6 @@
       "code": "USDSELLNN",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Нижний Новгород",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5845,7 +5661,6 @@
       "code": "USDSELLMSC",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Москва",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5856,7 +5671,6 @@
       "code": "USDSELLKZN",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Казань",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5867,7 +5681,6 @@
       "code": "USDSELLEKB",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Екатеринбург",
       "venue": "MISX",
-      "board": "ICUR",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5896,7 +5709,6 @@
       "code": "BYNFIXME",
       "description": "Фиксинг белорусский рубль/российский рубль Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5906,7 +5718,6 @@
       "code": "CNYFIX",
       "description": "Курс китайский юань/российский рубль",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5917,7 +5728,6 @@
       "code": "CNYFIXME",
       "description": "Фиксинг китайский юань/российский рубль Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5927,7 +5737,6 @@
       "code": "EURFIX",
       "description": "Курс евро/российский рубль",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5938,7 +5747,6 @@
       "code": "EURFIXME",
       "description": "Фиксинг евро/российский рубль Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5948,7 +5756,6 @@
       "code": "EURUSDFIX",
       "description": "Курс евро/доллар США",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Currency",
       "settlementAsset": "USD",
       "provider": "Московская Биржа"
@@ -5959,7 +5766,6 @@
       "code": "EURUSDFIXME",
       "description": "Фиксинг евро/доллар США Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5969,7 +5775,6 @@
       "code": "GOLDFIXME",
       "description": "Фиксинг золота Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5979,7 +5784,6 @@
       "code": "HKDFIXME",
       "description": "Фиксинг гонконгский доллар/российский рубль Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5989,7 +5793,6 @@
       "code": "PALADFIXME",
       "description": "Фиксинг палладия Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5999,7 +5802,6 @@
       "code": "PLATFIXME",
       "description": "Фиксинг платины Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6009,7 +5811,6 @@
       "code": "SILVFIXME",
       "description": "Фиксинг серебра Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6019,7 +5820,6 @@
       "code": "TRYFIXME",
       "description": "Фиксинг турецкая лира/российский рубль Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6029,7 +5829,6 @@
       "code": "USDCNYFIXME",
       "description": "Фиксинг доллар США/китайский юань Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6039,7 +5838,6 @@
       "code": "USDFIX",
       "description": "Курс доллар США/российский рубль",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -6050,7 +5848,6 @@
       "code": "USDFIXME",
       "description": "Фиксинг доллар США/российский рубль Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6060,7 +5857,6 @@
       "code": "USDKZTFIXME",
       "description": "Фиксинг доллар США/казахстанский тенге Московской Биржи",
       "venue": "MISX",
-      "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     }
