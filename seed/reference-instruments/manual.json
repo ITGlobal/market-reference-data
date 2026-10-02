@@ -80,6 +80,2904 @@
       "methodology": "Рассчитывается Московской Биржей по заявкам РЕПО с ЦК под обеспечение КСУ пула GC Bonds",
       "provider": "Московская Биржа",
       "id": "01a0ec4b-044e-7bc1-a0d9-ffb2826e94ac"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_BLNG1",
+      "description": "Baltic Exchange LNG Route BLNG1",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7bda-948e-fc54dd63b8e2"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_BLNG2",
+      "description": "Baltic Exchange LNG Route BLNG2",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-71ce-836f-929470ca9da2"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_BLNG3",
+      "description": "Baltic Exchange LNG Route BLNG3",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7ecc-90c7-69144c613503"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC11",
+      "description": "Baltic Exchange Tanker Route TC11",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7fea-935b-ef53dfb8d88d"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC12",
+      "description": "Baltic Exchange Tanker Route TC12",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-76d0-b321-cd8dabb1ddbb"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC14",
+      "description": "Baltic Exchange Tanker Route TC14",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7b24-ab94-148e17cb0bc8"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC15",
+      "description": "Baltic Exchange Tanker Route TC15",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7a7e-85d0-ccc00c13342c"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC17",
+      "description": "Baltic Exchange Tanker Route TC17",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7954-9e27-330ea0383d21"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC18",
+      "description": "Baltic Exchange Tanker Route TC18",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-75fa-b401-6281ec6ce34f"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC2",
+      "description": "Baltic Exchange Tanker Route TC2",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-78f4-8ebb-aff16a13cac6"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC20",
+      "description": "Baltic Exchange Tanker Route TC20",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-792a-bb0c-ea081fdeda62"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC6",
+      "description": "Baltic Exchange Tanker Route TC6",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7419-b0a1-8b8f55440ace"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TC7",
+      "description": "Baltic Exchange Tanker Route TC7",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7ac9-b16c-da5993ee080d"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TD19",
+      "description": "Baltic Exchange Tanker Route TD19",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-752a-96d2-c918a595921a"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TD20",
+      "description": "Baltic Exchange Tanker Route TD20",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-707a-b4cc-d80ea02b0548"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TD22",
+      "description": "Baltic Exchange Tanker Route TD22",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-714d-894e-41fcd21a2fc5"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TD25",
+      "description": "Baltic Exchange Tanker Route TD25",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7805-a56d-90715e0505b0"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TD28",
+      "description": "Baltic Exchange Tanker Route TD28",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7e31-856e-f3e6adaa688f"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TD3C",
+      "description": "Baltic Exchange Tanker Route TD3C",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-79e9-8a07-77f96bc56556"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TD7",
+      "description": "Baltic Exchange Tanker Route TD7",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7fd2-b5f5-75c65d3fe2e8"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_TD8",
+      "description": "Baltic Exchange Tanker Route TD8",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7f7d-b4e1-3cc235e010e0"
+    },
+    {
+      "type": "Index",
+      "code": "BCOM",
+      "description": "Bloomberg Commodity Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-747e-94ad-58e3eca6a882"
+    },
+    {
+      "type": "Index",
+      "code": "BCOMAG",
+      "description": "Bloomberg Agriculture Subindex",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-70e2-9791-3f048ad2cb25"
+    },
+    {
+      "type": "Index",
+      "code": "BCOMEN",
+      "description": "Bloomberg Energy Subindex",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-71b9-841e-772111cd2593"
+    },
+    {
+      "type": "Index",
+      "code": "BCOMGR",
+      "description": "Bloomberg Grains Subindex",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-7c47-9ab6-1573664c1e1e"
+    },
+    {
+      "type": "Index",
+      "code": "BCOMIN",
+      "description": "Bloomberg All Metals Subindex",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-729c-9cfa-364116b7843c"
+    },
+    {
+      "type": "Index",
+      "code": "BCOMLI",
+      "description": "Bloomberg Livestock Subindex",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-7273-b681-1552ec15cac3"
+    },
+    {
+      "type": "Index",
+      "code": "BCOMPE",
+      "description": "Bloomberg Petroleum Subindex",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-7c68-984f-2063bd9018c7"
+    },
+    {
+      "type": "Index",
+      "code": "BCOMPR",
+      "description": "Bloomberg Precious Metals Subindex",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-7fdb-b453-7ad6c41f37e5"
+    },
+    {
+      "type": "Index",
+      "code": "BCOMRS",
+      "description": "Bloomberg Roll Select Commodity Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-7fe7-b744-e93c1541df18"
+    },
+    {
+      "type": "Index",
+      "code": "BEMC",
+      "description": "Bloomberg EM USD Credit Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-7822-9b5e-78fd5867f7ce"
+    },
+    {
+      "type": "Index",
+      "code": "BHY",
+      "description": "Bloomberg US Corporate High Yield Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-73b2-8458-21863f9f398b"
+    },
+    {
+      "type": "Index",
+      "code": "BHYDH",
+      "description": "Bloomberg US High Yield Duration-Hedged Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-7f5f-bf50-89b2e783c622"
+    },
+    {
+      "type": "Index",
+      "code": "BIG",
+      "description": "Bloomberg US Corporate Investment Grade Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-74a3-846f-df5560d51f84"
+    },
+    {
+      "type": "Index",
+      "code": "BIG10P",
+      "description": "Bloomberg US Corporate IG 10+ Year Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-78b0-b2e5-50a507757678"
+    },
+    {
+      "type": "Index",
+      "code": "BIG15",
+      "description": "Bloomberg US Corporate IG 1-5 Year Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-7292-87c4-dea9f2852736"
+    },
+    {
+      "type": "Index",
+      "code": "BIG510",
+      "description": "Bloomberg US Corporate IG 5-10 Year Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbd0-2933-7a36-b8f9-b54286f371cc"
+    },
+    {
+      "type": "Index",
+      "code": "BVX",
+      "description": "CME CF Bitcoin Volatility Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME CF Benchmarks",
+      "id": "01a0fbd0-2933-7091-96ee-24600f2d90f0"
+    },
+    {
+      "type": "Index",
+      "code": "COMP",
+      "description": "Nasdaq Composite Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nasdaq",
+      "id": "01a0fbd0-2933-765e-8fb4-981528fd7921"
+    },
+    {
+      "type": "Index",
+      "code": "CRB",
+      "description": "FTSE/CoreCommodity CRB Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7976-b47f-2239fc24b45c"
+    },
+    {
+      "type": "Index",
+      "code": "CSBOS",
+      "description": "S&P CoreLogic Case-Shiller Boston Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7aed-ba5e-4ee84a3d9df0"
+    },
+    {
+      "type": "Index",
+      "code": "CSCHI",
+      "description": "S&P CoreLogic Case-Shiller Chicago Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7e5d-81b1-b4c3848f2a33"
+    },
+    {
+      "type": "Index",
+      "code": "CSCOMP10",
+      "description": "S&P CoreLogic Case-Shiller 10-City Composite Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7ecd-8e45-b168d3166bfb"
+    },
+    {
+      "type": "Index",
+      "code": "CSDEN",
+      "description": "S&P CoreLogic Case-Shiller Denver Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7afa-aa6b-fe378abb5d4a"
+    },
+    {
+      "type": "Index",
+      "code": "CSLAV",
+      "description": "S&P CoreLogic Case-Shiller Las Vegas Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7398-bb40-04b6f6096832"
+    },
+    {
+      "type": "Index",
+      "code": "CSLAX",
+      "description": "S&P CoreLogic Case-Shiller Los Angeles Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7387-8110-ddb1773ec78a"
+    },
+    {
+      "type": "Index",
+      "code": "CSMIA",
+      "description": "S&P CoreLogic Case-Shiller Miami Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7872-9af5-505ec83fdcef"
+    },
+    {
+      "type": "Index",
+      "code": "CSNYM",
+      "description": "S&P CoreLogic Case-Shiller New York Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7da6-b18a-063e846aa167"
+    },
+    {
+      "type": "Index",
+      "code": "CSSDG",
+      "description": "S&P CoreLogic Case-Shiller San Diego Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-74a6-ae4e-e25336af882c"
+    },
+    {
+      "type": "Index",
+      "code": "CSSFR",
+      "description": "S&P CoreLogic Case-Shiller San Francisco Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-73d6-9a55-6d82ba396117"
+    },
+    {
+      "type": "Index",
+      "code": "CSWDC",
+      "description": "S&P CoreLogic Case-Shiller Washington DC Home Price Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-78c9-ad69-e577add6ecbd"
+    },
+    {
+      "type": "Index",
+      "code": "DJDVP",
+      "description": "Dow Jones U.S. Dividend 100 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-71c9-bb1a-a568a0fa2162"
+    },
+    {
+      "type": "Index",
+      "code": "DJITR",
+      "description": "Dow Jones Industrial Average Total Return Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7f86-a84a-17871bb64947"
+    },
+    {
+      "type": "Index",
+      "code": "DJUSRE",
+      "description": "Dow Jones U.S. Real Estate Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-75cb-a45b-5e48b59a3b90"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "EFFR",
+      "description": "Effective Federal Funds Rate",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "Federal Reserve Bank of New York",
+      "id": "01a0fbd0-2933-7cdf-b289-15ee7608225d"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "ESTR",
+      "description": "Euro Short-Term Rate",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "European Central Bank",
+      "id": "01a0fbd0-2933-74dd-b15b-dc856d6fb16a"
+    },
+    {
+      "type": "Index",
+      "code": "FBX_FBX01",
+      "description": "Freightos Baltic Container Index FBX01",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7cd6-85bf-ff183527a200"
+    },
+    {
+      "type": "Index",
+      "code": "FBX_FBX02",
+      "description": "Freightos Baltic Container Index FBX02",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-75e4-b1a3-f727435372b1"
+    },
+    {
+      "type": "Index",
+      "code": "FBX_FBX03",
+      "description": "Freightos Baltic Container Index FBX03",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7746-8622-180ce84d2a62"
+    },
+    {
+      "type": "Index",
+      "code": "FBX_FBX11",
+      "description": "Freightos Baltic Container Index FBX11",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-7dbe-b294-dc14f6389a4c"
+    },
+    {
+      "type": "Index",
+      "code": "FBX_FBX12",
+      "description": "Freightos Baltic Container Index FBX12",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-779a-9172-c323ad013cbd"
+    },
+    {
+      "type": "Index",
+      "code": "FBX_FBX13",
+      "description": "Freightos Baltic Container Index FBX13",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbd0-2933-725e-af68-8c0b5dfead91"
+    },
+    {
+      "type": "Index",
+      "code": "FTDEUR",
+      "description": "FTSE Developed Europe Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7edc-9abc-257a887cfc33"
+    },
+    {
+      "type": "Index",
+      "code": "FTEMG",
+      "description": "FTSE Emerging Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7ed5-97a9-2dc7c327f5c1"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "FTIIE",
+      "description": "Banco de México Funding TIIE",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "Banco de México",
+      "id": "01a0fbd0-2933-7990-854a-fe4c024d745c"
+    },
+    {
+      "type": "Index",
+      "code": "IBOVUSD",
+      "description": "Ibovespa USD Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "B3",
+      "id": "01a0fbd0-2933-7daa-b670-aa4e25f929ba"
+    },
+    {
+      "type": "Index",
+      "code": "INDU",
+      "description": "Dow Jones Industrial Average",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-70b5-bf6e-b0b646c2a319"
+    },
+    {
+      "type": "Index",
+      "code": "IPXO",
+      "description": "IPOX 100 U.S. Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "IPOX Schuster",
+      "id": "01a0fbd0-2933-7a47-8319-11de0e15fb38"
+    },
+    {
+      "type": "Index",
+      "code": "IXB",
+      "description": "Materials Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7053-8502-21039627e5d4"
+    },
+    {
+      "type": "Index",
+      "code": "IXC",
+      "description": "Communication Services Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-70fa-9df2-5c6da66056e7"
+    },
+    {
+      "type": "Index",
+      "code": "IXE",
+      "description": "Energy Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-79bf-ac40-76be199948ac"
+    },
+    {
+      "type": "Index",
+      "code": "IXI",
+      "description": "Industrials Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7611-aa48-d9381dfbc53c"
+    },
+    {
+      "type": "Index",
+      "code": "IXM",
+      "description": "Financials Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7c9a-8987-c18fc6240fed"
+    },
+    {
+      "type": "Index",
+      "code": "IXR",
+      "description": "Consumer Staples Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7f8f-ab22-d6bfaf93a83b"
+    },
+    {
+      "type": "Index",
+      "code": "IXRE",
+      "description": "Real Estate Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7604-bb68-489147412f0a"
+    },
+    {
+      "type": "Index",
+      "code": "IXT",
+      "description": "Technology Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7544-a232-ba934aa8484a"
+    },
+    {
+      "type": "Index",
+      "code": "IXU",
+      "description": "Utilities Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7f17-a5f8-09a03bdade49"
+    },
+    {
+      "type": "Index",
+      "code": "IXV",
+      "description": "Health Care Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7681-906d-7f2759eb27c9"
+    },
+    {
+      "type": "Index",
+      "code": "IXY",
+      "description": "Consumer Discretionary Select Sector Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7cfc-91da-f758a300a32f"
+    },
+    {
+      "type": "Index",
+      "code": "MEXBOL",
+      "description": "S&P/BMV IPC Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-773b-a1f5-de028b368516"
+    },
+    {
+      "type": "Index",
+      "code": "MID",
+      "description": "S&P MidCap 400 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-73a4-9983-fc84b4416acc"
+    },
+    {
+      "type": "Index",
+      "code": "MSUSTM",
+      "description": "Morningstar US Total Market Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Morningstar",
+      "id": "01a0fbd0-2933-7afc-9ad7-b16467d0079e"
+    },
+    {
+      "type": "Index",
+      "code": "NBI",
+      "description": "Nasdaq Biotechnology Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nasdaq",
+      "id": "01a0fbd0-2933-7964-a437-040b1cd73adf"
+    },
+    {
+      "type": "Index",
+      "code": "NCI",
+      "description": "Nasdaq Crypto Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nasdaq",
+      "id": "01a0fbd0-2933-78e5-b503-752a57121370"
+    },
+    {
+      "type": "Index",
+      "code": "NDX",
+      "description": "Nasdaq-100 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nasdaq",
+      "id": "01a0fbd0-2933-78a8-80a2-1e6f6686ae2b"
+    },
+    {
+      "type": "Index",
+      "code": "NDXDIVA",
+      "description": "Nasdaq-100 Annual Dividend Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nasdaq",
+      "id": "01a0fbd0-2933-7fec-b1f6-11ed4f6a9a48"
+    },
+    {
+      "type": "Index",
+      "code": "NDXDIVQ",
+      "description": "Nasdaq-100 Quarterly Dividend Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nasdaq",
+      "id": "01a0fbd0-2933-71bc-8c2b-a23f4dc01036"
+    },
+    {
+      "type": "Index",
+      "code": "NKY",
+      "description": "Nikkei 225 Stock Average",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nikkei Inc.",
+      "id": "01a0fbd0-2933-75bb-9a49-63145b87aa64"
+    },
+    {
+      "type": "Index",
+      "code": "NQH2O",
+      "description": "Nasdaq Veles California Water Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nasdaq",
+      "id": "01a0fbd0-2933-7220-a709-5cf8cd590fbe"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "OBMMI30C",
+      "description": "Optimal Blue Mortgage Market Index 30-Year Conforming",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "Optimal Blue",
+      "id": "01a0fbd0-2933-7a05-a0ae-d01d3cdc8090"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_TC5",
+      "description": "Platts Tanker Route TC5 (Ras Tanura to Yokohama)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a0fbd0-2933-7932-8043-80f901fe6d6f"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_TD3C",
+      "description": "Platts Tanker Route TD3C (Middle East Gulf to China)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a0fbd0-2933-731f-97e7-5075f887b728"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_USGC_CHN",
+      "description": "Platts Dirty Freight USGC to China",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a0fbd0-2933-7028-bf35-a4bf08578885"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_XNS80",
+      "description": "Platts Dirty Freight Cross North Sea 80kt",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a0fbd0-2933-7257-9910-b87547eb669a"
+    },
+    {
+      "type": "Index",
+      "code": "RLG",
+      "description": "Russell 1000 Growth Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7082-89d6-c7a0c3801d53"
+    },
+    {
+      "type": "Index",
+      "code": "RLV",
+      "description": "Russell 1000 Value Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-74ec-87c2-e833be1a07ef"
+    },
+    {
+      "type": "Index",
+      "code": "RUA",
+      "description": "Russell 3000 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7f48-99e9-ebce817c3569"
+    },
+    {
+      "type": "Index",
+      "code": "RUI",
+      "description": "Russell 1000 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7376-b138-0bd0a01fb86f"
+    },
+    {
+      "type": "Index",
+      "code": "RUITR",
+      "description": "Russell 1000 Total Return Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7e65-8ae3-65fa427255c1"
+    },
+    {
+      "type": "Index",
+      "code": "RUJ",
+      "description": "Russell 2000 Value Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7bc9-b7f9-4adf96a3c3b9"
+    },
+    {
+      "type": "Index",
+      "code": "RUO",
+      "description": "Russell 2000 Growth Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-76ef-a3f7-02a55109a22f"
+    },
+    {
+      "type": "Index",
+      "code": "RUT",
+      "description": "Russell 2000 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7a4c-8980-c710bd05aa96"
+    },
+    {
+      "type": "Index",
+      "code": "RUTDIVA",
+      "description": "Russell 2000 Annual Dividend Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7a80-9302-98fbc45aa6a0"
+    },
+    {
+      "type": "Index",
+      "code": "RUTDIVQ",
+      "description": "Russell 2000 Quarterly Dividend Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7d6f-89fd-9925d7fe57b6"
+    },
+    {
+      "type": "Index",
+      "code": "RUTTR",
+      "description": "Russell 2000 Total Return Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2933-7c97-84c6-c5a1167c32b0"
+    },
+    {
+      "type": "Index",
+      "code": "SML",
+      "description": "S&P SmallCap 600 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7ec8-b989-d199b1a1b24d"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "SOFR",
+      "description": "Secured Overnight Financing Rate",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "Federal Reserve Bank of New York",
+      "id": "01a0fbd0-2933-70d5-979a-3c75c50605f7"
+    },
+    {
+      "type": "Index",
+      "code": "SOX",
+      "description": "PHLX Semiconductor Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nasdaq",
+      "id": "01a0fbd0-2933-7e6a-bc87-0fa13eec4d2c"
+    },
+    {
+      "type": "Index",
+      "code": "SPEU350ESG",
+      "description": "S&P Europe 350 ESG Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7d69-8db3-14887bc54690"
+    },
+    {
+      "type": "Index",
+      "code": "SPGSCI",
+      "description": "S&P GSCI",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7633-910f-9eec582a9c89"
+    },
+    {
+      "type": "Index",
+      "code": "SPGSCIER",
+      "description": "S&P GSCI Excess Return Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7d6e-9064-3466506f6700"
+    },
+    {
+      "type": "Index",
+      "code": "SPGSENER",
+      "description": "S&P GSCI Enhanced Excess Return Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7761-be7b-aae0887efd45"
+    },
+    {
+      "type": "Index",
+      "code": "SPLSTA",
+      "description": "S&P UBS Leveraged Loan Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7823-983a-6c99a5bb3dbf"
+    },
+    {
+      "type": "Index",
+      "code": "SPLV",
+      "description": "S&P 500 Low Volatility Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-77fb-8226-cf5bf864eef8"
+    },
+    {
+      "type": "Index",
+      "code": "SPR",
+      "description": "S&P Composite 1500 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7c4e-996f-de08c4604abb"
+    },
+    {
+      "type": "Index",
+      "code": "SPSIBI",
+      "description": "S&P Biotechnology Select Industry Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-70b7-a462-58352a66158b"
+    },
+    {
+      "type": "Index",
+      "code": "SPSIIS",
+      "description": "S&P Insurance Select Industry Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-780a-a5f3-29382f7f1a13"
+    },
+    {
+      "type": "Index",
+      "code": "SPSIOP",
+      "description": "S&P Oil & Gas Exploration & Production Select Industry Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7d16-884e-fd7119a358d6"
+    },
+    {
+      "type": "Index",
+      "code": "SPSIRBK",
+      "description": "S&P Regional Banks Select Industry Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-749a-aafa-b448c5313fc7"
+    },
+    {
+      "type": "Index",
+      "code": "SPSIRE",
+      "description": "S&P Retail Select Industry Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-73a3-b3e0-4717b4fbc8f4"
+    },
+    {
+      "type": "Index",
+      "code": "SPTMI",
+      "description": "S&P Total Market Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7adb-b90c-0c653d6f20d8"
+    },
+    {
+      "type": "Index",
+      "code": "SPX",
+      "description": "S&P 500 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7ac4-8b28-51e71bf5513d"
+    },
+    {
+      "type": "Index",
+      "code": "SPXDIVA",
+      "description": "S&P 500 Annual Dividend Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7d6f-8ffb-13421a67c36c"
+    },
+    {
+      "type": "Index",
+      "code": "SPXDIVQ",
+      "description": "S&P 500 Quarterly Dividend Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7317-8007-cf991e7357ad"
+    },
+    {
+      "type": "Index",
+      "code": "SPXESG",
+      "description": "S&P 500 ESG Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7257-9504-edb851780226"
+    },
+    {
+      "type": "Index",
+      "code": "SPXEW",
+      "description": "S&P 500 Equal Weight Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7513-ba43-abc9a27ad6ad"
+    },
+    {
+      "type": "Index",
+      "code": "SPXG",
+      "description": "S&P 500 Growth Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7dbc-8e53-84e8f11c3808"
+    },
+    {
+      "type": "Index",
+      "code": "SPXMO",
+      "description": "S&P 500 Momentum Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7f06-8bff-533d717ca492"
+    },
+    {
+      "type": "Index",
+      "code": "SPXQ",
+      "description": "S&P 500 Quality Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7b68-bd76-9b17e6e1237b"
+    },
+    {
+      "type": "Index",
+      "code": "SPXTR",
+      "description": "S&P 500 Total Return Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-77bc-8432-cce4c7cda56b"
+    },
+    {
+      "type": "Index",
+      "code": "SPXV",
+      "description": "S&P 500 Value Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "S&P Dow Jones Indices",
+      "id": "01a0fbd0-2933-7aff-8032-c2cb6f11045b"
+    },
+    {
+      "type": "Index",
+      "code": "TPX",
+      "description": "TOPIX",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "JPX Market Innovation & Research",
+      "id": "01a0fbd0-2933-709d-8b12-ad6fafd68ce8"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_20",
+      "description": "30-Year UMBS TBA 2.0% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7297-8f94-1c830c8068c0"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_25",
+      "description": "30-Year UMBS TBA 2.5% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7753-951c-ea3a49085f50"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_30",
+      "description": "30-Year UMBS TBA 3.0% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-799c-af44-66dda32be513"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_35",
+      "description": "30-Year UMBS TBA 3.5% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7207-a7a8-39720c2dad37"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_40",
+      "description": "30-Year UMBS TBA 4.0% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7bec-9dd9-360ac4f2d473"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_45",
+      "description": "30-Year UMBS TBA 4.5% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7594-b159-b7f7e2b6b8e0"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_50",
+      "description": "30-Year UMBS TBA 5.0% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-70bd-aee4-932966945050"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_55",
+      "description": "30-Year UMBS TBA 5.5% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7b65-925c-73ea59fa4cd3"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_60",
+      "description": "30-Year UMBS TBA 6.0% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7011-b13f-8024e7534eb4"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_65",
+      "description": "30-Year UMBS TBA 6.5% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7435-aeea-ede17af13c53"
+    },
+    {
+      "type": "Basket",
+      "code": "UMBS30_70",
+      "description": "30-Year UMBS TBA 7.0% Coupon",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7461-a8ca-dcf8ec3cc86f"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS10Y",
+      "description": "USD SOFR Swap Rate 10-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7dbc-a916-59989124c8bc"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS12Y",
+      "description": "USD SOFR Swap Rate 12-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-75d8-b5d1-1e01fede6e23"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS15Y",
+      "description": "USD SOFR Swap Rate 15-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7950-8cf0-74438a5e277e"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS1Y",
+      "description": "USD SOFR Swap Rate 1-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-76f0-9138-dfa153b347fc"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS20Y",
+      "description": "USD SOFR Swap Rate 20-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7b3e-8d24-44d087e4af5f"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS2Y",
+      "description": "USD SOFR Swap Rate 2-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7247-963d-5516085f977f"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS30Y",
+      "description": "USD SOFR Swap Rate 30-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-708e-9257-49f07ab38814"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS3Y",
+      "description": "USD SOFR Swap Rate 3-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7a69-88b8-9dfcf7ed555b"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS4Y",
+      "description": "USD SOFR Swap Rate 4-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7c04-958a-d087c7eb4fc3"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS5Y",
+      "description": "USD SOFR Swap Rate 5-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-752a-8ccf-3fd18b469ede"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USDSOFRS7Y",
+      "description": "USD SOFR Swap Rate 7-Year",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-723a-b3ce-7084e4545cba"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "UST10Y",
+      "description": "U.S. Treasury 10-Year Yield",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-721a-9e9e-6ee827d890cc"
+    },
+    {
+      "type": "Basket",
+      "code": "UST10YDB",
+      "description": "10-Year U.S. Treasury Note Futures Deliverable Basket",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7843-8d32-dc2fd70c65ef"
+    },
+    {
+      "type": "Basket",
+      "code": "UST20YDB",
+      "description": "20-Year U.S. Treasury Bond Futures Deliverable Basket",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-704b-a258-e687d3b7b3a0"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "UST2Y",
+      "description": "U.S. Treasury 2-Year Yield",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7bcb-8ea1-b2024c94526a"
+    },
+    {
+      "type": "Basket",
+      "code": "UST2YDB",
+      "description": "2-Year U.S. Treasury Note Futures Deliverable Basket",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7323-931d-2eb8025f3b04"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "UST30Y",
+      "description": "U.S. Treasury 30-Year Yield",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-71d7-bb8a-9cfe79ba1733"
+    },
+    {
+      "type": "Basket",
+      "code": "UST3YDB",
+      "description": "3-Year U.S. Treasury Note Futures Deliverable Basket",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-74af-ad51-c8310ae19b42"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "UST5Y",
+      "description": "U.S. Treasury 5-Year Yield",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7254-b1e5-71e45b1719c7"
+    },
+    {
+      "type": "Basket",
+      "code": "UST5YDB",
+      "description": "5-Year U.S. Treasury Note Futures Deliverable Basket",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-74b9-ae93-e9d734befb3f"
+    },
+    {
+      "type": "ReferenceRate",
+      "code": "USTB13W",
+      "description": "13-Week U.S. Treasury Bill Auction High Rate",
+      "venue": "XXXX",
+      "quoteUnit": "PercentPerAnnum",
+      "provider": "U.S. Department of the Treasury",
+      "id": "01a0fbd0-2933-7ee4-b765-db2e58e12fcb"
+    },
+    {
+      "type": "Basket",
+      "code": "USTBDB",
+      "description": "U.S. Treasury Bond Futures Deliverable Basket",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7d43-bbf2-8ee3b260d78a"
+    },
+    {
+      "type": "Basket",
+      "code": "USTU10YDB",
+      "description": "Ultra 10-Year U.S. Treasury Note Futures Deliverable Basket",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-73e0-88ba-439adecb528f"
+    },
+    {
+      "type": "Basket",
+      "code": "USTUBDB",
+      "description": "Ultra U.S. Treasury Bond Futures Deliverable Basket",
+      "venue": "XXXX",
+      "quoteUnit": "PercentOfFace",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-71ae-88da-1036e36a4f22"
+    },
+    {
+      "type": "Index",
+      "code": "WX_AMSTERDAM_CAT",
+      "description": "Amsterdam Cumulative Average Temperature Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7150-aca7-f8acf12d6fc6"
+    },
+    {
+      "type": "Index",
+      "code": "WX_AMSTERDAM_HDD",
+      "description": "Amsterdam Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-79e6-82e8-045eca22bbbc"
+    },
+    {
+      "type": "Index",
+      "code": "WX_ATLANTA_CDD",
+      "description": "Atlanta Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7c11-9505-a4bc99e01f55"
+    },
+    {
+      "type": "Index",
+      "code": "WX_ATLANTA_HDD",
+      "description": "Atlanta Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7300-a821-dba692477204"
+    },
+    {
+      "type": "Index",
+      "code": "WX_BOSTON_CDD",
+      "description": "Boston Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7670-843c-61e8cfd21d20"
+    },
+    {
+      "type": "Index",
+      "code": "WX_BOSTON_HDD",
+      "description": "Boston Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-71b2-8738-4d81a8e46d0a"
+    },
+    {
+      "type": "Index",
+      "code": "WX_BURBANK_CDD",
+      "description": "Burbank Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-72ce-a0bd-6f51443120d2"
+    },
+    {
+      "type": "Index",
+      "code": "WX_BURBANK_HDD",
+      "description": "Burbank Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7cdc-adc0-d0c4f37f0d51"
+    },
+    {
+      "type": "Index",
+      "code": "WX_CHICAGO_CDD",
+      "description": "Chicago Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7da3-8ced-72cc99f26da8"
+    },
+    {
+      "type": "Index",
+      "code": "WX_CHICAGO_HDD",
+      "description": "Chicago Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-70ab-a793-5b7e7bcb670a"
+    },
+    {
+      "type": "Index",
+      "code": "WX_CINCINNATI_CDD",
+      "description": "Cincinnati Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7b08-a20b-5a336be98e7e"
+    },
+    {
+      "type": "Index",
+      "code": "WX_CINCINNATI_HDD",
+      "description": "Cincinnati Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-76cb-9a33-14a46ec0f700"
+    },
+    {
+      "type": "Index",
+      "code": "WX_DALLAS_CDD",
+      "description": "Dallas Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2933-7909-aeee-e7ae52833727"
+    },
+    {
+      "type": "Index",
+      "code": "WX_DALLAS_HDD",
+      "description": "Dallas Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7176-9719-d2460e6cd759"
+    },
+    {
+      "type": "Index",
+      "code": "WX_ESSEN_CAT",
+      "description": "Essen Cumulative Average Temperature Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7302-be7e-b93470533166"
+    },
+    {
+      "type": "Index",
+      "code": "WX_ESSEN_HDD",
+      "description": "Essen Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-732e-9981-f98e857573ef"
+    },
+    {
+      "type": "Index",
+      "code": "WX_HOUSTON_CDD",
+      "description": "Houston Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7635-9a0e-9aa677550357"
+    },
+    {
+      "type": "Index",
+      "code": "WX_HOUSTON_HDD",
+      "description": "Houston Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-756d-a13b-936d7fee97c6"
+    },
+    {
+      "type": "Index",
+      "code": "WX_LASVEGAS_CDD",
+      "description": "Las Vegas Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-77f7-9590-ceb5c87afe2f"
+    },
+    {
+      "type": "Index",
+      "code": "WX_LASVEGAS_HDD",
+      "description": "Las Vegas Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7d8e-931d-09ed865e4d20"
+    },
+    {
+      "type": "Index",
+      "code": "WX_LONDON_CAT",
+      "description": "London Cumulative Average Temperature Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-79e7-9785-91d4716ba042"
+    },
+    {
+      "type": "Index",
+      "code": "WX_LONDON_HDD",
+      "description": "London Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-73c8-bb1f-c6117898c0bd"
+    },
+    {
+      "type": "Index",
+      "code": "WX_MINNEAPOLIS_CDD",
+      "description": "Minneapolis Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7388-a542-7a0898f50e4d"
+    },
+    {
+      "type": "Index",
+      "code": "WX_MINNEAPOLIS_HDD",
+      "description": "Minneapolis Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7c93-a3b5-9f6718786c94"
+    },
+    {
+      "type": "Index",
+      "code": "WX_NEWYORK_CDD",
+      "description": "New York Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7c8b-84c6-5a1dc3b4178a"
+    },
+    {
+      "type": "Index",
+      "code": "WX_NEWYORK_HDD",
+      "description": "New York Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7164-94de-54bcd11889ff"
+    },
+    {
+      "type": "Index",
+      "code": "WX_PARIS_CAT",
+      "description": "Paris Cumulative Average Temperature Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7ca9-aa1d-d8c95fad66f4"
+    },
+    {
+      "type": "Index",
+      "code": "WX_PARIS_HDD",
+      "description": "Paris Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7e09-a4b4-1e8f480253ad"
+    },
+    {
+      "type": "Index",
+      "code": "WX_PHILADELPHIA_CDD",
+      "description": "Philadelphia Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7fa2-bac7-a0baf718b66f"
+    },
+    {
+      "type": "Index",
+      "code": "WX_PHILADELPHIA_HDD",
+      "description": "Philadelphia Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7a52-a778-8b73749241a4"
+    },
+    {
+      "type": "Index",
+      "code": "WX_PORTLAND_CDD",
+      "description": "Portland Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7e96-bcbe-2d059cf8f390"
+    },
+    {
+      "type": "Index",
+      "code": "WX_PORTLAND_HDD",
+      "description": "Portland Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-793d-bd79-247aafbcb9c3"
+    },
+    {
+      "type": "Index",
+      "code": "WX_SACRAMENTO_CDD",
+      "description": "Sacramento Cooling Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-746d-8672-b0283f021abc"
+    },
+    {
+      "type": "Index",
+      "code": "WX_SACRAMENTO_HDD",
+      "description": "Sacramento Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7b12-afb5-1460513e3b74"
+    },
+    {
+      "type": "Index",
+      "code": "WX_TOKYO_CAT",
+      "description": "Tokyo Cumulative Average Temperature Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-78e0-979f-3b25b17f545f"
+    },
+    {
+      "type": "Index",
+      "code": "WX_TOKYO_HDD",
+      "description": "Tokyo Heating Degree Day Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbd0-2934-7225-823d-5ce102c5c109"
+    },
+    {
+      "type": "Index",
+      "code": "XIN0I",
+      "description": "FTSE China 50 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "FTSE Russell",
+      "id": "01a0fbd0-2934-78a4-83ac-936a7175beab"
+    },
+    {
+      "type": "Index",
+      "code": "XNDX",
+      "description": "Nasdaq-100 Total Return Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Nasdaq",
+      "id": "01a0fbd0-2934-7ad0-a019-d9b31f632557"
+    },
+    {
+      "type": "Synthetic",
+      "code": "BAKKEN_VS_WTI",
+      "description": "Bakken vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7df2-9164-15645e60ead1"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_BLPG1",
+      "description": "Baltic Exchange LPG Route BLPG1 (Ras Tanura to Chiba)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbea-ad76-7c84-9d00-c9e8a690f42d"
+    },
+    {
+      "type": "Index",
+      "code": "BALTIC_BLPG3",
+      "description": "Baltic Exchange LPG Route BLPG3 (Houston to Chiba)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Baltic Exchange",
+      "id": "01a0fbea-ad76-75f0-b408-83adfd494356"
+    },
+    {
+      "type": "Index",
+      "code": "BIGDH",
+      "description": "Bloomberg US Corporate IG Duration-Hedged Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Bloomberg Index Services",
+      "id": "01a0fbea-ad76-74f2-84ec-42206bbd3780"
+    },
+    {
+      "type": "Synthetic",
+      "code": "BRENT_VS_DUBAI",
+      "description": "Brent vs Dubai",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-72b6-9f1b-2b25725bc3c0"
+    },
+    {
+      "type": "Synthetic",
+      "code": "BRENT_VS_OMAN",
+      "description": "Brent vs Oman",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7bab-9755-be133c566f8b"
+    },
+    {
+      "type": "Synthetic",
+      "code": "BUTANE_MB_VS_ARA",
+      "description": "Mont Belvieu Normal Butane vs Butane CIF ARA",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7a14-a27d-0624e33d3180"
+    },
+    {
+      "type": "Synthetic",
+      "code": "C5COND_VS_WTI",
+      "description": "C5+ Condensate vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7d1d-b3ec-8562ee9f3023"
+    },
+    {
+      "type": "Synthetic",
+      "code": "CARBDIESEL_LA_VS_ULSD",
+      "description": "Los Angeles CARB Diesel vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-73eb-a28d-a9dda4555ff2"
+    },
+    {
+      "type": "Synthetic",
+      "code": "CBOB_GC_CRACK",
+      "description": "Gulf Coast Gasoline vs Crude Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7ae9-bcea-ae9ced0e79bf"
+    },
+    {
+      "type": "Synthetic",
+      "code": "CBOB_GC_VS_RBOB",
+      "description": "Gulf Coast CBOB A2 vs RBOB",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7c6f-9ee9-2e421de708cf"
+    },
+    {
+      "type": "Index",
+      "code": "CMEXEURBI",
+      "description": "CME EUR/USD Cross-Currency Basis Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "CME Group",
+      "id": "01a0fbea-ad76-77a3-b047-8a8fbc4a5977"
+    },
+    {
+      "type": "Synthetic",
+      "code": "CPC_VS_DATEDBRENT",
+      "description": "CPC Blend vs Dated Brent",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7b62-ad00-853d36a7639e"
+    },
+    {
+      "type": "Synthetic",
+      "code": "CPO_SASIA_VS_MYR",
+      "description": "South Asia Crude Palm Oil (FM) vs Bursa Malaysia Crude Palm Oil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7abe-a6de-e8a0f7ed2d0f"
+    },
+    {
+      "type": "Index",
+      "code": "CRU_US_STEEL_PREM",
+      "description": "CRU U.S. Midwest Domestic Steel Premium",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "CRU",
+      "id": "01a0fbea-ad76-73da-a52b-ec0181e55a50"
+    },
+    {
+      "type": "Index",
+      "code": "CU_SHANGHAI_PREM",
+      "description": "Copper Grade A Premium CIF Shanghai",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-756e-a06d-17686f451ebb"
+    },
+    {
+      "type": "Synthetic",
+      "code": "DATEDBRENT_VS_BRENT",
+      "description": "Dated Brent vs Brent Futures (Dated-to-Frontline)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7d6b-995a-b3c8cc3dab1e"
+    },
+    {
+      "type": "Synthetic",
+      "code": "DIESEL10_VS_GASOIL",
+      "description": "European Diesel 10ppm vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7f22-ba8f-38aece4dcd15"
+    },
+    {
+      "type": "Synthetic",
+      "code": "DIESEL10_VS_ULSD",
+      "description": "European Diesel 10ppm vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-78ee-832f-c53efc89addc"
+    },
+    {
+      "type": "Index",
+      "code": "EIA_DIESEL_RETAIL",
+      "description": "EIA U.S. On-Highway Diesel Retail Price",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "U.S. Energy Information Administration",
+      "id": "01a0fbea-ad76-7ac6-806c-af7d020cca8a"
+    },
+    {
+      "type": "Index",
+      "code": "EIA_GASOLINE_RETAIL",
+      "description": "EIA U.S. Regular Gasoline Retail Price",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "U.S. Energy Information Administration",
+      "id": "01a0fbea-ad76-78b3-b968-4d759c97585a"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ESTR_3M_BASIS",
+      "description": "€STR Three-Month Basis Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7c69-b296-fc24133a8acb"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ETH_BTC_RATIO",
+      "description": "Ether / Bitcoin Ratio",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-70d2-aeeb-8c9547352cb9"
+    },
+    {
+      "type": "Synthetic",
+      "code": "EUROBOB_NONOXY_CRACK",
+      "description": "Eurobob Non-Oxy NWE vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-795f-8fee-814513ccf8e3"
+    },
+    {
+      "type": "Synthetic",
+      "code": "EUROBOB_NONOXY_VS_NAPHTHA",
+      "description": "Eurobob Non-Oxy vs Naphtha CIF NWE",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-773f-a0eb-3a4a2d2c220d"
+    },
+    {
+      "type": "Synthetic",
+      "code": "EUROBOB_NONOXY_VS_OXY",
+      "description": "Eurobob Non-Oxy vs Eurobob Oxy NWE",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7356-b290-3c475cec1c1c"
+    },
+    {
+      "type": "Synthetic",
+      "code": "EUROBOB_OXY_CRACK",
+      "description": "Eurobob Oxy NWE vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7923-a5c4-cefd50d54552"
+    },
+    {
+      "type": "Synthetic",
+      "code": "EUROBOB_OXY_VS_NAPHTHA",
+      "description": "Eurobob Oxy vs Naphtha CIF NWE",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7653-824b-ffb34cf11925"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FAME0_VS_GASOIL",
+      "description": "FAME 0 Biodiesel vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7978-9c39-1b22d8a6db36"
+    },
+    {
+      "type": "Index",
+      "code": "FM_AL_EU_DP",
+      "description": "Fastmarkets Aluminium P1020A Premium, In-Warehouse Rotterdam, Duty-Paid",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Fastmarkets",
+      "id": "01a0fbea-ad76-7e3b-91e4-d16ad75b4c13"
+    },
+    {
+      "type": "Index",
+      "code": "FM_AL_EU_DUP",
+      "description": "Fastmarkets Aluminium P1020A Premium, In-Warehouse Rotterdam, Duty-Unpaid",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Fastmarkets",
+      "id": "01a0fbea-ad76-775e-a71a-2270cb89ab10"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_180_BRENT_CRACK",
+      "description": "Singapore 180cst Fuel Oil vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7e2c-bedc-a125f2fb903c"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_180_DUBAI_CRACK",
+      "description": "Singapore 180cst Fuel Oil vs Dubai Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7570-83b9-9664e9bdfc23"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_180_VS_380",
+      "description": "Singapore Fuel Oil Viscosity Spread (180cst vs 380cst)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7ebf-961f-7ea9ad3ee5fb"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_1NY_VS_1EU",
+      "description": "NY 1% Fuel Oil vs Euro 1% Fuel Oil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-77a9-b1f7-5e029e832482"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_1NY_VS_3GC",
+      "description": "NY 1% Fuel Oil vs Gulf Coast HSFO",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7182-adb2-914f15ec1aff"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_1_BARGES_VS_CARGOES",
+      "description": "Fuel Oil 1% Barges vs Cargoes",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-783c-8148-a6d70adf4561"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_1_CRACK",
+      "description": "Fuel Oil 1% NWE vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-747e-b263-8025f1b6c87e"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_1_MED_VS_NWE",
+      "description": "Fuel Oil 1% Mediterranean vs NWE",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-71ff-ad59-c6ef5503745f"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_1_NY_CRACK",
+      "description": "NY Harbor 1% Fuel Oil Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7dac-bb68-f08b24460296"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_1_VS_35",
+      "description": "Fuel Oil 1% vs 3.5% (Hi-Lo)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-79e4-8ab6-eaa33a4f66b0"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_35_CRACK",
+      "description": "Fuel Oil 3.5% vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-7a96-8a5a-3abc032f896b"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_35_RDM_VS_MED",
+      "description": "Fuel Oil 3.5% Rotterdam vs Mediterranean",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad76-730a-9b2b-d2f6d5ea2eec"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_380_BRENT_CRACK",
+      "description": "Singapore 380cst Fuel Oil vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-798a-aa7f-83854592c1bd"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_380_DUBAI_CRACK",
+      "description": "Singapore 380cst Fuel Oil vs Dubai Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7918-8828-55d9e9d84332"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_380_VS_35",
+      "description": "East-West Fuel Oil (Singapore 380cst vs Rotterdam 3.5%)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-74c9-b9c4-fc27b051dc2d"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_3_GC_CRACK",
+      "description": "Gulf Coast HSFO vs Crude Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-727b-86b2-e497de9bd5fb"
+    },
+    {
+      "type": "Synthetic",
+      "code": "FUELOIL_3_VS_35",
+      "description": "Gulf Coast HSFO vs Euro 3.5% Fuel Oil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7150-a042-f64112c0afda"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOIL01_VS_GASOIL",
+      "description": "Gasoil 0.1% vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7219-aae4-90fda01ac300"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOIL_BRENT_CRACK",
+      "description": "ICE Gasoil vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-71d6-bd32-5d1875596297"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOIL_SG_DUBAI_CRACK",
+      "description": "Singapore Gasoil vs Dubai Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-76a9-bd30-2b425a9610ee"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOIL_SG_VS_GASOIL",
+      "description": "Singapore Gasoil vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7c00-aa68-9d1d8862c891"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOIL_SG_VS_VLSFO_SG",
+      "description": "Singapore Gasoil vs Singapore Marine Fuel 0.5%",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7933-a673-074ce67f7300"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOLINE_10PPM_CRACK",
+      "description": "Premium Unleaded 10ppm vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-779a-a6bc-5e391a2b6ec1"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOLINE_CHI_VS_RBOB",
+      "description": "Chicago Unleaded Gasoline vs RBOB",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-739e-b3f7-ad12224aa614"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOLINE_EAST_WEST",
+      "description": "East-West Gasoline (Singapore 92 vs Eurobob)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7b2c-8aa1-69a013f476a3"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOLINE_GC87_VS_RBOB",
+      "description": "Gulf Coast Unleaded 87 M2 vs RBOB",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-75b6-98a9-7776283c532a"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GASOLINE_GRP3_VS_RBOB",
+      "description": "Group Three Sub-Octane Gasoline vs RBOB",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7c82-b769-089602f266da"
+    },
+    {
+      "type": "Synthetic",
+      "code": "GUERNSEY_VS_WTI",
+      "description": "Guernsey Light Sweet vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-782b-92ae-8c726865b2e9"
+    },
+    {
+      "type": "Synthetic",
+      "code": "HLS_VS_WTI",
+      "description": "Heavy Louisiana Sweet vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7587-9eb8-55a2809d3262"
+    },
+    {
+      "type": "Synthetic",
+      "code": "HVO_VS_GASOIL",
+      "description": "HVO vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7d73-8fc9-34d97ab552bd"
+    },
+    {
+      "type": "Index",
+      "code": "JCC",
+      "description": "Japan Crude Cocktail (detailed)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "Japan Ministry of Finance",
+      "id": "01a0fbea-ad77-7247-a4d7-84aacd96ab8e"
+    },
+    {
+      "type": "Synthetic",
+      "code": "JCC_VS_BRENT",
+      "description": "Japan Crude Cocktail vs Brent",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7899-9af3-972679c1d051"
+    },
+    {
+      "type": "Synthetic",
+      "code": "JET_BRENT_CRACK",
+      "description": "NWE Jet vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-70bb-b265-1f6d1ff9217e"
+    },
+    {
+      "type": "Synthetic",
+      "code": "JET_LA_VS_ULSD",
+      "description": "Los Angeles Jet Fuel vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-78b6-8650-3d5d098baa14"
+    },
+    {
+      "type": "Synthetic",
+      "code": "JET_NY_VS_ULSD",
+      "description": "NY Jet Fuel vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7638-bd40-d630e1f43536"
+    },
+    {
+      "type": "Synthetic",
+      "code": "JET_SG_DUBAI_CRACK",
+      "description": "Singapore Jet Kerosene vs Dubai Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-700f-ad6f-6783e129ae71"
+    },
+    {
+      "type": "Synthetic",
+      "code": "JET_SG_VS_GASOIL_SG",
+      "description": "Singapore Jet Kerosene vs Singapore Gasoil (Regrade)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7647-b060-a3898837ad00"
+    },
+    {
+      "type": "Synthetic",
+      "code": "JET_VS_GASOIL",
+      "description": "NWE Jet Fuel vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-75e4-a650-dbb7fcae6a3a"
+    },
+    {
+      "type": "Synthetic",
+      "code": "LLS_VS_WTI",
+      "description": "Light Louisiana Sweet vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7013-8dd6-04fc343eb146"
+    },
+    {
+      "type": "Synthetic",
+      "code": "MARS_VS_BRENT",
+      "description": "Mars vs Brent",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7509-81b1-393bf0bb8398"
+    },
+    {
+      "type": "Synthetic",
+      "code": "MARS_VS_WTI",
+      "description": "Mars vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7572-9dd2-58a705b3d6c8"
+    },
+    {
+      "type": "Synthetic",
+      "code": "MOGAS92_BRENT_CRACK",
+      "description": "Singapore Mogas 92 vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7032-bf3a-1ae383456c60"
+    },
+    {
+      "type": "Synthetic",
+      "code": "MOGAS92_DUBAI_CRACK",
+      "description": "Singapore Mogas 92 vs Dubai Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7865-a3ea-5d82ed9808de"
+    },
+    {
+      "type": "Synthetic",
+      "code": "MOGAS92_VS_EUROBOB_NONOXY",
+      "description": "Singapore Mogas 92 vs Eurobob Non-Oxy",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7c98-be89-23352fbbc93b"
+    },
+    {
+      "type": "Synthetic",
+      "code": "MOGAS95_VS_MOGAS92",
+      "description": "Singapore Mogas 95 vs Mogas 92",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7ae8-a857-4770067c9bcb"
+    },
+    {
+      "type": "Synthetic",
+      "code": "NAPHTHA_EAST_WEST",
+      "description": "East-West Naphtha (Japan C&F vs CIF NWE)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7efc-ab55-c0675603594d"
+    },
+    {
+      "type": "Synthetic",
+      "code": "NAPHTHA_JP_BRENT_CRACK",
+      "description": "Japan C&F Naphtha vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-74db-a14e-2a66cd42ca0b"
+    },
+    {
+      "type": "Synthetic",
+      "code": "NAPHTHA_JP_DUBAI_CRACK",
+      "description": "Japan C&F Naphtha vs Dubai Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7f93-9a16-66d169352229"
+    },
+    {
+      "type": "Synthetic",
+      "code": "NAPHTHA_NWE_BRENT_CRACK",
+      "description": "Naphtha CIF NWE vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-749d-b730-572c992ebec0"
+    },
+    {
+      "type": "Synthetic",
+      "code": "NG_VS_NBP",
+      "description": "Henry Hub Natural Gas vs UK NBP",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7a56-8e6f-c4204e7bb054"
+    },
+    {
+      "type": "Synthetic",
+      "code": "NG_VS_TTF",
+      "description": "Henry Hub Natural Gas vs Dutch TTF",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-79cf-ba24-b48801816c6d"
+    },
+    {
+      "type": "Synthetic",
+      "code": "PALMOIL_VS_GASOIL",
+      "description": "Malaysian Crude Palm Oil vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7c69-b3be-aa4e8676bd06"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_AL_JP_PREM",
+      "description": "Platts Aluminum Japan Premium",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a0fbea-ad77-718d-a9ba-a2befc194518"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_AL_MW_PREM",
+      "description": "Platts Aluminum Midwest Transaction Premium",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a0fbea-ad77-7210-8f98-6431c6731386"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_USGC_UKC",
+      "description": "Platts Dirty Freight USGC to UK Continent",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a0fbea-ad77-703b-b577-edfcd6528b13"
+    },
+    {
+      "type": "Synthetic",
+      "code": "PROPANE_ARA_VS_NAPHTHA",
+      "description": "Propane CIF ARA vs Naphtha CIF NWE",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7b8e-9fd7-5b232e760a96"
+    },
+    {
+      "type": "Synthetic",
+      "code": "PROPANE_FEI_VS_ARA",
+      "description": "Argus Far East Propane vs Propane CIF ARA",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7981-9904-f560101a4640"
+    },
+    {
+      "type": "Synthetic",
+      "code": "PROPANE_FEI_VS_NAPHTHA_JP",
+      "description": "Argus Far East Propane vs Japan Naphtha",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7f20-94b5-71f5d4f49f4e"
+    },
+    {
+      "type": "Synthetic",
+      "code": "PROPANE_MB_VS_ARA",
+      "description": "Mont Belvieu TET Propane vs Propane CIF ARA",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7c53-a13b-5ae4cd35f89a"
+    },
+    {
+      "type": "Synthetic",
+      "code": "RBOB_BRENT_CRACK",
+      "description": "RBOB Gasoline vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-789a-ac7d-61b2d190db2b"
+    },
+    {
+      "type": "Synthetic",
+      "code": "RBOB_VS_EUROBOB_NONOXY",
+      "description": "RBOB Gasoline vs Eurobob Non-Oxy NWE",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7c88-a649-440db844a506"
+    },
+    {
+      "type": "Synthetic",
+      "code": "RBOB_VS_EUROBOB_OXY",
+      "description": "RBOB Gasoline vs Eurobob Oxy NWE",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7eab-8dad-b2ba9663c6eb"
+    },
+    {
+      "type": "Synthetic",
+      "code": "RBOB_VS_ULSD",
+      "description": "RBOB Gasoline vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7cda-bcdb-6db38b5f0624"
+    },
+    {
+      "type": "Synthetic",
+      "code": "RBOB_WTI_CRACK",
+      "description": "RBOB Gasoline vs WTI Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-78c0-9211-07c1c175fefb"
+    },
+    {
+      "type": "Synthetic",
+      "code": "RME_VS_GASOIL",
+      "description": "RME Biodiesel vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7fef-aed5-97163e4fda99"
+    },
+    {
+      "type": "Synthetic",
+      "code": "SGC_VS_WTI",
+      "description": "Southern Green Canyon vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-789f-b006-b00a991c9992"
+    },
+    {
+      "type": "Synthetic",
+      "code": "SOYOIL_SASIA_VS_CBOT",
+      "description": "South Asia Soybean Oil (FM) vs CBOT Soybean Oil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-75a8-b33b-0e63a190dfb9"
+    },
+    {
+      "type": "Synthetic",
+      "code": "SOYOIL_VS_ULSD",
+      "description": "Soybean Oil vs NY Harbor ULSD (BOHO)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7cc8-bed1-fab4b8f9006d"
+    },
+    {
+      "type": "Synthetic",
+      "code": "SOY_OILSHARE",
+      "description": "Soybean Oilshare (soybean oil share of the crush value)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-79bf-a672-f8bdc148334f"
+    },
+    {
+      "type": "Synthetic",
+      "code": "SWEETSW_VS_WTI",
+      "description": "EMDA Sweet SW vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7850-a25b-13fc1ad2c9fd"
+    },
+    {
+      "type": "Synthetic",
+      "code": "SYN_VS_WTI",
+      "description": "Synthetic Crude (SYN) vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7fa9-8041-b71e44eeeee4"
+    },
+    {
+      "type": "Synthetic",
+      "code": "UCOME_VS_GASOIL",
+      "description": "UCOME Biodiesel vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7771-baa3-a548f79bb3c5"
+    },
+    {
+      "type": "Synthetic",
+      "code": "UCO_VS_GASOIL",
+      "description": "Used Cooking Oil vs ICE Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7b16-bc93-47341d219088"
+    },
+    {
+      "type": "Synthetic",
+      "code": "UHC_VS_WTI",
+      "description": "UHC Clearbrook vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7ba8-a09b-929e8d08cd3c"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ULSD_BRENT_CRACK",
+      "description": "NY Harbor ULSD vs Brent Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-74ec-a8bf-5c8519d7aa18"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ULSD_CHI_VS_NY",
+      "description": "Chicago ULSD vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7624-8295-28ea329272ca"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ULSD_GC_CRACK",
+      "description": "Gulf Coast ULSD Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-78d1-8bda-5e6882ef731a"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ULSD_GC_VS_JET_GC",
+      "description": "Gulf Coast ULSD vs Gulf Coast Jet Fuel",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-712a-8cc9-cf704bc50fbe"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ULSD_GC_VS_NY",
+      "description": "Gulf Coast ULSD vs NY Harbor ULSD (Up-Down)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7bc5-9431-b0ad516bc656"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ULSD_GRP3_VS_NY",
+      "description": "Group Three ULSD vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-77e7-8ede-ce534f96203c"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ULSD_NYARGUS_VS_NY",
+      "description": "NY ULSD (Argus) vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7e96-bbfc-7e92d0668f6d"
+    },
+    {
+      "type": "Synthetic",
+      "code": "ULSD_WTI_CRACK",
+      "description": "NY Harbor ULSD vs WTI Crack Spread",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-743e-b243-22ce43ee57da"
+    },
+    {
+      "type": "Synthetic",
+      "code": "VLSFO_EAST_WEST",
+      "description": "Singapore Marine Fuel 0.5% vs Rotterdam Marine Fuel 0.5%",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-76e8-b087-8f26369d1b55"
+    },
+    {
+      "type": "Synthetic",
+      "code": "VLSFO_USGC_VS_EU",
+      "description": "USGC Marine Fuel 0.5% vs Rotterdam Marine Fuel 0.5%",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7443-aa5f-01fdc68c1619"
+    },
+    {
+      "type": "Synthetic",
+      "code": "VLSFO_VS_FUELOIL_35",
+      "description": "Euro Marine Fuel 0.5% vs Euro 3.5% Fuel Oil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7355-8146-71ad47168866"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WCS_VS_WTI",
+      "description": "Western Canadian Select vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7384-b67b-b990d5544720"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WHEAT_CBOT_VS_EURONEXT",
+      "description": "CBOT Wheat vs Euronext Milling Wheat",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7530-a491-2307b15212e5"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WHEAT_KC_VS_EURONEXT",
+      "description": "KC HRW Wheat vs Euronext Milling Wheat",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-705c-a7fa-df0a28265661"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTIARGUS_VS_WTI",
+      "description": "Argus WTI vs NYMEX WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-77d3-82ca-17d7e555dcaf"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTIEXPIPE_VS_WTI",
+      "description": "WTI Ex-Pipe (Argus) vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7ac8-b480-f9603cd891b3"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTIHOU_VS_BRENT",
+      "description": "WTI Houston vs Brent",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7b06-a711-d54e408e533a"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTIHOU_VS_DUBAI",
+      "description": "WTI Houston vs Dubai",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7be7-8b61-248dd5d6a93b"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTIHOU_VS_WTI",
+      "description": "WTI Houston vs WTI Cushing",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7a28-b7d2-f87859d608fe"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTIMID_VS_BRENT",
+      "description": "WTI Midland vs Brent",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7760-bc9c-1edbe73a477f"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTIMID_VS_DUBAI",
+      "description": "WTI Midland vs Dubai",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-785d-9f02-4b3fac435aac"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTIMID_VS_WTI",
+      "description": "WTI Midland vs WTI Cushing",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7593-b103-17ddbd3c2cbe"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTI_VS_BRENT",
+      "description": "WTI vs Brent",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7bed-bd1f-e82423845d05"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTI_VS_DUBAI",
+      "description": "WTI vs Dubai",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-7ff9-be07-2abe4905aaa7"
+    },
+    {
+      "type": "Synthetic",
+      "code": "WTS_VS_WTI",
+      "description": "West Texas Sour vs WTI",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a0fbea-ad77-709d-aa3e-f077632809b3"
     }
   ]
 }
