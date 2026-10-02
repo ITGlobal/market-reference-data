@@ -2,6 +2,40 @@
   "$schema": "../../schema/options-products.schema.json",
   "products": [
     {
+      "id": "01a0fce8-5c4f-71a9-9c51-1ff19f143b91",
+      "code": "1YZ",
+      "name": "OPTION ON THREE-MONTH SOFR NEAR DEC",
+      "venue": "XCME",
+      "quoteUnit": "REVIEW_REQUIRED",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
+        }
+      }
+    },
+    {
+      "id": "01a0fce8-5c4f-7960-9f83-613cbcc15bb0",
+      "code": "2YZ",
+      "name": "OPTION ON THREE-MONTH SOFR DEF DEC",
+      "venue": "XCME",
+      "quoteUnit": "REVIEW_REQUIRED",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08b6-71d0-8419-ceca5b00932b",
       "code": "50P",
       "name": "PJM WEST HUB RT PEAK 50MW OPT",
@@ -110,6 +144,23 @@
       }
     },
     {
+      "id": "01a0fce8-5c4f-7af5-92b0-42440b241334",
+      "code": "JTO",
+      "name": "JAPANESE PWR TOKYO BL APO",
+      "venue": "XNYM",
+      "quoteUnit": "Currency",
+      "quoteAsset": "JPY",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "JBT",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08b6-71f5-9f10-765c10e5c16c",
       "code": "ONP",
       "name": "PJM NORTH ILLI HUB REAL-TIME OOF",
@@ -123,6 +174,23 @@
       "underlying": {
         "futuresProduct": {
           "code": "IRP",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
+      "id": "01a0fce8-5c4f-782f-9455-0e7be0f00608",
+      "code": "OR",
+      "name": "CARBON  RGGI  EMISSIONS OPTION",
+      "venue": "XNYM",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "RJ",
           "venue": "XNYM"
         }
       }
@@ -232,6 +300,57 @@
         "futuresProduct": {
           "code": "RN6",
           "venue": "XNYM"
+        }
+      }
+    },
+    {
+      "id": "01a0fce8-5c4f-7f69-9c66-293f4aaf5fd0",
+      "code": "TS2",
+      "name": "THREE-MONTH MID-CURVE SOFR OPTIONS",
+      "venue": "XCME",
+      "quoteUnit": "REVIEW_REQUIRED",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
+        }
+      }
+    },
+    {
+      "id": "01a0fce8-5c4f-744f-8df2-a5578a977a08",
+      "code": "TS3",
+      "name": "SIX-MONTH MID-CURVE SOFR OPTIONS",
+      "venue": "XCME",
+      "quoteUnit": "REVIEW_REQUIRED",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
+        }
+      }
+    },
+    {
+      "id": "01a0fce8-5c4f-7aba-adb8-a7b21e4d6f4a",
+      "code": "TS4",
+      "name": "NINE-MONTH MID-CURVE SOFR OPTION",
+      "venue": "XCME",
+      "quoteUnit": "REVIEW_REQUIRED",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
         }
       }
     }
