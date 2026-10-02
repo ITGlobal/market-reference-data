@@ -35,6 +35,62 @@
       "kind": "Equity",
       "name": "Sandisk Corporation",
       "id": "01a0ec4b-047c-78dd-9aba-c9c96873761a"
+    },
+    {
+      "key": "AMAT",
+      "isin": "US0382221051",
+      "kind": "Equity",
+      "name": "Applied Materials, Inc.",
+      "id": "01a0fbd0-2950-755d-a88d-c5104580fd58"
+    },
+    {
+      "key": "BA",
+      "isin": "US0970231058",
+      "kind": "Equity",
+      "name": "The Boeing Company",
+      "id": "01a0fbd0-2950-7b3e-9a04-0cad702c4856"
+    },
+    {
+      "key": "LMT",
+      "isin": "US5398301094",
+      "kind": "Equity",
+      "name": "Lockheed Martin Corporation",
+      "id": "01a0fbd0-2950-78aa-b76f-4c0c9086d7ed"
+    },
+    {
+      "key": "META",
+      "isin": "US30303M1027",
+      "kind": "Equity",
+      "name": "Meta Platforms, Inc.",
+      "id": "01a0fbd0-2950-7a3d-b115-7a6274b6d949"
+    },
+    {
+      "key": "MU",
+      "isin": "US5951121038",
+      "kind": "Equity",
+      "name": "Micron Technology, Inc.",
+      "id": "01a0fbd0-2950-78dc-83d8-5db0cd53e122"
+    },
+    {
+      "key": "PLD",
+      "isin": "US74340W1036",
+      "kind": "Equity",
+      "name": "Prologis, Inc.",
+      "id": "01a0fbd0-2950-7723-b324-ab2e0b0e45df"
+    },
+    {
+      "key": "PLTR",
+      "isin": "US69608A1088",
+      "kind": "Equity",
+      "name": "Palantir Technologies Inc.",
+      "id": "01a0fbd0-2950-78c4-955f-b244196569e7"
+    },
+    {
+      "key": "XOM",
+      "isin": "US30231G1022",
+      "kind": "Equity",
+      "name": "Exxon Mobil Corporation",
+      "id": "01a0fbd0-2950-77d1-bcda-1db2879e6618"
     }
   ]
 }

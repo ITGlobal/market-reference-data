@@ -16,7 +16,13 @@
     {
       "mic": "XNYM",
       "name": "New York Mercantile Exchange",
-      "boards": [],
+      "boards": [
+        {
+          "id": "01a0fc62-2444-7e0d-b26c-d40c4a802f16",
+          "code": "XCEC",
+          "name": "COMEX"
+        }
+      ],
       "id": "01a0ec4b-043c-71cf-b9a1-b72fe683c923"
     }
   ]
