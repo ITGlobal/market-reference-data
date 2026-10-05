@@ -6,11 +6,12 @@
       "code": "AFRICA",
       "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI South Africa ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US4642867802"
       }
     },
     {
@@ -18,11 +19,12 @@
       "code": "ARGT",
       "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI Argentina ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US37950E2596"
       }
     },
     {
@@ -30,11 +32,12 @@
       "code": "BRAZIL",
       "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI Brazil ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US4642864007"
       }
     },
     {
@@ -42,11 +45,12 @@
       "code": "DAX",
       "name": "Фьючерсный контракт на инвестиционные паи Дакс ETF",
       "venue": "MISX",
+      "contractSize": 100,
       "quoteUnit": "Currency",
       "quoteAsset": "EUR",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "DE0005933931"
       }
     },
     {
@@ -54,11 +58,12 @@
       "code": "DJ30",
       "name": "Фьючерсный контракт на инвестиционные паи DJ Industrial Average ETF Trust",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US78467X1090"
       }
     },
     {
@@ -66,11 +71,12 @@
       "code": "ETHA",
       "name": "Фьючерсный контракт на акции инвестиционного фонда ETHA Trust ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US46438R1059"
       }
     },
     {
@@ -78,11 +84,12 @@
       "code": "HANG",
       "name": "Фьючерсный контракт на акции инвестиционного фонда Tracker Fund of Hong Kong ETF",
       "venue": "MISX",
+      "contractSize": 1000,
       "quoteUnit": "Currency",
       "quoteAsset": "HKD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "HK2800008867"
       }
     },
     {
@@ -90,11 +97,12 @@
       "code": "HYNIX",
       "name": "Фьючерсный контракт на расчетное значение, равное 0,1 стоимости акции Эс-Кей Хайникс",
       "venue": "MISX",
+      "contractSize": 0.1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "KR7000660001"
       }
     },
     {
@@ -102,11 +110,12 @@
       "code": "IBIT",
       "name": "Фьючерсный контракт на акции инвестиционного фонда IBIT Trust ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US46438F1012"
       }
     },
     {
@@ -114,11 +123,12 @@
       "code": "INDIA",
       "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI India UCITS ETF",
       "venue": "MISX",
+      "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "IE00BZCQB185"
       }
     },
     {
@@ -126,11 +136,15 @@
       "code": "KEYRATE",
       "name": "Фьючерсный контракт на индекс ключевой ставки",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Points",
       "quoteAsset": "RUB",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "reference": {
+          "code": "KEYRATE",
+          "venue": "MISX"
+        }
       }
     },
     {
@@ -138,11 +152,12 @@
       "code": "KOREA",
       "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI South Korea ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US4642867729"
       }
     },
     {
@@ -150,11 +165,12 @@
       "code": "NIKK",
       "name": "Фьючерсный контракт на акции инвестиционного фонда Nikkei 225 ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "JPY",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "JP3027710007"
       }
     },
     {
@@ -162,11 +178,12 @@
       "code": "PDD",
       "name": "Фьючерсный контракт на АДР на акции PDD Holdings Inc",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US7223041028"
       }
     },
     {
@@ -174,11 +191,12 @@
       "code": "R2000",
       "name": "Фьючерсный контракт на акции инвестиционного фонда Russell 2000 ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US4642876555"
       }
     },
     {
@@ -186,11 +204,12 @@
       "code": "SAMSUNG",
       "name": "Фьючерсный контракт на акции Самсунг Электроникс",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "KR7005930003"
       }
     },
     {
@@ -198,11 +217,12 @@
       "code": "SAUDI",
       "name": "Фьючерсный контракт на акции инвестиционного фонда MSCI Saudi Arabia ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US46434V4234"
       }
     },
     {
@@ -210,11 +230,12 @@
       "code": "SOXQ",
       "name": "Фьючерсный контракт на акции инвестиционного фонда SOXQ ETF",
       "venue": "MISX",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US46138G6153"
       }
     },
     {
@@ -222,11 +243,12 @@
       "code": "STOX",
       "name": "Фьючерсный контракт на акции инвестиционного фонда Евро Стокс 50 ETF",
       "venue": "MISX",
+      "contractSize": 100,
       "quoteUnit": "Currency",
       "quoteAsset": "EUR",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "IE0008471009"
       }
     },
     {
@@ -234,11 +256,12 @@
       "code": "TENCENT",
       "name": "Фьючерсный контракт на акции Тенсент Холдингс Лимитед",
       "venue": "MISX",
+      "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "HKD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "KYG875721634"
       }
     },
     {
@@ -246,11 +269,12 @@
       "code": "TLT",
       "name": "Фьючерсный контракт на акции инвестиционного фонда TLT ETF",
       "venue": "MISX",
+      "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "US4642874329"
       }
     },
     {
@@ -258,11 +282,12 @@
       "code": "XIA",
       "name": "Фьючерсный контракт на акции Сяоми Корпорэйшн",
       "venue": "MISX",
+      "contractSize": 100,
       "quoteUnit": "Currency",
       "quoteAsset": "HKD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "REVIEW_REQUIRED"
+        "security": "KYG9830T1067"
       }
     }
   ]
