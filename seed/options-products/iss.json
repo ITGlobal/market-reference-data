@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schema/options-products.schema.json",
   "products": [
     {
       "id": "01a0ec4b-049e-72c5-97f7-cb6bbd2f3cd1",
@@ -18,6 +19,20 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-7be9-9dcf-d444a5b3528f",
+      "code": "AFKS",
+      "name": "Опционы на акции AFKS",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU000A0DQZE3"
+      }
+    },
+    {
       "id": "01a0ec4b-049e-79a8-b136-6eea6eaff12b",
       "code": "AFLT",
       "name": "Опционы на фьючерсы AFLT",
@@ -32,6 +47,37 @@
           "code": "AFLT",
           "venue": "MISX"
         }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-77c8-8f4b-2c6261881eda",
+      "code": "ALRS",
+      "name": "Опционы на фьючерсы ALRS",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "ALRS",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-7252-90a2-a241191051a4",
+      "code": "AFLT",
+      "name": "Опционы на акции AFLT",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0009062285"
       }
     },
     {
@@ -111,6 +157,21 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-759b-89c2-e74d3acb91d7",
+      "code": "CNY",
+      "name": "Опционы на китайский юань",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "CNY"
+      },
+      "settlementFixing": "CNYFIXME"
+    },
+    {
       "id": "01a0ec4b-049f-7d76-8b6c-2e8576b0947c",
       "code": "DAX",
       "name": "Опционы на фьючерсы DAX",
@@ -176,6 +237,21 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-7e4f-bc08-aba30c161546",
+      "code": "Eu",
+      "name": "Опционы на евро",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "EUR"
+      },
+      "settlementFixing": "EURFIXME"
+    },
+    {
       "id": "01a0ec4b-049f-7c01-bcf8-1fd44066da04",
       "code": "FEES",
       "name": "Опционы на фьючерсы FEES",
@@ -190,6 +266,37 @@
           "code": "FEES",
           "venue": "MISX"
         }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-7f0f-bfcb-785b82a8bfb8",
+      "code": "GAZR",
+      "name": "Опционы на фьючерсы GAZR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "GAZR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-79b0-a388-06c9b51e8f7c",
+      "code": "FEES",
+      "name": "Опционы на акции FEES",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU000A0JPNN9"
       }
     },
     {
@@ -220,6 +327,23 @@
         "asset": "XAU"
       },
       "settlementFixing": "GOLDFIXME"
+    },
+    {
+      "id": "01a0f24e-75f2-7d8f-8ab5-e0f20c7a67c7",
+      "code": "GMKN",
+      "name": "Опционы на фьючерсы GMKN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "GMKN",
+          "venue": "MISX"
+        }
+      }
     },
     {
       "id": "01a0ec4b-049f-79f3-ac7a-62b0195b3b28",
@@ -321,6 +445,20 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-78ad-9d4c-886bd9f8bad7",
+      "code": "IRAO",
+      "name": "Опционы на акции IRAO",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU000A0JPNM1"
+      }
+    },
+    {
       "id": "01a0ec4b-049f-7397-8299-3d8ce49a0c94",
       "code": "ISKJ",
       "name": "Опционы на акции ABIO",
@@ -332,6 +470,23 @@
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "RU000A0JNAB6"
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-7455-b4cf-97fbb53bcd44",
+      "code": "LKOH",
+      "name": "Опционы на фьючерсы LKOH",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "LKOH",
+          "venue": "MISX"
+        }
       }
     },
     {
@@ -366,6 +521,37 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-7ca6-99fd-d5cd5336adc1",
+      "code": "MGNT",
+      "name": "Опционы на фьючерсы MGNT",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MGNT",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-733f-9086-53c56cba812d",
+      "code": "MAGN",
+      "name": "Опционы на акции MAGN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0009084396"
+      }
+    },
+    {
       "id": "01a0ec4b-049f-708e-bb48-4a4b4e8823f1",
       "code": "MGNT",
       "name": "Опционы на акции MGNT",
@@ -392,6 +578,23 @@
       "underlying": {
         "futuresProduct": {
           "code": "MIX",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-7286-8f15-286a081a9135",
+      "code": "MOEX",
+      "name": "Опционы на фьючерсы MOEX",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MOEX",
           "venue": "MISX"
         }
       }
@@ -436,6 +639,23 @@
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "RU000A0DKXV5"
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-78a0-b292-085013207784",
+      "code": "MTSI",
+      "name": "Опционы на фьючерсы MTSI",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MTSI",
+          "venue": "MISX"
+        }
       }
     },
     {
@@ -521,6 +741,20 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-758a-9293-a0752d2a6cb3",
+      "code": "NLMK",
+      "name": "Опционы на акции NLMK",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0009046452"
+      }
+    },
+    {
       "id": "01a0ec4b-049f-79ce-a3e5-a0752d25c793",
       "code": "NOTK",
       "name": "Опционы на акции NVTK",
@@ -594,6 +828,23 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-7aae-9f83-06da835c3af1",
+      "code": "ROSN",
+      "name": "Опционы на фьючерсы ROSN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "ROSN",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
       "id": "01a0ec4b-049f-73e7-9fb9-223cb0a676bf",
       "code": "ROSN",
       "name": "Опционы на акции ROSN",
@@ -622,6 +873,20 @@
           "code": "RTKM",
           "venue": "MISX"
         }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-72ea-8822-c336b6c2475a",
+      "code": "RTKM",
+      "name": "Опционы на акции RTKM",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0008943394"
       }
     },
     {
@@ -670,6 +935,37 @@
           "code": "SBPR",
           "venue": "MISX"
         }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-7903-979d-78be3c4abf6f",
+      "code": "SBRF",
+      "name": "Опционы на фьючерсы SBRF",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SBRF",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-7e7c-beb7-55eb7cf1e05b",
+      "code": "SBPR",
+      "name": "Опционы на акции SBERP",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0009029557"
       }
     },
     {
@@ -764,6 +1060,20 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-71bb-8b1a-d33061a5bc97",
+      "code": "SNGP",
+      "name": "Опционы на акции SNGSP",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0009029524"
+      }
+    },
+    {
       "id": "01a0ec4b-049f-72cb-8c14-b86aab254c48",
       "code": "SNGR",
       "name": "Опционы на фьючерсы SNGR",
@@ -778,6 +1088,20 @@
           "code": "SNGR",
           "venue": "MISX"
         }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-7600-b914-64474c1473d2",
+      "code": "SNGR",
+      "name": "Опционы на акции SNGS",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0008926258"
       }
     },
     {
@@ -860,6 +1184,38 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-76fb-bace-0d8907bb4cf2",
+      "code": "TATN",
+      "name": "Опционы на фьючерсы TATN",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "TATN",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-7bf5-974d-f310e1efa7dc",
+      "code": "Si",
+      "name": "Опционы на доллар США",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "USD"
+      },
+      "settlementFixing": "USDFIXME"
+    },
+    {
       "id": "01a0ec4b-049f-70f8-9bca-8e9c55e4edc4",
       "code": "TATN",
       "name": "Опционы на акции TATN",
@@ -936,6 +1292,23 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-7570-9ce9-66db61b4fdf2",
+      "code": "VKCO",
+      "name": "Опционы на фьючерсы VKCO",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Margined",
+      "underlying": {
+        "futuresProduct": {
+          "code": "VKCO",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
       "id": "01a0ec4b-049f-7bfe-a1f2-6c8c425c5257",
       "code": "VKCO",
       "name": "Опционы на акции VKCO",
@@ -964,6 +1337,20 @@
           "code": "VTBR",
           "venue": "MISX"
         }
+      }
+    },
+    {
+      "id": "01a0f24e-75f2-7a47-a395-6568e3f133bc",
+      "code": "VTBR",
+      "name": "Опционы на акции VTBR",
+      "venue": "MISX",
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU000A0JP5V6"
       }
     },
     {

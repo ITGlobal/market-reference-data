@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schema/reference-instruments.schema.json",
   "instruments": [
     {
       "id": "01a0ecaa-c6e5-7225-9c2b-833c52f5d86d",
@@ -145,6 +146,160 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a0f6d7-0271-7758-ada8-5c969b1f360f",
+      "type": "ReferenceRate",
+      "code": "CNYBUYSPB",
+      "description": "Индикатор Финуслуг покупки наличного китайского юаня, Санкт-Петербург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7286-a265-5d3149016ff4",
+      "type": "ReferenceRate",
+      "code": "CNYBUYNN",
+      "description": "Индикатор Финуслуг покупки наличного китайского юаня, Нижний Новгород",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7852-8dd7-f4d5ba0d4709",
+      "type": "ReferenceRate",
+      "code": "CNYBUYMSC",
+      "description": "Индикатор Финуслуг покупки наличного китайского юаня, Москва",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-723b-8afe-2b4c2db41414",
+      "type": "ReferenceRate",
+      "code": "CNYBUYKZN",
+      "description": "Индикатор Финуслуг покупки наличного китайского юаня, Казань",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-73dc-a0eb-84beb6c5f652",
+      "type": "ReferenceRate",
+      "code": "CNYBUYEKB",
+      "description": "Индикатор Финуслуг покупки наличного китайского юаня, Екатеринбург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7547-88a0-8db8a6fc86dc",
+      "type": "ReferenceRate",
+      "code": "CNYRUB_WAP0",
+      "description": "CNYRUB_WAP0 - CNY/РУБ",
+      "venue": "MISX",
+      "board": "WAPN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7455-bd92-86ff9ef848f2",
+      "type": "ReferenceRate",
+      "code": "CNYRUB_WAP0",
+      "description": "CNYRUB_WAP0 - CNY/РУБ",
+      "venue": "MISX",
+      "board": "WAPS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-725e-9fc7-5124c3656c0e",
+      "type": "ReferenceRate",
+      "code": "CNYRUB_FIX0",
+      "description": "CNYRUB_FIX0 - CNY/РУБ",
+      "venue": "MISX",
+      "board": "FIXN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7c18-8aa2-02f3756a779e",
+      "type": "ReferenceRate",
+      "code": "CNYRUB_FIX0",
+      "description": "CNYRUB_FIX0 - CNY/РУБ",
+      "venue": "MISX",
+      "board": "FIXS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7b45-998d-da3f14cd9df8",
+      "type": "ReferenceRate",
+      "code": "CNYSELLSPB",
+      "description": "Индикатор Финуслуг продажи наличного китайского юаня, Санкт-Петербург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7755-ab94-c2118e6f6dac",
+      "type": "ReferenceRate",
+      "code": "CNYSELLNN",
+      "description": "Индикатор Финуслуг продажи наличного китайского юаня, Нижний Новгород",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-788d-ba0c-e103ee058c59",
+      "type": "ReferenceRate",
+      "code": "CNYSELLMSC",
+      "description": "Индикатор Финуслуг продажи наличного китайского юаня, Москва",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7597-8784-50f687454cfc",
+      "type": "ReferenceRate",
+      "code": "CNYSELLKZN",
+      "description": "Индикатор Финуслуг продажи наличного китайского юаня, Казань",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-765c-8301-5a259fec000c",
+      "type": "ReferenceRate",
+      "code": "CNYSELLEKB",
+      "description": "Индикатор Финуслуг продажи наличного китайского юаня, Екатеринбург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ecaa-c6e5-7572-9224-959bfb9a616d",
       "type": "Index",
       "code": "CREI",
@@ -232,6 +387,138 @@
       "description": "Индекс МосБиржи Рейтинги Устойчивого Развития полной доходности",
       "venue": "MISX",
       "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7c47-9d0b-2cc970090632",
+      "type": "ReferenceRate",
+      "code": "EURBUYSPB",
+      "description": "Индикатор Финуслуг покупки наличного евро, Санкт-Петербург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7019-84f8-2f471aaea3b4",
+      "type": "ReferenceRate",
+      "code": "EURBUYNN",
+      "description": "Индикатор Финуслуг покупки наличного евро, Нижний Новгород",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-77d3-8863-2539070c9c15",
+      "type": "ReferenceRate",
+      "code": "EURBUYMSC",
+      "description": "Индикатор Финуслуг покупки наличного евро, Москва",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-77ed-b39a-ceee6c3d6332",
+      "type": "ReferenceRate",
+      "code": "EURBUYKZN",
+      "description": "Индикатор Финуслуг покупки наличного евро, Казань",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-74a9-b403-066ae073c975",
+      "type": "ReferenceRate",
+      "code": "EURBUYEKB",
+      "description": "Индикатор Финуслуг покупки наличного евро, Екатеринбург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-74e7-85e5-ba4c3fafde4f",
+      "type": "ReferenceRate",
+      "code": "EURRUB_FIX0",
+      "description": "EURRUB_FIX0 - EUR/РУБ",
+      "venue": "MISX",
+      "board": "FIXN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7ded-9be9-7da7d4ffd9c3",
+      "type": "ReferenceRate",
+      "code": "EURRUB_FIX0",
+      "description": "EURRUB_FIX0 - EUR/РУБ",
+      "venue": "MISX",
+      "board": "FIXS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7f95-a0bd-c16c13297c58",
+      "type": "ReferenceRate",
+      "code": "EURSELLSPB",
+      "description": "Индикатор Финуслуг продажи наличного евро, Санкт-Петербург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7c05-b75e-6c7d73b68c87",
+      "type": "ReferenceRate",
+      "code": "EURSELLNN",
+      "description": "Индикатор Финуслуг продажи наличного евро, Нижний Новгород",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7c74-919f-f0d377ec4a71",
+      "type": "ReferenceRate",
+      "code": "EURSELLMSC",
+      "description": "Индикатор Финуслуг продажи наличного евро, Москва",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7f19-bafe-ecea00eeb691",
+      "type": "ReferenceRate",
+      "code": "EURSELLKZN",
+      "description": "Индикатор Финуслуг продажи наличного евро, Казань",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7b9e-8b9a-63c4a45b5c42",
+      "type": "ReferenceRate",
+      "code": "EURSELLEKB",
+      "description": "Индикатор Финуслуг продажи наличного евро, Екатеринбург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {
@@ -5429,6 +5716,160 @@
       "description": "Ежедневный внебиржевой индекс сахара в ПФО",
       "venue": "MISX",
       "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7c70-8ec0-85febf6bea7a",
+      "type": "ReferenceRate",
+      "code": "USDBUYSPB",
+      "description": "Индикатор Финуслуг покупки наличного доллара США, Санкт-Петербург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-70a4-aeeb-8ea8b860c872",
+      "type": "ReferenceRate",
+      "code": "USDBUYNN",
+      "description": "Индикатор Финуслуг покупки наличного доллара США, Нижний Новгород",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-745b-9aee-450f175bc0d9",
+      "type": "ReferenceRate",
+      "code": "USDBUYMSC",
+      "description": "Индикатор Финуслуг покупки наличного доллара США, Москва",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-74bf-8bb4-d5d578e043f1",
+      "type": "ReferenceRate",
+      "code": "USDBUYKZN",
+      "description": "Индикатор Финуслуг покупки наличного доллара США, Казань",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-78d8-972e-87fbc98b7cf9",
+      "type": "ReferenceRate",
+      "code": "USDBUYEKB",
+      "description": "Индикатор Финуслуг покупки наличного доллара США, Екатеринбург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-75ea-b2f3-56854f25e540",
+      "type": "ReferenceRate",
+      "code": "USDRUB_WAP0",
+      "description": "USDRUB_WAP0 - USD/РУБ",
+      "venue": "MISX",
+      "board": "WAPN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-79e2-bbc8-9120eac23ed4",
+      "type": "ReferenceRate",
+      "code": "USDRUB_WAP0",
+      "description": "USDRUB_WAP0 - USD/РУБ",
+      "venue": "MISX",
+      "board": "WAPS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7eff-877f-990b5b800518",
+      "type": "ReferenceRate",
+      "code": "USDRUB_FIX0",
+      "description": "USDRUB_FIX0 - USD/РУБ",
+      "venue": "MISX",
+      "board": "FIXN",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f24e-734d-7b30-8284-da47b0639d45",
+      "type": "ReferenceRate",
+      "code": "USDRUB_FIX0",
+      "description": "USDRUB_FIX0 - USD/РУБ",
+      "venue": "MISX",
+      "board": "FIXS",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7103-bdba-36b28026bd57",
+      "type": "ReferenceRate",
+      "code": "USDSELLSPB",
+      "description": "Индикатор Финуслуг продажи наличного доллара США, Санкт-Петербург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7563-99e8-b6bd06f261e4",
+      "type": "ReferenceRate",
+      "code": "USDSELLNN",
+      "description": "Индикатор Финуслуг продажи наличного доллара США, Нижний Новгород",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7a1e-a385-55bd6d84f5e6",
+      "type": "ReferenceRate",
+      "code": "USDSELLMSC",
+      "description": "Индикатор Финуслуг продажи наличного доллара США, Москва",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7324-8d80-39ec80e8bbcb",
+      "type": "ReferenceRate",
+      "code": "USDSELLKZN",
+      "description": "Индикатор Финуслуг продажи наличного доллара США, Казань",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a0f6d7-0271-7223-867a-0cad9473335e",
+      "type": "ReferenceRate",
+      "code": "USDSELLEKB",
+      "description": "Индикатор Финуслуг продажи наличного доллара США, Екатеринбург",
+      "venue": "MISX",
+      "board": "ICUR",
+      "quoteUnit": "Currency",
+      "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {

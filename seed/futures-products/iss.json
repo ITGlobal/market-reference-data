@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schema/futures-products.schema.json",
   "products": [
     {
       "id": "01a0ec4b-0497-74d6-865d-f5652ccad009",
