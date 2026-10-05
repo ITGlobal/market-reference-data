@@ -6063,6 +6063,15 @@
       "board": "FIXI",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a10c88-c9e5-7e2f-9820-97d30410f241",
+      "type": "Index",
+      "code": "ICALM",
+      "description": "Индекс МосБиржи спокойствия",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
     }
   ]
 }
