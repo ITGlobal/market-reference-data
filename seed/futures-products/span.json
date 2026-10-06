@@ -23396,6 +23396,86 @@
       }
     },
     {
+      "id": "01a110e1-3713-71cb-85ba-880a121fbc1e",
+      "code": "WPE",
+      "name": "US ERCOT WIND POWER 2022 FUTURES",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_US_ERCOT_2022",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a110e1-3718-733e-a2c9-35eab6b308e7",
+      "code": "WPG",
+      "name": "GERMANY WIND POWER 2019 FUTURES",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_DE_2019",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a110e1-3718-7865-b885-f6766a944108",
+      "code": "WPH",
+      "name": "GERMANY WIND POWER 2022 B FUTURES",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_DE_2022B",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a110e1-3718-7f25-88f4-fadf2e87833b",
+      "code": "WPU",
+      "name": "UK WIND POWER 2022 FUTURES",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "GBP",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_UK_2022",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a110e1-3718-72e5-bbea-5a74178a4873",
+      "code": "WPV",
+      "name": "AUSTRALIA VIC 2024-06 WIND POWER FU",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "AUD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_AU_VIC_2024_06",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08a2-7ed7-b036-7c1475a57d7a",
       "code": "WQ",
       "name": "GASOIL0.1%BRGSFOB ARA (PLATTS)VS LO",

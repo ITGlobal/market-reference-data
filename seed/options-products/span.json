@@ -3188,6 +3188,24 @@
       }
     },
     {
+      "id": "01a110e1-372d-7198-ac35-7729c61b9450",
+      "code": "CMM",
+      "name": "MICRO CRUDE OIL TUES WKLY OPT Long",
+      "venue": "XNYM",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MCL",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08b5-7769-8dfa-b59712b19e15",
       "code": "CNW",
       "name": "NEW CROP CORN WKLY OPT Week1",
@@ -7544,6 +7562,24 @@
       }
     },
     {
+      "id": "01a110e1-372d-738e-a79e-f9632dbea000",
+      "code": "MMM",
+      "name": "MICRO CRUDE OIL MON WKLY OPT Long d",
+      "venue": "XNYM",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MCL",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08b5-7aca-95bb-f0443077b1a0",
       "code": "MMW",
       "name": "E-MINI SP MON WKLY Week1",
@@ -7720,6 +7756,24 @@
         "futuresProduct": {
           "code": "MP",
           "venue": "XCME"
+        }
+      }
+    },
+    {
+      "id": "01a110e1-372d-794f-b5ff-7591690fd309",
+      "code": "MPP",
+      "name": "MICRO CRUDE OIL WED WKLY OPT Long d",
+      "venue": "XNYM",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MCL",
+          "venue": "XNYM"
         }
       }
     },
@@ -8102,6 +8156,24 @@
       }
     },
     {
+      "id": "01a110e1-372d-751a-962c-a80d4b2e21fc",
+      "code": "MXX",
+      "name": "MICRO CRUDE OIL THUR WKLY OPT Long",
+      "venue": "XNYM",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "MCL",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
       "id": "01a0fce8-5c4a-70ff-84d9-a091a7291ffa",
       "code": "N2",
       "name": "SINGAPORE JET FUEL CALENDR APO",
@@ -8462,6 +8534,24 @@
       }
     },
     {
+      "id": "01a110e1-372d-7d5a-a654-351bb6dae1c2",
+      "code": "OPU",
+      "name": "UK WIND POWER 2022 OPTION",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "GBP",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "WPU",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08b6-7f85-b1a3-f5068b021e83",
       "code": "OQE",
       "name": "GME OMAN CRUDE OIL EURO STYLE OPT",
@@ -8601,6 +8691,78 @@
       "underlying": {
         "futuresProduct": {
           "code": "WDP",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
+      "id": "01a110e1-372d-7ba6-adac-e2702fe2801b",
+      "code": "OWE",
+      "name": "US ERCOT WIND POWER 2022 OPTION",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "WPE",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
+      "id": "01a110e1-372d-7489-9c06-294e0a767231",
+      "code": "OWG",
+      "name": "GERMANY WIND POWER 2019 OPTION",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "WPG",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
+      "id": "01a110e1-372d-773c-8e37-5bb51518b65a",
+      "code": "OWH",
+      "name": "GERMANY WIND POWER 2022 B OPTION",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "WPH",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
+      "id": "01a110e1-372d-7ae3-a6c6-065d7adab31c",
+      "code": "OWV",
+      "name": "AUSTRALIA VIC 2024-06 WIND PWR OPT",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "AUD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "WPV",
           "venue": "XNYM"
         }
       }
