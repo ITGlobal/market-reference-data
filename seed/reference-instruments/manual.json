@@ -2450,6 +2450,14 @@
     },
     {
       "type": "Synthetic",
+      "code": "JET_GC_VS_ULSD",
+      "description": "Gulf Coast Jet Fuel vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b9a-7849-a2c9-3ff5730ecc41"
+    },
+    {
+      "type": "Synthetic",
       "code": "JET_LA_VS_ULSD",
       "description": "Los Angeles Jet Fuel vs NY Harbor ULSD",
       "venue": "XXXX",
@@ -2653,11 +2661,27 @@
     },
     {
       "type": "Synthetic",
+      "code": "PROPANE_MB_NTET_VS_FEI",
+      "description": "Mont Belvieu Non-TET Propane vs Argus Propane Far East Index",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b94-79d3-b447-fb94db93df18"
+    },
+    {
+      "type": "Synthetic",
       "code": "PROPANE_MB_VS_ARA",
       "description": "Mont Belvieu TET Propane vs Propane CIF ARA",
       "venue": "XXXX",
       "quoteUnit": "Currency",
       "id": "01a0fbea-ad77-7c53-a13b-5ae4cd35f89a"
+    },
+    {
+      "type": "Synthetic",
+      "code": "PROPANE_MB_VS_FEI",
+      "description": "Mont Belvieu TET Propane vs Argus Propane Far East Index",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b91-704c-b844-12bacba989f8"
     },
     {
       "type": "Synthetic",
@@ -2837,6 +2861,14 @@
     },
     {
       "type": "Synthetic",
+      "code": "ULSD_VS_GASOIL",
+      "description": "NY Harbor ULSD vs ICE Low Sulphur Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b9d-7d6c-b8e4-7ca4fca8aac2"
+    },
+    {
+      "type": "Synthetic",
       "code": "ULSD_WTI_CRACK",
       "description": "NY Harbor ULSD vs WTI Crack Spread",
       "venue": "XXXX",
@@ -2858,6 +2890,14 @@
       "venue": "XXXX",
       "quoteUnit": "Currency",
       "id": "01a0fbea-ad77-7443-aa5f-01fdc68c1619"
+    },
+    {
+      "type": "Synthetic",
+      "code": "VLSFO_USGC_VS_HSFO",
+      "description": "USGC Marine Fuel 0.5% Barges vs Gulf Coast HSFO",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b97-7643-85a0-230c7a62b085"
     },
     {
       "type": "Synthetic",
