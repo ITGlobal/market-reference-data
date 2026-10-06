@@ -86,6 +86,13 @@
       "id": "01a0fbd0-2950-78c4-955f-b244196569e7"
     },
     {
+      "key": "SPCX",
+      "isin": "US84615Q1031",
+      "kind": "Equity",
+      "name": "Space Exploration Technologies Corp.",
+      "id": "01a110af-6ab4-795f-9c21-2ffae6a2d821"
+    },
+    {
       "key": "XOM",
       "isin": "US30231G1022",
       "kind": "Equity",

@@ -16276,6 +16276,19 @@
       }
     },
     {
+      "id": "01a0fbf5-08b1-794b-8c18-2b5b92824534",
+      "code": "PDP",
+      "name": "PJM DAY-AHEAD PK MNTH FUT",
+      "venue": "XNYM",
+      "contractSize": 336,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PJM_DAY"
+      }
+    },
+    {
       "id": "01a0fbf5-08b1-7de7-aa79-a47f7488f670",
       "code": "PGD",
       "name": "PJM BGE ZONE DAYAH PEAK MTH FUT",
@@ -20063,6 +20076,19 @@
       }
     },
     {
+      "id": "01a110b0-0544-7750-bd4c-91e8d0138c1a",
+      "code": "SSPCX",
+      "name": "SPACEX STOCK FUT",
+      "venue": "XCME",
+      "contractSize": 100,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US84615Q1031"
+      }
+    },
+    {
       "id": "01a0fbf5-08a2-7b34-b2d8-1415d89dbcdd",
       "code": "SSW",
       "name": "SYNTHETIC SYN  (EMDA) MNTH FUT",
@@ -22143,6 +22169,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "SOL"
+      }
+    },
+    {
+      "id": "01a110b0-0544-74fb-b748-3c979426ed3f",
+      "code": "TSPCX",
+      "name": "BTIC ON SPACEX FUT",
+      "venue": "XCME",
+      "contractSize": 100,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US84615Q1031"
       }
     },
     {
@@ -24366,6 +24405,19 @@
           "code": "IXRE",
           "venue": "XXXX"
         }
+      }
+    },
+    {
+      "id": "01a110b0-0544-7911-9e6b-fe881a3cb7d5",
+      "code": "XSPCX",
+      "name": "MICRO SPACEX STOCK FUT",
+      "venue": "XCME",
+      "contractSize": 10,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US84615Q1031"
       }
     },
     {
