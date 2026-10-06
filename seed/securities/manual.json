@@ -91,6 +91,153 @@
       "kind": "Equity",
       "name": "Exxon Mobil Corporation",
       "id": "01a0fbd0-2950-77d1-bcda-1db2879e6618"
+    },
+    {
+      "key": "US4642867802",
+      "isin": "US4642867802",
+      "kind": "Fund",
+      "name": "iShares MSCI South Africa ETF",
+      "id": "01a10c1f-11af-73d6-917e-5ca8a07ead56"
+    },
+    {
+      "key": "US37950E2596",
+      "isin": "US37950E2596",
+      "kind": "Fund",
+      "name": "Global X MSCI Argentina ETF",
+      "id": "01a10c1f-11b2-71a4-bb33-0388f977baa7"
+    },
+    {
+      "key": "US4642864007",
+      "isin": "US4642864007",
+      "kind": "Fund",
+      "name": "iShares MSCI Brazil ETF",
+      "id": "01a10c1f-11b5-7c85-8164-5bfc11cd7c9a"
+    },
+    {
+      "key": "DE0005933931",
+      "isin": "DE0005933931",
+      "kind": "Fund",
+      "name": "iShares Core DAX UCITS ETF (DE)",
+      "id": "01a10c1f-11b7-7079-9b9b-69229f1e868b"
+    },
+    {
+      "key": "US78467X1090",
+      "isin": "US78467X1090",
+      "kind": "Fund",
+      "name": "SPDR Dow Jones Industrial Average ETF Trust",
+      "id": "01a10c1f-11ba-7807-94b0-9e6c25e7c0d2"
+    },
+    {
+      "key": "US46438R1059",
+      "isin": "US46438R1059",
+      "kind": "Fund",
+      "name": "iShares Ethereum Trust ETF",
+      "id": "01a10c1f-11bc-7982-9c6f-78d726f8fc7d"
+    },
+    {
+      "key": "HK2800008867",
+      "isin": "HK2800008867",
+      "kind": "Fund",
+      "name": "Tracker Fund of Hong Kong ETF",
+      "id": "01a10c1f-11be-7a51-bd56-f8b1a9d15122"
+    },
+    {
+      "key": "KR7000660001",
+      "isin": "KR7000660001",
+      "kind": "Equity",
+      "name": "SK Hynix Inc.",
+      "id": "01a10c1f-11c1-7355-b181-4164132362bc"
+    },
+    {
+      "key": "US46438F1012",
+      "isin": "US46438F1012",
+      "kind": "Fund",
+      "name": "iShares Bitcoin Trust ETF",
+      "id": "01a10c1f-11c3-7852-a10f-8c1ef35cae41"
+    },
+    {
+      "key": "IE00BZCQB185",
+      "isin": "IE00BZCQB185",
+      "kind": "Fund",
+      "name": "iShares MSCI India UCITS ETF USD (Acc)",
+      "id": "01a10c1f-11c6-7568-b39c-40623ca62004"
+    },
+    {
+      "key": "US4642867729",
+      "isin": "US4642867729",
+      "kind": "Fund",
+      "name": "iShares MSCI South Korea ETF",
+      "id": "01a10c1f-11c8-71eb-aa95-afc19caebb3e"
+    },
+    {
+      "key": "JP3027710007",
+      "isin": "JP3027710007",
+      "kind": "Fund",
+      "name": "iShares Core Nikkei 225 ETF",
+      "id": "01a10c1f-11ca-7623-ab70-01b8500d5d2d"
+    },
+    {
+      "key": "US7223041028",
+      "isin": "US7223041028",
+      "kind": "Equity",
+      "name": "PDD Holdings Inc",
+      "id": "01a10c1f-11cc-712c-b579-27f52ea7f561"
+    },
+    {
+      "key": "US4642876555",
+      "isin": "US4642876555",
+      "kind": "Fund",
+      "name": "iShares Russell 2000 ETF",
+      "id": "01a10c1f-11cf-77ad-b5ce-b7d3c3c8527e"
+    },
+    {
+      "key": "KR7005930003",
+      "isin": "KR7005930003",
+      "kind": "Equity",
+      "name": "Samsung Electronics Co Ltd",
+      "id": "01a10c1f-11d1-7809-924d-3c9d4ed11761"
+    },
+    {
+      "key": "US46434V4234",
+      "isin": "US46434V4234",
+      "kind": "Fund",
+      "name": "iShares MSCI Saudi Arabia ETF",
+      "id": "01a10c1f-11d3-71ea-a9d5-3210fd1de496"
+    },
+    {
+      "key": "US46138G6153",
+      "isin": "US46138G6153",
+      "kind": "Fund",
+      "name": "Invesco PHLX Semiconductor ETF",
+      "id": "01a10c1f-11d5-7206-af52-699a50db5147"
+    },
+    {
+      "key": "IE0008471009",
+      "isin": "IE0008471009",
+      "kind": "Fund",
+      "name": "iShares Core EURO STOXX 50 UCITS ETF EUR (Dist)",
+      "id": "01a10c1f-11d7-79ae-8af2-9e57943ff13f"
+    },
+    {
+      "key": "KYG875721634",
+      "isin": "KYG875721634",
+      "kind": "Equity",
+      "name": "Tencent Holdings Limited",
+      "id": "01a10c1f-11d9-7a6d-8501-42c62b45bfa1"
+    },
+    {
+      "key": "US4642874329",
+      "isin": "US4642874329",
+      "kind": "Fund",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "id": "01a10c1f-11dc-7c9a-b8ce-c96ecdc7673e"
+    },
+    {
+      "key": "KYG9830T1067",
+      "isin": "KYG9830T1067",
+      "kind": "Equity",
+      "name": "Xiaomi Corporation",
+      "id": "01a10c1f-11de-7aa4-80b6-5facf4cec76e"
     }
   ]
 }
