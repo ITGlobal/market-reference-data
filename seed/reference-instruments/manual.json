@@ -1977,6 +1977,7 @@
       "description": "Bakken vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7df2-9164-15645e60ead1"
     },
     {
@@ -2012,6 +2013,7 @@
       "description": "Brent vs Dubai",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-72b6-9f1b-2b25725bc3c0"
     },
     {
@@ -2020,6 +2022,7 @@
       "description": "Brent vs Oman",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7bab-9755-be133c566f8b"
     },
     {
@@ -2028,6 +2031,7 @@
       "description": "Mont Belvieu Normal Butane vs Butane CIF ARA",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7a14-a27d-0624e33d3180"
     },
     {
@@ -2036,6 +2040,7 @@
       "description": "C5+ Condensate vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7d1d-b3ec-8562ee9f3023"
     },
     {
@@ -2044,6 +2049,7 @@
       "description": "Los Angeles CARB Diesel vs NY Harbor ULSD",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-73eb-a28d-a9dda4555ff2"
     },
     {
@@ -2052,6 +2058,7 @@
       "description": "Gulf Coast Gasoline vs Crude Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7ae9-bcea-ae9ced0e79bf"
     },
     {
@@ -2060,6 +2067,7 @@
       "description": "Gulf Coast CBOB A2 vs RBOB",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7c6f-9ee9-2e421de708cf"
     },
     {
@@ -2077,6 +2085,7 @@
       "description": "CPC Blend vs Dated Brent",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7b62-ad00-853d36a7639e"
     },
     {
@@ -2085,6 +2094,7 @@
       "description": "South Asia Crude Palm Oil (FM) vs Bursa Malaysia Crude Palm Oil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7abe-a6de-e8a0f7ed2d0f"
     },
     {
@@ -2102,6 +2112,7 @@
       "description": "Copper Grade A Premium CIF Shanghai",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "Fastmarkets",
       "id": "01a0fbea-ad76-756e-a06d-17686f451ebb"
     },
     {
@@ -2110,6 +2121,7 @@
       "description": "Dated Brent vs Brent Futures (Dated-to-Frontline)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7d6b-995a-b3c8cc3dab1e"
     },
     {
@@ -2118,6 +2130,7 @@
       "description": "European Diesel 10ppm vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7f22-ba8f-38aece4dcd15"
     },
     {
@@ -2126,6 +2139,7 @@
       "description": "European Diesel 10ppm vs NY Harbor ULSD",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-78ee-832f-c53efc89addc"
     },
     {
@@ -2152,6 +2166,7 @@
       "description": "€STR Three-Month Basis Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7c69-b296-fc24133a8acb"
     },
     {
@@ -2160,6 +2175,7 @@
       "description": "Ether / Bitcoin Ratio",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-70d2-aeeb-8c9547352cb9"
     },
     {
@@ -2168,6 +2184,7 @@
       "description": "Eurobob Non-Oxy NWE vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-795f-8fee-814513ccf8e3"
     },
     {
@@ -2176,6 +2193,7 @@
       "description": "Eurobob Non-Oxy vs Naphtha CIF NWE",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-773f-a0eb-3a4a2d2c220d"
     },
     {
@@ -2184,6 +2202,7 @@
       "description": "Eurobob Non-Oxy vs Eurobob Oxy NWE",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7356-b290-3c475cec1c1c"
     },
     {
@@ -2192,6 +2211,7 @@
       "description": "Eurobob Oxy NWE vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7923-a5c4-cefd50d54552"
     },
     {
@@ -2200,6 +2220,7 @@
       "description": "Eurobob Oxy vs Naphtha CIF NWE",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7653-824b-ffb34cf11925"
     },
     {
@@ -2208,6 +2229,7 @@
       "description": "FAME 0 Biodiesel vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7978-9c39-1b22d8a6db36"
     },
     {
@@ -2234,6 +2256,7 @@
       "description": "Singapore 180cst Fuel Oil vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7e2c-bedc-a125f2fb903c"
     },
     {
@@ -2242,6 +2265,7 @@
       "description": "Singapore 180cst Fuel Oil vs Dubai Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7570-83b9-9664e9bdfc23"
     },
     {
@@ -2250,6 +2274,7 @@
       "description": "Singapore Fuel Oil Viscosity Spread (180cst vs 380cst)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7ebf-961f-7ea9ad3ee5fb"
     },
     {
@@ -2258,6 +2283,7 @@
       "description": "NY 1% Fuel Oil vs Euro 1% Fuel Oil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-77a9-b1f7-5e029e832482"
     },
     {
@@ -2266,6 +2292,7 @@
       "description": "NY 1% Fuel Oil vs Gulf Coast HSFO",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7182-adb2-914f15ec1aff"
     },
     {
@@ -2274,6 +2301,7 @@
       "description": "Fuel Oil 1% Barges vs Cargoes",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-783c-8148-a6d70adf4561"
     },
     {
@@ -2282,6 +2310,7 @@
       "description": "Fuel Oil 1% NWE vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-747e-b263-8025f1b6c87e"
     },
     {
@@ -2290,6 +2319,7 @@
       "description": "Fuel Oil 1% Mediterranean vs NWE",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-71ff-ad59-c6ef5503745f"
     },
     {
@@ -2298,6 +2328,7 @@
       "description": "NY Harbor 1% Fuel Oil Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7dac-bb68-f08b24460296"
     },
     {
@@ -2306,6 +2337,7 @@
       "description": "Fuel Oil 1% vs 3.5% (Hi-Lo)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-79e4-8ab6-eaa33a4f66b0"
     },
     {
@@ -2314,6 +2346,7 @@
       "description": "Fuel Oil 3.5% vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-7a96-8a5a-3abc032f896b"
     },
     {
@@ -2322,6 +2355,7 @@
       "description": "Fuel Oil 3.5% Rotterdam vs Mediterranean",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad76-730a-9b2b-d2f6d5ea2eec"
     },
     {
@@ -2330,6 +2364,7 @@
       "description": "Singapore 380cst Fuel Oil vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-798a-aa7f-83854592c1bd"
     },
     {
@@ -2338,6 +2373,7 @@
       "description": "Singapore 380cst Fuel Oil vs Dubai Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7918-8828-55d9e9d84332"
     },
     {
@@ -2346,6 +2382,7 @@
       "description": "East-West Fuel Oil (Singapore 380cst vs Rotterdam 3.5%)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-74c9-b9c4-fc27b051dc2d"
     },
     {
@@ -2354,6 +2391,7 @@
       "description": "Gulf Coast HSFO vs Crude Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-727b-86b2-e497de9bd5fb"
     },
     {
@@ -2362,6 +2400,7 @@
       "description": "Gulf Coast HSFO vs Euro 3.5% Fuel Oil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7150-a042-f64112c0afda"
     },
     {
@@ -2370,6 +2409,7 @@
       "description": "Gasoil 0.1% vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7219-aae4-90fda01ac300"
     },
     {
@@ -2378,6 +2418,7 @@
       "description": "ICE Gasoil vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-71d6-bd32-5d1875596297"
     },
     {
@@ -2386,6 +2427,7 @@
       "description": "Singapore Gasoil vs Dubai Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-76a9-bd30-2b425a9610ee"
     },
     {
@@ -2394,6 +2436,7 @@
       "description": "Singapore Gasoil vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7c00-aa68-9d1d8862c891"
     },
     {
@@ -2402,6 +2445,7 @@
       "description": "Singapore Gasoil vs Singapore Marine Fuel 0.5%",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7933-a673-074ce67f7300"
     },
     {
@@ -2410,6 +2454,7 @@
       "description": "Premium Unleaded 10ppm vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-779a-a6bc-5e391a2b6ec1"
     },
     {
@@ -2418,6 +2463,7 @@
       "description": "Chicago Unleaded Gasoline vs RBOB",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-739e-b3f7-ad12224aa614"
     },
     {
@@ -2426,6 +2472,7 @@
       "description": "East-West Gasoline (Singapore 92 vs Eurobob)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7b2c-8aa1-69a013f476a3"
     },
     {
@@ -2434,6 +2481,7 @@
       "description": "Gulf Coast Unleaded 87 M2 vs RBOB",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-75b6-98a9-7776283c532a"
     },
     {
@@ -2442,6 +2490,7 @@
       "description": "Group Three Sub-Octane Gasoline vs RBOB",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7c82-b769-089602f266da"
     },
     {
@@ -2450,6 +2499,7 @@
       "description": "Guernsey Light Sweet vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-782b-92ae-8c726865b2e9"
     },
     {
@@ -2458,6 +2508,7 @@
       "description": "Heavy Louisiana Sweet vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7587-9eb8-55a2809d3262"
     },
     {
@@ -2466,6 +2517,7 @@
       "description": "HVO vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7d73-8fc9-34d97ab552bd"
     },
     {
@@ -2483,6 +2535,7 @@
       "description": "Japan Crude Cocktail vs Brent",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7899-9af3-972679c1d051"
     },
     {
@@ -2491,6 +2544,7 @@
       "description": "NWE Jet vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-70bb-b265-1f6d1ff9217e"
     },
     {
@@ -2499,6 +2553,7 @@
       "description": "Gulf Coast Jet Fuel vs NY Harbor ULSD",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a11079-5b9a-7849-a2c9-3ff5730ecc41"
     },
     {
@@ -2507,6 +2562,7 @@
       "description": "Los Angeles Jet Fuel vs NY Harbor ULSD",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-78b6-8650-3d5d098baa14"
     },
     {
@@ -2515,6 +2571,7 @@
       "description": "NY Jet Fuel vs NY Harbor ULSD",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7638-bd40-d630e1f43536"
     },
     {
@@ -2523,6 +2580,7 @@
       "description": "Singapore Jet Kerosene vs Dubai Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-700f-ad6f-6783e129ae71"
     },
     {
@@ -2531,6 +2589,7 @@
       "description": "Singapore Jet Kerosene vs Singapore Gasoil (Regrade)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7647-b060-a3898837ad00"
     },
     {
@@ -2539,6 +2598,7 @@
       "description": "NWE Jet Fuel vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-75e4-a650-dbb7fcae6a3a"
     },
     {
@@ -2547,6 +2607,7 @@
       "description": "Light Louisiana Sweet vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7013-8dd6-04fc343eb146"
     },
     {
@@ -2555,6 +2616,7 @@
       "description": "Mars vs Brent",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7509-81b1-393bf0bb8398"
     },
     {
@@ -2563,6 +2625,7 @@
       "description": "Mars vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7572-9dd2-58a705b3d6c8"
     },
     {
@@ -2571,6 +2634,7 @@
       "description": "Singapore Mogas 92 vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7032-bf3a-1ae383456c60"
     },
     {
@@ -2579,6 +2643,7 @@
       "description": "Singapore Mogas 92 vs Dubai Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7865-a3ea-5d82ed9808de"
     },
     {
@@ -2587,6 +2652,7 @@
       "description": "Singapore Mogas 92 vs Eurobob Non-Oxy",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7c98-be89-23352fbbc93b"
     },
     {
@@ -2595,6 +2661,7 @@
       "description": "Singapore Mogas 95 vs Mogas 92",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7ae8-a857-4770067c9bcb"
     },
     {
@@ -2603,6 +2670,7 @@
       "description": "East-West Naphtha (Japan C&F vs CIF NWE)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7efc-ab55-c0675603594d"
     },
     {
@@ -2611,6 +2679,7 @@
       "description": "Japan C&F Naphtha vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-74db-a14e-2a66cd42ca0b"
     },
     {
@@ -2619,6 +2688,7 @@
       "description": "Japan C&F Naphtha vs Dubai Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7f93-9a16-66d169352229"
     },
     {
@@ -2627,6 +2697,7 @@
       "description": "Naphtha CIF NWE vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-749d-b730-572c992ebec0"
     },
     {
@@ -2635,6 +2706,7 @@
       "description": "Henry Hub Natural Gas vs UK NBP",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7a56-8e6f-c4204e7bb054"
     },
     {
@@ -2643,6 +2715,7 @@
       "description": "Henry Hub Natural Gas vs Dutch TTF",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-79cf-ba24-b48801816c6d"
     },
     {
@@ -2651,6 +2724,7 @@
       "description": "Malaysian Crude Palm Oil vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7c69-b3be-aa4e8676bd06"
     },
     {
@@ -2686,6 +2760,7 @@
       "description": "Propane CIF ARA vs Naphtha CIF NWE",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7b8e-9fd7-5b232e760a96"
     },
     {
@@ -2694,6 +2769,7 @@
       "description": "Argus Far East Propane vs Propane CIF ARA",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7981-9904-f560101a4640"
     },
     {
@@ -2702,6 +2778,7 @@
       "description": "Argus Far East Propane vs Japan Naphtha",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7f20-94b5-71f5d4f49f4e"
     },
     {
@@ -2710,6 +2787,7 @@
       "description": "Mont Belvieu Non-TET Propane vs Argus Propane Far East Index",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a11079-5b94-79d3-b447-fb94db93df18"
     },
     {
@@ -2718,6 +2796,7 @@
       "description": "Mont Belvieu TET Propane vs Propane CIF ARA",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7c53-a13b-5ae4cd35f89a"
     },
     {
@@ -2726,6 +2805,7 @@
       "description": "Mont Belvieu TET Propane vs Argus Propane Far East Index",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a11079-5b91-704c-b844-12bacba989f8"
     },
     {
@@ -2734,6 +2814,7 @@
       "description": "RBOB Gasoline vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-789a-ac7d-61b2d190db2b"
     },
     {
@@ -2742,6 +2823,7 @@
       "description": "RBOB Gasoline vs Eurobob Non-Oxy NWE",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7c88-a649-440db844a506"
     },
     {
@@ -2750,6 +2832,7 @@
       "description": "RBOB Gasoline vs Eurobob Oxy NWE",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7eab-8dad-b2ba9663c6eb"
     },
     {
@@ -2758,6 +2841,7 @@
       "description": "RBOB Gasoline vs NY Harbor ULSD",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7cda-bcdb-6db38b5f0624"
     },
     {
@@ -2766,6 +2850,7 @@
       "description": "RBOB Gasoline vs WTI Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-78c0-9211-07c1c175fefb"
     },
     {
@@ -2774,6 +2859,7 @@
       "description": "RME Biodiesel vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7fef-aed5-97163e4fda99"
     },
     {
@@ -2782,6 +2868,7 @@
       "description": "Southern Green Canyon vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-789f-b006-b00a991c9992"
     },
     {
@@ -2790,6 +2877,7 @@
       "description": "South Asia Soybean Oil (FM) vs CBOT Soybean Oil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-75a8-b33b-0e63a190dfb9"
     },
     {
@@ -2798,6 +2886,7 @@
       "description": "Soybean Oil vs NY Harbor ULSD (BOHO)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7cc8-bed1-fab4b8f9006d"
     },
     {
@@ -2806,6 +2895,7 @@
       "description": "Soybean Oilshare (soybean oil share of the crush value)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-79bf-a672-f8bdc148334f"
     },
     {
@@ -2814,6 +2904,7 @@
       "description": "EMDA Sweet SW vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7850-a25b-13fc1ad2c9fd"
     },
     {
@@ -2822,6 +2913,7 @@
       "description": "Synthetic Crude (SYN) vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7fa9-8041-b71e44eeeee4"
     },
     {
@@ -2830,6 +2922,7 @@
       "description": "UCOME Biodiesel vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7771-baa3-a548f79bb3c5"
     },
     {
@@ -2838,6 +2931,7 @@
       "description": "Used Cooking Oil vs ICE Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7b16-bc93-47341d219088"
     },
     {
@@ -2846,6 +2940,7 @@
       "description": "UHC Clearbrook vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7ba8-a09b-929e8d08cd3c"
     },
     {
@@ -2854,6 +2949,7 @@
       "description": "NY Harbor ULSD vs Brent Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-74ec-a8bf-5c8519d7aa18"
     },
     {
@@ -2862,6 +2958,7 @@
       "description": "Chicago ULSD vs NY Harbor ULSD",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7624-8295-28ea329272ca"
     },
     {
@@ -2870,6 +2967,7 @@
       "description": "Gulf Coast ULSD Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-78d1-8bda-5e6882ef731a"
     },
     {
@@ -2878,6 +2976,7 @@
       "description": "Gulf Coast ULSD vs Gulf Coast Jet Fuel",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-712a-8cc9-cf704bc50fbe"
     },
     {
@@ -2886,6 +2985,7 @@
       "description": "Gulf Coast ULSD vs NY Harbor ULSD (Up-Down)",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7bc5-9431-b0ad516bc656"
     },
     {
@@ -2894,6 +2994,7 @@
       "description": "Group Three ULSD vs NY Harbor ULSD",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-77e7-8ede-ce534f96203c"
     },
     {
@@ -2902,6 +3003,7 @@
       "description": "NY ULSD (Argus) vs NY Harbor ULSD",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7e96-bbfc-7e92d0668f6d"
     },
     {
@@ -2910,6 +3012,7 @@
       "description": "NY Harbor ULSD vs ICE Low Sulphur Gasoil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a11079-5b9d-7d6c-b8e4-7ca4fca8aac2"
     },
     {
@@ -2918,6 +3021,7 @@
       "description": "NY Harbor ULSD vs WTI Crack Spread",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-743e-b243-22ce43ee57da"
     },
     {
@@ -2926,6 +3030,7 @@
       "description": "Singapore Marine Fuel 0.5% vs Rotterdam Marine Fuel 0.5%",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-76e8-b087-8f26369d1b55"
     },
     {
@@ -2934,6 +3039,7 @@
       "description": "USGC Marine Fuel 0.5% vs Rotterdam Marine Fuel 0.5%",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7443-aa5f-01fdc68c1619"
     },
     {
@@ -2942,6 +3048,7 @@
       "description": "USGC Marine Fuel 0.5% Barges vs Gulf Coast HSFO",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a11079-5b97-7643-85a0-230c7a62b085"
     },
     {
@@ -2950,6 +3057,7 @@
       "description": "Euro Marine Fuel 0.5% vs Euro 3.5% Fuel Oil",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7355-8146-71ad47168866"
     },
     {
@@ -2958,6 +3066,7 @@
       "description": "Western Canadian Select vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7384-b67b-b990d5544720"
     },
     {
@@ -2966,6 +3075,7 @@
       "description": "CBOT Wheat vs Euronext Milling Wheat",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7530-a491-2307b15212e5"
     },
     {
@@ -2974,6 +3084,7 @@
       "description": "KC HRW Wheat vs Euronext Milling Wheat",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-705c-a7fa-df0a28265661"
     },
     {
@@ -2982,6 +3093,7 @@
       "description": "Argus WTI vs NYMEX WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-77d3-82ca-17d7e555dcaf"
     },
     {
@@ -2990,6 +3102,7 @@
       "description": "WTI Ex-Pipe (Argus) vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7ac8-b480-f9603cd891b3"
     },
     {
@@ -2998,6 +3111,7 @@
       "description": "WTI Houston vs Brent",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7b06-a711-d54e408e533a"
     },
     {
@@ -3006,6 +3120,7 @@
       "description": "WTI Houston vs Dubai",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7be7-8b61-248dd5d6a93b"
     },
     {
@@ -3014,6 +3129,7 @@
       "description": "WTI Houston vs WTI Cushing",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7a28-b7d2-f87859d608fe"
     },
     {
@@ -3022,6 +3138,7 @@
       "description": "WTI Midland vs Brent",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7760-bc9c-1edbe73a477f"
     },
     {
@@ -3030,6 +3147,7 @@
       "description": "WTI Midland vs Dubai",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-785d-9f02-4b3fac435aac"
     },
     {
@@ -3038,6 +3156,7 @@
       "description": "WTI Midland vs WTI Cushing",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7593-b103-17ddbd3c2cbe"
     },
     {
@@ -3046,6 +3165,7 @@
       "description": "WTI vs Brent",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7bed-bd1f-e82423845d05"
     },
     {
@@ -3054,6 +3174,7 @@
       "description": "WTI vs Dubai",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-7ff9-be07-2abe4905aaa7"
     },
     {
@@ -3062,6 +3183,7 @@
       "description": "West Texas Sour vs WTI",
       "venue": "XXXX",
       "quoteUnit": "Currency",
+      "provider": "CME Group",
       "id": "01a0fbea-ad77-709d-aa3e-f077632809b3"
     }
   ]
