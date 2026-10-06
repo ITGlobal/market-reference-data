@@ -488,6 +488,24 @@
       }
     },
     {
+      "id": "01a0fce8-5c4f-71a9-9c51-1ff19f143b91",
+      "code": "1YZ",
+      "name": "OPTION ON THREE-MONTH SOFR NEAR DEC",
+      "venue": "XCME",
+      "contractSize": 2500,
+      "quoteUnit": "PercentOfFace",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08b5-7960-b454-9a5893f27fcc",
       "code": "21",
       "name": "10YR US TREASURY NOTE OPTIONS Flex",
@@ -833,6 +851,24 @@
       "id": "01a0fbf5-08b6-7e69-a620-3d983d0a7b19",
       "code": "2YU",
       "name": "OPTION ON THREE-MONTH SOFR DEF SEP",
+      "venue": "XCME",
+      "contractSize": 2500,
+      "quoteUnit": "PercentOfFace",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
+        }
+      }
+    },
+    {
+      "id": "01a0fce8-5c4f-7960-9f83-613cbcc15bb0",
+      "code": "2YZ",
+      "name": "OPTION ON THREE-MONTH SOFR DEF DEC",
       "venue": "XCME",
       "contractSize": 2500,
       "quoteUnit": "PercentOfFace",
@@ -10708,6 +10744,60 @@
         "futuresProduct": {
           "code": "TN",
           "venue": "XCBT"
+        }
+      }
+    },
+    {
+      "id": "01a0fce8-5c4f-7f69-9c66-293f4aaf5fd0",
+      "code": "TS2",
+      "name": "THREE-MONTH MID-CURVE SOFR OPTIONS",
+      "venue": "XCME",
+      "contractSize": 2500,
+      "quoteUnit": "PercentOfFace",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
+        }
+      }
+    },
+    {
+      "id": "01a0fce8-5c4f-744f-8df2-a5578a977a08",
+      "code": "TS3",
+      "name": "SIX-MONTH MID-CURVE SOFR OPTIONS",
+      "venue": "XCME",
+      "contractSize": 2500,
+      "quoteUnit": "PercentOfFace",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
+        }
+      }
+    },
+    {
+      "id": "01a0fce8-5c4f-7aba-adb8-a7b21e4d6f4a",
+      "code": "TS4",
+      "name": "NINE-MONTH MID-CURVE SOFR OPTION",
+      "venue": "XCME",
+      "contractSize": 2500,
+      "quoteUnit": "PercentOfFace",
+      "quoteAsset": "USD",
+      "exerciseStyle": "American",
+      "settlementMethod": "Physical",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "SR3",
+          "venue": "XCME"
         }
       }
     },
