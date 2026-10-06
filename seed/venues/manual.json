@@ -5,13 +5,13 @@
       "mic": "XOFF",
       "name": "Off-exchange transactions — listed instruments",
       "boards": [],
-      "id": "01a0ec4b-043f-758c-aba3-b123bec306b5"
+      "id": "00000000-0000-7000-8000-000000000001"
     },
     {
       "mic": "XXXX",
       "name": "No market (e.g. unlisted)",
       "boards": [],
-      "id": "01a0ec4b-043f-7ef5-96bd-b2aff4f3f270"
+      "id": "00000000-0000-7000-8000-000000000002"
     }
   ]
 }

@@ -191,6 +191,13 @@
       "id": "01a0ec4b-0445-74c0-9590-64b3b5b5bd8d"
     },
     {
+      "symbol": "CNH",
+      "type": "Fiat",
+      "name": "Yuan Renminbi (offshore)",
+      "isoCurrency": "CNY",
+      "id": "01a0f7c8-cf18-71e9-91c7-917fde5479e3"
+    },
+    {
       "symbol": "CNY",
       "type": "Fiat",
       "name": "Yuan Renminbi",
@@ -1211,6 +1218,612 @@
       "id": "01a0ec4b-0446-7121-9838-67c2f06658ed"
     },
     {
+      "symbol": "ULSD",
+      "type": "Commodity",
+      "name": "NY Harbor Ultra-Low Sulfur Diesel",
+      "id": "01a0f7c8-cf18-7672-abe6-b8a97cae7921"
+    },
+    {
+      "symbol": "RBOB",
+      "type": "Commodity",
+      "name": "RBOB Gasoline",
+      "id": "01a0f7c8-cf18-7102-869f-3a1872989dac"
+    },
+    {
+      "symbol": "CORN",
+      "type": "Commodity",
+      "name": "Corn",
+      "id": "01a0f7c8-cf18-71c5-99a5-4017662b1735"
+    },
+    {
+      "symbol": "WHEAT_HRW",
+      "type": "Commodity",
+      "name": "Hard Red Winter Wheat",
+      "id": "01a0f7c8-cf18-7001-9557-3e5ecf8dc7f6"
+    },
+    {
+      "symbol": "SOYBEAN",
+      "type": "Commodity",
+      "name": "Soybeans",
+      "id": "01a0f7c8-cf18-700a-b350-827a1e69f64e"
+    },
+    {
+      "symbol": "SOYMEAL",
+      "type": "Commodity",
+      "name": "Soybean Meal",
+      "id": "01a0f7c8-cf18-7fc2-90c7-057de840a323"
+    },
+    {
+      "symbol": "SOYOIL",
+      "type": "Commodity",
+      "name": "Soybean Oil",
+      "id": "01a0f7c8-cf18-7a5b-b4f8-9fcc653334ea"
+    },
+    {
+      "symbol": "LIVECATTLE",
+      "type": "Commodity",
+      "name": "Live Cattle",
+      "id": "01a0f7c8-cf18-7bdd-a025-65fc4e7d85e8"
+    },
+    {
+      "symbol": "FEEDERCATTLE",
+      "type": "Commodity",
+      "name": "Feeder Cattle",
+      "id": "01a0f7c8-cf18-77d2-83be-b23f1b84ba52"
+    },
+    {
+      "symbol": "LEANHOGS",
+      "type": "Commodity",
+      "name": "Lean Hogs",
+      "id": "01a0f7c8-cf18-76e6-aaed-0d5767002bc4"
+    },
+    {
+      "symbol": "WHEAT_SRW",
+      "type": "Commodity",
+      "name": "Soft Red Winter Wheat",
+      "id": "01a0f817-e344-7bdf-9f21-f6f59f27d413"
+    },
+    {
+      "symbol": "WHEAT_HRS",
+      "type": "Commodity",
+      "name": "Hard Red Spring Wheat",
+      "id": "01a0f817-e344-70b2-b61e-4227513eb666"
+    },
+    {
+      "symbol": "WHEAT_CWRS",
+      "type": "Commodity",
+      "name": "Canada Western Red Spring Wheat",
+      "id": "01a0f817-e344-7bca-bfa5-cd027fa3b1ca"
+    },
+    {
+      "symbol": "WHEAT_APW",
+      "type": "Commodity",
+      "name": "Australian Premium White Wheat",
+      "id": "01a0f817-e344-79cd-9b97-be27c46c7766"
+    },
+    {
+      "symbol": "ROUGHRICE",
+      "type": "Commodity",
+      "name": "Rough Rice",
+      "id": "01a0f817-e344-7326-856f-c4116f7f69b3"
+    },
+    {
+      "symbol": "OATS",
+      "type": "Commodity",
+      "name": "Oats",
+      "id": "01a0f817-e344-724d-9e87-daf18e050603"
+    },
+    {
+      "symbol": "SORGHUM",
+      "type": "Commodity",
+      "name": "Sorghum",
+      "id": "01a0f817-e344-79b1-a935-5ce0fdb42a79"
+    },
+    {
+      "symbol": "PALMOIL",
+      "type": "Commodity",
+      "name": "Crude Palm Oil",
+      "id": "01a0f817-e344-70c7-abfd-f1585b5f4786"
+    },
+    {
+      "symbol": "PALMOLEIN",
+      "type": "Commodity",
+      "name": "Palm Olein",
+      "id": "01a0f817-e344-7617-973d-f2aa5231ef3a"
+    },
+    {
+      "symbol": "RAPESEEDOIL",
+      "type": "Commodity",
+      "name": "Rapeseed Oil",
+      "id": "01a0f817-e344-736e-a8b4-3b32e24047df"
+    },
+    {
+      "symbol": "DAP",
+      "type": "Commodity",
+      "name": "Diammonium Phosphate",
+      "id": "01a0f817-e344-7fc7-a1b1-a217a26090bd"
+    },
+    {
+      "symbol": "MAP",
+      "type": "Commodity",
+      "name": "Monoammonium Phosphate",
+      "id": "01a0f817-e344-73f9-8571-329b2d07a981"
+    },
+    {
+      "symbol": "UREA",
+      "type": "Commodity",
+      "name": "Urea (Granular)",
+      "id": "01a0f817-e344-7407-8ec1-be61e29387f1"
+    },
+    {
+      "symbol": "UAN",
+      "type": "Commodity",
+      "name": "Urea Ammonium Nitrate",
+      "id": "01a0f817-e344-71e3-9d2c-d9f54496a036"
+    },
+    {
+      "symbol": "COTTON",
+      "type": "Commodity",
+      "name": "Cotton No. 2",
+      "id": "01a0f817-e344-77a5-9f63-3eb50183bfd9"
+    },
+    {
+      "symbol": "BUTTER",
+      "type": "Commodity",
+      "name": "Butter",
+      "id": "01a0f817-e344-7702-8e1f-e84b2ef77485"
+    },
+    {
+      "symbol": "CHEESE",
+      "type": "Commodity",
+      "name": "Cheese",
+      "id": "01a0f817-e344-77d1-9c51-385ff9083ae6"
+    },
+    {
+      "symbol": "MILK_CLASS3",
+      "type": "Commodity",
+      "name": "Class III Milk",
+      "id": "01a0f817-e344-7bc2-944a-0594a0aca87e"
+    },
+    {
+      "symbol": "MILK_CLASS4",
+      "type": "Commodity",
+      "name": "Class IV Milk",
+      "id": "01a0f817-e344-7fed-95a8-bdc82c500c2a"
+    },
+    {
+      "symbol": "WHEY",
+      "type": "Commodity",
+      "name": "Dry Whey",
+      "id": "01a0f817-e344-75cc-860c-dddd4123d41e"
+    },
+    {
+      "symbol": "NFDM",
+      "type": "Commodity",
+      "name": "Nonfat Dry Milk",
+      "id": "01a0f817-e344-7b5d-a54d-e2a8d0edaada"
+    },
+    {
+      "symbol": "BEEFTRIM50",
+      "type": "Commodity",
+      "name": "50% Lean Beef Trimmings",
+      "id": "01a0f817-e344-79a4-831d-3c1b21c5849d"
+    },
+    {
+      "symbol": "BEEFTRIM90",
+      "type": "Commodity",
+      "name": "90% Lean Beef Trimmings",
+      "id": "01a0f817-e344-7125-9bea-96aa96a94abf"
+    },
+    {
+      "symbol": "PORKCUTOUT",
+      "type": "Commodity",
+      "name": "Pork Cutout",
+      "id": "01a0f817-e344-7513-9f39-c90185196edf"
+    },
+    {
+      "symbol": "LUMBER",
+      "type": "Commodity",
+      "name": "Lumber",
+      "id": "01a0f817-e344-7118-a3cf-c2f5fe2d24fd"
+    },
+    {
+      "symbol": "LUMBER_SYP",
+      "type": "Commodity",
+      "name": "Southern Yellow Pine Lumber",
+      "id": "01a0f817-e344-726c-ba6a-24df7acc9966"
+    },
+    {
+      "symbol": "ALUM_A380",
+      "type": "Commodity",
+      "name": "Aluminium A380 Alloy",
+      "id": "01a0f817-e344-784a-9466-6b96449a4293"
+    },
+    {
+      "symbol": "ALUMINA",
+      "type": "Commodity",
+      "name": "Alumina",
+      "id": "01a0f817-e344-7999-9305-e969c739352c"
+    },
+    {
+      "symbol": "SCRAP_BUSHELING",
+      "type": "Commodity",
+      "name": "#1 Busheling Ferrous Scrap",
+      "id": "01a0f817-e344-751d-8f15-845577d06caa"
+    },
+    {
+      "symbol": "SCRAP_HMS",
+      "type": "Commodity",
+      "name": "HMS 80/20 Ferrous Scrap",
+      "id": "01a0f817-e344-7175-ab9f-838701dfa054"
+    },
+    {
+      "symbol": "SCRAP_SHREDDED",
+      "type": "Commodity",
+      "name": "Shredded Ferrous Scrap",
+      "id": "01a0f817-e344-7aad-8af5-9119ed11b18f"
+    },
+    {
+      "symbol": "HRC",
+      "type": "Commodity",
+      "name": "Hot-Rolled Coil Steel",
+      "id": "01a0f817-e344-75c3-9eb5-9d437ad40694"
+    },
+    {
+      "symbol": "LEAD",
+      "type": "Commodity",
+      "name": "Lead",
+      "id": "01a0f817-e344-7509-905c-8d59269028f1"
+    },
+    {
+      "symbol": "COBALT",
+      "type": "Commodity",
+      "name": "Cobalt Metal",
+      "id": "01a0f817-e344-7fbc-a8b7-38fd85a7dc34"
+    },
+    {
+      "symbol": "COBALT_HYD",
+      "type": "Commodity",
+      "name": "Cobalt Hydroxide",
+      "id": "01a0f817-e344-7876-b59b-0ae45d22a115"
+    },
+    {
+      "symbol": "LITHIUM_CARB",
+      "type": "Commodity",
+      "name": "Lithium Carbonate",
+      "id": "01a0f817-e344-7cf7-968a-7044fc03299d"
+    },
+    {
+      "symbol": "LITHIUM_HYD",
+      "type": "Commodity",
+      "name": "Lithium Hydroxide",
+      "id": "01a0f817-e344-7ecc-ba62-6e5517a4ad75"
+    },
+    {
+      "symbol": "SPODUMENE",
+      "type": "Commodity",
+      "name": "Spodumene",
+      "id": "01a0f817-e344-7ebe-bbe8-c225aeb8b1f7"
+    },
+    {
+      "symbol": "MOLY_OXIDE",
+      "type": "Commodity",
+      "name": "Molybdenum Oxide",
+      "id": "01a0f817-e344-7fa4-ad14-41a8dfc7e89b"
+    },
+    {
+      "symbol": "IRONORE",
+      "type": "Commodity",
+      "name": "Iron Ore 62% Fe",
+      "id": "01a0f817-e344-70d7-a303-c9daf2ec4cb6"
+    },
+    {
+      "symbol": "URANIUM",
+      "type": "Commodity",
+      "name": "Uranium U3O8",
+      "id": "01a0f817-e344-7e6e-8dc7-d8bf3956ff60"
+    },
+    {
+      "symbol": "DUBAI",
+      "type": "Commodity",
+      "name": "Dubai Crude Oil",
+      "id": "01a0fbb1-f026-748d-94f8-0eaf5c5035d9"
+    },
+    {
+      "symbol": "OMAN",
+      "type": "Commodity",
+      "name": "Oman Crude Oil",
+      "id": "01a0fbb1-f026-7876-a11c-4380454013fd"
+    },
+    {
+      "symbol": "LLS",
+      "type": "Commodity",
+      "name": "Light Louisiana Sweet Crude Oil",
+      "id": "01a0fbb1-f026-7873-beef-6709ad0c32f2"
+    },
+    {
+      "symbol": "WTS",
+      "type": "Commodity",
+      "name": "West Texas Sour Crude Oil",
+      "id": "01a0fbb1-f026-7edd-acd4-cdd52a98c6cb"
+    },
+    {
+      "symbol": "MARS",
+      "type": "Commodity",
+      "name": "Mars Crude Oil",
+      "id": "01a0fbb1-f026-7acd-a373-26fa91e4180c"
+    },
+    {
+      "symbol": "NBP",
+      "type": "Commodity",
+      "name": "UK NBP Natural Gas",
+      "id": "01a0fbb1-f026-7da4-bc14-d4cd45224d6f"
+    },
+    {
+      "symbol": "NATGASOLINE",
+      "type": "Commodity",
+      "name": "Natural Gasoline",
+      "id": "01a0fbb1-f026-7167-8044-c3565fca5b52"
+    },
+    {
+      "symbol": "ETHANOL",
+      "type": "Commodity",
+      "name": "Ethanol",
+      "id": "01a0fbb1-f026-7120-95fd-e1ad6b55edfc"
+    },
+    {
+      "symbol": "ETHANOL_T2",
+      "type": "Commodity",
+      "name": "Ethanol T2",
+      "id": "01a0fbb1-f026-703e-aa90-9e2191b83517"
+    },
+    {
+      "symbol": "METHANOL",
+      "type": "Commodity",
+      "name": "Methanol",
+      "id": "01a0fbb1-f026-786c-b25f-c45364ed1c99"
+    },
+    {
+      "symbol": "FAME0",
+      "type": "Commodity",
+      "name": "FAME 0 Biodiesel",
+      "id": "01a0fbb1-f026-7523-8215-48ab01c4b7b2"
+    },
+    {
+      "symbol": "HVO",
+      "type": "Commodity",
+      "name": "Hydrotreated Vegetable Oil",
+      "id": "01a0fbb1-f026-7b5a-b643-ad52c96d142d"
+    },
+    {
+      "symbol": "UCO",
+      "type": "Commodity",
+      "name": "Used Cooking Oil",
+      "id": "01a0fbb1-f026-7cfe-b985-98433c128728"
+    },
+    {
+      "symbol": "RME",
+      "type": "Commodity",
+      "name": "Rapeseed Methyl Ester Biodiesel",
+      "id": "01a0fbb1-f026-7d11-8ea7-f5a3d30d0f8c"
+    },
+    {
+      "symbol": "UCOME",
+      "type": "Commodity",
+      "name": "Used Cooking Oil Methyl Ester Biodiesel",
+      "id": "01a0fbb1-f027-75f4-ab35-c64feb1c4cce"
+    },
+    {
+      "symbol": "PROPANE_MB_TET",
+      "type": "Commodity",
+      "name": "Propane Mont Belvieu TET",
+      "id": "01a0fbb1-f027-7487-8ebd-cfac0cf81580"
+    },
+    {
+      "symbol": "BUTANE",
+      "type": "Commodity",
+      "name": "Normal Butane",
+      "id": "01a0fbb1-f027-751a-90d6-8301d761edf1"
+    },
+    {
+      "symbol": "ISOBUTANE",
+      "type": "Commodity",
+      "name": "Isobutane",
+      "id": "01a0fbb1-f027-7b71-b7d7-1e38241a05ca"
+    },
+    {
+      "symbol": "ETHANE",
+      "type": "Commodity",
+      "name": "Ethane",
+      "id": "01a0fbb1-f027-7f22-985e-15d4fdfcc459"
+    },
+    {
+      "symbol": "ETHYLENE",
+      "type": "Commodity",
+      "name": "Ethylene",
+      "id": "01a0fbb1-f027-7ab7-ae07-1f7d63c7d250"
+    },
+    {
+      "symbol": "PROPYLENE",
+      "type": "Commodity",
+      "name": "Propylene",
+      "id": "01a0fbb1-f027-7011-94e9-c000b07b7e6a"
+    },
+    {
+      "symbol": "HDPE",
+      "type": "Commodity",
+      "name": "High-Density Polyethylene",
+      "id": "01a0fbb1-f027-74f0-b355-2cf8ad61fbda"
+    },
+    {
+      "symbol": "LLDPE",
+      "type": "Commodity",
+      "name": "Linear Low-Density Polyethylene",
+      "id": "01a0fbb1-f027-716b-b03c-9bbf82df1035"
+    },
+    {
+      "symbol": "POLYPROPYLENE",
+      "type": "Commodity",
+      "name": "Polypropylene",
+      "id": "01a0fbb1-f027-7bdd-8939-77c2c060b14d"
+    },
+    {
+      "symbol": "MTBE",
+      "type": "Commodity",
+      "name": "MTBE",
+      "id": "01a0fbb1-f027-7aef-939a-c47a6175f895"
+    },
+    {
+      "symbol": "GASOIL_01",
+      "type": "Commodity",
+      "name": "Gasoil 0.1% Sulphur",
+      "id": "01a0fbb1-f027-793e-8d29-dd3b103849b6"
+    },
+    {
+      "symbol": "JETFUEL",
+      "type": "Commodity",
+      "name": "Jet Fuel",
+      "id": "01a0fbb1-f027-7eae-a7e6-df05cb5a717a"
+    },
+    {
+      "symbol": "CBOB",
+      "type": "Commodity",
+      "name": "CBOB Gasoline",
+      "id": "01a0fbb1-f027-7bf9-ad5f-b9db78bd7a57"
+    },
+    {
+      "symbol": "CARBOB",
+      "type": "Commodity",
+      "name": "CARBOB Gasoline",
+      "id": "01a0fbb1-f027-758c-86fa-a815e560cf06"
+    },
+    {
+      "symbol": "EUROBOB_OXY",
+      "type": "Commodity",
+      "name": "Eurobob Oxy Gasoline",
+      "id": "01a0fbb1-f027-7f85-b8f5-fd2f2d2b56da"
+    },
+    {
+      "symbol": "EUROBOB_NONOXY",
+      "type": "Commodity",
+      "name": "Eurobob Non-Oxy Gasoline",
+      "id": "01a0fbb1-f027-7373-986d-fd4201b78ce2"
+    },
+    {
+      "symbol": "MOGAS92",
+      "type": "Commodity",
+      "name": "Mogas 92 Unleaded Gasoline",
+      "id": "01a0fbb1-f027-71d1-9e10-80fb75e31666"
+    },
+    {
+      "symbol": "MOGAS95",
+      "type": "Commodity",
+      "name": "Mogas 95 Unleaded Gasoline",
+      "id": "01a0fbb1-f027-7715-924a-22a81d53903b"
+    },
+    {
+      "symbol": "MOGAS97",
+      "type": "Commodity",
+      "name": "Mogas 97 Unleaded Gasoline",
+      "id": "01a0fbb1-f027-7212-9ab7-e6346ea4aa61"
+    },
+    {
+      "symbol": "NAPHTHA",
+      "type": "Commodity",
+      "name": "Naphtha",
+      "id": "01a0fbb1-f027-739f-9ed2-7e0ca3d243d2"
+    },
+    {
+      "symbol": "FUELOIL_1",
+      "type": "Commodity",
+      "name": "Fuel Oil 1% Sulphur",
+      "id": "01a0fbb1-f027-76fc-b161-cc84447879be"
+    },
+    {
+      "symbol": "FUELOIL_35",
+      "type": "Commodity",
+      "name": "Fuel Oil 3.5% Sulphur",
+      "id": "01a0fbb1-f027-7ea7-8c94-2a1f76b51f0d"
+    },
+    {
+      "symbol": "FUELOIL_180",
+      "type": "Commodity",
+      "name": "Fuel Oil 180 CST",
+      "id": "01a0fbb1-f027-7ee1-b325-49c1fb5e06a2"
+    },
+    {
+      "symbol": "VLSFO",
+      "type": "Commodity",
+      "name": "Marine Fuel 0.5% Sulphur",
+      "id": "01a0fbb1-f027-7490-9f77-7e9a091668fc"
+    },
+    {
+      "symbol": "PROPANE_MB_NTET",
+      "type": "Commodity",
+      "name": "Propane Mont Belvieu Non-TET",
+      "id": "01a0fbcb-f633-74a0-b745-df4e28ab8b4e"
+    },
+    {
+      "symbol": "PROPANE_CONWAY",
+      "type": "Commodity",
+      "name": "Propane Conway",
+      "id": "01a0fbcb-f633-7062-b16b-51dbe702c117"
+    },
+    {
+      "symbol": "PROPANE_FEI",
+      "type": "Commodity",
+      "name": "Propane Far East Index",
+      "id": "01a0fbcb-f633-70a9-a118-106514871087"
+    },
+    {
+      "symbol": "PROPANE_SAUDI_CP",
+      "type": "Commodity",
+      "name": "Propane Saudi Aramco CP",
+      "id": "01a0fbcb-f633-7cac-9b1f-4932662ef206"
+    },
+    {
+      "symbol": "PROPANE_ARA",
+      "type": "Commodity",
+      "name": "Propane CIF ARA",
+      "id": "01a0fbcb-f633-7fca-9bf4-9ce6ea7b44b7"
+    },
+    {
+      "symbol": "GASOIL",
+      "type": "Commodity",
+      "name": "ICE Low Sulphur Gasoil",
+      "id": "01a0fbcb-f633-7157-856f-7d98c9b20b92"
+    },
+    {
+      "symbol": "DIESEL_10PPM",
+      "type": "Commodity",
+      "name": "Diesel 10ppm (EN590)",
+      "id": "01a0fbcb-f633-76f1-b2fd-0d04e65dda8a"
+    },
+    {
+      "symbol": "GASOIL_10PPM",
+      "type": "Commodity",
+      "name": "Gasoil 10ppm (Singapore, Middle East)",
+      "id": "01a0fbcb-f633-762d-bc32-b52a4970f82c"
+    },
+    {
+      "symbol": "FUELOIL_380",
+      "type": "Commodity",
+      "name": "Fuel Oil 380 CST",
+      "id": "01a0fbcb-f633-7e44-a5e1-c6ad269bee72"
+    },
+    {
+      "symbol": "FUELOIL_3",
+      "type": "Commodity",
+      "name": "Fuel Oil 3% Sulphur (US Gulf Coast)",
+      "id": "01a0fbcb-f633-7fa1-b8db-ebad33f35628"
+    },
+    {
+      "symbol": "GASOLINE_10PPM",
+      "type": "Commodity",
+      "name": "Premium Unleaded Gasoline 10ppm",
+      "id": "01a0fbea-ad7b-77c9-8fd4-26865f09933b"
+    },
+    {
       "symbol": "BTC",
       "type": "Crypto",
       "name": "Bitcoin",
@@ -1235,10 +1848,316 @@
       "id": "01a0ec4b-0446-7b4f-9b58-5e7918d647b3"
     },
     {
+      "symbol": "ADA",
+      "type": "Crypto",
+      "name": "Cardano",
+      "id": "01a0fbb1-f027-716b-8734-25cde75d9940"
+    },
+    {
+      "symbol": "AVAX",
+      "type": "Crypto",
+      "name": "Avalanche",
+      "id": "01a0fbb1-f027-7206-b34a-2c4c59831880"
+    },
+    {
+      "symbol": "LINK",
+      "type": "Crypto",
+      "name": "Chainlink",
+      "id": "01a0fbb1-f027-7dc9-a039-15788ce2ea3b"
+    },
+    {
+      "symbol": "SUI",
+      "type": "Crypto",
+      "name": "Sui",
+      "id": "01a0fbb1-f027-772c-bd18-b3f80b027f90"
+    },
+    {
+      "symbol": "XLM",
+      "type": "Crypto",
+      "name": "Stellar",
+      "id": "01a0fbb1-f027-70be-ae12-f8721b39b8dd"
+    },
+    {
       "symbol": "SOL",
       "type": "Crypto",
       "name": "Solana",
       "id": "01a0ec4b-0446-7bb9-a267-5b4aec4fb8d8"
+    },
+    {
+      "symbol": "LNG_JKM",
+      "type": "Commodity",
+      "name": "LNG Japan/Korea Marker (Platts JKM)",
+      "id": "01a11079-38de-7012-aad8-d9171617b05c"
+    },
+    {
+      "symbol": "LNG_NWE",
+      "type": "Commodity",
+      "name": "LNG North West Europe Marker (Platts)",
+      "id": "01a11079-38e1-7734-854e-48828b8b4901"
+    },
+    {
+      "symbol": "LNG_USGC",
+      "type": "Commodity",
+      "name": "LNG Gulf Coast Export (FOB USGC)",
+      "id": "01a11079-38e4-7c4c-8c67-7390e892c248"
+    },
+    {
+      "symbol": "LNG_JLC",
+      "type": "Commodity",
+      "name": "Japan LNG Cocktail",
+      "id": "01a11079-38e6-74f1-9186-0f267c11bb09"
+    },
+    {
+      "symbol": "RIN_D3",
+      "type": "Commodity",
+      "name": "D3 Cellulosic Biofuel RIN",
+      "id": "01a11079-38e9-7ddc-bc29-d449f227cd17"
+    },
+    {
+      "symbol": "RIN_D4",
+      "type": "Commodity",
+      "name": "D4 Biomass-based Diesel RIN",
+      "id": "01a11079-38ec-7309-9c57-e6bd6d41a974"
+    },
+    {
+      "symbol": "RIN_D6",
+      "type": "Commodity",
+      "name": "D6 Renewable Fuel (Ethanol) RIN",
+      "id": "01a11079-38ee-716d-8c59-9caef902c350"
+    },
+    {
+      "symbol": "LCFS",
+      "type": "Commodity",
+      "name": "California Low Carbon Fuel Standard Credit",
+      "id": "01a11079-38f1-7913-b421-d6908f41da38"
+    },
+    {
+      "symbol": "EUA",
+      "type": "Commodity",
+      "name": "EU Emission Allowance (EU ETS)",
+      "id": "01a11079-38f4-76ef-a07b-f5d13183f8b8"
+    },
+    {
+      "symbol": "RGGI",
+      "type": "Commodity",
+      "name": "RGGI CO2 Allowance",
+      "id": "01a11079-38f6-760a-afc4-1f6823c4e30f"
+    },
+    {
+      "symbol": "CBL_GEO",
+      "type": "Commodity",
+      "name": "CBL Global Emissions Offset",
+      "id": "01a11079-38f9-7830-8bb0-bb7d010fc3b6"
+    },
+    {
+      "symbol": "CBL_NGEO",
+      "type": "Commodity",
+      "name": "CBL Nature-Based Global Emissions Offset",
+      "id": "01a11079-38fc-737a-9028-50e50eefe93b"
+    },
+    {
+      "symbol": "ACCU",
+      "type": "Commodity",
+      "name": "Australian Carbon Credit Unit",
+      "id": "01a11079-38ff-7e43-8ba9-3ecdf5129cab"
+    },
+    {
+      "symbol": "PJM_WEST_HUB",
+      "type": "Commodity",
+      "name": "Electricity PJM Western Hub",
+      "id": "01a11079-3902-7486-afc1-942f2cfcbb11"
+    },
+    {
+      "symbol": "PJM_NI_HUB",
+      "type": "Commodity",
+      "name": "Electricity PJM Northern Illinois Hub",
+      "id": "01a11079-3905-7f5c-825a-49fab795e084"
+    },
+    {
+      "symbol": "PJM_AD_HUB",
+      "type": "Commodity",
+      "name": "Electricity PJM AEP-Dayton Hub",
+      "id": "01a11079-3908-79f3-be1d-e6f3b2fd6184"
+    },
+    {
+      "symbol": "PJM_FE_OHIO",
+      "type": "Commodity",
+      "name": "Electricity PJM FirstEnergy Ohio",
+      "id": "01a11079-390b-72de-8be9-22c1dcae8f63"
+    },
+    {
+      "symbol": "PJM_ATSI",
+      "type": "Commodity",
+      "name": "Electricity PJM ATSI Zone",
+      "id": "01a11079-390d-7f76-b4bc-9b0cce787b16"
+    },
+    {
+      "symbol": "PJM_PEPCO",
+      "type": "Commodity",
+      "name": "Electricity PJM PEPCO Zone",
+      "id": "01a11079-390f-7adb-8b38-5f4ddefd8713"
+    },
+    {
+      "symbol": "PJM_AECO",
+      "type": "Commodity",
+      "name": "Electricity PJM AECO Zone",
+      "id": "01a11079-3912-7dd5-868c-961bab6c7716"
+    },
+    {
+      "symbol": "PJM_JCPL",
+      "type": "Commodity",
+      "name": "Electricity PJM JCPL Zone",
+      "id": "01a11079-3915-7846-82b1-643f4859c437"
+    },
+    {
+      "symbol": "PJM_PPL",
+      "type": "Commodity",
+      "name": "Electricity PJM PPL Zone",
+      "id": "01a11079-3918-7a83-9d49-9e0161395acd"
+    },
+    {
+      "symbol": "PJM_DOM",
+      "type": "Commodity",
+      "name": "Electricity PJM Dominion Zone",
+      "id": "01a11079-391b-78f2-9d34-a392f2b06998"
+    },
+    {
+      "symbol": "PJM_METED",
+      "type": "Commodity",
+      "name": "Electricity PJM METED Zone",
+      "id": "01a11079-391e-748e-be87-f3ab7cef1b49"
+    },
+    {
+      "symbol": "PJM_PENELEC",
+      "type": "Commodity",
+      "name": "Electricity PJM PENELEC Zone",
+      "id": "01a11079-3920-7930-9f82-80702d79c94c"
+    },
+    {
+      "symbol": "PJM_COMED",
+      "type": "Commodity",
+      "name": "Electricity PJM ComEd Zone",
+      "id": "01a11079-3923-74a3-a66d-8d01aaa7f07f"
+    },
+    {
+      "symbol": "PJM_PSEG",
+      "type": "Commodity",
+      "name": "Electricity PJM PSEG Zone",
+      "id": "01a11079-3926-7353-b7e0-e469b130d994"
+    },
+    {
+      "symbol": "PJM_BGE",
+      "type": "Commodity",
+      "name": "Electricity PJM BGE Zone",
+      "id": "01a11079-3929-72b2-bef7-2ef6dd342756"
+    },
+    {
+      "symbol": "PJM_DAY",
+      "type": "Commodity",
+      "name": "Electricity PJM Dayton Zone",
+      "id": "01a11079-392c-7ea1-b577-4192c5b8529d"
+    },
+    {
+      "symbol": "PJM_PENN_POWER",
+      "type": "Commodity",
+      "name": "Electricity PJM Penn Power Zone",
+      "id": "01a11079-392f-73f7-8ba0-fe8bcf74653a"
+    },
+    {
+      "symbol": "PJM_DEOK",
+      "type": "Commodity",
+      "name": "Electricity PJM DEOK Zone",
+      "id": "01a11079-3931-72a3-bb2e-4c74924d4d38"
+    },
+    {
+      "symbol": "PJM_AEP",
+      "type": "Commodity",
+      "name": "Electricity PJM AEP Zone",
+      "id": "01a11079-3933-7be2-96af-3e070d2e5bf7"
+    },
+    {
+      "symbol": "PJM_DUQ",
+      "type": "Commodity",
+      "name": "Electricity PJM Duquesne Zone",
+      "id": "01a11079-3936-7c00-b3e5-45b036509123"
+    },
+    {
+      "symbol": "PJM_DPL",
+      "type": "Commodity",
+      "name": "Electricity PJM DPL Zone",
+      "id": "01a11079-3939-7f12-a71c-fc6ad326f8ac"
+    },
+    {
+      "symbol": "ERCOT_HB_NORTH",
+      "type": "Commodity",
+      "name": "Electricity ERCOT North 345 kV Hub",
+      "id": "01a11079-393c-743f-a8c4-906d6c16ee28"
+    },
+    {
+      "symbol": "ERCOT_HB_SOUTH",
+      "type": "Commodity",
+      "name": "Electricity ERCOT South 345 kV Hub",
+      "id": "01a11079-393e-79bd-a209-b46a3cfcdc0e"
+    },
+    {
+      "symbol": "ERCOT_HB_WEST",
+      "type": "Commodity",
+      "name": "Electricity ERCOT West 345 kV Hub",
+      "id": "01a11079-3941-7256-bc85-63f898760e71"
+    },
+    {
+      "symbol": "ERCOT_HB_HOUSTON",
+      "type": "Commodity",
+      "name": "Electricity ERCOT Houston 345 kV Hub",
+      "id": "01a11079-3943-7ba2-a1ba-30ba4cbcc2c1"
+    },
+    {
+      "symbol": "ERCOT_LZ_NORTH",
+      "type": "Commodity",
+      "name": "Electricity ERCOT North Load Zone",
+      "id": "01a11079-3946-711b-a32c-6dcf5e6246ee"
+    },
+    {
+      "symbol": "ERCOT_LZ_SOUTH",
+      "type": "Commodity",
+      "name": "Electricity ERCOT South Load Zone",
+      "id": "01a11079-3949-784a-a160-e1f86c1043ef"
+    },
+    {
+      "symbol": "ERCOT_LZ_WEST",
+      "type": "Commodity",
+      "name": "Electricity ERCOT West Load Zone",
+      "id": "01a11079-394c-7971-81c2-db2a0735a133"
+    },
+    {
+      "symbol": "ERCOT_LZ_HOUSTON",
+      "type": "Commodity",
+      "name": "Electricity ERCOT Houston Load Zone",
+      "id": "01a11079-394f-78c3-b964-519cbb27f61e"
+    },
+    {
+      "symbol": "POWER_DE",
+      "type": "Commodity",
+      "name": "Electricity Germany",
+      "id": "01a11079-3952-731b-84c8-6ca6364b43af"
+    },
+    {
+      "symbol": "POWER_IT",
+      "type": "Commodity",
+      "name": "Electricity Italy (GME PUN)",
+      "id": "01a11079-3955-7f41-9bbd-2891e3bc0f10"
+    },
+    {
+      "symbol": "POWER_JP_TOKYO",
+      "type": "Commodity",
+      "name": "Electricity Japan Tokyo Area",
+      "id": "01a11079-3957-7386-8836-c22ffc0c9729"
+    },
+    {
+      "symbol": "POWER_JP_KANSAI",
+      "type": "Commodity",
+      "name": "Electricity Japan Kansai Area",
+      "id": "01a11079-395a-7b14-9b29-1643815ceeec"
     }
   ]
 }
