@@ -1910,6 +1910,51 @@
     },
     {
       "type": "Index",
+      "code": "WX_WIND_AU_VIC_2024_06",
+      "description": "Wind Power Australia VIC 2024-06 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Vaisala Xweather",
+      "id": "01a110e0-93a9-7a26-80f1-29dddec8b130"
+    },
+    {
+      "type": "Index",
+      "code": "WX_WIND_DE_2019",
+      "description": "Wind Power Germany ERA5 100m 2019 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Vaisala Xweather",
+      "id": "01a110e0-93ac-7618-860f-302822ab7733"
+    },
+    {
+      "type": "Index",
+      "code": "WX_WIND_DE_2022B",
+      "description": "Wind Power Germany ERA5 100m 2022 B Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Vaisala Xweather",
+      "id": "01a110e0-93af-72be-9bdb-565d1db567ef"
+    },
+    {
+      "type": "Index",
+      "code": "WX_WIND_UK_2022",
+      "description": "Wind Power UK ERA5 100m 2022 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Vaisala Xweather",
+      "id": "01a110e0-93b2-7203-8ed7-eccb1336da27"
+    },
+    {
+      "type": "Index",
+      "code": "WX_WIND_US_ERCOT_2022",
+      "description": "Wind Power U.S. Texas ERCOT ERA5 100m 2022 Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Vaisala Xweather",
+      "id": "01a110e0-93b5-7e8b-abdc-7513cad9ff29"
+    },
+    {
+      "type": "Index",
       "code": "XIN0I",
       "description": "FTSE China 50 Index",
       "venue": "XXXX",
@@ -2450,6 +2495,14 @@
     },
     {
       "type": "Synthetic",
+      "code": "JET_GC_VS_ULSD",
+      "description": "Gulf Coast Jet Fuel vs NY Harbor ULSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b9a-7849-a2c9-3ff5730ecc41"
+    },
+    {
+      "type": "Synthetic",
       "code": "JET_LA_VS_ULSD",
       "description": "Los Angeles Jet Fuel vs NY Harbor ULSD",
       "venue": "XXXX",
@@ -2653,11 +2706,27 @@
     },
     {
       "type": "Synthetic",
+      "code": "PROPANE_MB_NTET_VS_FEI",
+      "description": "Mont Belvieu Non-TET Propane vs Argus Propane Far East Index",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b94-79d3-b447-fb94db93df18"
+    },
+    {
+      "type": "Synthetic",
       "code": "PROPANE_MB_VS_ARA",
       "description": "Mont Belvieu TET Propane vs Propane CIF ARA",
       "venue": "XXXX",
       "quoteUnit": "Currency",
       "id": "01a0fbea-ad77-7c53-a13b-5ae4cd35f89a"
+    },
+    {
+      "type": "Synthetic",
+      "code": "PROPANE_MB_VS_FEI",
+      "description": "Mont Belvieu TET Propane vs Argus Propane Far East Index",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b91-704c-b844-12bacba989f8"
     },
     {
       "type": "Synthetic",
@@ -2837,6 +2906,14 @@
     },
     {
       "type": "Synthetic",
+      "code": "ULSD_VS_GASOIL",
+      "description": "NY Harbor ULSD vs ICE Low Sulphur Gasoil",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b9d-7d6c-b8e4-7ca4fca8aac2"
+    },
+    {
+      "type": "Synthetic",
       "code": "ULSD_WTI_CRACK",
       "description": "NY Harbor ULSD vs WTI Crack Spread",
       "venue": "XXXX",
@@ -2858,6 +2935,14 @@
       "venue": "XXXX",
       "quoteUnit": "Currency",
       "id": "01a0fbea-ad77-7443-aa5f-01fdc68c1619"
+    },
+    {
+      "type": "Synthetic",
+      "code": "VLSFO_USGC_VS_HSFO",
+      "description": "USGC Marine Fuel 0.5% Barges vs Gulf Coast HSFO",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "id": "01a11079-5b97-7643-85a0-230c7a62b085"
     },
     {
       "type": "Synthetic",

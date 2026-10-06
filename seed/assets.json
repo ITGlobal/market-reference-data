@@ -1882,6 +1882,282 @@
       "type": "Crypto",
       "name": "Solana",
       "id": "01a0ec4b-0446-7bb9-a267-5b4aec4fb8d8"
+    },
+    {
+      "symbol": "LNG_JKM",
+      "type": "Commodity",
+      "name": "LNG Japan/Korea Marker (Platts JKM)",
+      "id": "01a11079-38de-7012-aad8-d9171617b05c"
+    },
+    {
+      "symbol": "LNG_NWE",
+      "type": "Commodity",
+      "name": "LNG North West Europe Marker (Platts)",
+      "id": "01a11079-38e1-7734-854e-48828b8b4901"
+    },
+    {
+      "symbol": "LNG_USGC",
+      "type": "Commodity",
+      "name": "LNG Gulf Coast Export (FOB USGC)",
+      "id": "01a11079-38e4-7c4c-8c67-7390e892c248"
+    },
+    {
+      "symbol": "LNG_JLC",
+      "type": "Commodity",
+      "name": "Japan LNG Cocktail",
+      "id": "01a11079-38e6-74f1-9186-0f267c11bb09"
+    },
+    {
+      "symbol": "RIN_D3",
+      "type": "Commodity",
+      "name": "D3 Cellulosic Biofuel RIN",
+      "id": "01a11079-38e9-7ddc-bc29-d449f227cd17"
+    },
+    {
+      "symbol": "RIN_D4",
+      "type": "Commodity",
+      "name": "D4 Biomass-based Diesel RIN",
+      "id": "01a11079-38ec-7309-9c57-e6bd6d41a974"
+    },
+    {
+      "symbol": "RIN_D6",
+      "type": "Commodity",
+      "name": "D6 Renewable Fuel (Ethanol) RIN",
+      "id": "01a11079-38ee-716d-8c59-9caef902c350"
+    },
+    {
+      "symbol": "LCFS",
+      "type": "Commodity",
+      "name": "California Low Carbon Fuel Standard Credit",
+      "id": "01a11079-38f1-7913-b421-d6908f41da38"
+    },
+    {
+      "symbol": "EUA",
+      "type": "Commodity",
+      "name": "EU Emission Allowance (EU ETS)",
+      "id": "01a11079-38f4-76ef-a07b-f5d13183f8b8"
+    },
+    {
+      "symbol": "RGGI",
+      "type": "Commodity",
+      "name": "RGGI CO2 Allowance",
+      "id": "01a11079-38f6-760a-afc4-1f6823c4e30f"
+    },
+    {
+      "symbol": "CBL_GEO",
+      "type": "Commodity",
+      "name": "CBL Global Emissions Offset",
+      "id": "01a11079-38f9-7830-8bb0-bb7d010fc3b6"
+    },
+    {
+      "symbol": "CBL_NGEO",
+      "type": "Commodity",
+      "name": "CBL Nature-Based Global Emissions Offset",
+      "id": "01a11079-38fc-737a-9028-50e50eefe93b"
+    },
+    {
+      "symbol": "ACCU",
+      "type": "Commodity",
+      "name": "Australian Carbon Credit Unit",
+      "id": "01a11079-38ff-7e43-8ba9-3ecdf5129cab"
+    },
+    {
+      "symbol": "PJM_WEST_HUB",
+      "type": "Commodity",
+      "name": "Electricity PJM Western Hub",
+      "id": "01a11079-3902-7486-afc1-942f2cfcbb11"
+    },
+    {
+      "symbol": "PJM_NI_HUB",
+      "type": "Commodity",
+      "name": "Electricity PJM Northern Illinois Hub",
+      "id": "01a11079-3905-7f5c-825a-49fab795e084"
+    },
+    {
+      "symbol": "PJM_AD_HUB",
+      "type": "Commodity",
+      "name": "Electricity PJM AEP-Dayton Hub",
+      "id": "01a11079-3908-79f3-be1d-e6f3b2fd6184"
+    },
+    {
+      "symbol": "PJM_FE_OHIO",
+      "type": "Commodity",
+      "name": "Electricity PJM FirstEnergy Ohio",
+      "id": "01a11079-390b-72de-8be9-22c1dcae8f63"
+    },
+    {
+      "symbol": "PJM_ATSI",
+      "type": "Commodity",
+      "name": "Electricity PJM ATSI Zone",
+      "id": "01a11079-390d-7f76-b4bc-9b0cce787b16"
+    },
+    {
+      "symbol": "PJM_PEPCO",
+      "type": "Commodity",
+      "name": "Electricity PJM PEPCO Zone",
+      "id": "01a11079-390f-7adb-8b38-5f4ddefd8713"
+    },
+    {
+      "symbol": "PJM_AECO",
+      "type": "Commodity",
+      "name": "Electricity PJM AECO Zone",
+      "id": "01a11079-3912-7dd5-868c-961bab6c7716"
+    },
+    {
+      "symbol": "PJM_JCPL",
+      "type": "Commodity",
+      "name": "Electricity PJM JCPL Zone",
+      "id": "01a11079-3915-7846-82b1-643f4859c437"
+    },
+    {
+      "symbol": "PJM_PPL",
+      "type": "Commodity",
+      "name": "Electricity PJM PPL Zone",
+      "id": "01a11079-3918-7a83-9d49-9e0161395acd"
+    },
+    {
+      "symbol": "PJM_DOM",
+      "type": "Commodity",
+      "name": "Electricity PJM Dominion Zone",
+      "id": "01a11079-391b-78f2-9d34-a392f2b06998"
+    },
+    {
+      "symbol": "PJM_METED",
+      "type": "Commodity",
+      "name": "Electricity PJM METED Zone",
+      "id": "01a11079-391e-748e-be87-f3ab7cef1b49"
+    },
+    {
+      "symbol": "PJM_PENELEC",
+      "type": "Commodity",
+      "name": "Electricity PJM PENELEC Zone",
+      "id": "01a11079-3920-7930-9f82-80702d79c94c"
+    },
+    {
+      "symbol": "PJM_COMED",
+      "type": "Commodity",
+      "name": "Electricity PJM ComEd Zone",
+      "id": "01a11079-3923-74a3-a66d-8d01aaa7f07f"
+    },
+    {
+      "symbol": "PJM_PSEG",
+      "type": "Commodity",
+      "name": "Electricity PJM PSEG Zone",
+      "id": "01a11079-3926-7353-b7e0-e469b130d994"
+    },
+    {
+      "symbol": "PJM_BGE",
+      "type": "Commodity",
+      "name": "Electricity PJM BGE Zone",
+      "id": "01a11079-3929-72b2-bef7-2ef6dd342756"
+    },
+    {
+      "symbol": "PJM_DAY",
+      "type": "Commodity",
+      "name": "Electricity PJM Dayton Zone",
+      "id": "01a11079-392c-7ea1-b577-4192c5b8529d"
+    },
+    {
+      "symbol": "PJM_PENN_POWER",
+      "type": "Commodity",
+      "name": "Electricity PJM Penn Power Zone",
+      "id": "01a11079-392f-73f7-8ba0-fe8bcf74653a"
+    },
+    {
+      "symbol": "PJM_DEOK",
+      "type": "Commodity",
+      "name": "Electricity PJM DEOK Zone",
+      "id": "01a11079-3931-72a3-bb2e-4c74924d4d38"
+    },
+    {
+      "symbol": "PJM_AEP",
+      "type": "Commodity",
+      "name": "Electricity PJM AEP Zone",
+      "id": "01a11079-3933-7be2-96af-3e070d2e5bf7"
+    },
+    {
+      "symbol": "PJM_DUQ",
+      "type": "Commodity",
+      "name": "Electricity PJM Duquesne Zone",
+      "id": "01a11079-3936-7c00-b3e5-45b036509123"
+    },
+    {
+      "symbol": "PJM_DPL",
+      "type": "Commodity",
+      "name": "Electricity PJM DPL Zone",
+      "id": "01a11079-3939-7f12-a71c-fc6ad326f8ac"
+    },
+    {
+      "symbol": "ERCOT_HB_NORTH",
+      "type": "Commodity",
+      "name": "Electricity ERCOT North 345 kV Hub",
+      "id": "01a11079-393c-743f-a8c4-906d6c16ee28"
+    },
+    {
+      "symbol": "ERCOT_HB_SOUTH",
+      "type": "Commodity",
+      "name": "Electricity ERCOT South 345 kV Hub",
+      "id": "01a11079-393e-79bd-a209-b46a3cfcdc0e"
+    },
+    {
+      "symbol": "ERCOT_HB_WEST",
+      "type": "Commodity",
+      "name": "Electricity ERCOT West 345 kV Hub",
+      "id": "01a11079-3941-7256-bc85-63f898760e71"
+    },
+    {
+      "symbol": "ERCOT_HB_HOUSTON",
+      "type": "Commodity",
+      "name": "Electricity ERCOT Houston 345 kV Hub",
+      "id": "01a11079-3943-7ba2-a1ba-30ba4cbcc2c1"
+    },
+    {
+      "symbol": "ERCOT_LZ_NORTH",
+      "type": "Commodity",
+      "name": "Electricity ERCOT North Load Zone",
+      "id": "01a11079-3946-711b-a32c-6dcf5e6246ee"
+    },
+    {
+      "symbol": "ERCOT_LZ_SOUTH",
+      "type": "Commodity",
+      "name": "Electricity ERCOT South Load Zone",
+      "id": "01a11079-3949-784a-a160-e1f86c1043ef"
+    },
+    {
+      "symbol": "ERCOT_LZ_WEST",
+      "type": "Commodity",
+      "name": "Electricity ERCOT West Load Zone",
+      "id": "01a11079-394c-7971-81c2-db2a0735a133"
+    },
+    {
+      "symbol": "ERCOT_LZ_HOUSTON",
+      "type": "Commodity",
+      "name": "Electricity ERCOT Houston Load Zone",
+      "id": "01a11079-394f-78c3-b964-519cbb27f61e"
+    },
+    {
+      "symbol": "POWER_DE",
+      "type": "Commodity",
+      "name": "Electricity Germany",
+      "id": "01a11079-3952-731b-84c8-6ca6364b43af"
+    },
+    {
+      "symbol": "POWER_IT",
+      "type": "Commodity",
+      "name": "Electricity Italy (GME PUN)",
+      "id": "01a11079-3955-7f41-9bbd-2891e3bc0f10"
+    },
+    {
+      "symbol": "POWER_JP_TOKYO",
+      "type": "Commodity",
+      "name": "Electricity Japan Tokyo Area",
+      "id": "01a11079-3957-7386-8836-c22ffc0c9729"
+    },
+    {
+      "symbol": "POWER_JP_KANSAI",
+      "type": "Commodity",
+      "name": "Electricity Japan Kansai Area",
+      "id": "01a11079-395a-7b14-9b29-1643815ceeec"
     }
   ]
 }

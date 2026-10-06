@@ -72526,6 +72526,158 @@
       "isin": "RU0009091300",
       "kind": "Equity",
       "name": "ЗВЕЗДА ПАО ао"
+    },
+    {
+      "id": "01a10c88-ca04-7f53-a282-ce60d380c39a",
+      "key": "RU000A10BZ51",
+      "isin": "RU000A10BZ51",
+      "kind": "Debt",
+      "name": "СФО Румберг СП-1-46-ЦБ-FX-RUB",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Zero",
+        "couponFrequency": "Zero",
+        "maturityDate": "2029-12-13"
+      }
+    },
+    {
+      "id": "01a10c88-ca05-7ac2-ab32-a8454b2e1777",
+      "key": "RU000A10FJ32",
+      "isin": "RU000A10FJ32",
+      "kind": "Debt",
+      "name": "СФО ГАРДА ГС-0030(структурные)",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Zero",
+        "couponFrequency": "Zero",
+        "maturityDate": "2029-03-30"
+      }
+    },
+    {
+      "id": "01a10c88-ca04-7db1-a49a-dcec0b3c9326",
+      "key": "RU000A10FS98",
+      "isin": "RU000A10FS98",
+      "kind": "Debt",
+      "name": "ВЭБ.РФ ПБО-002Р-К757",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Fixed",
+        "couponRate": 13.9000000000,
+        "couponFrequency": "Monthly",
+        "dayCount": "ActAct",
+        "maturityDate": "2026-10-30"
+      }
+    },
+    {
+      "id": "01a10c88-ca04-75f1-8ce9-4b2c4942f5e5",
+      "key": "RU000A10G130",
+      "isin": "RU000A10G130",
+      "kind": "Debt",
+      "name": "Россети ПАО БО 001P-22R",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Floating",
+        "couponRate": 15.3057,
+        "couponFrequency": "Monthly",
+        "dayCount": "ActAct",
+        "maturityDate": "2029-08-24",
+        "floatBenchmark": {
+          "code": "RREFKEYR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "id": "01a10c88-ca04-78d9-9cc0-c33b2e62a973",
+      "key": "RU000A10G148",
+      "isin": "RU000A10G148",
+      "kind": "Debt",
+      "name": "Россети ПАО БО 001P-21R",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Floating",
+        "couponRate": 15.3057,
+        "couponFrequency": "Monthly",
+        "dayCount": "ActAct",
+        "maturityDate": "2029-08-24",
+        "floatBenchmark": {
+          "code": "RREFKEYR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "id": "01a10c88-ca04-71b2-b7a7-005500141c15",
+      "key": "RU000A10G1A5",
+      "isin": "RU000A10G1A5",
+      "kind": "Debt",
+      "name": "МегаФон ПАО БО-002Р-15",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Floating",
+        "couponRate": 15.1962,
+        "couponFrequency": "Monthly",
+        "dayCount": "ActAct",
+        "maturityDate": "2029-04-27",
+        "floatBenchmark": {
+          "code": "RREFKEYR",
+          "venue": "MISX"
+        }
+      }
+    },
+    {
+      "id": "01a10c88-ca04-7918-921b-708ad60ee986",
+      "key": "RU000A10G924",
+      "isin": "RU000A10G924",
+      "kind": "Debt",
+      "name": "Группа ЛСР ПАО БО 002Р-02",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Fixed",
+        "couponRate": 18.0000000000,
+        "couponFrequency": "Monthly",
+        "dayCount": "ActAct",
+        "maturityDate": "2029-09-16"
+      }
+    },
+    {
+      "id": "01a10c88-ca04-71d0-997f-90cd1f14b01a",
+      "key": "RU000A10G940",
+      "isin": "RU000A10G940",
+      "kind": "Debt",
+      "name": "НоваБев Групп 004Р-01",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Fixed",
+        "couponRate": 16.2500000000,
+        "couponFrequency": "Monthly",
+        "dayCount": "ActAct",
+        "maturityDate": "2029-09-16"
+      }
+    },
+    {
+      "id": "01a10c88-ca04-79a9-b7f0-06448039f65f",
+      "key": "RU000A10G9C4",
+      "isin": "RU000A10G9C4",
+      "kind": "Debt",
+      "name": "iКаршеринг Руссия 001P-10",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Fixed",
+        "couponRate": 23.5000000000,
+        "couponFrequency": "Monthly",
+        "dayCount": "ActAct",
+        "maturityDate": "2028-03-28"
+      }
     }
   ]
 }
