@@ -185,7 +185,6 @@ function checkReferences() {
     const where = `product ${p.code}`;
     const u = p.underlying;
     need(venues, p.venue, file, where, "venue");
-    if (p.board) need(boards, `${p.venue}/${p.board}`, file, where, "board");
     need(assets, p.quoteAsset, file, where, "asset");
     if (u.asset) need(assets, u.asset, file, where, "asset");
     if (u.security) need(securities, u.security, file, where, "security");
