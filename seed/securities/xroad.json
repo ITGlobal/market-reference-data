@@ -2741,7 +2741,7 @@
         "maturityDate": "2028-03-24",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 50
       }
@@ -6177,7 +6177,7 @@
         "maturityDate": "2030-08-06",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 275
       }
@@ -16891,7 +16891,7 @@
         "maturityDate": "2026-09-01",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 0
       }
@@ -17888,7 +17888,7 @@
         "maturityDate": "2026-09-02",
         "floatBenchmark": {
           "code": "RUONIA",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 380
       }
@@ -18517,7 +18517,7 @@
         "maturityDate": "2034-02-28",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 110
       }
@@ -20248,7 +20248,7 @@
         "maturityDate": "2026-07-28",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 105
       }
@@ -20349,7 +20349,7 @@
         "maturityDate": "2034-06-22",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 200
       }
@@ -20402,7 +20402,7 @@
         "maturityDate": "2026-08-06",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 425
       }
@@ -20941,7 +20941,7 @@
         "maturityDate": "2026-09-08",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 110
       }
@@ -21010,7 +21010,7 @@
         "maturityDate": "2026-09-10",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 275
       }
@@ -21047,7 +21047,7 @@
         "maturityDate": "2026-09-25",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 130
       }
@@ -21100,7 +21100,7 @@
         "maturityDate": "2029-10-04",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 600
       }
@@ -22775,7 +22775,7 @@
         "maturityDate": "2026-12-15",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 450
       }
@@ -23564,7 +23564,7 @@
         "maturityDate": "2026-08-27",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 200
       }
@@ -23713,7 +23713,7 @@
         "maturityDate": "2026-09-09",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 375
       }
@@ -23750,7 +23750,7 @@
         "maturityDate": "2026-09-10",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 220
       }
@@ -24633,7 +24633,7 @@
         "maturityDate": "2026-08-20",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 143
       }
@@ -24654,7 +24654,7 @@
         "maturityDate": "2026-08-21",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": 143
       }
@@ -25575,7 +25575,7 @@
         "maturityDate": "2026-09-20",
         "floatBenchmark": {
           "code": "RREFKEYR",
-          "venue": "MISX"
+          "venue": "XXXX"
         },
         "floatSpreadBps": -35
       }

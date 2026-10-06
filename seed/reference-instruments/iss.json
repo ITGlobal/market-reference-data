@@ -6,7 +6,7 @@
       "type": "Index",
       "code": "AKCBI",
       "description": "Индикатор «Альфа-Капитал. Облигации»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -15,7 +15,7 @@
       "type": "Index",
       "code": "AKEUBI",
       "description": "Индекс «Альфа- Капитал Управляемые еврооблигации»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -24,7 +24,7 @@
       "type": "Index",
       "code": "AKREI",
       "description": "Индекс Альфа Капитал Российские Акции",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -33,7 +33,7 @@
       "type": "Index",
       "code": "AKREPI",
       "description": "Индекс Альфа Капитал Российские Акции Ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -42,7 +42,7 @@
       "type": "Index",
       "code": "AKSFPI",
       "description": "Альфа Капитал Стратегия Будущего",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -51,7 +51,7 @@
       "type": "Index",
       "code": "AKSPRU",
       "description": "Индекс Альфа Капитал Космос Ценовой Рублевый",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -60,7 +60,7 @@
       "type": "Index",
       "code": "AKSPSP",
       "description": "Индекс Альфа Капитал Космос Ценовой Доллары",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -69,7 +69,7 @@
       "type": "Index",
       "code": "AKVGRU",
       "description": "Индекс Альфа Капитал Видеоигры Рублевый",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -78,7 +78,7 @@
       "type": "Index",
       "code": "AKVGSP",
       "description": "Альфа-Капитал Видеоигры",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -87,7 +87,7 @@
       "type": "Index",
       "code": "ARHYB",
       "description": "Атон – Российские высокодоходные облигации",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -96,7 +96,7 @@
       "type": "Index",
       "code": "BEMRAIF",
       "description": "«Райффайзен - Еврооблигации EM»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -105,7 +105,7 @@
       "type": "Index",
       "code": "BPSI",
       "description": "Субиндекс облигаций активов пенсионных накоплений",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -114,7 +114,7 @@
       "type": "Index",
       "code": "BPSIFL",
       "description": "Субиндекс корпоративных облигаций с переменным купоном индекса пенсионных накоплений",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -123,7 +123,7 @@
       "type": "Index",
       "code": "BPSIFLG",
       "description": "Субиндекс ОФЗ-ПК индекса пенсионных накоплений",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -132,7 +132,7 @@
       "type": "Index",
       "code": "BPSIG",
       "description": "Субиндекс облигаций ОФЗ активов пенсионных накоплений",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -141,7 +141,7 @@
       "type": "Index",
       "code": "BRFOB",
       "description": "Внебиржевой индекс ячменя FOB регион Черного моря и Каспия",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -150,8 +150,7 @@
       "type": "ReferenceRate",
       "code": "CNYBUYSPB",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Санкт-Петербург",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -161,8 +160,7 @@
       "type": "ReferenceRate",
       "code": "CNYBUYNN",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Нижний Новгород",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -172,8 +170,7 @@
       "type": "ReferenceRate",
       "code": "CNYBUYMSC",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Москва",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -183,8 +180,7 @@
       "type": "ReferenceRate",
       "code": "CNYBUYKZN",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Казань",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -194,19 +190,7 @@
       "type": "ReferenceRate",
       "code": "CNYBUYEKB",
       "description": "Индикатор Финуслуг покупки наличного китайского юаня, Екатеринбург",
-      "venue": "MISX",
-      "board": "ICUR",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-7547-88a0-8db8a6fc86dc",
-      "type": "ReferenceRate",
-      "code": "CNYRUB_WAP0",
-      "description": "CNYRUB_WAP0 - CNY/РУБ",
-      "venue": "MISX",
-      "board": "WAPN",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -216,32 +200,18 @@
       "type": "ReferenceRate",
       "code": "CNYRUB_WAP0",
       "description": "CNYRUB_WAP0 - CNY/РУБ",
-      "venue": "MISX",
-      "board": "WAPS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-725e-9fc7-5124c3656c0e",
-      "type": "ReferenceRate",
-      "code": "CNYRUB_FIX0",
-      "description": "CNYRUB_FIX0 - CNY/РУБ",
-      "venue": "MISX",
-      "board": "FIXN",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {
       "id": "01a0f24e-734d-7c18-8aa2-02f3756a779e",
-      "type": "ReferenceRate",
+      "type": "Index",
       "code": "CNYRUB_FIX0",
       "description": "CNYRUB_FIX0 - CNY/РУБ",
-      "venue": "MISX",
-      "board": "FIXS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
     {
@@ -249,8 +219,7 @@
       "type": "ReferenceRate",
       "code": "CNYSELLSPB",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Санкт-Петербург",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -260,8 +229,7 @@
       "type": "ReferenceRate",
       "code": "CNYSELLNN",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Нижний Новгород",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -271,8 +239,7 @@
       "type": "ReferenceRate",
       "code": "CNYSELLMSC",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Москва",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -282,8 +249,7 @@
       "type": "ReferenceRate",
       "code": "CNYSELLKZN",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Казань",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -293,8 +259,7 @@
       "type": "ReferenceRate",
       "code": "CNYSELLEKB",
       "description": "Индикатор Финуслуг продажи наличного китайского юаня, Екатеринбург",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -304,7 +269,7 @@
       "type": "Index",
       "code": "CREI",
       "description": "Индекс МосБиржи складской недвижимости",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -313,7 +278,7 @@
       "type": "Index",
       "code": "CREITR",
       "description": "Индекс МосБиржи складской недвижимости полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -322,7 +287,7 @@
       "type": "Index",
       "code": "CRFOB",
       "description": "Внебиржевой индекс кукурузы FOB регион Черного моря и Каспия",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -331,7 +296,7 @@
       "type": "Index",
       "code": "DOMMBSCP",
       "description": "Индекс МосБиржи ипотечных облигаций ДОМ.РФ Ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -340,7 +305,7 @@
       "type": "Index",
       "code": "DOMMBSTR",
       "description": "Индекс МосБиржи ипотечных облигаций ДОМ.РФ Совокупный Доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -349,7 +314,7 @@
       "type": "Index",
       "code": "EPSI",
       "description": "Субиндекс акций активов пенсионных накоплений",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -358,7 +323,7 @@
       "type": "Index",
       "code": "EPSITR",
       "description": "Субиндекс акций полной дох-ти",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -367,7 +332,7 @@
       "type": "Index",
       "code": "EPSITRR",
       "description": "Индекс МосБиржи пенсионных накоплений - акции (полной доходности с учетом налогообложения)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -376,7 +341,7 @@
       "type": "Index",
       "code": "ESGI",
       "description": "Индекс МосБиржи Рейтинги Устойчивого Развития",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -385,7 +350,7 @@
       "type": "Index",
       "code": "ESGITR",
       "description": "Индекс МосБиржи Рейтинги Устойчивого Развития полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -394,8 +359,7 @@
       "type": "ReferenceRate",
       "code": "EURBUYSPB",
       "description": "Индикатор Финуслуг покупки наличного евро, Санкт-Петербург",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -405,8 +369,7 @@
       "type": "ReferenceRate",
       "code": "EURBUYNN",
       "description": "Индикатор Финуслуг покупки наличного евро, Нижний Новгород",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -416,8 +379,7 @@
       "type": "ReferenceRate",
       "code": "EURBUYMSC",
       "description": "Индикатор Финуслуг покупки наличного евро, Москва",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -427,8 +389,7 @@
       "type": "ReferenceRate",
       "code": "EURBUYKZN",
       "description": "Индикатор Финуслуг покупки наличного евро, Казань",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -438,32 +399,18 @@
       "type": "ReferenceRate",
       "code": "EURBUYEKB",
       "description": "Индикатор Финуслуг покупки наличного евро, Екатеринбург",
-      "venue": "MISX",
-      "board": "ICUR",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-74e7-85e5-ba4c3fafde4f",
-      "type": "ReferenceRate",
-      "code": "EURRUB_FIX0",
-      "description": "EURRUB_FIX0 - EUR/РУБ",
-      "venue": "MISX",
-      "board": "FIXN",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {
       "id": "01a0f24e-734d-7ded-9be9-7da7d4ffd9c3",
-      "type": "ReferenceRate",
+      "type": "Index",
       "code": "EURRUB_FIX0",
       "description": "EURRUB_FIX0 - EUR/РУБ",
-      "venue": "MISX",
-      "board": "FIXS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
     {
@@ -471,8 +418,7 @@
       "type": "ReferenceRate",
       "code": "EURSELLSPB",
       "description": "Индикатор Финуслуг продажи наличного евро, Санкт-Петербург",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -482,8 +428,7 @@
       "type": "ReferenceRate",
       "code": "EURSELLNN",
       "description": "Индикатор Финуслуг продажи наличного евро, Нижний Новгород",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -493,8 +438,7 @@
       "type": "ReferenceRate",
       "code": "EURSELLMSC",
       "description": "Индикатор Финуслуг продажи наличного евро, Москва",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -504,8 +448,7 @@
       "type": "ReferenceRate",
       "code": "EURSELLKZN",
       "description": "Индикатор Финуслуг продажи наличного евро, Казань",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -515,8 +458,7 @@
       "type": "ReferenceRate",
       "code": "EURSELLEKB",
       "description": "Индикатор Финуслуг продажи наличного евро, Екатеринбург",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -526,7 +468,7 @@
       "type": "Index",
       "code": "FDIVAR",
       "description": "Финам. Индекс дивидендных аристократов РФ",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -535,7 +477,7 @@
       "type": "Index",
       "code": "FDIVARTR",
       "description": "Финам. Индекс дивидендных аристократов РФ (полной доходности)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -544,7 +486,7 @@
       "type": "Index",
       "code": "FINCRAVG",
       "description": "Индекс Финуслуг средней стоимости кредитов наличными (ПСК)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -553,7 +495,7 @@
       "type": "Index",
       "code": "FINCRMAX",
       "description": "Индекс Финуслуг максимальной стоимости кредитов наличными (ПСК)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -562,7 +504,7 @@
       "type": "Index",
       "code": "FINCRMIN",
       "description": "Индекс Финуслуг минимальной стоимости кредитов наличными (ПСК)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -571,7 +513,7 @@
       "type": "Index",
       "code": "FIND12M10",
       "description": "Индекс Финуслуг средних ставок по вкладам на 12мес в топ-10 КО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -580,7 +522,7 @@
       "type": "Index",
       "code": "FIND12M20",
       "description": "Индекс Финуслуг средних ставок по вкладам на 12мес в топ-20 КО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -589,7 +531,7 @@
       "type": "Index",
       "code": "FIND12M50",
       "description": "Индекс Финуслуг средних ставок по вкладам на 12мес в топ-50 КО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -598,7 +540,7 @@
       "type": "Index",
       "code": "FIND3M10",
       "description": "Индекс Финуслуг средних ставок по вкладам на 3мес в топ-10 КО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -607,7 +549,7 @@
       "type": "Index",
       "code": "FIND3M20",
       "description": "Индекс Финуслуг средних ставок по вкладам на 3мес в топ-20 КО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -616,7 +558,7 @@
       "type": "Index",
       "code": "FIND3M50",
       "description": "Индекс Финуслуг средних ставок по вкладам на 3мес в топ-50 КО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -625,7 +567,7 @@
       "type": "Index",
       "code": "FIND6M10",
       "description": "Индекс Финуслуг средних ставок по вкладам на 6мес в топ-10 КО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -634,7 +576,7 @@
       "type": "Index",
       "code": "FIND6M20",
       "description": "Индекс Финуслуг средних ставок по вкладам на 6мес в топ-20 КО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -643,7 +585,7 @@
       "type": "Index",
       "code": "FIND6M50",
       "description": "Индекс Финуслуг средних ставок по вкладам на 6мес в топ-50 КО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -652,7 +594,7 @@
       "type": "Index",
       "code": "FINSABASE",
       "description": "Индекс Финуслуг накопительных счетов, средние ставки",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -661,7 +603,7 @@
       "type": "Index",
       "code": "FINSAMAX",
       "description": "Индекс Финуслуг накопительных счетов, макс ставки",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -670,8 +612,7 @@
       "type": "Index",
       "code": "FIXAFKS",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО АФК Система",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -680,8 +621,7 @@
       "type": "Index",
       "code": "FIXAFLT",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Аэрофлот",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -690,8 +630,7 @@
       "type": "Index",
       "code": "FIXAGRO",
       "description": "Фиксинг МосБиржи ДР РОС АГРО ПЛС",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -700,8 +639,7 @@
       "type": "Index",
       "code": "FIXALRS",
       "description": "Фиксинг МосБиржи обыкновенных акций АК АЛРОСА (ПАО)",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -710,8 +648,7 @@
       "type": "Index",
       "code": "FIXAMD",
       "description": "Фиксинг МосБиржи AMD",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -720,8 +657,7 @@
       "type": "Index",
       "code": "FIXAMZN",
       "description": "Фиксинг МосБиржи AMZN",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -730,8 +666,7 @@
       "type": "Index",
       "code": "FIXAPP",
       "description": "Фиксинг МосБиржи APP",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -740,8 +675,7 @@
       "type": "Index",
       "code": "FIXASTR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Астра",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -750,8 +684,7 @@
       "type": "Index",
       "code": "FIXBSPB",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Банк \"Санкт-Петербург\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -760,8 +693,7 @@
       "type": "Index",
       "code": "FIXBSX",
       "description": "Фиксинг МосБиржи BSX",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -770,8 +702,7 @@
       "type": "Index",
       "code": "FIXCBOM",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО МОСКОВСКИЙ КРЕДИТНЫЙ БАНК",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -780,8 +711,7 @@
       "type": "Index",
       "code": "FIXCHMF",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Северсталь",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -790,8 +720,7 @@
       "type": "Index",
       "code": "FIXCMG",
       "description": "Фиксинг МосБиржи CMG",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -800,8 +729,7 @@
       "type": "Index",
       "code": "FIXCNRU",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Циан\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -810,8 +738,7 @@
       "type": "Index",
       "code": "FIXCOHR",
       "description": "Фиксинг МосБиржи COHR",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -820,8 +747,7 @@
       "type": "Index",
       "code": "FIXCOIN",
       "description": "Фиксинг МосБиржи COIN",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -830,8 +756,7 @@
       "type": "Index",
       "code": "FIXCRWD",
       "description": "Фиксинг МосБиржи CRWD",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -840,8 +765,7 @@
       "type": "Index",
       "code": "FIXCVNA",
       "description": "Фиксинг МосБиржи CVNA",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -850,8 +774,7 @@
       "type": "Index",
       "code": "FIXDASH",
       "description": "Фиксинг МосБиржи DASH",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -860,8 +783,7 @@
       "type": "Index",
       "code": "FIXDOMRF",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ДОМ.РФ",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -870,8 +792,7 @@
       "type": "Index",
       "code": "FIXENPG",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ЭН+ ГРУП",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -880,8 +801,7 @@
       "type": "Index",
       "code": "FIXFEES",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ФСК - Россети",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -890,8 +810,7 @@
       "type": "Index",
       "code": "FIXFIVE",
       "description": "Фиксинг МосБиржи ДР Икс 5 Ритейл Груп Н.В.",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -900,8 +819,7 @@
       "type": "Index",
       "code": "FIXFIXP",
       "description": "Фиксинг МосБиржи ДР Фикс Прайс Груп Лтд",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -910,8 +828,7 @@
       "type": "Index",
       "code": "FIXFLOT",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Совкомфлот",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -920,8 +837,7 @@
       "type": "Index",
       "code": "FIXGAZP",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Газпром",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -930,8 +846,7 @@
       "type": "Index",
       "code": "FIXGLTR",
       "description": "Фиксинг МосБиржи ДР Глобалтранс Инвестмент ПЛС",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -940,8 +855,7 @@
       "type": "Index",
       "code": "FIXGMKN",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ГМК Норильский никель",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -950,8 +864,7 @@
       "type": "Index",
       "code": "FIXHEAD",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО Хэдхантер",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -960,8 +873,7 @@
       "type": "Index",
       "code": "FIXHOOD",
       "description": "Фиксинг МосБиржи HOOD",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -970,8 +882,7 @@
       "type": "Index",
       "code": "FIXHYDR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО РусГидро",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -980,8 +891,7 @@
       "type": "Index",
       "code": "FIXIRAO",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Интер РАО",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -990,8 +900,7 @@
       "type": "Index",
       "code": "FIXLEAS",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"ЛК \"Европлан\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1000,8 +909,7 @@
       "type": "Index",
       "code": "FIXLENT",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Лента\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1010,8 +918,7 @@
       "type": "Index",
       "code": "FIXLITE",
       "description": "Фиксинг МосБиржи LITE",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1020,8 +927,7 @@
       "type": "Index",
       "code": "FIXLKOH",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ЛУКОЙЛ",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1030,8 +936,7 @@
       "type": "Index",
       "code": "FIXLULU",
       "description": "Фиксинг МосБиржи LULU",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1040,8 +945,7 @@
       "type": "Index",
       "code": "FIXMAGN",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ММК",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1050,8 +954,7 @@
       "type": "Index",
       "code": "FIXMDMG",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"МД Медикал Груп\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1060,8 +963,7 @@
       "type": "Index",
       "code": "FIXMGNT",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Магнит",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1070,8 +972,7 @@
       "type": "Index",
       "code": "FIXMOEX",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Московская Биржа",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1080,8 +981,7 @@
       "type": "Index",
       "code": "FIXMSNG",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Мосэнерго",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1090,8 +990,7 @@
       "type": "Index",
       "code": "FIXMTLR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Мечел",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1100,8 +999,7 @@
       "type": "Index",
       "code": "FIXMTLRP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Мечел",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1110,8 +1008,7 @@
       "type": "Index",
       "code": "FIXMTSS",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО МТС",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1120,8 +1017,7 @@
       "type": "Index",
       "code": "FIXNBIS",
       "description": "Фиксинг МосБиржи NBIS",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1130,8 +1026,7 @@
       "type": "Index",
       "code": "FIXNFLX",
       "description": "Фиксинг МосБиржи NFLX",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1140,8 +1035,7 @@
       "type": "Index",
       "code": "FIXNLMK",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО НЛМК",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1150,8 +1044,7 @@
       "type": "Index",
       "code": "FIXNVTK",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО НОВАТЭК",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1160,8 +1053,7 @@
       "type": "Index",
       "code": "FIXOZON",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Озон\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1170,8 +1062,7 @@
       "type": "Index",
       "code": "FIXPANW",
       "description": "Фиксинг МосБиржи PANW",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1180,8 +1071,7 @@
       "type": "Index",
       "code": "FIXPHOR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ФосАгро",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1190,8 +1080,7 @@
       "type": "Index",
       "code": "FIXPIKK",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Компаний ПИК",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1200,8 +1089,7 @@
       "type": "Index",
       "code": "FIXPLZL",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Полюс",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1210,8 +1098,7 @@
       "type": "Index",
       "code": "FIXPOLY",
       "description": "Фиксинг МосБиржи обыкновенных акций Полиметалл Интернэшнл плс",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1220,8 +1107,7 @@
       "type": "Index",
       "code": "FIXPOSI",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Позитив",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1230,8 +1116,7 @@
       "type": "Index",
       "code": "FIXQIWI",
       "description": "Фиксинг МосБиржи ДР QIWI PLC",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1240,8 +1125,7 @@
       "type": "Index",
       "code": "FIXQQQ",
       "description": "Фиксинг МосБиржи QQQ ETF",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1250,8 +1134,7 @@
       "type": "Index",
       "code": "FIXRAGR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"Группа \"Русагро\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1260,8 +1143,7 @@
       "type": "Index",
       "code": "FIXRENI",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"Группа Ренессанс Страхование\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1270,8 +1152,7 @@
       "type": "Index",
       "code": "FIXROSN",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО НК Роснефть",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1280,8 +1161,7 @@
       "type": "Index",
       "code": "FIXRTKM",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Ростелеком",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1290,8 +1170,7 @@
       "type": "Index",
       "code": "FIXRUAL",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО Объединенная компания РУСАЛ",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1300,8 +1179,7 @@
       "type": "Index",
       "code": "FIXSBER",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Сбербанк",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1310,8 +1188,7 @@
       "type": "Index",
       "code": "FIXSBERP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Сбербанк",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1320,8 +1197,7 @@
       "type": "Index",
       "code": "FIXSELG",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Селигдар",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1330,8 +1206,7 @@
       "type": "Index",
       "code": "FIXSGZH",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ГК Сегежа",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1340,8 +1215,7 @@
       "type": "Index",
       "code": "FIXSMCI",
       "description": "Фиксинг МосБиржи SMCI",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1350,8 +1224,7 @@
       "type": "Index",
       "code": "FIXSMLT",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ГК Самолет",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1360,8 +1233,7 @@
       "type": "Index",
       "code": "FIXSNDK",
       "description": "Фиксинг МосБиржи SNDK",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1370,8 +1242,7 @@
       "type": "Index",
       "code": "FIXSNGS",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Сургутнефтегаз",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1380,8 +1251,7 @@
       "type": "Index",
       "code": "FIXSNGSP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Сургутнефтегаз",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1390,8 +1260,7 @@
       "type": "Index",
       "code": "FIXSPCX",
       "description": "Фиксинг МосБиржи SPCX",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1400,8 +1269,7 @@
       "type": "Index",
       "code": "FIXSPY",
       "description": "Фиксинг МосБиржи SPY ETF",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1410,8 +1278,7 @@
       "type": "Index",
       "code": "FIXSVCB",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Совкомбанк",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1420,8 +1287,7 @@
       "type": "Index",
       "code": "FIXT",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО \"Т-Технологии\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1430,8 +1296,7 @@
       "type": "Index",
       "code": "FIXTATN",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Татнефть им. В.Д. Шашина",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1440,8 +1305,7 @@
       "type": "Index",
       "code": "FIXTATNP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Татнефть им. В.Д. Шашина",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1450,8 +1314,7 @@
       "type": "Index",
       "code": "FIXTCSG",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ТКС Холдинг",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1460,8 +1323,7 @@
       "type": "Index",
       "code": "FIXTRNFP",
       "description": "Фиксинг МосБиржи привилегированных акций ПАО Транснефть",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1470,8 +1332,7 @@
       "type": "Index",
       "code": "FIXTSLA",
       "description": "Фиксинг МосБиржи TSLA",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1480,8 +1341,7 @@
       "type": "Index",
       "code": "FIXUBER",
       "description": "Фиксинг МосБиржи UBER",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1490,8 +1350,7 @@
       "type": "Index",
       "code": "FIXUGLD",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ЮГК",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1500,8 +1359,7 @@
       "type": "Index",
       "code": "FIXUPRO",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Юнипро",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1510,8 +1368,7 @@
       "type": "Index",
       "code": "FIXVKCO",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ВК",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1520,8 +1377,7 @@
       "type": "Index",
       "code": "FIXVTBR",
       "description": "Фиксинг МосБиржи обыкновенных акций Банк ВТБ (ПАО)",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1530,8 +1386,7 @@
       "type": "Index",
       "code": "FIXX5",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО \"Корпоративный центр ИКС 5\"",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1540,8 +1395,7 @@
       "type": "Index",
       "code": "FIXYDEX",
       "description": "Фиксинг МосБиржи обыкновенных акций МКПАО ЯНДЕКС",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1550,8 +1404,7 @@
       "type": "Index",
       "code": "FIXYNDX",
       "description": "Фиксинг МосБиржи обыкновенных акций Яндекс Н.В.",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1560,7 +1413,7 @@
       "type": "Index",
       "code": "GPBCBI2Y",
       "description": "Индикатор GPBCBI2Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1569,7 +1422,7 @@
       "type": "Index",
       "code": "GPBCBI4Y",
       "description": "Индикатор GPBCBI4Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1578,8 +1431,7 @@
       "type": "Index",
       "code": "GZGOLD",
       "description": "Гознак - аффинированное золото",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1588,7 +1440,7 @@
       "type": "Index",
       "code": "HCAP",
       "description": "Индекс Райффайзен 15",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1597,7 +1449,7 @@
       "type": "Index",
       "code": "HCAPTR",
       "description": "Индекс Райффайзен 15 полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1606,7 +1458,7 @@
       "type": "Index",
       "code": "ICLIMATE",
       "description": "Индекс МосБиржи климатической устойчивости нефинансовых компаний",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1615,7 +1467,7 @@
       "type": "Index",
       "code": "ICLIMATETR",
       "description": "Индекс МосБиржи климатической устойчивости нефинансовых компаний полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1624,7 +1476,7 @@
       "type": "Index",
       "code": "IMOEX",
       "description": "Индекс МосБиржи",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1633,7 +1485,7 @@
       "type": "Index",
       "code": "IMOEX2",
       "description": "IMOEX2 – значения индекса МосБиржи за весь торговый день, включая дополнительные сессии",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1642,7 +1494,7 @@
       "type": "Index",
       "code": "IMOEXCNY",
       "description": "Индекс МосБиржи в юанях",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1651,7 +1503,7 @@
       "type": "Index",
       "code": "IMOEXDIV",
       "description": "Индекс дивидендов МосБиржи «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1660,7 +1512,7 @@
       "type": "Index",
       "code": "IMOEXDIVN",
       "description": "Индекс дивидендов МосБиржи «нетто» (по налоговым ставкам российских организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1669,7 +1521,7 @@
       "type": "Index",
       "code": "IMOEXW",
       "description": "Индекс МосБиржи – активное управление",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1678,7 +1530,7 @@
       "type": "Index",
       "code": "INFLTR",
       "description": "Ингосстрах Индекс Инфляционных ОФЗ",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1687,7 +1539,7 @@
       "type": "Index",
       "code": "IRDIV",
       "description": "ДОХОДЪ Индекс дивидендных акций РФ (ценовой)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1696,7 +1548,7 @@
       "type": "Index",
       "code": "IRDIVTR",
       "description": "ДОХОДЪ Индекс дивидендных акций РФ (полной доходности)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1705,7 +1557,7 @@
       "type": "Index",
       "code": "IRGLV",
       "description": "ДОХОДЪ Индекс глобальных акций низкой волатильности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1714,7 +1566,7 @@
       "type": "Index",
       "code": "IRGQG",
       "description": "ДОХОДЪ Индекс глобальных акций роста и качества",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1723,7 +1575,7 @@
       "type": "Index",
       "code": "IRGRO",
       "description": "ДОХОДЪ Индекс акций роста РФ (ценовой)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1732,7 +1584,7 @@
       "type": "Index",
       "code": "IRGROTR",
       "description": "ДОХОДЪ Индекс акций роста РФ (полной доходности)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1741,7 +1593,7 @@
       "type": "Index",
       "code": "IRGSC",
       "description": "ДОХОДЪ Индекс глобальных акций малой капитализации",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1750,7 +1602,7 @@
       "type": "Index",
       "code": "KEYRATE",
       "description": "Индекс МосБиржи Ключевой ставки",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1759,7 +1611,7 @@
       "type": "Index",
       "code": "KOSRUB",
       "description": "«Коган – Уверенный»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1768,7 +1620,7 @@
       "type": "Index",
       "code": "MCF2TR",
       "description": "Индекс МосБиржи полной доходности 2",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1777,7 +1629,7 @@
       "type": "Index",
       "code": "MCF2TRN",
       "description": "Индекс МосБиржи полной доходности 2 \"нетто\" (по налоговым ставкам иностранных организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1786,7 +1638,7 @@
       "type": "Index",
       "code": "MCF2TRR",
       "description": "Индекс МосБиржи полной доходности 2 \"нетто\" (по налоговым ставкам российских организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1795,7 +1647,7 @@
       "type": "Index",
       "code": "MCFCNYTR",
       "description": "Индекс МосБиржи в юанях полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1804,7 +1656,7 @@
       "type": "Index",
       "code": "MCFCNYTRN",
       "description": "Индекс МосБиржи в юанях полной доходности «нетто» (по налоговым ставкам иностранных организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1813,7 +1665,7 @@
       "type": "Index",
       "code": "MCFCNYTRR",
       "description": "Индекс МосБиржи в юанях полной доходности «нетто» (по налоговым ставкам российских организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1822,7 +1674,7 @@
       "type": "Index",
       "code": "MCFTR",
       "description": "Индекс МосБиржи полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1831,7 +1683,7 @@
       "type": "Index",
       "code": "MCFTRN",
       "description": "Индекс МосБиржи полной доходности «нетто» (по налоговым ставкам иностранных организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1840,7 +1692,7 @@
       "type": "Index",
       "code": "MCFTRR",
       "description": "Индекс МосБиржи полной доходности «нетто» (по налоговым ставкам российских организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1849,7 +1701,7 @@
       "type": "Index",
       "code": "MCFWTR",
       "description": "Индекс МосБиржи – активное управление полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1858,7 +1710,7 @@
       "type": "Index",
       "code": "MCFWTRN",
       "description": "Индекс МосБиржи – активное управление полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1867,7 +1719,7 @@
       "type": "Index",
       "code": "MCFWTRR",
       "description": "Индекс МосБиржи – активное управление полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1876,7 +1728,7 @@
       "type": "Index",
       "code": "MCXSM",
       "description": "Индекс МосБиржи средней и малой капитализации",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1885,7 +1737,7 @@
       "type": "Index",
       "code": "MDIAMD",
       "description": "Индекс МосБиржи бриллиантового набора",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1894,7 +1746,7 @@
       "type": "Index",
       "code": "MDIAMD2",
       "description": "Индекс МосБиржи инвестиционных бриллиантов",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1903,7 +1755,7 @@
       "type": "Index",
       "code": "MDIAMR",
       "description": "Индекс МосБиржи бриллиантового набора в рублях",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1912,7 +1764,7 @@
       "type": "Index",
       "code": "MDIAMR2",
       "description": "Индекс МосБиржи инвестиционных бриллиантов в рублях",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1921,7 +1773,7 @@
       "type": "Index",
       "code": "MDIV",
       "description": "МКБ ценовой Индекс Дивидендных Акций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1930,7 +1782,7 @@
       "type": "Index",
       "code": "MDIVTR",
       "description": "МКБ Индекс Дивидендных Акций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1939,7 +1791,7 @@
       "type": "Index",
       "code": "MEBCTR",
       "description": "Индекс МосБиржи голубых фишек полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1948,7 +1800,7 @@
       "type": "Index",
       "code": "MEBCTRN",
       "description": "Индекс МосБиржи голубых фишек полной доходности «нетто» (по налоговым ставкам иностр. орг.)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1957,7 +1809,7 @@
       "type": "Index",
       "code": "MEBCTRR",
       "description": "Индекс МосБиржи голубых фишек полной доходности «нетто» (по налоговым ставкам росс. орг.)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1966,7 +1818,7 @@
       "type": "Index",
       "code": "MECHTR",
       "description": "Индекс МосБиржи химии и нефтехимии полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1975,7 +1827,7 @@
       "type": "Index",
       "code": "MECHTRN",
       "description": "Индекс МосБиржи химии и нефтехимии полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1984,7 +1836,7 @@
       "type": "Index",
       "code": "MECHTRR",
       "description": "Индекс МосБиржи химии и нефтехимии полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -1993,7 +1845,7 @@
       "type": "Index",
       "code": "MECNTR",
       "description": "Индекс МосБиржи потребительского сектора полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2002,7 +1854,7 @@
       "type": "Index",
       "code": "MECNTRN",
       "description": "Индекс МосБиржи потребит. сектора полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2011,7 +1863,7 @@
       "type": "Index",
       "code": "MECNTRR",
       "description": "Индекс МосБиржи потреб. сектора полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2020,7 +1872,7 @@
       "type": "Index",
       "code": "MEEUTR",
       "description": "Индекс МосБиржи электроэнергетики полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2029,7 +1881,7 @@
       "type": "Index",
       "code": "MEEUTRN",
       "description": "Индекс МосБиржи электроэнергетики полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2038,7 +1890,7 @@
       "type": "Index",
       "code": "MEEUTRR",
       "description": "Индекс МосБиржи электроэнергетики полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2047,7 +1899,7 @@
       "type": "Index",
       "code": "MEFNTR",
       "description": "Индекс МосБиржи финансов полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2056,7 +1908,7 @@
       "type": "Index",
       "code": "MEFNTRN",
       "description": "Индекс МосБиржи финансов полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2065,7 +1917,7 @@
       "type": "Index",
       "code": "MEFNTRR",
       "description": "Индекс МосБиржи финансов полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2074,7 +1926,7 @@
       "type": "Index",
       "code": "MEITTR",
       "description": "Индекс МосБиржи информационных технологий полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2083,7 +1935,7 @@
       "type": "Index",
       "code": "MEITTRN",
       "description": "Индекс МосБиржи информационных технологий полной доходности «нетто» (по налог. ставкам ин. организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2092,7 +1944,7 @@
       "type": "Index",
       "code": "MEITTRR",
       "description": "Индекс МосБиржи информационных технологий полной доходности «нетто» (по налог. ставкам рос. организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2101,7 +1953,7 @@
       "type": "Index",
       "code": "MEMMTR",
       "description": "Индекс МосБиржи металлов и добычи полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2110,7 +1962,7 @@
       "type": "Index",
       "code": "MEMMTRN",
       "description": "Индекс МосБиржи металлов и добычи полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2119,7 +1971,7 @@
       "type": "Index",
       "code": "MEMMTRR",
       "description": "Индекс МосБиржи металлов и добычи полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2128,7 +1980,7 @@
       "type": "Index",
       "code": "MEOGTR",
       "description": "Индекс МосБиржи нефти и газа полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2137,7 +1989,7 @@
       "type": "Index",
       "code": "MEOGTRN",
       "description": "Индекс МосБиржи нефти и газа полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2146,7 +1998,7 @@
       "type": "Index",
       "code": "MEOGTRR",
       "description": "Индекс МосБиржи нефти и газа полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2155,7 +2007,7 @@
       "type": "Index",
       "code": "MERETR",
       "description": "Индекс МосБиржи строительных компаний полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2164,7 +2016,7 @@
       "type": "Index",
       "code": "MERETRN",
       "description": "Индекс МосБиржи строительных компаний полной доходности «нетто» (по налоговым ставкам иностранных организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2173,7 +2025,7 @@
       "type": "Index",
       "code": "MERETRR",
       "description": "Индекс МосБиржи строительных компаний полной доходности «нетто» (по налоговым ставкам российских организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2182,7 +2034,7 @@
       "type": "Index",
       "code": "MESG",
       "description": "Индекс МосБиржи-RAEX ESG сбалансированный",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2191,7 +2043,7 @@
       "type": "Index",
       "code": "MESGTR",
       "description": "Индекс МосБиржи-RAEX ESG сбалансированный полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2200,7 +2052,7 @@
       "type": "Index",
       "code": "MESMTR",
       "description": "Индекс МосБиржи средней и малой капитализации полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2209,7 +2061,7 @@
       "type": "Index",
       "code": "MESMTRN",
       "description": "Индекс МосБиржи средней капитализации полной доходности «нетто» (по нал.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2218,7 +2070,7 @@
       "type": "Index",
       "code": "MESMTRR",
       "description": "Индекс МосБиржи средней капитализации полной доходности «нетто» (по нал.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2227,7 +2079,7 @@
       "type": "Index",
       "code": "METLTR",
       "description": "Индекс МосБиржи телекоммуникаций полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2236,7 +2088,7 @@
       "type": "Index",
       "code": "METLTRN",
       "description": "Индекс МосБиржи телекоммуникаций полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2245,7 +2097,7 @@
       "type": "Index",
       "code": "METLTRR",
       "description": "Индекс МосБиржи телекоммуникаций полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2254,7 +2106,7 @@
       "type": "Index",
       "code": "METNTR",
       "description": "Индекс МосБиржи транспорта полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2263,7 +2115,7 @@
       "type": "Index",
       "code": "METNTRN",
       "description": "Индекс МосБиржи транспорта полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2272,7 +2124,7 @@
       "type": "Index",
       "code": "METNTRR",
       "description": "Индекс МосБиржи транспорта полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2281,7 +2133,7 @@
       "type": "Index",
       "code": "MICEXBORR1W",
       "description": "ММВБ РЕПО обл 7 дней",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2290,7 +2142,7 @@
       "type": "Index",
       "code": "MICEXBORR2W",
       "description": "ММВБ РЕПО обл 14 дней",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2299,7 +2151,7 @@
       "type": "Index",
       "code": "MICEXBORRON",
       "description": "ММВБ РЕПО обл 1 день",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2308,7 +2160,7 @@
       "type": "Index",
       "code": "MICEXEQRR1W",
       "description": "ММВБ РЕПО акц 7 дней",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2317,7 +2169,7 @@
       "type": "Index",
       "code": "MICEXEQRR2W",
       "description": "ММВБ РЕПО акц 14 дней",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2326,7 +2178,7 @@
       "type": "Index",
       "code": "MICEXEQRRON",
       "description": "ММВБ РЕПО акц 1 день",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2335,7 +2187,7 @@
       "type": "Index",
       "code": "MIPO",
       "description": "Индекс МосБиржи IPO",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2344,7 +2196,7 @@
       "type": "Index",
       "code": "MIPOTR",
       "description": "Индекс МосБиржи IPO полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2353,7 +2205,7 @@
       "type": "Index",
       "code": "MOEX10",
       "description": "Индекс МосБиржи 10",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2362,7 +2214,7 @@
       "type": "Index",
       "code": "MOEXALLW",
       "description": "Индекс МосБиржи Всепогодный",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2371,7 +2223,7 @@
       "type": "Index",
       "code": "MOEXBC",
       "description": "Индекс МосБиржи голубых фишек",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2380,7 +2232,7 @@
       "type": "Index",
       "code": "MOEXBMI",
       "description": "Индекс МосБиржи широкого рынка",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2389,7 +2241,7 @@
       "type": "Index",
       "code": "MOEXBNB",
       "description": "Индекс Мосбиржи Бинанс коина",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2398,7 +2250,7 @@
       "type": "Index",
       "code": "MOEXBTC",
       "description": "Индекс МосБиржи Биткоина",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2407,7 +2259,7 @@
       "type": "Index",
       "code": "MOEXCH",
       "description": "Индекс МосБиржи химии и нефтехимии",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2416,7 +2268,7 @@
       "type": "Index",
       "code": "MOEXCN",
       "description": "Индекс МосБиржи потребительского сектора",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2425,7 +2277,7 @@
       "type": "Index",
       "code": "MOEXETH",
       "description": "Индекс МосБиржи Эфира",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2434,7 +2286,7 @@
       "type": "Index",
       "code": "MOEXEU",
       "description": "Индекс МосБиржи электроэнергетики",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2443,7 +2295,7 @@
       "type": "Index",
       "code": "MOEXFN",
       "description": "Индекс МосБиржи финансов",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2452,7 +2304,7 @@
       "type": "Index",
       "code": "MOEXINN",
       "description": "Индекс МосБиржи инноваций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2461,7 +2313,7 @@
       "type": "Index",
       "code": "MOEXIT",
       "description": "Индекс МосБиржи информационно-коммуникационных технологий",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2470,7 +2322,7 @@
       "type": "Index",
       "code": "MOEXMM",
       "description": "Индекс МосБиржи металлов и добычи",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2479,7 +2331,7 @@
       "type": "Index",
       "code": "MOEXOG",
       "description": "Индекс МосБиржи нефти и газа",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2488,7 +2340,7 @@
       "type": "Index",
       "code": "MOEXRE",
       "description": "Индекс МосБиржи недвижимости",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2497,7 +2349,7 @@
       "type": "Index",
       "code": "MOEXREPO",
       "description": "MOEXREPO обл 12:30",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2506,7 +2358,7 @@
       "type": "Index",
       "code": "MOEXREPO1W",
       "description": "MOEXREPO 1 неделя 12:30",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2515,7 +2367,7 @@
       "type": "Index",
       "code": "MOEXREPO1WE",
       "description": "MOEXREPO 1 неделя 19:00",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2524,7 +2376,7 @@
       "type": "Index",
       "code": "MOEXREPOE",
       "description": "MOEXREPO обл 19:00",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2533,7 +2385,7 @@
       "type": "Index",
       "code": "MOEXREPOEQ",
       "description": "MOEXREPO акц 12:30",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2542,7 +2394,7 @@
       "type": "Index",
       "code": "MOEXREPOEQE",
       "description": "MOEXREPO акц 19:00",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2551,7 +2403,7 @@
       "type": "Index",
       "code": "MOEXREPOUSD",
       "description": "MOEXREPO USD 12:30",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2560,7 +2412,7 @@
       "type": "Index",
       "code": "MOEXREPOUSDE",
       "description": "MOEXREPO USD 19:00",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2569,7 +2421,7 @@
       "type": "Index",
       "code": "MOEXSOL",
       "description": "Индекс Мосбиржи Соланы",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2578,7 +2430,7 @@
       "type": "Index",
       "code": "MOEXTL",
       "description": "Индекс МосБиржи телекоммуникаций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2587,7 +2439,7 @@
       "type": "Index",
       "code": "MOEXTN",
       "description": "Индекс МосБиржи транспорта",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2596,7 +2448,7 @@
       "type": "Index",
       "code": "MOEXTRX",
       "description": "Индекс Мосбиржи Трона",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2605,7 +2457,7 @@
       "type": "Index",
       "code": "MOEXXRP",
       "description": "Индекс Мосбиржи Рипла",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2614,7 +2466,7 @@
       "type": "Index",
       "code": "MRBC",
       "description": "Индекс МосБиржи 15",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2623,7 +2475,7 @@
       "type": "Index",
       "code": "MRBCTR",
       "description": "Индекс МосБиржи полной доходности 15",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2632,7 +2484,7 @@
       "type": "Index",
       "code": "MREDC",
       "description": "Индекс московской недвижимости Домклик",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2641,7 +2493,7 @@
       "type": "Index",
       "code": "MREF",
       "description": "Индекс МосБиржи фондов недвижимости",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2650,7 +2502,7 @@
       "type": "Index",
       "code": "MREFTR",
       "description": "Индекс МосБиржи фондов недвижимости полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2659,7 +2511,7 @@
       "type": "Index",
       "code": "MRRT",
       "description": "Индекс МосБиржи - РСПП Ответственность и открытость",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2668,7 +2520,7 @@
       "type": "Index",
       "code": "MRSV",
       "description": "Индекс МосБиржи - РСПП Вектор устойчивого развития",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2677,7 +2529,7 @@
       "type": "Index",
       "code": "MRSVR",
       "description": "Индекс МосБиржи - РСПП Вектор устойчивого развития российских эмитентов",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2686,7 +2538,7 @@
       "type": "Index",
       "code": "MRSVRT",
       "description": "Индекс МосБиржи - РСПП Вектор устойчивого развития российских эмитентов полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2695,7 +2547,7 @@
       "type": "Index",
       "code": "MRSVT",
       "description": "Индекс МосБиржи - РСПП Вектор устойчивого развития, полной доходности брутто",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2704,7 +2556,7 @@
       "type": "Index",
       "code": "MTZGC",
       "description": "МТЗ-Индекс Синтетическое золото",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2713,7 +2565,7 @@
       "type": "Index",
       "code": "MVBI",
       "description": "Индекс МосБиржи создания стоимости",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2722,7 +2574,7 @@
       "type": "Index",
       "code": "MVBITR",
       "description": "Индекс МосБиржи создания стоимости полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2731,7 +2583,7 @@
       "type": "Index",
       "code": "MXSHAR",
       "description": "Индекс МосБиржи Исламских инвестиций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2740,7 +2592,7 @@
       "type": "Index",
       "code": "MXSHARTR",
       "description": "Индекс МосБиржи Исламских инвестиций полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2749,7 +2601,7 @@
       "type": "Index",
       "code": "MXTDFI2030",
       "description": "Индекс МосБиржи с целевой датой 2030",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2758,7 +2610,7 @@
       "type": "Index",
       "code": "MXTDFI2031",
       "description": "Индекс МосБиржи с целевой датой 2031",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2767,7 +2619,7 @@
       "type": "Index",
       "code": "MXTDFI2035",
       "description": "Индекс МосБиржи с целевой датой 2035",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2776,7 +2628,7 @@
       "type": "Index",
       "code": "MXTDFI2036",
       "description": "Индекс МосБиржи с целевой датой 2036",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2785,7 +2637,7 @@
       "type": "Index",
       "code": "MXTDFI2040",
       "description": "Индекс МосБиржи с целевой датой 2040",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2794,7 +2646,7 @@
       "type": "Index",
       "code": "MXTDFI2041",
       "description": "Индекс МосБиржи с целевой датой 2041",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2803,7 +2655,7 @@
       "type": "Index",
       "code": "MXTDFI2045",
       "description": "Индекс МосБиржи с целевой датой 2045",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2812,7 +2664,7 @@
       "type": "Index",
       "code": "MXTDFI2046",
       "description": "Индекс МосБиржи с целевой датой 2046",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2821,7 +2673,7 @@
       "type": "Index",
       "code": "OISFIXUSD",
       "description": "Индекс МосБиржи Ставок доходности валютных свопов",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2830,7 +2682,7 @@
       "type": "Index",
       "code": "OPNRI",
       "description": "Открытие - Акции РФ (Моментум)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2839,7 +2691,7 @@
       "type": "Index",
       "code": "OPNRPI",
       "description": "Открытие - Акции РФ",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2848,7 +2700,7 @@
       "type": "Index",
       "code": "OPNTI",
       "description": "Открытие – Технологии",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2857,7 +2709,7 @@
       "type": "Index",
       "code": "OPNTIB",
       "description": "Открытие – Технологии (брутто)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2866,7 +2718,7 @@
       "type": "Index",
       "code": "OPNTIP",
       "description": "Открытие – Технологии ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2875,7 +2727,7 @@
       "type": "Index",
       "code": "OPNVI",
       "description": "Открытие – Тренды XXI века",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2884,7 +2736,7 @@
       "type": "Index",
       "code": "OPNVIB",
       "description": "Открытие – Тренды XXI века (брутто)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2893,7 +2745,7 @@
       "type": "Index",
       "code": "OPNVIP",
       "description": "Открытие – Тренды XXI века ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2902,7 +2754,7 @@
       "type": "Index",
       "code": "RBCRED",
       "description": "Индекс РБК красного вина",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2911,7 +2763,7 @@
       "type": "Index",
       "code": "RBCSPARK",
       "description": "Индекс РБК игристого вина",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2920,7 +2772,7 @@
       "type": "Index",
       "code": "RBCWHITE",
       "description": "Индекс РБК белого вина",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2929,7 +2781,7 @@
       "type": "Index",
       "code": "RGBI",
       "description": "Индекс Мосбиржи государственных облигаций ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2938,7 +2790,7 @@
       "type": "Index",
       "code": "RGBILP",
       "description": "Индекс МосБиржи Государственных Облигаций RGBILP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2947,7 +2799,7 @@
       "type": "Index",
       "code": "RGBITR",
       "description": "Индекс Мосбиржи государственных облигаций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2956,7 +2808,7 @@
       "type": "Index",
       "code": "RPGCC",
       "description": "MOEXREPO КСУ 12:30",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2965,7 +2817,7 @@
       "type": "Index",
       "code": "RPGCC1W",
       "description": "MOEXREPO КСУ 1 неделя 12:30",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2974,7 +2826,7 @@
       "type": "Index",
       "code": "RPGCC1WE",
       "description": "MOEXREPO КСУ 1 неделя 19:00",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2983,7 +2835,7 @@
       "type": "Index",
       "code": "RPGCCE",
       "description": "MOEXREPO КСУ 19:00",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -2992,7 +2844,7 @@
       "type": "Index",
       "code": "RQISETFE",
       "description": "Райффайзен Тактическая Стратегия Биржевых фондов",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3001,7 +2853,7 @@
       "type": "Index",
       "code": "RQISETFU",
       "description": "Райффайзен Сбалансированная Стратегия Биржевых фондов",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3010,7 +2862,7 @@
       "type": "Index",
       "code": "RTSCH",
       "description": "Индекс РТС химии и нефтехимии",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3019,7 +2871,7 @@
       "type": "Index",
       "code": "RTSCR",
       "description": "Индекс РТС потребительских товаров и розничной торговли",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3028,7 +2880,7 @@
       "type": "Index",
       "code": "RTSEU",
       "description": "Индекс РТС электроэнергетики",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3037,7 +2889,7 @@
       "type": "Index",
       "code": "RTSFN",
       "description": "Индекс РТС финансов",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3046,7 +2898,7 @@
       "type": "Index",
       "code": "RTSGBPTRN",
       "description": "Индекс РТС GPB полной доходности «нетто» (по налоговым ставкам иностранных организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3055,7 +2907,7 @@
       "type": "Index",
       "code": "RTSI",
       "description": "Индекс РТС",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3064,7 +2916,7 @@
       "type": "Index",
       "code": "RTSIDIV",
       "description": "Индекс дивидендов РТС «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3073,7 +2925,7 @@
       "type": "Index",
       "code": "RTSIDIVN",
       "description": "Индекс дивидендов РТС «нетто» (по налоговым ставкам российских организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3082,7 +2934,7 @@
       "type": "Index",
       "code": "RTSIGBP",
       "description": "Индекс РТС GPB",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3091,7 +2943,7 @@
       "type": "Index",
       "code": "RTSIT",
       "description": "Индекс РТС информационно-коммуникационных технологий",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3100,7 +2952,7 @@
       "type": "Index",
       "code": "RTSMM",
       "description": "Индекс РТС металлов и добычи",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3109,7 +2961,7 @@
       "type": "Index",
       "code": "RTSOG",
       "description": "Индекс РТС нефти и газа",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3118,7 +2970,7 @@
       "type": "Index",
       "code": "RTSRE",
       "description": "Индекс РТС недвижимости",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3127,7 +2979,7 @@
       "type": "Index",
       "code": "RTSSIB",
       "description": "Индекс ММВБ Сибирь",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3136,7 +2988,7 @@
       "type": "Index",
       "code": "RTSSM",
       "description": "Индекс РТС средней и малой капитализации",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3145,7 +2997,7 @@
       "type": "Index",
       "code": "RTSTL",
       "description": "Индекс РТС телекоммуникаций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3154,7 +3006,7 @@
       "type": "Index",
       "code": "RTSTN",
       "description": "Индекс РТС транспорта",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3163,7 +3015,7 @@
       "type": "Index",
       "code": "RTSTR",
       "description": "Индекс РТС полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3172,7 +3024,7 @@
       "type": "Index",
       "code": "RTSTRN",
       "description": "Индекс РТС полной доходности «нетто» (по налоговым ставкам иностранных организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3181,7 +3033,7 @@
       "type": "Index",
       "code": "RTSTRR",
       "description": "Индекс РТС полной доходности «нетто» (по налоговым ставкам российских организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3190,7 +3042,7 @@
       "type": "Index",
       "code": "RTSUSDCUR",
       "description": "Курс доллара США на момент закрытия Индекса РТС",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3199,7 +3051,7 @@
       "type": "Index",
       "code": "RTSVX",
       "description": "Индекс волатильности RTSVX",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3208,7 +3060,7 @@
       "type": "Index",
       "code": "RUABICP",
       "description": "Композитный индекс облигаций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3217,7 +3069,7 @@
       "type": "Index",
       "code": "RUABITR",
       "description": "Композитный индекс облигаций — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3226,7 +3078,7 @@
       "type": "Index",
       "code": "RUBMI",
       "description": "Индекс РТС широкого рынка",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3235,7 +3087,7 @@
       "type": "Index",
       "code": "RUCBCP2A3A",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCP2A3A",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3244,7 +3096,7 @@
       "type": "Index",
       "code": "RUCBCP2A3A3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCP2A3A3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3253,7 +3105,7 @@
       "type": "Index",
       "code": "RUCBCP2A3A5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCP2A3A5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3262,7 +3114,7 @@
       "type": "Index",
       "code": "RUCBCP2B3B",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCP2B3B",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3271,7 +3123,7 @@
       "type": "Index",
       "code": "RUCBCP3A3YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCP3A3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3280,7 +3132,7 @@
       "type": "Index",
       "code": "RUCBCP3A5YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCP3A5YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3289,7 +3141,7 @@
       "type": "Index",
       "code": "RUCBCP3Y",
       "description": "Индекс Мосбиржи корпоративных облигаций MOEX 1 - 3 ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3298,7 +3150,7 @@
       "type": "Index",
       "code": "RUCBCP3YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCP3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3307,7 +3159,7 @@
       "type": "Index",
       "code": "RUCBCP5Y",
       "description": "Индекс Мосбиржи корпоративных облигаций ценовой 3-5",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3316,7 +3168,7 @@
       "type": "Index",
       "code": "RUCBCP5YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCP5YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3325,7 +3177,7 @@
       "type": "Index",
       "code": "RUCBCPA2A",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPA2A",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3334,7 +3186,7 @@
       "type": "Index",
       "code": "RUCBCPA2A3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPA2A3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3343,7 +3195,7 @@
       "type": "Index",
       "code": "RUCBCPA2A5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPA2A5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3352,7 +3204,7 @@
       "type": "Index",
       "code": "RUCBCPA3YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPA3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3361,7 +3213,7 @@
       "type": "Index",
       "code": "RUCBCPA5YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPA5YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3370,7 +3222,7 @@
       "type": "Index",
       "code": "RUCBCPAA3YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPAA3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3379,7 +3231,7 @@
       "type": "Index",
       "code": "RUCBCPAA5YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPAA5YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3388,7 +3240,7 @@
       "type": "Index",
       "code": "RUCBCPAAANS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPAAANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3397,7 +3249,7 @@
       "type": "Index",
       "code": "RUCBCPAANS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPAANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3406,7 +3258,7 @@
       "type": "Index",
       "code": "RUCBCPANS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3415,7 +3267,7 @@
       "type": "Index",
       "code": "RUCBCPB2B",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPB2B",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3424,7 +3276,7 @@
       "type": "Index",
       "code": "RUCBCPB2B3B",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPB2B3B",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3433,7 +3285,7 @@
       "type": "Index",
       "code": "RUCBCPBBBNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPBBBNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3442,7 +3294,7 @@
       "type": "Index",
       "code": "RUCBCPNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBCPNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3451,7 +3303,7 @@
       "type": "Index",
       "code": "RUCBHYCP",
       "description": "Индекс МосБиржи Высокодоходных Облигаций Повышенного Инвестиционного Риска Ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3460,7 +3312,7 @@
       "type": "Index",
       "code": "RUCBHYTR",
       "description": "Индекс МосБиржи Высокодоходных Облигаций Повышенного Инвестиционного Риска Совокупный Доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3469,7 +3321,7 @@
       "type": "Index",
       "code": "RUCBICP",
       "description": "Индекс Мосбиржи корпоративных облигаций ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3478,7 +3330,7 @@
       "type": "Index",
       "code": "RUCBICP1Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBICP1Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3487,7 +3339,7 @@
       "type": "Index",
       "code": "RUCBICP3+",
       "description": "Индекс корпоративных облигаций (< 1 года, рейтинг > B-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3496,7 +3348,7 @@
       "type": "Index",
       "code": "RUCBICPB",
       "description": "Индекс корпоративных облигаций (> 1 года, B- ≤ рейтинг < BB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3505,7 +3357,7 @@
       "type": "Index",
       "code": "RUCBICPB3Y",
       "description": "Индекс корпоративных облигаций (1-3 года, B- ≤ рейтинг < BB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3514,7 +3366,7 @@
       "type": "Index",
       "code": "RUCBICPBB",
       "description": "Индекс корпоративных облигаций (> 1 года, BB- ≤ рейтинг < BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3523,7 +3375,7 @@
       "type": "Index",
       "code": "RUCBICPBB3+",
       "description": "Индекс корпоративных облигаций (> 3 лет, BB- ≤ рейтинг < BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3532,7 +3384,7 @@
       "type": "Index",
       "code": "RUCBICPBB3Y",
       "description": "Индекс корпоративных облигаций (1-3 года, BB- ≤ рейтинг < BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3541,7 +3393,7 @@
       "type": "Index",
       "code": "RUCBICPBB5Y",
       "description": "Индекс корпоративных облигаций (3-5 лет, BB- ≤ рейтинг < BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3550,7 +3402,7 @@
       "type": "Index",
       "code": "RUCBICPBBB",
       "description": "Индекс корпоративных облигаций (> 1 года, рейтинг ≥ BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3559,7 +3411,7 @@
       "type": "Index",
       "code": "RUCBICPBBB3+",
       "description": "Индекс корпоративных облигаций (3-5 лет, рейтинг ≥ BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3568,7 +3420,7 @@
       "type": "Index",
       "code": "RUCBICPBBB3Y",
       "description": "Индекс корпоративных облигаций (1-3 года, рейтинг ≥ BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3577,7 +3429,7 @@
       "type": "Index",
       "code": "RUCBICPBBB5Y",
       "description": "Индекс корпоративных облигаций (3-5 лет, рейтинг ≥ BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3586,7 +3438,7 @@
       "type": "Index",
       "code": "RUCBICPL1",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBICPL1",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3595,7 +3447,7 @@
       "type": "Index",
       "code": "RUCBICPL2",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBICPL2",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3604,7 +3456,7 @@
       "type": "Index",
       "code": "RUCBICPL3",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBICPL3",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3613,7 +3465,7 @@
       "type": "Index",
       "code": "RUCBITR",
       "description": "Индекс Мосбиржи корпоративных облигаций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3622,7 +3474,7 @@
       "type": "Index",
       "code": "RUCBITR1Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBITR1Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3631,7 +3483,7 @@
       "type": "Index",
       "code": "RUCBITR3+",
       "description": "Индекс корпоративных облигаций (> 3 лет, рейтинг ≥ B-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3640,7 +3492,7 @@
       "type": "Index",
       "code": "RUCBITRB",
       "description": "Индекс корпоративных облигаций (> 1 года, B- ≤ рейтинг < BB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3649,7 +3501,7 @@
       "type": "Index",
       "code": "RUCBITRB3Y",
       "description": "Индекс корпоративных облигаций (1-3 года, B- ≤ рейтинг < BB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3658,7 +3510,7 @@
       "type": "Index",
       "code": "RUCBITRBB",
       "description": "Индекс корпоративных облигаций (> 1 года, BB- ≤ рейтинг < BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3667,7 +3519,7 @@
       "type": "Index",
       "code": "RUCBITRBB3+",
       "description": "Индекс корпоративных облигаций (> 3 лет, BB- ≤ рейтинг < BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3676,7 +3528,7 @@
       "type": "Index",
       "code": "RUCBITRBB3Y",
       "description": "Индекс корпоративных облигаций (1-3 года, BB- ≤ рейтинг < BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3685,7 +3537,7 @@
       "type": "Index",
       "code": "RUCBITRBB5Y",
       "description": "Индекс корпоративных облигаций (3-5 лет, BB- ≤ рейтинг < BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3694,7 +3546,7 @@
       "type": "Index",
       "code": "RUCBITRBBB",
       "description": "Индекс корпоративных облигаций (> 1 года, рейтинг ≥ BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3703,7 +3555,7 @@
       "type": "Index",
       "code": "RUCBITRBBB3+",
       "description": "Индекс корпоративных облигаций (3-5 лет, рейтинг ≥ BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3712,7 +3564,7 @@
       "type": "Index",
       "code": "RUCBITRBBB3Y",
       "description": "Индекс корпоративных облигаций (1-3 года, рейтинг ≥ BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3721,7 +3573,7 @@
       "type": "Index",
       "code": "RUCBITRBBB5Y",
       "description": "Индекс корпоративных облигаций (3-5 лет, рейтинг ≥ BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3730,7 +3582,7 @@
       "type": "Index",
       "code": "RUCBITRL1",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBITRL1",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3739,7 +3591,7 @@
       "type": "Index",
       "code": "RUCBITRL2",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBITRL2",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3748,7 +3600,7 @@
       "type": "Index",
       "code": "RUCBITRL3",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBITRL3",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3757,7 +3609,7 @@
       "type": "Index",
       "code": "RUCBKEYCP",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBKEYCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3766,7 +3618,7 @@
       "type": "Index",
       "code": "RUCBKEYTR",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBKEYTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3775,7 +3627,7 @@
       "type": "Index",
       "code": "RUCBRNCP",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBRNCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3784,7 +3636,7 @@
       "type": "Index",
       "code": "RUCBRNTR",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBRNTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3793,7 +3645,7 @@
       "type": "Index",
       "code": "RUCBTR2A3A",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTR2A3A",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3802,7 +3654,7 @@
       "type": "Index",
       "code": "RUCBTR2A3A3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTR2A3A3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3811,7 +3663,7 @@
       "type": "Index",
       "code": "RUCBTR2A3A5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTR2A3A5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3820,7 +3672,7 @@
       "type": "Index",
       "code": "RUCBTR2B3B",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTR2B3B",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3829,7 +3681,7 @@
       "type": "Index",
       "code": "RUCBTR3A3YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTR3A3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3838,7 +3690,7 @@
       "type": "Index",
       "code": "RUCBTR3A5YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTR3A5YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3847,7 +3699,7 @@
       "type": "Index",
       "code": "RUCBTR3Y",
       "description": "Индекс Мосбиржи корпоративных облигаций MOEX 1-3",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3856,7 +3708,7 @@
       "type": "Index",
       "code": "RUCBTR3YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTR3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3865,7 +3717,7 @@
       "type": "Index",
       "code": "RUCBTR5Y",
       "description": "Индекс Мосбиржи корпоративных облигаций 3-5",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3874,7 +3726,7 @@
       "type": "Index",
       "code": "RUCBTR5YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTR5YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3883,7 +3735,7 @@
       "type": "Index",
       "code": "RUCBTRA2A",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRA2A",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3892,7 +3744,7 @@
       "type": "Index",
       "code": "RUCBTRA2A3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRA2A3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3901,7 +3753,7 @@
       "type": "Index",
       "code": "RUCBTRA2A5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRA2A5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3910,7 +3762,7 @@
       "type": "Index",
       "code": "RUCBTRA3YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRA3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3919,7 +3771,7 @@
       "type": "Index",
       "code": "RUCBTRA5YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRA5YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3928,7 +3780,7 @@
       "type": "Index",
       "code": "RUCBTRAA3YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRAA3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3937,7 +3789,7 @@
       "type": "Index",
       "code": "RUCBTRAA5YNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRAA5YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3946,7 +3798,7 @@
       "type": "Index",
       "code": "RUCBTRAAANS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRAAANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3955,7 +3807,7 @@
       "type": "Index",
       "code": "RUCBTRAANS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRAANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3964,7 +3816,7 @@
       "type": "Index",
       "code": "RUCBTRANS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3973,7 +3825,7 @@
       "type": "Index",
       "code": "RUCBTRB2B",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRB2B",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3982,7 +3834,7 @@
       "type": "Index",
       "code": "RUCBTRB2B3B",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRB2B3B",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -3991,7 +3843,7 @@
       "type": "Index",
       "code": "RUCBTRBBBNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRBBBNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4000,7 +3852,7 @@
       "type": "Index",
       "code": "RUCBTRNS",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUCBTRNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4009,7 +3861,7 @@
       "type": "Index",
       "code": "RUCEU",
       "description": "Индекс МосБиржи Корпоративных Российских Еврооблигаций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4018,7 +3870,7 @@
       "type": "Index",
       "code": "RUCGI",
       "description": "Национальный индекс корпоративного управления",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4027,7 +3879,7 @@
       "type": "Index",
       "code": "RUCHTR",
       "description": "Индекс РТС химии и нефтехимии полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4036,7 +3888,7 @@
       "type": "Index",
       "code": "RUCHTRN",
       "description": "Индекс РТС химии и нефтехимии полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4045,7 +3897,7 @@
       "type": "Index",
       "code": "RUCHTRR",
       "description": "Индекс РТС химии и нефтехимии полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4054,7 +3906,7 @@
       "type": "Index",
       "code": "RUCNTR",
       "description": "Индекс РТС потребительских товаров и розничной торговли полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4063,7 +3915,7 @@
       "type": "Index",
       "code": "RUCNTRN",
       "description": "Индекс РТС потребительского сектора полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4072,7 +3924,7 @@
       "type": "Index",
       "code": "RUCNTRR",
       "description": "Индекс РТС потребительского сектора полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4081,7 +3933,7 @@
       "type": "Index",
       "code": "RUCNYCP",
       "description": "Индекс МосБиржи облигаций, номинированных в китайских юанях RUCNYCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4090,7 +3942,7 @@
       "type": "Index",
       "code": "RUCNYTR",
       "description": "Индекс МосБиржи облигаций, номинированных в китайских юанях RUCNYTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4099,7 +3951,7 @@
       "type": "Index",
       "code": "RUESGCP",
       "description": "Индекс МосБиржи Облигаций Сектора устойчивого развития RUESGCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4108,7 +3960,7 @@
       "type": "Index",
       "code": "RUESGTR",
       "description": "Индекс МосБиржи Облигаций Сектора устойчивого развития RUESGTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4117,7 +3969,7 @@
       "type": "Index",
       "code": "RUEU10",
       "description": "Индекс МосБиржи российских облигаций, номинированных в иностранной валюте",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4126,7 +3978,7 @@
       "type": "Index",
       "code": "RUEUESG",
       "description": "Индекс МосБиржи российских корпоративных еврооблигаций РСХБ – РСПП – Вектор устойчивого развития",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4135,7 +3987,7 @@
       "type": "Index",
       "code": "RUEURAIF",
       "description": "Индекса МосБиржи еврооблигаций RUEURAIF",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4144,7 +3996,7 @@
       "type": "Index",
       "code": "RUEUTR",
       "description": "Индекс РТС электроэнергетики полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4153,7 +4005,7 @@
       "type": "Index",
       "code": "RUEUTRN",
       "description": "Индекс РТС электроэнергетики полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4162,7 +4014,7 @@
       "type": "Index",
       "code": "RUEUTRR",
       "description": "Индекс РТС электроэнергетики полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4171,7 +4023,7 @@
       "type": "Index",
       "code": "RUEYBCSCP",
       "description": "Индекс МосБиржи Облигаций повышенной доходности ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4180,7 +4032,7 @@
       "type": "Index",
       "code": "RUEYBCSTR",
       "description": "Индекс МосБиржи Облигаций повышенной доходности совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4189,7 +4041,7 @@
       "type": "Index",
       "code": "RUFLBICP",
       "description": "Индекс МосБиржи Облигаций с переменным купоном RUFLBICP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4198,7 +4050,7 @@
       "type": "Index",
       "code": "RUFLBITR",
       "description": "Индекс МосБиржи Облигаций с переменным купоном RUFLBITR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4207,7 +4059,7 @@
       "type": "Index",
       "code": "RUFLCBCP",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4216,7 +4068,7 @@
       "type": "Index",
       "code": "RUFLCBCP1Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBCP1Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4225,7 +4077,7 @@
       "type": "Index",
       "code": "RUFLCBCP3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBCP3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4234,7 +4086,7 @@
       "type": "Index",
       "code": "RUFLCBCP5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBCP5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4243,7 +4095,7 @@
       "type": "Index",
       "code": "RUFLCBCPA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBCPA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4252,7 +4104,7 @@
       "type": "Index",
       "code": "RUFLCBCPAA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBCPAA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4261,7 +4113,7 @@
       "type": "Index",
       "code": "RUFLCBCPAAA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBCPAAA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4270,7 +4122,7 @@
       "type": "Index",
       "code": "RUFLCBKYCP3A",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBKYCP3A",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4279,7 +4131,7 @@
       "type": "Index",
       "code": "RUFLCBKYCP3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBKYCP3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4288,7 +4140,7 @@
       "type": "Index",
       "code": "RUFLCBKYCP5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBKYCP5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4297,7 +4149,7 @@
       "type": "Index",
       "code": "RUFLCBKYCPAA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBKYCPAA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4306,7 +4158,7 @@
       "type": "Index",
       "code": "RUFLCBKYTR3A",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBKYTR3A",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4315,7 +4167,7 @@
       "type": "Index",
       "code": "RUFLCBKYTR3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBKYTR3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4324,7 +4176,7 @@
       "type": "Index",
       "code": "RUFLCBKYTR5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBKYTR5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4333,7 +4185,7 @@
       "type": "Index",
       "code": "RUFLCBKYTRAA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBKYTRAA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4342,7 +4194,7 @@
       "type": "Index",
       "code": "RUFLCBRNCP3A",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBRNCP3A",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4351,7 +4203,7 @@
       "type": "Index",
       "code": "RUFLCBRNCP3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBRNCP3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4360,7 +4212,7 @@
       "type": "Index",
       "code": "RUFLCBRNCP5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBRNCP5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4369,7 +4221,7 @@
       "type": "Index",
       "code": "RUFLCBRNCPAA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBRNCPAA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4378,7 +4230,7 @@
       "type": "Index",
       "code": "RUFLCBRNTR3A",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBRNTR3A",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4387,7 +4239,7 @@
       "type": "Index",
       "code": "RUFLCBRNTR3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBRNTR3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4396,7 +4248,7 @@
       "type": "Index",
       "code": "RUFLCBRNTR5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBRNTR5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4405,7 +4257,7 @@
       "type": "Index",
       "code": "RUFLCBRNTRAA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBRNTRAA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4414,7 +4266,7 @@
       "type": "Index",
       "code": "RUFLCBTR",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4423,7 +4275,7 @@
       "type": "Index",
       "code": "RUFLCBTR1Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBTR1Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4432,7 +4284,7 @@
       "type": "Index",
       "code": "RUFLCBTR3Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBTR3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4441,7 +4293,7 @@
       "type": "Index",
       "code": "RUFLCBTR5Y",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBTR5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4450,7 +4302,7 @@
       "type": "Index",
       "code": "RUFLCBTRA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBTRA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4459,7 +4311,7 @@
       "type": "Index",
       "code": "RUFLCBTRAA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBTRAA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4468,7 +4320,7 @@
       "type": "Index",
       "code": "RUFLCBTRAAA",
       "description": "Индекс МосБиржи Корпоративных Облигаций RUFLCBTRAAA",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4477,7 +4329,7 @@
       "type": "Index",
       "code": "RUFLGBICP",
       "description": "Индекс МосБиржи Государственных Облигаций RUFLGBICP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4486,7 +4338,7 @@
       "type": "Index",
       "code": "RUFLGBITR",
       "description": "Индекс МосБиржи Государственных Облигаций RUFLGBITR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4495,7 +4347,7 @@
       "type": "Index",
       "code": "RUFNTR",
       "description": "Индекс РТС финансов полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4504,7 +4356,7 @@
       "type": "Index",
       "code": "RUFNTRN",
       "description": "Индекс РТС финансов полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4513,7 +4365,7 @@
       "type": "Index",
       "code": "RUFNTRR",
       "description": "Индекс РТС финансов полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4522,7 +4374,7 @@
       "type": "Index",
       "code": "RUGBICP10Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBICP10Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4531,7 +4383,7 @@
       "type": "Index",
       "code": "RUGBICP1Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBICP1Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4540,7 +4392,7 @@
       "type": "Index",
       "code": "RUGBICP3Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBICP3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4549,7 +4401,7 @@
       "type": "Index",
       "code": "RUGBICP5+",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBICP5+",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4558,7 +4410,7 @@
       "type": "Index",
       "code": "RUGBICP5Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBICP5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4567,7 +4419,7 @@
       "type": "Index",
       "code": "RUGBICP5Y7Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBICP5Y7Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4576,7 +4428,7 @@
       "type": "Index",
       "code": "RUGBICP7Y+",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBICP7Y+",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4585,7 +4437,7 @@
       "type": "Index",
       "code": "RUGBINFCP",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBINFCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4594,7 +4446,7 @@
       "type": "Index",
       "code": "RUGBINFTR",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBINFTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4603,7 +4455,7 @@
       "type": "Index",
       "code": "RUGBITR10Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBITR10Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4612,7 +4464,7 @@
       "type": "Index",
       "code": "RUGBITR1Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBITR1Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4621,7 +4473,7 @@
       "type": "Index",
       "code": "RUGBITR3Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBITR3Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4630,7 +4482,7 @@
       "type": "Index",
       "code": "RUGBITR5+",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBITR5+",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4639,7 +4491,7 @@
       "type": "Index",
       "code": "RUGBITR5Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBITR5Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4648,7 +4500,7 @@
       "type": "Index",
       "code": "RUGBITR5Y7Y",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBITR5Y7Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4657,7 +4509,7 @@
       "type": "Index",
       "code": "RUGBITR7Y+",
       "description": "Индекс МосБиржи Государственных Облигаций RUGBITR7Y+",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4666,8 +4518,7 @@
       "type": "Index",
       "code": "RUGOLD",
       "description": "Индекс МосБиржи аффинированного золота",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4676,7 +4527,7 @@
       "type": "Index",
       "code": "RUGROWCP",
       "description": "Индекс МосБиржи Облигаций Сектора роста",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4685,7 +4536,7 @@
       "type": "Index",
       "code": "RUGROWTR",
       "description": "Индекс МосБиржи Облигаций Сектора роста",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4694,7 +4545,7 @@
       "type": "Index",
       "code": "RUHYRAIF",
       "description": "Райффайзен - индекс высокодоходных облигаций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4703,7 +4554,7 @@
       "type": "Index",
       "code": "RUITTR",
       "description": "Индекс РТС информационных технологий полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4712,7 +4563,7 @@
       "type": "Index",
       "code": "RUITTRN",
       "description": "Индекс РТС информационных технологий полной доходности «нетто» (по налог. ставкам ин. организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4721,7 +4572,7 @@
       "type": "Index",
       "code": "RUITTRR",
       "description": "Индекс РТС информационных технологий полной доходности «нетто» (по налог. ставкам рос. организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4730,7 +4581,7 @@
       "type": "Index",
       "code": "RUMBCP3+NS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCP3+NS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4739,7 +4590,7 @@
       "type": "Index",
       "code": "RUMBCP3A3+NS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCP3A3+NS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4748,7 +4599,7 @@
       "type": "Index",
       "code": "RUMBCP3A3YNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCP3A3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4757,7 +4608,7 @@
       "type": "Index",
       "code": "RUMBCP3YNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCP3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4766,7 +4617,7 @@
       "type": "Index",
       "code": "RUMBCPA3+NS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCPA3+NS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4775,7 +4626,7 @@
       "type": "Index",
       "code": "RUMBCPA3YNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCPA3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4784,7 +4635,7 @@
       "type": "Index",
       "code": "RUMBCPAA3+NS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCPAA3+NS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4793,7 +4644,7 @@
       "type": "Index",
       "code": "RUMBCPAA3YNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCPAA3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4802,7 +4653,7 @@
       "type": "Index",
       "code": "RUMBCPAAANS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCPAAANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4811,7 +4662,7 @@
       "type": "Index",
       "code": "RUMBCPAANS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCPAANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4820,7 +4671,7 @@
       "type": "Index",
       "code": "RUMBCPANS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCPANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4829,7 +4680,7 @@
       "type": "Index",
       "code": "RUMBCPBBBNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCPBBBNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4838,7 +4689,7 @@
       "type": "Index",
       "code": "RUMBCPNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBCPNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4847,7 +4698,7 @@
       "type": "Index",
       "code": "RUMBICP",
       "description": "Индекс Мосбиржи муниципальных облигаций ценовой",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4856,7 +4707,7 @@
       "type": "Index",
       "code": "RUMBICP1Y",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBICP1Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4865,7 +4716,7 @@
       "type": "Index",
       "code": "RUMBICP3+",
       "description": "Индекс муниципальных облигаций (> 3 лет, рейтинг ≥ BB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4874,7 +4725,7 @@
       "type": "Index",
       "code": "RUMBICP3Y",
       "description": "Индекс муниципальных облигаций (1-3 года, рейтинг ≥ BB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4883,7 +4734,7 @@
       "type": "Index",
       "code": "RUMBICPBB",
       "description": "Индекс муниципальных облигаций (> 1 года, BB- ≤ рейтинг < BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4892,7 +4743,7 @@
       "type": "Index",
       "code": "RUMBICPBB3Y",
       "description": "Индекс муниципальных облигаций (1-3 года, BB- ≤ рейтинг < BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4901,7 +4752,7 @@
       "type": "Index",
       "code": "RUMBICPBBB",
       "description": "Индекс муниципальных облигаций (> 1 года, рейтинг ≥ BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4910,7 +4761,7 @@
       "type": "Index",
       "code": "RUMBICPBBB3+",
       "description": "Индекс муниципальных облигаций (> 3 лет, рейтинг ≥ BB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4919,7 +4770,7 @@
       "type": "Index",
       "code": "RUMBICPBBB3Y",
       "description": "Индекс муниципальных облигаций (1-3 года, рейтинг ≥ BBB-)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4928,7 +4779,7 @@
       "type": "Index",
       "code": "RUMBICPL1",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBICPL1",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4937,7 +4788,7 @@
       "type": "Index",
       "code": "RUMBICPL3",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBICPL3",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4946,7 +4797,7 @@
       "type": "Index",
       "code": "RUMBITR",
       "description": "Индекс Мосбиржи муниципальных облигаций",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4955,7 +4806,7 @@
       "type": "Index",
       "code": "RUMBITR1Y",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBITR1Y",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4964,7 +4815,7 @@
       "type": "Index",
       "code": "RUMBITR3+",
       "description": "Индекс муниципальных облигаций (> 3 лет, рейтинг ≥ BB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4973,7 +4824,7 @@
       "type": "Index",
       "code": "RUMBITR3Y",
       "description": "Индекс муниципальных облигаций (1-3 года, рейтинг ≥ BB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4982,7 +4833,7 @@
       "type": "Index",
       "code": "RUMBITRBB",
       "description": "Индекс муниципальных облигаций (> 1 года, BB- ≤ рейтинг < BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -4991,7 +4842,7 @@
       "type": "Index",
       "code": "RUMBITRBB3Y",
       "description": "Индекс муниципальных облигаций (1-3 года, BB- ≤ рейтинг < BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5000,7 +4851,7 @@
       "type": "Index",
       "code": "RUMBITRBBB",
       "description": "Индекс муниципальных облигаций (> 1 года, рейтинг ≥ BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5009,7 +4860,7 @@
       "type": "Index",
       "code": "RUMBITRBBB3+",
       "description": "Индекс муниципальных облигаций (> 3 лет, рейтинг ≥ BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5018,7 +4869,7 @@
       "type": "Index",
       "code": "RUMBITRBBB3Y",
       "description": "Индекс муниципальных облигаций (1-3 года, рейтинг ≥ BBB-) — совокупный доход",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5027,7 +4878,7 @@
       "type": "Index",
       "code": "RUMBITRL1",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBITRL1",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5036,7 +4887,7 @@
       "type": "Index",
       "code": "RUMBITRL3",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBITRL3",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5045,7 +4896,7 @@
       "type": "Index",
       "code": "RUMBTR3+NS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTR3+NS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5054,7 +4905,7 @@
       "type": "Index",
       "code": "RUMBTR3A3+NS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTR3A3+NS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5063,7 +4914,7 @@
       "type": "Index",
       "code": "RUMBTR3A3YNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTR3A3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5072,7 +4923,7 @@
       "type": "Index",
       "code": "RUMBTR3YNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTR3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5081,7 +4932,7 @@
       "type": "Index",
       "code": "RUMBTRA3+NS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTRA3+NS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5090,7 +4941,7 @@
       "type": "Index",
       "code": "RUMBTRA3YNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTRA3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5099,7 +4950,7 @@
       "type": "Index",
       "code": "RUMBTRAA3+NS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTRAA3+NS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5108,7 +4959,7 @@
       "type": "Index",
       "code": "RUMBTRAA3YNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTRAA3YNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5117,7 +4968,7 @@
       "type": "Index",
       "code": "RUMBTRAAANS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTRAAANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5126,7 +4977,7 @@
       "type": "Index",
       "code": "RUMBTRAANS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTRAANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5135,7 +4986,7 @@
       "type": "Index",
       "code": "RUMBTRANS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTRANS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5144,7 +4995,7 @@
       "type": "Index",
       "code": "RUMBTRBBBNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTRBBBNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5153,7 +5004,7 @@
       "type": "Index",
       "code": "RUMBTRNS",
       "description": "Индекс МосБиржи Муниципальных Облигаций RUMBTRNS",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5162,7 +5013,7 @@
       "type": "Index",
       "code": "RUMMTR",
       "description": "Индекс РТС металлов и добычи полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5171,7 +5022,7 @@
       "type": "Index",
       "code": "RUMMTRN",
       "description": "Индекс РТС металлов и добычи полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5180,7 +5031,7 @@
       "type": "Index",
       "code": "RUMMTRR",
       "description": "Индекс РТС металлов и добычи полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5189,7 +5040,7 @@
       "type": "Index",
       "code": "RUOGTR",
       "description": "Индекс РТС нефти и газа полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5198,7 +5049,7 @@
       "type": "Index",
       "code": "RUOGTRN",
       "description": "Индекс РТС нефти и газа полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5207,7 +5058,7 @@
       "type": "Index",
       "code": "RUOGTRR",
       "description": "Индекс РТС нефти и газа полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5216,7 +5067,7 @@
       "type": "Index",
       "code": "RUPAI",
       "description": "Индексы активов пенсионных накоплений - Агрессивный",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5225,8 +5076,7 @@
       "type": "Index",
       "code": "RUPALLAD",
       "description": "Индекс МосБиржи палладия",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5235,7 +5085,7 @@
       "type": "Index",
       "code": "RUPCI",
       "description": "Индексы активов пенсионных накоплений - Консервативный",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5244,8 +5094,7 @@
       "type": "Index",
       "code": "RUPLAT",
       "description": "Индекс МосБиржи платины",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5254,7 +5103,7 @@
       "type": "Index",
       "code": "RUPMI",
       "description": "Индексы активов пенсионных накоплений - Сбалансированный",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5263,7 +5112,7 @@
       "type": "Index",
       "code": "RURETR",
       "description": "Индекс РТС строительных компаний полной доходности",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5272,7 +5121,7 @@
       "type": "Index",
       "code": "RURETRN",
       "description": "Индекс РТС строительных компаний полной доходности «нетто» (по налоговым ставкам иностранных организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5281,7 +5130,7 @@
       "type": "Index",
       "code": "RURETRR",
       "description": "Индекс РТС строительных компаний полной доходности «нетто» (по налоговым ставкам российских организаций)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5290,7 +5139,7 @@
       "type": "Index",
       "code": "RURPLCP",
       "description": "Индекс МосБиржи Замещающих Облигаций RURPLCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5299,7 +5148,7 @@
       "type": "Index",
       "code": "RURPLGBCP",
       "description": "Индекс МосБиржи Государственных Замещающих Облигаций RURPLGBCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5308,7 +5157,7 @@
       "type": "Index",
       "code": "RURPLGBRUBCP",
       "description": "Индекс МосБиржи Государственных Замещающих Облигаций RURPLGBRUBCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5317,7 +5166,7 @@
       "type": "Index",
       "code": "RURPLGBRUBTR",
       "description": "Индекс МосБиржи Государственных Замещающих Облигаций RURPLGBRUBTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5326,7 +5175,7 @@
       "type": "Index",
       "code": "RURPLGBTR",
       "description": "Индекс МосБиржи Государственных Замещающих Облигаций RURPLGBTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5335,7 +5184,7 @@
       "type": "Index",
       "code": "RURPLRUBCP",
       "description": "Индекс МосБиржи Замещающих Облигаций RURPLRUBCP",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5344,7 +5193,7 @@
       "type": "Index",
       "code": "RURPLRUBTR",
       "description": "Индекс МосБиржи Замещающих Облигаций RURPLRUBTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5353,7 +5202,7 @@
       "type": "Index",
       "code": "RURPLTR",
       "description": "Индекс МосБиржи Замещающих Облигаций RURPLTR",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5362,7 +5211,7 @@
       "type": "Index",
       "code": "RUSFAR1M",
       "description": "RUSFAR 1 месяц",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5371,7 +5220,7 @@
       "type": "Index",
       "code": "RUSFAR1MN",
       "description": "RUSFAR REAL TIME COMPOUND 1 месяц",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5380,7 +5229,7 @@
       "type": "Index",
       "code": "RUSFAR1MRT",
       "description": "RUSFAR REAL TIME 1 месяц",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5389,7 +5238,7 @@
       "type": "Index",
       "code": "RUSFAR1W",
       "description": "RUSFAR 1 неделя",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5398,7 +5247,7 @@
       "type": "Index",
       "code": "RUSFAR1WN",
       "description": "RUSFAR REAL TIME COMPOUND 1 неделя",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5407,7 +5256,7 @@
       "type": "Index",
       "code": "RUSFAR1WRT",
       "description": "RUSFAR REAL TIME 1 неделя",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5416,7 +5265,7 @@
       "type": "Index",
       "code": "RUSFAR2W",
       "description": "RUSFAR 2 недели",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5425,7 +5274,7 @@
       "type": "Index",
       "code": "RUSFAR2WN",
       "description": "RUSFAR REAL TIME COMPOUND 2 недели",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5434,7 +5283,7 @@
       "type": "Index",
       "code": "RUSFAR2WRT",
       "description": "RUSFAR REAL TIME 2 недели",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5443,7 +5292,7 @@
       "type": "Index",
       "code": "RUSFAR3M",
       "description": "RUSFAR 3 месяца",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5452,7 +5301,7 @@
       "type": "Index",
       "code": "RUSFAR3MN",
       "description": "RUSFAR REAL TIME COMPOUND 3 месяца",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5461,7 +5310,7 @@
       "type": "Index",
       "code": "RUSFAR3MRT",
       "description": "RUSFAR REAL TIME 3 месяца",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5470,7 +5319,7 @@
       "type": "Index",
       "code": "RUSFARC1WN",
       "description": "RUSFAR REAL TIME COMPOUND CNY 1 неделя",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5479,7 +5328,7 @@
       "type": "Index",
       "code": "RUSFARC1WR",
       "description": "RUSFAR REAL TIME CNY 1 неделя",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5488,7 +5337,7 @@
       "type": "Index",
       "code": "RUSFARCN1W",
       "description": "RUSFAR CNY 1 неделя",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5497,7 +5346,7 @@
       "type": "Index",
       "code": "RUSFARCNN",
       "description": "RUSFAR REAL TIME COMPOUND CNY",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5506,7 +5355,7 @@
       "type": "Index",
       "code": "RUSFARCNRT",
       "description": "RUSFAR REAL TIME CNY",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5515,7 +5364,7 @@
       "type": "Index",
       "code": "RUSFARCNY",
       "description": "RUSFAR CNY",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5524,7 +5373,7 @@
       "type": "Index",
       "code": "RUSFARIND",
       "description": "Индекс накопленной доходности RUSFARIND",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5533,7 +5382,7 @@
       "type": "Index",
       "code": "RUSFARN",
       "description": "RUSFAR REAL TIME COMPOUND",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5542,7 +5391,7 @@
       "type": "Index",
       "code": "RUSFARRT",
       "description": "RUSFAR REAL TIME",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5551,7 +5400,7 @@
       "type": "Index",
       "code": "RUSFARUSD",
       "description": "RUSFAR USD",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5560,8 +5409,7 @@
       "type": "Index",
       "code": "RUSILVER",
       "description": "Индекс МосБиржи серебра",
-      "venue": "MISX",
-      "board": "INPF",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5570,7 +5418,7 @@
       "type": "Index",
       "code": "RUSMTR",
       "description": "Индекс РТС средней и малой капитализации полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5579,7 +5427,7 @@
       "type": "Index",
       "code": "RUSMTRN",
       "description": "Индекс РТС средней капитализации полной доходности «нетто» (по нал.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5588,7 +5436,7 @@
       "type": "Index",
       "code": "RUSMTRR",
       "description": "Индекс РТС средней капитализации полной доходности «нетто» (по нал.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5597,7 +5445,7 @@
       "type": "Index",
       "code": "RUTLTR",
       "description": "Индекс РТС телекоммуникаций  полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5606,7 +5454,7 @@
       "type": "Index",
       "code": "RUTLTRN",
       "description": "Индекс РТС телекоммуникаций  полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5615,7 +5463,7 @@
       "type": "Index",
       "code": "RUTLTRR",
       "description": "Индекс РТС телекоммуникаций  полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5624,7 +5472,7 @@
       "type": "Index",
       "code": "RUTNTR",
       "description": "Индекс РТС транспорта полной доходности «брутто»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5633,7 +5481,7 @@
       "type": "Index",
       "code": "RUTNTRN",
       "description": "Индекс РТС транспорта полной доходности «нетто» (по налог.ставкам ин.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5642,7 +5490,7 @@
       "type": "Index",
       "code": "RUTNTRR",
       "description": "Индекс РТС транспорта полной доходности «нетто» (по налог.ставкам рос.орг-й)",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5651,7 +5499,7 @@
       "type": "Index",
       "code": "RVI",
       "description": "Индекс волатильности RVI",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5660,7 +5508,7 @@
       "type": "Index",
       "code": "SMEXP",
       "description": "Внебиржевой экспортный индекс подсолнечного шрота АО НТБ",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5669,7 +5517,7 @@
       "type": "Index",
       "code": "SOEXP",
       "description": "Внебиржевой экспортный индекс подсолнечного масла АО НТБ",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5678,7 +5526,7 @@
       "type": "Index",
       "code": "SPBCI",
       "description": "БСПБ Капитал – Корпоративные облигации 1000",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5687,7 +5535,7 @@
       "type": "Index",
       "code": "SPBFI",
       "description": "БСПБ Капитал – ОФЗ 1000",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5696,7 +5544,7 @@
       "type": "Index",
       "code": "SUGAROTCCEN",
       "description": "Ежедневный внебиржевой индекс сахара в ЦФО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5705,7 +5553,7 @@
       "type": "Index",
       "code": "SUGAROTCSOU",
       "description": "Ежедневный внебиржевой индекс сахара в ЮФО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5714,7 +5562,7 @@
       "type": "Index",
       "code": "SUGAROTCVOL",
       "description": "Ежедневный внебиржевой индекс сахара в ПФО",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5723,8 +5571,7 @@
       "type": "ReferenceRate",
       "code": "USDBUYSPB",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Санкт-Петербург",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5734,8 +5581,7 @@
       "type": "ReferenceRate",
       "code": "USDBUYNN",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Нижний Новгород",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5745,8 +5591,7 @@
       "type": "ReferenceRate",
       "code": "USDBUYMSC",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Москва",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5756,8 +5601,7 @@
       "type": "ReferenceRate",
       "code": "USDBUYKZN",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Казань",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5767,19 +5611,7 @@
       "type": "ReferenceRate",
       "code": "USDBUYEKB",
       "description": "Индикатор Финуслуг покупки наличного доллара США, Екатеринбург",
-      "venue": "MISX",
-      "board": "ICUR",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-75ea-b2f3-56854f25e540",
-      "type": "ReferenceRate",
-      "code": "USDRUB_WAP0",
-      "description": "USDRUB_WAP0 - USD/РУБ",
-      "venue": "MISX",
-      "board": "WAPN",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5789,32 +5621,18 @@
       "type": "ReferenceRate",
       "code": "USDRUB_WAP0",
       "description": "USDRUB_WAP0 - USD/РУБ",
-      "venue": "MISX",
-      "board": "WAPS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
-      "provider": "Московская Биржа"
-    },
-    {
-      "id": "01a0f24e-734d-7eff-877f-990b5b800518",
-      "type": "ReferenceRate",
-      "code": "USDRUB_FIX0",
-      "description": "USDRUB_FIX0 - USD/РУБ",
-      "venue": "MISX",
-      "board": "FIXN",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
     },
     {
       "id": "01a0f24e-734d-7b30-8284-da47b0639d45",
-      "type": "ReferenceRate",
+      "type": "Index",
       "code": "USDRUB_FIX0",
       "description": "USDRUB_FIX0 - USD/РУБ",
-      "venue": "MISX",
-      "board": "FIXS",
-      "quoteUnit": "Currency",
-      "settlementAsset": "RUB",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
     {
@@ -5822,8 +5640,7 @@
       "type": "ReferenceRate",
       "code": "USDSELLSPB",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Санкт-Петербург",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5833,8 +5650,7 @@
       "type": "ReferenceRate",
       "code": "USDSELLNN",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Нижний Новгород",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5844,8 +5660,7 @@
       "type": "ReferenceRate",
       "code": "USDSELLMSC",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Москва",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5855,8 +5670,7 @@
       "type": "ReferenceRate",
       "code": "USDSELLKZN",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Казань",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5866,8 +5680,7 @@
       "type": "ReferenceRate",
       "code": "USDSELLEKB",
       "description": "Индикатор Финуслуг продажи наличного доллара США, Екатеринбург",
-      "venue": "MISX",
-      "board": "ICUR",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5877,7 +5690,7 @@
       "type": "Index",
       "code": "VTBEUGEM",
       "description": "Индекс «ВТБ - Еврооблигации развивающихся рынков, номинированные в евро»",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5886,7 +5699,7 @@
       "type": "Index",
       "code": "WHFOB",
       "description": "Внебиржевой индекс пшеницы FOB глубоководные порты Черного моря",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5895,8 +5708,7 @@
       "type": "Index",
       "code": "BYNFIXME",
       "description": "Фиксинг белорусский рубль/российский рубль Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5905,8 +5717,7 @@
       "type": "ReferenceRate",
       "code": "CNYFIX",
       "description": "Курс китайский юань/российский рубль",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5916,8 +5727,7 @@
       "type": "Index",
       "code": "CNYFIXME",
       "description": "Фиксинг китайский юань/российский рубль Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5926,8 +5736,7 @@
       "type": "ReferenceRate",
       "code": "EURFIX",
       "description": "Курс евро/российский рубль",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -5937,8 +5746,7 @@
       "type": "Index",
       "code": "EURFIXME",
       "description": "Фиксинг евро/российский рубль Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5947,8 +5755,7 @@
       "type": "ReferenceRate",
       "code": "EURUSDFIX",
       "description": "Курс евро/доллар США",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "USD",
       "provider": "Московская Биржа"
@@ -5958,8 +5765,7 @@
       "type": "Index",
       "code": "EURUSDFIXME",
       "description": "Фиксинг евро/доллар США Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5968,8 +5774,7 @@
       "type": "Index",
       "code": "GOLDFIXME",
       "description": "Фиксинг золота Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5978,8 +5783,7 @@
       "type": "Index",
       "code": "HKDFIXME",
       "description": "Фиксинг гонконгский доллар/российский рубль Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5988,8 +5792,7 @@
       "type": "Index",
       "code": "PALADFIXME",
       "description": "Фиксинг палладия Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -5998,8 +5801,7 @@
       "type": "Index",
       "code": "PLATFIXME",
       "description": "Фиксинг платины Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6008,8 +5810,7 @@
       "type": "Index",
       "code": "SILVFIXME",
       "description": "Фиксинг серебра Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6018,8 +5819,7 @@
       "type": "Index",
       "code": "TRYFIXME",
       "description": "Фиксинг турецкая лира/российский рубль Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6028,8 +5828,7 @@
       "type": "Index",
       "code": "USDCNYFIXME",
       "description": "Фиксинг доллар США/китайский юань Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6038,8 +5837,7 @@
       "type": "ReferenceRate",
       "code": "USDFIX",
       "description": "Курс доллар США/российский рубль",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Currency",
       "settlementAsset": "RUB",
       "provider": "Московская Биржа"
@@ -6049,8 +5847,7 @@
       "type": "Index",
       "code": "USDFIXME",
       "description": "Фиксинг доллар США/российский рубль Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6059,8 +5856,7 @@
       "type": "Index",
       "code": "USDKZTFIXME",
       "description": "Фиксинг доллар США/казахстанский тенге Московской Биржи",
-      "venue": "MISX",
-      "board": "FIXI",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     },
@@ -6069,7 +5865,7 @@
       "type": "Index",
       "code": "ICALM",
       "description": "Индекс МосБиржи спокойствия",
-      "venue": "MISX",
+      "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
     }
