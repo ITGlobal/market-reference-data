@@ -191,13 +191,6 @@
       "id": "01a0ec4b-0445-74c0-9590-64b3b5b5bd8d"
     },
     {
-      "symbol": "CNH",
-      "type": "Fiat",
-      "name": "Yuan Renminbi (offshore)",
-      "isoCurrency": "CNY",
-      "id": "01a0f7c8-cf18-71e9-91c7-917fde5479e3"
-    },
-    {
       "symbol": "CNY",
       "type": "Fiat",
       "name": "Yuan Renminbi",
