@@ -1,0 +1,579 @@
+{
+  "$schema": "../../schema/options-products.schema.json",
+  "products": [
+    {
+      "id": "01a1165e-d55b-7e4b-946b-947adac8c3a1",
+      "code": "ADBE",
+      "name": "Options on ADBE",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US00724F1012"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7761-9b07-3a6bdd48e2ad",
+      "code": "AMD",
+      "name": "Options on AMD",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US0079031078"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7168-b32e-c14c980d209d",
+      "code": "AMZN",
+      "name": "Options on AMZN",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US0231351067"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-782f-a851-3f42046557f2",
+      "code": "APP",
+      "name": "Options on APP",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US03831W1080"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-71cc-8fae-c0fc55cd7fa8",
+      "code": "ARM",
+      "name": "Options on ARM",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US0420682058"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-706a-a628-a9bd7af3e566",
+      "code": "BE",
+      "name": "Options on BE",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US0937121079"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7233-a5f5-777a16b0858d",
+      "code": "BIIB",
+      "name": "Options on BIIB",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US09062X1037"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-77dc-8f93-9db35bf47ca2",
+      "code": "BSX",
+      "name": "Options on BSX",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US1011371077"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-75ff-8b3e-d71cea282eed",
+      "code": "CIEN",
+      "name": "Options on CIEN",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US1717793095"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-796b-9b80-c912e031aa20",
+      "code": "CMG",
+      "name": "Options on CMG",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US1696561059"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-785f-a49f-d56da23ba24e",
+      "code": "COHR",
+      "name": "Options on COHR",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US19247G1076"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7d1f-8f11-3d2e2862e8ea",
+      "code": "COIN",
+      "name": "Options on COIN",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US19260Q1076"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-756e-9dbd-f30c9fd03286",
+      "code": "CRCL",
+      "name": "Options on CRCL",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US1725731079"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7a07-90a2-7e21df63b3f6",
+      "code": "CRWD",
+      "name": "Options on CRWD",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US22788C1053"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7f4b-ad39-41195305348a",
+      "code": "CRWV",
+      "name": "Options on CRWV",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US21873S1087"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-727e-b578-3aabe935fe61",
+      "code": "CVNA",
+      "name": "Options on CVNA",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US1468691027"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-775c-bec2-9a1e79179c1a",
+      "code": "DASH",
+      "name": "Options on DASH",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US25809K1051"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7fb5-8e2f-73a2c3de131c",
+      "code": "DUOL",
+      "name": "Options on DUOL",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US26603R1068"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-748c-84a8-6d512113c6cc",
+      "code": "GTLB",
+      "name": "Options on GTLB",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US37637K1088"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7b4c-a4c0-0ca63a1f2669",
+      "code": "HOOD",
+      "name": "Options on HOOD",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US7707001027"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7cb9-819b-cec774c3e45f",
+      "code": "INTC",
+      "name": "Options on INTC",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US4581401001"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7499-8ebb-dae71d0e50a9",
+      "code": "IONQ",
+      "name": "Options on IONQ",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US46222L1089"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-770b-a77e-3368d26cfcba",
+      "code": "LITE",
+      "name": "Options on LITE",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US55024U1097"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7d3c-af8f-a2a5d0743bb2",
+      "code": "LULU",
+      "name": "Options on LULU",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US5500211090"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-712e-9971-d4156400e407",
+      "code": "MRNA",
+      "name": "Options on MRNA",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US60770K1079"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7b71-85be-976426c20991",
+      "code": "MSTR",
+      "name": "Options on MSTR",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US5949724083"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7372-9a97-88e50f5b0eb2",
+      "code": "NBIS",
+      "name": "Options on NBIS",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "NL0009805522"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-72e8-86f7-6a73d006d23f",
+      "code": "NFLX",
+      "name": "Options on NFLX",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US64110L1061"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7d9d-909f-5437e68eeaf7",
+      "code": "NOW",
+      "name": "Options on NOW",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US81762P1021"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-73c8-a6f7-5abbca9962ac",
+      "code": "PANW",
+      "name": "Options on PANW",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US6974351057"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7e03-9cb0-e87990ecc0c1",
+      "code": "RBLX",
+      "name": "Options on RBLX",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US7710491033"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7847-9115-09255c1a6a60",
+      "code": "RDDT",
+      "name": "Options on RDDT",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US75734B1008"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-753c-bcd2-3b2ea3db5d7c",
+      "code": "SMCI",
+      "name": "Options on SMCI",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US86800U3023"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-737d-b387-c2626de22a35",
+      "code": "SNDK",
+      "name": "Options on SNDK",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US80004C2008"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-71d7-a2ed-70de6174f1e0",
+      "code": "SPCX",
+      "name": "Options on SPCX",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US84615Q1031"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-73a2-9858-014a0c433b8c",
+      "code": "SPOT",
+      "name": "Options on SPOT",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "LU1778762911"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7c75-90d3-69ebe40b859d",
+      "code": "TEAM",
+      "name": "Options on TEAM",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US0494681010"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7369-aba4-529ab7d6cc5e",
+      "code": "TSLA",
+      "name": "Options on TSLA",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US88160R1014"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7678-955f-e708b03cd546",
+      "code": "TTWO",
+      "name": "Options on TTWO",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US8740541094"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7281-a7ce-7558adbd75d8",
+      "code": "U",
+      "name": "Options on U",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US91332U1016"
+      }
+    },
+    {
+      "id": "01a1165e-d55b-7000-9691-025896ff1eae",
+      "code": "UBER",
+      "name": "Options on UBER",
+      "venue": "ITSL",
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "US90353T1007"
+      }
+    }
+  ]
+}

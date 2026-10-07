@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schema/reference-instruments.schema.json",
+  "instruments": [
+    {
+      "id": "01a1165e-d53e-7bbe-ab2c-4d67f1333530",
+      "type": "Index",
+      "code": "ITSS",
+      "description": "The ITS Shariah Index",
+      "venue": "ITSL",
+      "quoteUnit": "Points",
+      "provider": "ITS"
+    },
+    {
+      "id": "01a1165e-d53e-78f9-b8ee-0a4fa430c7b3",
+      "type": "Index",
+      "code": "ITSW",
+      "description": "The ITS World Index",
+      "venue": "ITSL",
+      "quoteUnit": "Points",
+      "provider": "ITS"
+    }
+  ]
+}
