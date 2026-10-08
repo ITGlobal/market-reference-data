@@ -2628,6 +2628,19 @@
       }
     },
     {
+      "id": "01a0fbf5-089e-7ea7-9b1a-d7d8489fcb93",
+      "code": "6H",
+      "name": "CNH/USD FUTURE",
+      "venue": "XCME",
+      "contractSize": 500000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "asset": "CNH"
+      }
+    },
+    {
       "id": "01a0fbf5-08a0-7738-a38c-a771a176d79a",
       "code": "6L",
       "name": "EUR 1% FUEL OIL FOB RDM BALMO FUT",
@@ -5749,6 +5762,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "ADA"
+      }
+    },
+    {
+      "id": "01a0fbf5-089e-78b2-8205-66b95ce19f44",
+      "code": "CNH",
+      "name": "USD/CNH FUTURE",
+      "venue": "XCME",
+      "contractSize": 100000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "CNH",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "USD"
       }
     },
     {
@@ -16117,6 +16143,19 @@
       }
     },
     {
+      "id": "01a0fbf5-08a0-7189-93ec-a782dabae388",
+      "code": "PAC",
+      "name": "IRON ORE CHINA PORTSIDE FINES CNH F",
+      "venue": "XNYM",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "CNH",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "IRONORE"
+      }
+    },
+    {
       "id": "01a0fbf5-089f-7d39-a152-645f21c7345b",
       "code": "PAD",
       "name": "GBP/AUD FUTURE",
@@ -18919,6 +18958,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "GASOIL_10PPM"
+      }
+    },
+    {
+      "id": "01a0fbf5-08a0-74e8-8881-b2d706ffe91a",
+      "code": "SGC",
+      "name": "SHANGHAI GOLD (CNH) FUTURES",
+      "venue": "XNYM",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "CNH",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAU"
       }
     },
     {
