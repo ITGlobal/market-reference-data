@@ -1,4 +1,20 @@
 {
   "$schema": "../../schema/options-products.schema.json",
-  "products": []
+  "products": [
+    {
+      "id": "01a11bb5-8f82-701b-9a4c-d4602debeaf4",
+      "code": "PIKK",
+      "name": "Опционы на акции PIKK",
+      "venue": "MISX",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU000A0JP7J7"
+      }
+    }
+  ]
 }

@@ -289,6 +289,266 @@
       "underlying": {
         "security": "KYG9830T1067"
       }
+    },
+    {
+      "id": "01a11bb5-8f81-7007-839e-9fd0c787d687",
+      "code": "BELU",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «НоваБев Групп»",
+      "venue": "MISX",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RU000A0HL5M1"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7008-a4a4-e21a27f99581",
+      "code": "CHMF",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Северсталь»",
+      "venue": "MISX",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RU0009046510"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7009-8eca-090a035bbf33",
+      "code": "DSKY",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Детский мир»",
+      "venue": "MISX",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RU000A0JSQ90"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-700a-8b61-0cb8dba07082",
+      "code": "FIVE",
+      "name": "Фьючерсный контракт на ГДР X5 Retail Group N.V.",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "US98387E2054"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-700b-9ee6-71492769cf17",
+      "code": "MAIL",
+      "name": "Фьючерсный контракт на ГДР VK Company Limited",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "US5603172082"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-700c-9d9d-919c0405870c",
+      "code": "NOTK",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «НОВАТЭК»",
+      "venue": "MISX",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RU000A0DKVS5"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-700d-96ec-b82a89d61004",
+      "code": "PIKK",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «ПИК-специализированный застройщик»",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RU000A0JP7J7"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-700e-ab9f-530a7c835065",
+      "code": "PLZL",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Полюс»",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RU000A0JNAA8"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-700f-9778-d6b955c0f866",
+      "code": "POLY",
+      "name": "Фьючерсный контракт на обыкновенные акции Polymetal International plc",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "JE00B6T5S470"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7010-b7a4-702e214675b5",
+      "code": "RSTI",
+      "name": "Фьючерсный контракт на обыкновенные акции ПАО «Российские сети»",
+      "venue": "MISX",
+      "contractSize": 10000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "RU000A0JPVJ0"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7011-820e-fc16bc1f77ec",
+      "code": "TCSI",
+      "name": "Фьючерсный контракт на ГДР TCS Group Holding PLC",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "US87238U2033"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7012-904e-ed63868475bd",
+      "code": "YNDF",
+      "name": "Фьючерсный контракт на обыкновенные акции Yandex N.V.",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Physical",
+      "underlying": {
+        "security": "NL0009805522"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7013-b9b1-ed6cddb21c1d",
+      "code": "ALMN",
+      "name": "Фьючерсный контракт на алюминий",
+      "venue": "MISX",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ALUM"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7014-b428-142ce7356af2",
+      "code": "Co",
+      "name": "Фьючерсный контракт на медь",
+      "venue": "MISX",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "COPPER"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7015-bafa-dcfcc36716f8",
+      "code": "Nl",
+      "name": "Фьючерсный контракт на никель",
+      "venue": "MISX",
+      "contractSize": 0.1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "NICKEL"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7016-8968-6909095f6986",
+      "code": "Zn",
+      "name": "Фьючерсный контракт на цинк",
+      "venue": "MISX",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ZINC"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7017-ae43-4fc2b43a8ed1",
+      "code": "CL",
+      "name": "Фьючерсный контракт на нефть ВТИ",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "WTI"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7018-bcbc-1059d7432756",
+      "code": "GLD",
+      "name": "Фьючерсный контракт на золото (в рублях за грамм)",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAU"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-7019-9f7e-15e681219ca0",
+      "code": "SLV",
+      "name": "Фьючерсный контракт на серебро (в рублях за грамм)",
+      "venue": "MISX",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "XAG"
+      }
+    },
+    {
+      "id": "01a11bb5-8f81-701a-b47f-80d147a094b2",
+      "code": "WH4",
+      "name": "Фьючерсный контракт на пшеницу",
+      "venue": "MISX",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "WHEAT"
+      }
     }
   ]
 }
