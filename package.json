@@ -1,0 +1,14 @@
+{
+  "name": "market-reference-data",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Register seed data for SecurityMaster — validated against JSON Schema in CI",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}
