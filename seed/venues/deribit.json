@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schema/venues.schema.json",
+  "venues": [
+    {
+      "id": "01a0ed7b-4679-7ff7-bc85-3cd8b123b0a1",
+      "mic": "XDRB",
+      "name": "Deribit",
+      "boards": []
+    }
+  ]
+}
