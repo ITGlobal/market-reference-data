@@ -340,6 +340,22 @@
       }
     },
     {
+      "id": "01a139d0-63ef-764c-87cf-99f3c331f356",
+      "code": "BTCDVOL_USDC",
+      "name": "BTCDVOL futures (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 0.1,
+      "quoteUnit": "Points",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BTCDVOL",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7805-b142-95bc583ea63a",
       "code": "BTC_USDC",
       "name": "BTC futures (linear, settled in USDC)",

@@ -32,6 +32,21 @@
       }
     },
     {
+      "id": "01a139d0-5ca8-79e4-9e42-0c605ef9796c",
+      "code": "MATIC_USDC",
+      "name": "MATIC options (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "MATIC"
+      }
+    },
+    {
       "id": "01a0ed84-7f53-78f1-b86b-e7663eb49723",
       "code": "PAXG_USDC",
       "name": "PAXG options (linear, settled in USDC)",

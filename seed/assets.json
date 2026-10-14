@@ -2721,6 +2721,12 @@
       "type": "Crypto",
       "name": "Pons",
       "id": "01a139b7-ebbe-7c78-aa16-f6806ef6836a"
+    },
+    {
+      "symbol": "MATIC",
+      "type": "Crypto",
+      "name": "Polygon",
+      "id": "01a139d0-5ca5-7000-bf6e-9c077b09388a"
     }
   ]
 }
