@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schema/securities.schema.json",
+  "securities": [
+    {
+      "id": "01a13a20-7372-7a0d-a377-dc1361f91aa8",
+      "key": "JETL",
+      "isin": "RU000A10A0J4",
+      "kind": "Equity",
+      "name": "ДжетЛенд Холдинг ПАО ао"
+    }
+  ]
+}
