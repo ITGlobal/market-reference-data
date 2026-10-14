@@ -1,10 +1,11 @@
 name: Validate seed data
 
+# Проверка на каждый push и PR в ветки данных: sm читает Write API SecurityMaster, ordo — Ordo
 on:
   push:
-    branches: [main]
+    branches: [main, sm, ordo]
   pull_request:
-    branches: [main]
+    branches: [main, sm, ordo]
 
 jobs:
   validate:
