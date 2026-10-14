@@ -366,6 +366,19 @@
       }
     },
     {
+      "id": "01a139ac-46da-7f51-9ca3-46f117355bfa",
+      "code": "CASHCAT_USDC-PERPETUAL",
+      "name": "CASHCAT perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 10.0,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "CASHCAT"
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7084-9d83-7d2b23a3e57b",
       "code": "CFX_USDC-PERPETUAL",
       "name": "CFX perpetual (linear, settled in USDC)",
@@ -1013,6 +1026,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "POL"
+      }
+    },
+    {
+      "id": "01a139ac-46dd-7bf2-9358-f9f09b404d9e",
+      "code": "PONS_USDC-PERPETUAL",
+      "name": "PONS perpetual (linear, settled in USDC)",
+      "venue": "DRBT",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "PONS"
       }
     },
     {

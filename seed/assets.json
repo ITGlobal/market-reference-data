@@ -2709,6 +2709,18 @@
       "type": "Stablecoin",
       "name": "Tether",
       "id": "01a0ed84-7f54-7ba5-9fd7-e8f004596a5f"
+    },
+    {
+      "symbol": "CASHCAT",
+      "type": "Crypto",
+      "name": "Cash Cat",
+      "id": "01a139b7-ebbe-7b0e-830a-5001794b4771"
+    },
+    {
+      "symbol": "PONS",
+      "type": "Crypto",
+      "name": "Pons",
+      "id": "01a139b7-ebbe-7c78-aa16-f6806ef6836a"
     }
   ]
 }
