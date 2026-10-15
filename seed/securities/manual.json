@@ -259,34 +259,6 @@
       "kind": "Equity",
       "name": "TCS Group Holding PLC GDR",
       "id": "01a11bb5-8f80-7002-a3e4-c793c98eabdd"
-    },
-    {
-      "key": "US48581R2058",
-      "isin": "US48581R2058",
-      "kind": "Equity",
-      "name": "Joint Stock Company Kaspi.kz ADS",
-      "id": "01a11bb5-8f80-7003-9e03-05fb5254e78f"
-    },
-    {
-      "key": "US0090632078",
-      "isin": "US0090632078",
-      "kind": "Equity",
-      "name": "Air Astana JSC GDR",
-      "id": "01a11bb5-8f80-7004-a71f-3eaf7b877783"
-    },
-    {
-      "key": "US46627J3023",
-      "isin": "US46627J3023",
-      "kind": "Equity",
-      "name": "Halyk Savings Bank of Kazakhstan JSC GDR",
-      "id": "01a11bb5-8f80-7005-9f79-97fc23027c8a"
-    },
-    {
-      "key": "US63253R2013",
-      "isin": "US63253R2013",
-      "kind": "Equity",
-      "name": "National Atomic Company Kazatomprom JSC GDR",
-      "id": "01a11bb5-8f80-7006-a8dd-919cc4882bc6"
     }
   ]
 }
