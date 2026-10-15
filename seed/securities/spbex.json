@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/securities.schema.json",
+  "securities": [
+    {
+      "id": "01a13a7a-7028-7261-8782-afd2f42bb9b7",
+      "key": "ALGOT",
+      "isin": "RU000A10E3V9",
+      "kind": "Fund",
+      "name": "ИПИФ комбинированный «Алготех»"
+    },
+    {
+      "id": "01a13a20-7372-7a0d-a377-dc1361f91aa8",
+      "key": "JETL",
+      "isin": "RU000A10A0J4",
+      "kind": "Equity",
+      "name": "ДжетЛенд Холдинг ПАО ао"
+    },
+    {
+      "id": "01a13a7a-7028-7d6a-adf5-58f44810078a",
+      "key": "MTKB",
+      "isin": "RU000A0JRAK8",
+      "kind": "Equity",
+      "name": "МЕТКОМБАНК ПАО ао"
+    },
+    {
+      "id": "01a13a7a-7028-7d81-9612-bb9770d1a5f6",
+      "key": "NFKS",
+      "isin": "RU000A0ZYJA2",
+      "kind": "Equity",
+      "name": "ИК НФК-Сбережения ПАО ао"
+    }
+  ]
+}

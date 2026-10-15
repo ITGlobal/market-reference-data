@@ -245,6 +245,20 @@
       "kind": "Equity",
       "name": "Xiaomi Corporation",
       "id": "01a10c1f-11de-7aa4-80b6-5facf4cec76e"
+    },
+    {
+      "key": "US5603172082",
+      "isin": "US5603172082",
+      "kind": "Equity",
+      "name": "VK Company Limited GDR (Mail.Ru Group)",
+      "id": "01a11bb5-8f80-7001-a87a-7b3dd4939ded"
+    },
+    {
+      "key": "US87238U2033",
+      "isin": "US87238U2033",
+      "kind": "Equity",
+      "name": "TCS Group Holding PLC GDR",
+      "id": "01a11bb5-8f80-7002-a3e4-c793c98eabdd"
     }
   ]
 }
