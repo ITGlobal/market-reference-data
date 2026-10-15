@@ -6630,6 +6630,14 @@
       "issuerName": "Ethan Allen Interiors Inc."
     },
     {
+      "id": "01a13fb5-7d6a-778d-8110-c084983567c5",
+      "key": "ETHA@ITSL",
+      "isin": "US46438R2040",
+      "kind": "Fund",
+      "name": "iShares Ethereum Trust ETF",
+      "issuerName": "iShares Ethereum Trust ETF"
+    },
+    {
       "id": "01a1165e-d545-764e-a974-8bbe8a1d79a8",
       "key": "ETHE@ITSL",
       "isin": "US3896381072",
@@ -8310,6 +8318,14 @@
       "issuerName": "Graphic Packaging Holding Company"
     },
     {
+      "id": "01a13fb5-7d6a-740a-b5f2-fdb54feb369a",
+      "key": "GPMT@ITSL",
+      "isin": "US38741L4041",
+      "kind": "Equity",
+      "name": "Granite Point Mortgage Trust Inc.",
+      "issuerName": "Granite Point Mortgage Trust Inc."
+    },
+    {
       "id": "01a1165e-d545-7ce5-8745-82a428b5f889",
       "key": "GPMTold@ITSL",
       "isin": "US38741L1070",
@@ -9322,6 +9338,14 @@
       "kind": "Fund",
       "name": "iShares Trust",
       "issuerName": "iShares Trust"
+    },
+    {
+      "id": "01a13fb5-7d6a-7e53-86c0-673a15e1022f",
+      "key": "IAM@ITSL",
+      "isin": "US45076A1016",
+      "kind": "Equity",
+      "name": "Iambic Therapeutics, Inc.",
+      "issuerName": "Iambic Therapeutics, Inc."
     },
     {
       "id": "01a1165e-d545-7b40-a83c-e76c958f6c1b",
@@ -19947,6 +19971,14 @@
       "kind": "Equity",
       "name": "Trevi Therapeutics, Inc.",
       "issuerName": "Trevi Therapeutics, Inc."
+    },
+    {
+      "id": "01a13fb5-7d6a-7428-bbc2-6e9486b27b1a",
+      "key": "TRXB@ITSL",
+      "isin": "US89531N1000",
+      "kind": "Equity",
+      "name": "TRex Bio, Inc.",
+      "issuerName": "TRex Bio, Inc."
     },
     {
       "id": "01a1165e-d545-74cc-86e0-80f035a2e746",
