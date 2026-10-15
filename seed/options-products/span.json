@@ -1784,24 +1784,6 @@
       }
     },
     {
-      "id": "01a0fbf5-08b5-78a2-8e08-1e13db11d800",
-      "code": "6H",
-      "name": "CNH/USD MONTHLY OPTIONS",
-      "venue": "XCME",
-      "contractSize": 500000,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "exerciseStyle": "European",
-      "settlementMethod": "Physical",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "futuresProduct": {
-          "code": "6H",
-          "venue": "XCME"
-        }
-      }
-    },
-    {
       "id": "01a0fbf5-08b5-74ab-9378-3f3525ca2312",
       "code": "70",
       "name": "OPTIONS ON BLOOMBERG COMMODITY INDX",
@@ -3112,24 +3094,6 @@
         "futuresProduct": {
           "code": "C",
           "venue": "XCBT"
-        }
-      }
-    },
-    {
-      "id": "01a0fbf5-08b5-7580-8e80-def80d6b34f0",
-      "code": "CFW",
-      "name": "CNH/USD WEEKLY FRIDAY OPTIONS Long",
-      "venue": "XCME",
-      "contractSize": 500000,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "exerciseStyle": "European",
-      "settlementMethod": "Physical",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "futuresProduct": {
-          "code": "6H",
-          "venue": "XCME"
         }
       }
     },

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schema/reference-instruments.schema.json",
+  "instruments": [
+    {
+      "id": "01a139d0-63fe-7ba7-903f-136019fe6b2f",
+      "type": "Index",
+      "code": "BTCDVOL",
+      "description": "Deribit BTC Volatility Index (DVOL)",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "methodology": "30-day annualised implied volatility of BTC, computed by Deribit from its BTC option prices",
+      "provider": "Deribit"
+    }
+  ]
+}
