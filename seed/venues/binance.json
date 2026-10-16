@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/venues.schema.json",
+  "venues": [
+    {
+      "id": "01a144c4-d118-7c2e-8c28-34fcfc5283f3",
+      "mic": "XBNF",
+      "name": "Binance",
+      "boards": [
+        {
+          "id": "01a144c4-d118-78ef-86ff-66fde85baebf",
+          "code": "SPOT",
+          "name": "Spot"
+        },
+        {
+          "id": "01a144c4-d118-738e-bd02-287ef8c3cca6",
+          "code": "UM",
+          "name": "USDⓈ-M Futures"
+        },
+        {
+          "id": "01a144c4-d118-7a91-bb70-e82702b1fc19",
+          "code": "CM",
+          "name": "COIN-M Futures"
+        },
+        {
+          "id": "01a144c4-d118-7a7b-a868-8232f3a23465",
+          "code": "OPT",
+          "name": "Options"
+        }
+      ]
+    }
+  ]
+}

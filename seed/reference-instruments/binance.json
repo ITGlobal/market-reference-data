@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schema/reference-instruments.schema.json",
+  "instruments": [
+    {
+      "id": "01a144c4-d121-71b2-8686-e32552ecba52",
+      "type": "Index",
+      "code": "ALL",
+      "description": "Binance ALL Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a144c4-d121-7203-86e9-5e580ef217e2",
+      "type": "Index",
+      "code": "BTCDOM",
+      "description": "Binance Bitcoin Dominance Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a144c4-d121-7308-8b2a-ff77cd1f3aa2",
+      "type": "Index",
+      "code": "DEFI",
+      "description": "Binance DeFi Composite Index",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "Binance"
+    }
+  ]
+}
