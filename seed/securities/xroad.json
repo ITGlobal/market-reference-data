@@ -61816,38 +61816,6 @@
       }
     },
     {
-      "id": "01a11bc0-0490-70d2-9e00-fcc889d8195b",
-      "key": "RU000A10G7P0",
-      "isin": "RU000A10G7P0",
-      "kind": "Debt",
-      "name": "СФО Сплит Финанс ПВ-4",
-      "debt": {
-        "faceValue": 1000,
-        "faceCurrency": "RUB",
-        "rateType": "Fixed",
-        "couponRate": 16.5,
-        "couponFrequency": "Monthly",
-        "dayCount": "ActAct",
-        "maturityDate": "2030-11-27"
-      }
-    },
-    {
-      "id": "01a11bc0-0492-70d3-9476-5f30cfdfa85c",
-      "key": "RU000A10GBM8",
-      "isin": "RU000A10GBM8",
-      "kind": "Debt",
-      "name": "Томская область 34079",
-      "debt": {
-        "faceValue": 1000,
-        "faceCurrency": "RUB",
-        "rateType": "Fixed",
-        "couponRate": 16.4,
-        "couponFrequency": "Monthly",
-        "dayCount": "ActAct",
-        "maturityDate": "2030-04-30"
-      }
-    },
-    {
       "id": "01a11bc0-0494-70d4-8985-c97892b13109",
       "key": "XS1675776014",
       "isin": "XS1675776014",
