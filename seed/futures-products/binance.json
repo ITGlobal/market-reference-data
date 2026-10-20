@@ -1708,9 +1708,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-7ddc-9f12-5895991115c3",
-      "code": "BNBUSD_DELIVERY",
-      "name": "BNB futures",
+      "id": "01a144c4-d129-769a-b431-c7733d4c0fc7",
+      "code": "BNBUSD_PERP",
+      "name": "BNB perpetual",
       "venue": "XBNF",
       "contractSize": 10,
       "quoteUnit": "Currency",
@@ -1721,9 +1721,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-769a-b431-c7733d4c0fc7",
-      "code": "BNBUSD_PERP",
-      "name": "BNB perpetual",
+      "id": "01a144c4-d129-7ddc-9f12-5895991115c3",
+      "code": "BNBUSD_QUARTERLY",
+      "name": "BNB futures",
       "venue": "XBNF",
       "contractSize": 10,
       "quoteUnit": "Currency",
@@ -1985,7 +1985,7 @@
     },
     {
       "id": "01a144c4-d129-7c5b-856f-dbbedaa2b1bd",
-      "code": "BTCUSDT_DELIVERY",
+      "code": "BTCUSDT_QUARTERLY",
       "name": "BTC futures",
       "venue": "XBNF",
       "contractSize": 1,
@@ -1997,9 +1997,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-7211-84de-539a682f9c07",
-      "code": "BTCUSD_DELIVERY",
-      "name": "BTC futures",
+      "id": "01a144c4-d129-7370-9914-008e6d55c4a4",
+      "code": "BTCUSD_PERP",
+      "name": "BTC perpetual",
       "venue": "XBNF",
       "contractSize": 100,
       "quoteUnit": "Currency",
@@ -2010,9 +2010,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-7370-9914-008e6d55c4a4",
-      "code": "BTCUSD_PERP",
-      "name": "BTC perpetual",
+      "id": "01a144c4-d129-7211-84de-539a682f9c07",
+      "code": "BTCUSD_QUARTERLY",
+      "name": "BTC futures",
       "venue": "XBNF",
       "contractSize": 100,
       "quoteUnit": "Currency",
@@ -3379,7 +3379,7 @@
     },
     {
       "id": "01a144c4-d129-77df-beb0-b42e8d44f832",
-      "code": "ETHUSDT_DELIVERY",
+      "code": "ETHUSDT_QUARTERLY",
       "name": "ETH futures",
       "venue": "XBNF",
       "contractSize": 1,
@@ -3391,9 +3391,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-7d00-8fe0-2c21d1612f54",
-      "code": "ETHUSD_DELIVERY",
-      "name": "ETH futures",
+      "id": "01a144c4-d129-71bc-a931-31e4ed7d469a",
+      "code": "ETHUSD_PERP",
+      "name": "ETH perpetual",
       "venue": "XBNF",
       "contractSize": 10,
       "quoteUnit": "Currency",
@@ -3404,9 +3404,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-71bc-a931-31e4ed7d469a",
-      "code": "ETHUSD_PERP",
-      "name": "ETH perpetual",
+      "id": "01a144c4-d129-7d00-8fe0-2c21d1612f54",
+      "code": "ETHUSD_QUARTERLY",
+      "name": "ETH futures",
       "venue": "XBNF",
       "contractSize": 10,
       "quoteUnit": "Currency",
@@ -7499,9 +7499,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-77e7-b880-f117f165b88c",
-      "code": "SOLUSD_DELIVERY",
-      "name": "SOL futures",
+      "id": "01a144c4-d129-7073-81ac-c67165d51dc4",
+      "code": "SOLUSD_PERP",
+      "name": "SOL perpetual",
       "venue": "XBNF",
       "contractSize": 10,
       "quoteUnit": "Currency",
@@ -7512,9 +7512,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-7073-81ac-c67165d51dc4",
-      "code": "SOLUSD_PERP",
-      "name": "SOL perpetual",
+      "id": "01a144c4-d129-77e7-b880-f117f165b88c",
+      "code": "SOLUSD_QUARTERLY",
+      "name": "SOL futures",
       "venue": "XBNF",
       "contractSize": 10,
       "quoteUnit": "Currency",
@@ -9189,9 +9189,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-7554-b7c0-dc4a57acbe2f",
-      "code": "XRPUSD_DELIVERY",
-      "name": "XRP futures",
+      "id": "01a144c4-d129-75bc-9b7a-89405db20be8",
+      "code": "XRPUSD_PERP",
+      "name": "XRP perpetual",
       "venue": "XBNF",
       "contractSize": 10,
       "quoteUnit": "Currency",
@@ -9202,9 +9202,9 @@
       }
     },
     {
-      "id": "01a144c4-d129-75bc-9b7a-89405db20be8",
-      "code": "XRPUSD_PERP",
-      "name": "XRP perpetual",
+      "id": "01a144c4-d129-7554-b7c0-dc4a57acbe2f",
+      "code": "XRPUSD_QUARTERLY",
+      "name": "XRP futures",
       "venue": "XBNF",
       "contractSize": 10,
       "quoteUnit": "Currency",
