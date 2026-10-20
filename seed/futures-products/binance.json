@@ -314,6 +314,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7482-b6b2-2ac1923d9847",
+      "code": "AAOIUSDT",
+      "name": "AAOI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AAOIUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-74e2-a333-ee613f2c39a0",
+      "code": "AAPLUSDT",
+      "name": "AAPL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AAPLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-78a5-a413-24993e0d4ae2",
       "code": "AAVEUSDC",
       "name": "AAVE perpetual",
@@ -376,6 +408,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "ACH"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-74c8-a898-40d739016ab4",
+      "code": "ACNUSDT",
+      "name": "ACN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ACNUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -457,6 +505,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7385-b359-e5bb38ee989a",
+      "code": "ADBEUSDT",
+      "name": "ADBE perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ADBEUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7674-9e07-3835a32c14ec",
       "code": "AEROUSDT",
       "name": "AERO perpetual",
@@ -506,6 +570,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "AGLD"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7649-9a12-1ab8f3deca3e",
+      "code": "AGPUUSDT",
+      "name": "AGPU perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AGPUUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -626,6 +706,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-72d6-a95e-983748558809",
+      "code": "AKAMUSDT",
+      "name": "AKAM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AKAMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7abb-a94c-b68a7f5371a4",
       "code": "AKEUSDT",
       "name": "AKE perpetual",
@@ -649,6 +745,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "AKT"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-72e4-a809-82e49e911b00",
+      "code": "ALABUSDT",
+      "name": "ALAB perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ALABUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -772,6 +884,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7064-bdae-497fedfa9500",
+      "code": "AMATUSDT",
+      "name": "AMAT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AMATUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-78db-9cc0-81ccf1305a37",
       "code": "AMBUSDT",
       "name": "AMB perpetual",
@@ -782,6 +910,70 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "AMB"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7ea7-bb2f-f7703feb9e0c",
+      "code": "AMCUSDT",
+      "name": "AMC perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AMCUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7e71-ae6a-ce36cda29ca1",
+      "code": "AMDUSDT",
+      "name": "AMD perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AMDUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-79eb-9bc2-9758a5cddd90",
+      "code": "AMZNUSDT",
+      "name": "AMZN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AMZNUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7028-8ee7-66b156b5291b",
+      "code": "ANETUSDT",
+      "name": "ANET perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ANETUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -834,6 +1026,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "API3"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-74d2-92d0-bc758bb73fb7",
+      "code": "APLDUSDT",
+      "name": "APLD perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "APLDUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-78ae-904e-56fb73fa04b0",
+      "code": "APPUSDT",
+      "name": "APP perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "APPUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -941,6 +1165,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7bde-8a1b-36abe8ffe031",
+      "code": "ARMUSDT",
+      "name": "ARM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ARMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7d13-9905-b76d76ca84fb",
       "code": "ARPAUSDT",
       "name": "ARPA perpetual",
@@ -980,6 +1220,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-79c8-a114-ef0c0ad7abda",
+      "code": "ASMLUSDT",
+      "name": "ASML perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ASMLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7cc1-9135-1238c2132bc9",
       "code": "ASRUSDT",
       "name": "ASR perpetual",
@@ -1016,6 +1272,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "ASTR"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7b50-9ec2-ff4a0389ea43",
+      "code": "ASTSUSDT",
+      "name": "ASTS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ASTSUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1162,6 +1434,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-74a2-bd62-96acd3582af9",
+      "code": "AVGOUSDT",
+      "name": "AVGO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AVGOUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7072-82da-b28495fab3e1",
       "code": "AVNTUSDT",
       "name": "AVNT perpetual",
@@ -1214,6 +1502,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7426-aee6-ac0908f042e9",
+      "code": "AXTIUSDT",
+      "name": "AXTI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AXTIUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7b89-a681-ff4f7e629e73",
       "code": "AZTECUSDT",
       "name": "AZTEC perpetual",
@@ -1250,6 +1554,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "B3"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7068-bd2e-5945e010d73c",
+      "code": "BABAUSDT",
+      "name": "BABA perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BABAUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1435,6 +1755,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7335-91c1-25cf73dd356e",
+      "code": "BBXUSDT",
+      "name": "BBX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BBXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7179-ac86-ad812bd26e50",
       "code": "BCHUSDC",
       "name": "BCH perpetual",
@@ -1523,6 +1859,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "BERA"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-727f-ae3d-d50622ace547",
+      "code": "BEUSDT",
+      "name": "BE perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BEUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1617,6 +1969,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7acc-a4f2-2a14ccd607af",
+      "code": "BITOUSDT",
+      "name": "BITO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BITOUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7244-b08b-7c5873f000ff",
       "code": "BLESSUSDT",
       "name": "BLESS perpetual",
@@ -1666,6 +2034,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "BLZ"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-74a6-8398-5d86cae7da71",
+      "code": "BMNRUSDT",
+      "name": "BMNR perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BMNRUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1731,6 +2115,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "BNB"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-77b5-a765-695e2906e94a",
+      "code": "BNCUSDT",
+      "name": "BNC perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BNCUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1812,6 +2212,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7c17-b345-2474ab7e7007",
+      "code": "BOTUSDT",
+      "name": "BOT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BOTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7780-a41d-83abfffb97c6",
       "code": "BRETTUSDT",
       "name": "BRETT perpetual",
@@ -1835,6 +2251,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "BREV"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-75f5-b535-a61e944e599b",
+      "code": "BRKBUSDT",
+      "name": "BRKB perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BRKBUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1887,6 +2319,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "BSB"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7432-9285-6050e7130971",
+      "code": "BSPUSDT",
+      "name": "BSP perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BSPUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -2075,6 +2523,54 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7f39-89ed-44bbdd423414",
+      "code": "BWETUSDT",
+      "name": "BWET perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BWETUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7ebe-8baa-5158bd579c08",
+      "code": "BXUSDT",
+      "name": "BX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-72fc-bd1c-b2018652684c",
+      "code": "BYDUSDT",
+      "name": "BYD perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BYDUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7463-ab1e-462e8d9206e4",
       "code": "BZUSDT",
       "name": "BZ perpetual",
@@ -2150,6 +2646,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "CATI"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7268-b7dc-cae8722fb259",
+      "code": "CATUSDT",
+      "name": "CAT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CATUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7472-bf71-2c6b8b48e04c",
+      "code": "CBRSUSDT",
+      "name": "CBRS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CBRSUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -2309,6 +2837,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-737c-b211-b83e5644ad52",
+      "code": "CIENUSDT",
+      "name": "CIEN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CIENUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7cf3-8b99-e8c4a8ff7da1",
       "code": "CKBUSDT",
       "name": "CKB perpetual",
@@ -2371,6 +2915,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "COAI"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-73de-986e-e82514bc2f92",
+      "code": "COHRUSDT",
+      "name": "COHR perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "COHRUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7da1-a177-15f03a5ce2c1",
+      "code": "COINUSDT",
+      "name": "COIN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "COINUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -2452,6 +3028,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7b70-875b-1237305bdd5e",
+      "code": "COSTUSDT",
+      "name": "COST perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "COSTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-75ae-8413-41b31e092d22",
       "code": "COSUSDT",
       "name": "COS perpetual",
@@ -2491,6 +3083,70 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7945-a805-8ae03cc3fcf4",
+      "code": "CRCLUSDT",
+      "name": "CRCL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CRCLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-77de-8518-966c0b22200c",
+      "code": "CRDOUSDT",
+      "name": "CRDO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CRDOUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-74e7-8af1-c279185e6aa7",
+      "code": "CRMLUSDT",
+      "name": "CRML perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CRMLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7725-b978-5da0bfbd65d9",
+      "code": "CRMUSDT",
+      "name": "CRM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CRMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7fb2-953b-e3b44d32ff80",
       "code": "CROSSUSDT",
       "name": "CROSS perpetual",
@@ -2527,6 +3183,86 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "CRV"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7bc7-8a78-b343c4ee2f61",
+      "code": "CRWDUSDT",
+      "name": "CRWD perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CRWDUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7858-80f5-3726b5c12711",
+      "code": "CRWVUSDT",
+      "name": "CRWV perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CRWVUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7b81-bf14-a4f4f98a6616",
+      "code": "CSCOUSDT",
+      "name": "CSCO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CSCOUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7f05-95cb-2bdb54c6660e",
+      "code": "CSOPSAMSUNG2LUSDT",
+      "name": "CSOPSAMSUNG2L perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CSOPSAMSUNG2LUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7ac4-aad6-4d0d6e566cc3",
+      "code": "CSOPSKHYNIX2LUSDT",
+      "name": "CSOPSKHYNIX2L perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CSOPSKHYNIX2LUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -2621,6 +3357,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7a7a-946a-05c3c1f91d98",
+      "code": "CVNAUSDT",
+      "name": "CVNA perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CVNAUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-78f9-bca6-bb31640b9892",
       "code": "CVXUSDT",
       "name": "CVX perpetual",
@@ -2634,6 +3386,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-72b5-b709-15294cfb56e3",
+      "code": "CXMTUSDT",
+      "name": "CXMT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CXMTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7471-a513-e4ed873490c1",
       "code": "CYBERUSDT",
       "name": "CYBER perpetual",
@@ -2644,6 +3412,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "CYBER"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-76f7-962e-73865b95363d",
+      "code": "CYPHUSDT",
+      "name": "CYPH perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CYPHUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -2725,6 +3509,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-784d-8ee9-942a3886c71a",
+      "code": "DDOGUSDT",
+      "name": "DDOG perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "DDOGUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7909-af9c-1f91d3e8cf95",
       "code": "DEEPUSDT",
       "name": "DEEP perpetual",
@@ -2777,6 +3577,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "DEGO"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7520-9120-7777aac81df1",
+      "code": "DELLUSDT",
+      "name": "DELL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "DELLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -2842,6 +3658,54 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "DIA"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7577-b9e9-44da6be1911a",
+      "code": "DISUSDT",
+      "name": "DIS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "DISUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-700c-8ec4-766d8144f118",
+      "code": "DJTUSDT",
+      "name": "DJT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "DJTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7b83-9600-d628d02309f2",
+      "code": "DKNGUSDT",
+      "name": "DKNG perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "DKNGUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -2988,6 +3852,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7937-8a41-902ed13dc40b",
+      "code": "DRAMUSDT",
+      "name": "DRAM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "DRAMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-70ca-be92-8cbc792b99c0",
       "code": "DRIFTUSDT",
       "name": "DRIFT perpetual",
@@ -3050,6 +3930,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "DYM"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7de2-b633-85bc0b76f84c",
+      "code": "EBAYUSDT",
+      "name": "EBAY perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "EBAYUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -3456,6 +4352,70 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7fe8-b03c-ff21b097c6ed",
+      "code": "EWJUSDT",
+      "name": "EWJ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "EWJUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7f57-af43-19e99fe5cb95",
+      "code": "EWTUSDT",
+      "name": "EWT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "EWTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7171-9d33-f7b885fb8fa1",
+      "code": "EWYUSDT",
+      "name": "EWY perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "EWYUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7f11-b883-20a4861a3dea",
+      "code": "EWZUSDT",
+      "name": "EWZ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "EWZUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-73ea-87c5-4d208ef90e15",
       "code": "FARTCOINUSDT",
       "name": "FARTCOIN perpetual",
@@ -3599,6 +4559,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-79e4-bfa8-ef348e099f27",
+      "code": "FLEXUSDT",
+      "name": "FLEX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FLEXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-783a-b250-e25b5150222f",
       "code": "FLMUSDT",
       "name": "FLM perpetual",
@@ -3609,6 +4585,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "FLM"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-77f0-9cbb-4a6c18f735b4",
+      "code": "FLNCUSDT",
+      "name": "FLNC perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FLNCUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -3781,6 +4773,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7dd6-8131-0fcf93b98e34",
+      "code": "FWDIUSDT",
+      "name": "FWDI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FWDIUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-79e4-bd42-ba3c7e649e8e",
       "code": "FXSUSDT",
       "name": "FXS perpetual",
@@ -3833,6 +4841,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-77c5-8e93-191b3a5a8fc9",
+      "code": "GDXUSDT",
+      "name": "GDX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GDXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7709-acd0-3e760cb56e4b",
       "code": "GENIUSUSDT",
       "name": "GENIUS perpetual",
@@ -3846,6 +4870,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-71f5-b708-61433fc6cb97",
+      "code": "GEVUSDT",
+      "name": "GEV perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GEVUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7db4-8478-e21080f698f4",
       "code": "GHSTUSDT",
       "name": "GHST perpetual",
@@ -3856,6 +4896,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "GHST"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7829-bc91-e4dc4695f6ac",
+      "code": "GIGADEVUSDT",
+      "name": "GIGADEV perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GIGADEVUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -3898,6 +4954,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7460-b9b3-d3f5e76df6c7",
+      "code": "GLWUSDT",
+      "name": "GLW perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GLWUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7bc1-a943-a2f3f61be5bd",
+      "code": "GMEUSDT",
+      "name": "GME perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GMEUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7f25-9151-165e9ea41609",
       "code": "GMTUSDT",
       "name": "GMT perpetual",
@@ -3934,6 +5022,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "GOAT"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7609-9b07-3d19687d0254",
+      "code": "GOOGLUSDT",
+      "name": "GOOGL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GOOGLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7d95-8734-8266fb0d1b18",
+      "code": "GPROUSDT",
+      "name": "GPRO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GPROUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4015,6 +5135,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-75f8-8e8a-af6db7fe3e4a",
+      "code": "GSUSDT",
+      "name": "GS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GSUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7865-8229-0d69c3f93d8e",
       "code": "GTCUSDT",
       "name": "GTC perpetual",
@@ -4025,6 +5161,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "GTC"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-79aa-8bc0-3c3746ac6928",
+      "code": "GTLBUSDT",
+      "name": "GTLB perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GTLBUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4106,6 +5258,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-772e-a6ea-7dc15f4ab1cd",
+      "code": "HANMIUSDT",
+      "name": "HANMI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HANMIUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7d06-a0c4-e7288ef47661",
       "code": "HBARUSDC",
       "name": "HBAR perpetual",
@@ -4129,6 +5297,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "HBAR"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7426-93bd-4d23e01ef4d7",
+      "code": "HDUSDT",
+      "name": "HD perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HDUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4197,6 +5381,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7b84-8bbe-8e6e89dfa27d",
+      "code": "HIMSUSDT",
+      "name": "HIMS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HIMSUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7a68-a4b2-08a7e8a854fa",
       "code": "HIPPOUSDT",
       "name": "HIPPO perpetual",
@@ -4220,6 +5420,70 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "HIVE"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7615-914a-a7ce0d68f377",
+      "code": "HK0625USDT",
+      "name": "HK0625 perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HK0625USDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-74de-a315-45335e0de09c",
+      "code": "HK0700USDT",
+      "name": "HK0700 perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HK0700USDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-799d-8174-ae75d7bba789",
+      "code": "HK0992USDT",
+      "name": "HK0992 perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HK0992USDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7454-ae0c-ec227b0a5bbd",
+      "code": "HK1810USDT",
+      "name": "HK1810 perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HK1810USDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4262,6 +5526,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7f8c-bb7b-78c9a41e5c8d",
+      "code": "HOODUSDT",
+      "name": "HOOD perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HOODUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7028-bb7e-ea355819e8e1",
       "code": "HOOKUSDT",
       "name": "HOOK perpetual",
@@ -4285,6 +5565,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "HOT"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7843-87b5-5b2036b4bd7b",
+      "code": "HPEUSDT",
+      "name": "HPE perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HPEUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4314,6 +5610,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-73ec-a608-2328e3738bfb",
+      "code": "HUTUSDT",
+      "name": "HUT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HUTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-704d-9106-a723eb57ff81",
       "code": "HYPERUSDT",
       "name": "HYPER perpetual",
@@ -4337,6 +5649,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "HYPE"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7886-bfee-c016ffd63464",
+      "code": "HYUNDAIUSDT",
+      "name": "HYUNDAI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HYUNDAIUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-769b-8411-34f91e33e243",
+      "code": "IBMUSDT",
+      "name": "IBM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IBMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4470,6 +5814,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-76d0-b26c-27a945d657bb",
+      "code": "INTCUSDT",
+      "name": "INTC perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "INTCUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-729c-8978-b8d381bb376f",
+      "code": "INTWUSDT",
+      "name": "INTW perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "INTWUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7120-84f8-525914d8ee20",
       "code": "INUSDT",
       "name": "IN perpetual",
@@ -4493,6 +5869,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "INX"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7a9f-b958-ee80686d2c49",
+      "code": "IONQUSDT",
+      "name": "IONQ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IONQUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4574,6 +5966,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-75bc-8f97-072a5c6b3811",
+      "code": "IRENUSDT",
+      "name": "IREN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IRENUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7d5e-ae11-984a8c744c48",
       "code": "IRUSDT",
       "name": "IR perpetual",
@@ -4597,6 +6005,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "IRYS"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7c9e-a617-10d4c3e8ae01",
+      "code": "IWMUSDT",
+      "name": "IWM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IWMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4649,6 +6073,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "JOE"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7358-aa87-067b163028c4",
+      "code": "JPMUSDT",
+      "name": "JPM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "JPMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4834,6 +6274,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7a8a-a5be-13c527668054",
+      "code": "KLACUSDT",
+      "name": "KLAC perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "KLACUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-763f-98f8-cda49552ee4c",
       "code": "KLAYUSDT",
       "name": "KLAY perpetual",
@@ -4873,6 +6329,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7049-b56a-da20133d2067",
+      "code": "KODEX200USDT",
+      "name": "KODEX200 perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "KODEX200USDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7197-ae8d-4d090daab9c4",
       "code": "KOMAUSDT",
       "name": "KOMA perpetual",
@@ -4886,6 +6358,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7590-96ec-f147aa322ee7",
+      "code": "KORUUSDT",
+      "name": "KORU perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "KORUUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7d8f-9505-f6a54006523a",
+      "code": "KOUSDT",
+      "name": "KO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "KOUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7826-a433-2b3d2fec051f",
       "code": "KSMUSDT",
       "name": "KSM perpetual",
@@ -4896,6 +6400,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "KSM"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-77ec-a908-a9ed109a5e53",
+      "code": "KSTRUSDT",
+      "name": "KSTR perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "KSTRUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7778-86b6-46471e89f022",
+      "code": "KUAISHOUUSDT",
+      "name": "KUAISHOU perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "KUAISHOUUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -4961,6 +6497,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "LEVER"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7b99-a0dd-69d4c3209e56",
+      "code": "LGELECTRONICSUSDT",
+      "name": "LGELECTRONICS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "LGELECTRONICSUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5055,6 +6607,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7e27-b6af-9af00a2ca42e",
+      "code": "LITEUSDT",
+      "name": "LITE perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "LITEUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-731a-8f6c-235390ec099a",
       "code": "LITUSDT",
       "name": "LIT perpetual",
@@ -5065,6 +6633,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "LIT"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7638-9f25-04b6ee3d19b8",
+      "code": "LLYUSDT",
+      "name": "LLY perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "LLYUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5130,6 +6714,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "LRC"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7e35-bd3e-a6c18f87744c",
+      "code": "LRCXUSDT",
+      "name": "LRCX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "LRCXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5224,6 +6824,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7161-bd81-227d2cb58482",
+      "code": "LYTEUSDT",
+      "name": "LYTE perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "LYTEUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-74ca-8250-a240a99dcbc6",
       "code": "MAGICUSDT",
       "name": "MAGIC perpetual",
@@ -5286,6 +6902,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "MANTRA"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7ddb-8cb3-3cffa2431de8",
+      "code": "MARAUSDT",
+      "name": "MARA perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MARAUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5354,6 +6986,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-72b9-a3be-d33aa88fed82",
+      "code": "MCDUSDT",
+      "name": "MCD perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MCDUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-737a-a2f0-9c5760abe1f9",
+      "code": "MDBUSDT",
+      "name": "MDB perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MDBUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-735a-8888-e77c74709e05",
       "code": "MEGAUSDT",
       "name": "MEGA perpetual",
@@ -5364,6 +7028,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "MEGA"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-79e4-b695-1e3f7fe4e184",
+      "code": "MEITUANUSDT",
+      "name": "MEITUAN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MEITUANUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5416,6 +7096,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "MERL"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-70ba-b2ed-9ca347514723",
+      "code": "METAUSDT",
+      "name": "META perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "METAUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5494,6 +7190,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "MINA"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-77b5-8ce2-e69de20b1420",
+      "code": "MINIMAXUSDT",
+      "name": "MINIMAX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MINIMAXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5640,6 +7352,118 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7ded-8802-15e9697d2f6c",
+      "code": "MPUSDT",
+      "name": "MP perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MPUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7e64-89c7-4fbf5cb3b47a",
+      "code": "MRKUSDT",
+      "name": "MRK perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MRKUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-75f9-8747-9c98d0c4516a",
+      "code": "MRNAUSDT",
+      "name": "MRNA perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MRNAUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7ef4-b689-102c86e91808",
+      "code": "MRVLUSDT",
+      "name": "MRVL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MRVLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7a33-a372-a78e0d5349d9",
+      "code": "MSFTUSDT",
+      "name": "MSFT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MSFTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-796c-832f-36ce0b239281",
+      "code": "MSTRUSDT",
+      "name": "MSTR perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MSTRUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7be8-9a8d-180053388e2d",
+      "code": "MSTUUSDT",
+      "name": "MSTU perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MSTUUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-75cb-aa8c-fb006a9be9c2",
       "code": "MTLUSDT",
       "name": "MTL perpetual",
@@ -5676,6 +7500,54 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "M"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7f7f-9182-ba6787327ed2",
+      "code": "MUUSDT",
+      "name": "MU perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MUUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7d74-9638-407887589315",
+      "code": "MUUUSDT",
+      "name": "MUU perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MUUUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-733b-9671-b7774a42c0f3",
+      "code": "MVLLUSDT",
+      "name": "MVLL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MVLLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5728,6 +7600,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "NG"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7f45-9448-f198022e6668",
+      "code": "NAVERUSDT",
+      "name": "NAVER perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NAVERUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-75b4-bda2-83cf778af2bc",
+      "code": "NBISUSDT",
+      "name": "NBIS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NBISUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5822,6 +7726,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-789d-9efb-af8003e4d6f6",
+      "code": "NETUSDT",
+      "name": "NET perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NETUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-75e5-b59e-4d2b43bbd586",
       "code": "NEWTUSDT",
       "name": "NEWT perpetual",
@@ -5832,6 +7752,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "NEWT"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-79df-b4b6-e3cb5b64a342",
+      "code": "NFLXUSDT",
+      "name": "NFLX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NFLXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5874,6 +7810,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-74d2-9349-601b3f15f7f2",
+      "code": "NKEUSDT",
+      "name": "NKE perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NKEUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7990-bd51-357d2b8c2762",
       "code": "NKNUSDT",
       "name": "NKN perpetual",
@@ -5897,6 +7849,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "NMR"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7714-8eef-831f678d9146",
+      "code": "NOKUSDT",
+      "name": "NOK perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NOKUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -5926,6 +7894,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-72e4-91cd-8b075c00d4b8",
+      "code": "NOWUSDT",
+      "name": "NOW perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NOWUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7a92-9b81-e4f955c25e6e",
       "code": "NTRNUSDT",
       "name": "NTRN perpetual",
@@ -5949,6 +7933,54 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "NULS"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7f92-93aa-813cedbbeaad",
+      "code": "NVDAUSDT",
+      "name": "NVDA perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NVDAUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7421-b3f0-0711f5249561",
+      "code": "NVDLUSDT",
+      "name": "NVDL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NVDLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-73f4-a46d-bc1ff69324dd",
+      "code": "NVOUSDT",
+      "name": "NVO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NVOUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -6017,6 +8049,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7e98-a9d0-d85ebc55f20c",
+      "code": "OKLOUSDT",
+      "name": "OKLO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "OKLOUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7a40-9258-1414ef2914a7",
       "code": "OLUSDT",
       "name": "OL perpetual",
@@ -6079,6 +8127,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "ONDO"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-796c-a1ae-c470133b6f4b",
+      "code": "ONDSUSDT",
+      "name": "ONDS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ONDSUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -6212,6 +8276,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7c74-a311-8254de4a9e59",
+      "code": "ORCLUSDT",
+      "name": "ORCL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ORCLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-72be-9fdd-f67a1ea4ccab",
       "code": "ORDERUSDT",
       "name": "ORDER perpetual",
@@ -6277,6 +8357,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7d4a-9c22-b0818e5bc667",
+      "code": "PANWUSDT",
+      "name": "PANW perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PANWUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-757a-8e4b-4424e82b00f7",
       "code": "PARTIUSDT",
       "name": "PARTI perpetual",
@@ -6287,6 +8383,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "PARTI"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-77da-987e-4e2dd7dea642",
+      "code": "PATHUSDT",
+      "name": "PATH perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PATHUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -6303,6 +8415,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7ef0-9460-c488dcdc39c3",
+      "code": "PAYPUSDT",
+      "name": "PAYP perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PAYPUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7cbc-8dc2-f8b61f767b3e",
+      "code": "PDDUSDT",
+      "name": "PDD perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PDDUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7cb2-88bd-3a30f7df5fc4",
       "code": "PENDLEUSDT",
       "name": "PENDLE perpetual",
@@ -6313,6 +8457,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "PENDLE"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-77e0-b44b-d59347fbb0ef",
+      "code": "PENGUSDT",
+      "name": "PENG perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PENGUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -6459,6 +8619,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7863-ba3a-e1bc7d53f947",
+      "code": "PLTRUSDT",
+      "name": "PLTR perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PLTRUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7b15-a46a-85c90bb1b5a2",
       "code": "PLUMEUSDT",
       "name": "PLUME perpetual",
@@ -6560,6 +8736,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "POPCAT"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-78d5-9acf-019b5cd4d5e0",
+      "code": "POPMARTUSDT",
+      "name": "POPMART perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "POPMARTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -6732,6 +8924,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7247-bac3-9c4eafd5de7b",
+      "code": "PYPLUSDT",
+      "name": "PYPL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PYPLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7420-9c12-03ee583c509b",
       "code": "PYTHUSDT",
       "name": "PYTH perpetual",
@@ -6745,6 +8953,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7981-9ff3-808ab348f341",
+      "code": "QCOMUSDT",
+      "name": "QCOM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "QCOMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-72cd-b5df-4041756f894c",
       "code": "QNTUSDT",
       "name": "QNT perpetual",
@@ -6755,6 +8979,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "QNT"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-74e6-8493-0c988eaa3821",
+      "code": "QNTXUSDT",
+      "name": "QNTX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "QNTXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7c57-b345-62c3a0349259",
+      "code": "QQQUSDT",
+      "name": "QQQ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "QQQUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -6810,6 +9066,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-74c6-9205-93a066da6245",
+      "code": "RAMUSDT",
+      "name": "RAM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RAMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7a69-a843-9e45e5518895",
       "code": "RAREUSDT",
       "name": "RARE perpetual",
@@ -6862,6 +9134,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7909-a2bb-2b7d5f8a9c50",
+      "code": "RDDTUSDT",
+      "name": "RDDT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RDDTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7c1c-b654-dc954373e9e3",
       "code": "RDNTUSDT",
       "name": "RDNT perpetual",
@@ -6872,6 +9160,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "RDNT"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7c0c-b369-175e0111e3e1",
+      "code": "RDWUSDT",
+      "name": "RDW perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RDWUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -7018,6 +9322,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7de9-8699-d7a96bace5f7",
+      "code": "RIVNUSDT",
+      "name": "RIVN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RIVNUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7f39-add2-5979b76529b0",
+      "code": "RKLBUSDT",
+      "name": "RKLB perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RKLBUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-73ca-8692-b73215a3a0e3",
       "code": "RLCUSDT",
       "name": "RLC perpetual",
@@ -7109,6 +9445,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7e39-a283-5ae2373fe93b",
+      "code": "RUMUSDT",
+      "name": "RUM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RUMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7368-a74d-fcebb308d972",
       "code": "RUNEUSDT",
       "name": "RUNE perpetual",
@@ -7184,6 +9536,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "SAHARA"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7b45-9df8-43029aec88d8",
+      "code": "SAMSUNGEMUSDT",
+      "name": "SAMSUNGEM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SAMSUNGEMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-797c-ab5c-f8fe3ca77610",
+      "code": "SAMSUNGUSDT",
+      "name": "SAMSUNG perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SAMSUNGUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -7265,6 +9649,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-79c0-a53c-1a80916d54ee",
+      "code": "SECZUSDT",
+      "name": "SECZ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SECZUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7066-8194-e3de65285d4b",
       "code": "SEIUSDT",
       "name": "SEI perpetual",
@@ -7304,6 +9704,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7aa5-968f-1aaf22a8711b",
+      "code": "SHAZUSDT",
+      "name": "SHAZ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SHAZUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-734f-b034-80c9cd34deb1",
       "code": "SHELLUSDT",
       "name": "SHELL perpetual",
@@ -7314,6 +9730,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "SHELL"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7080-b4e7-6ffad9f2bec3",
+      "code": "SHOPUSDT",
+      "name": "SHOP perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SHOPUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -7356,6 +9788,54 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7cf9-afc5-300700c44c83",
+      "code": "SKDDUSDT",
+      "name": "SKDD perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SKDDUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7da3-8725-bd93e0cbd1ec",
+      "code": "SKHYNIXUSDT",
+      "name": "SKHYNIX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SKHYNIXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7f18-83f3-95b319bfca1c",
+      "code": "SKHYUSDT",
+      "name": "SKHY perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SKHYUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-798e-9d1e-38f0a00d2922",
       "code": "SKLUSDT",
       "name": "SKL perpetual",
@@ -7379,6 +9859,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "SKR"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7a17-8290-83e5275d6034",
+      "code": "SKUUUSDT",
+      "name": "SKUU perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SKUUUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -7447,6 +9943,86 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7112-a686-a76a31ff1e49",
+      "code": "SMCIUSDT",
+      "name": "SMCI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SMCIUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-719a-a404-bab90e73fecc",
+      "code": "SMHUSDT",
+      "name": "SMH perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SMHUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7d1c-b905-76e13d3799ce",
+      "code": "SNDKUSDT",
+      "name": "SNDK perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SNDKUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7dc6-bd47-c7fd70bc5356",
+      "code": "SNOWUSDT",
+      "name": "SNOW perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SNOWUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7c43-9877-34f138a530e1",
+      "code": "SNPSUSDT",
+      "name": "SNPS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SNPSUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7c81-8d0c-9db76e90a98b",
       "code": "SNTUSDT",
       "name": "SNT perpetual",
@@ -7470,6 +10046,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "SNX"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-70dc-a55b-7d98ea636538",
+      "code": "SNXXUSDT",
+      "name": "SNXX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SNXXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7bfb-bbd5-32cdb91cbd49",
+      "code": "SOFIUSDT",
+      "name": "SOFI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SOFIUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -7564,6 +10172,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7445-b7d9-f03be00d993a",
+      "code": "SONYUSDT",
+      "name": "SONY perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SONYUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-73c6-85c4-a3cc2b08939d",
       "code": "SOONUSDT",
       "name": "SOON perpetual",
@@ -7590,6 +10214,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7d3f-b371-38b3e4705a32",
+      "code": "SOXLUSDT",
+      "name": "SOXL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SOXLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-72c9-a9b0-90cb6e1d58e7",
+      "code": "SOXSUSDT",
+      "name": "SOXS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SOXSUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-73c9-a340-3a22e5d7010e",
       "code": "SPACEUSDT",
       "name": "SPACE perpetual",
@@ -7600,6 +10256,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "SPACE"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-76f9-a8f8-bed389fc3168",
+      "code": "SPCXUSD1",
+      "name": "SPCX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD1",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SPCXUSD1.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-72cc-8be4-5f5f34072818",
+      "code": "SPCXUSDT",
+      "name": "SPCX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SPCXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -7655,6 +10343,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-79ea-9c20-15eb93b209ba",
+      "code": "SPYUSDT",
+      "name": "SPY perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SPYUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7b6d-9f14-6e1d0932701d",
       "code": "SQDUSDT",
       "name": "SQD perpetual",
@@ -7665,6 +10369,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "SQD"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7255-bd1d-2f49502bb50e",
+      "code": "SQQQUSDT",
+      "name": "SQQQ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SQQQUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -7811,6 +10531,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-79c0-a887-97f4781f193c",
+      "code": "STRCUSDT",
+      "name": "STRC perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "STRCUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7a6b-8027-cb33a20b9cc7",
       "code": "STRKUSDT",
       "name": "STRK perpetual",
@@ -7834,6 +10570,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "STX"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7037-ae2f-9293ebe3a290",
+      "code": "STXXUSDT",
+      "name": "STXX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "STXXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -8097,6 +10849,86 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7fdf-b2e2-bb34767fac85",
+      "code": "TBTUSDT",
+      "name": "TBT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TBTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-75a8-8138-9f2777b0c00a",
+      "code": "TEAMUSDT",
+      "name": "TEAM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TEAMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7795-b5e5-a7a19342a58c",
+      "code": "TEMUSDT",
+      "name": "TEM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TEMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7ae6-9b0b-dec535152267",
+      "code": "TENCENTUSDT",
+      "name": "TENCENT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TENCENTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7749-8a89-549fc17f3b7e",
+      "code": "TERUSDT",
+      "name": "TER perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TERUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7540-9ca2-c339d33f3eb0",
       "code": "THETAUSDT",
       "name": "THETA perpetual",
@@ -8162,6 +10994,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-73be-bdd3-7331e03538bc",
+      "code": "TMFUSDT",
+      "name": "TMF perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TMFUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-769b-8018-290a44511ef3",
       "code": "TNSRUSDT",
       "name": "TNSR perpetual",
@@ -8224,6 +11072,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "TOWNS"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7cdc-9a27-583d1941a227",
+      "code": "TQQQUSDT",
+      "name": "TQQQ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TQQQUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -8383,6 +11247,54 @@
       }
     },
     {
+      "id": "01a159aa-8b54-75f9-87c8-7bee5cd273ea",
+      "code": "TSLAUSDT",
+      "name": "TSLA perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TSLAUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7e55-91ac-669cd6de4995",
+      "code": "TSLLUSDT",
+      "name": "TSLL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TSLLUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-713d-908b-83b505dd01b5",
+      "code": "TSMUSDT",
+      "name": "TSM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TSMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-79ca-9bcb-2d29e727865f",
       "code": "TSTUSDT",
       "name": "TST perpetual",
@@ -8393,6 +11305,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "TST"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7805-a2bc-3235abd1848e",
+      "code": "TTWOUSDT",
+      "name": "TTWO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TTWOUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -8448,6 +11376,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7c5c-b87e-d6f5f198d473",
+      "code": "TWSTUSDT",
+      "name": "TWST perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TWSTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7e90-b630-52434ee570d8",
       "code": "TWTUSDT",
       "name": "TWT perpetual",
@@ -8461,6 +11405,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-73f9-b286-1002cd71d710",
+      "code": "TXNUSDT",
+      "name": "TXN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TXNUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-79ce-96bb-51662db9b08d",
+      "code": "TZAUSDT",
+      "name": "TZA perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TZAUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-797b-8e67-bccd30cc0209",
       "code": "UAIUSDT",
       "name": "UAI perpetual",
@@ -8471,6 +11447,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "UAI"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-70b1-875c-99f6d73bfc28",
+      "code": "UBERUSDT",
+      "name": "UBER perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "UBERUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -8513,6 +11505,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7d19-9a25-6a7ba4f77571",
+      "code": "UNHUSDT",
+      "name": "UNH perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "UNHUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-795a-ae2a-e05a65a22e3d",
+      "code": "UNITREEUSDT",
+      "name": "UNITREE perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "UNITREEUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7095-9f29-e418af877bf9",
       "code": "UNIUSDC",
       "name": "UNI perpetual",
@@ -8552,6 +11576,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7ae2-aeba-1005e8b53478",
+      "code": "URNMUSDT",
+      "name": "URNM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "URNMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7328-a40f-fbc11e78902a",
+      "code": "USARUSDT",
+      "name": "USAR perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "USARUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7cd8-9b15-c7feea046dda",
       "code": "USDCUSDT",
       "name": "USDC perpetual",
@@ -8562,6 +11618,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "USDC"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7af6-93cd-fc90661b7e24",
+      "code": "USDEXUSDT",
+      "name": "USDEX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "USDEXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -8614,6 +11686,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "US"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7588-8b03-67637b964cf7",
+      "code": "UVXYUSDT",
+      "name": "UVXY perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "UVXYUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -8760,6 +11848,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7289-aea3-2226a4c4be8b",
+      "code": "VKTXUSDT",
+      "name": "VKTX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "VKTXUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7904-9c8a-e0abe3b3bb93",
       "code": "VOXELUSDT",
       "name": "VOXEL perpetual",
@@ -8773,6 +11877,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7c11-9362-d98a624fecef",
+      "code": "VRTUSDT",
+      "name": "VRT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "VRTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-725c-a0fd-7c4c2a0b2b00",
+      "code": "VSTUSDT",
+      "name": "VST perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "VSTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7f86-8e47-a9632204ba5a",
       "code": "VTHOUSDT",
       "name": "VTHO perpetual",
@@ -8783,6 +11919,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "VTHO"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7db6-a544-607e2da48bfc",
+      "code": "VUSDT",
+      "name": "V perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "VUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -8848,6 +12000,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "WCT"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-72f8-9eb1-55f57a5501c0",
+      "code": "WDCUSDT",
+      "name": "WDC perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WDCUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7e86-85ba-304db70667d8",
+      "code": "WENUSDT",
+      "name": "WEN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WENUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -8942,6 +12126,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7258-a876-1aa06ca0d2e9",
+      "code": "WMTUSDT",
+      "name": "WMT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WMTUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7073-97cc-618f2aa4b857",
       "code": "WOOUSDT",
       "name": "WOO perpetual",
@@ -9033,6 +12233,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7fc8-85ba-ebeb67b57d6b",
+      "code": "XBIUSDT",
+      "name": "XBI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "XBIUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7951-acbc-d9059d0a895a",
       "code": "XCNUSDT",
       "name": "XCN perpetual",
@@ -9056,6 +12272,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "XEM"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-70cd-a8d2-37445857bf0f",
+      "code": "XLEUSDT",
+      "name": "XLE perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "XLEUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -9108,6 +12340,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "XNY"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7ab4-88c3-22f4debe44e2",
+      "code": "XOMUSDT",
+      "name": "XOM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "XOMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -9332,6 +12580,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-7c93-8c79-ddc72836d004",
+      "code": "ZCSHUSDT",
+      "name": "ZCSH perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ZCSHUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-770d-b87a-304bc7505d96",
       "code": "ZECUSDC",
       "name": "ZEC perpetual",
@@ -9410,6 +12674,38 @@
       }
     },
     {
+      "id": "01a159aa-8b54-753f-b464-89a23819f746",
+      "code": "ZHIPUUSDT",
+      "name": "ZHIPU perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ZHIPUUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7032-ad32-506c7f14406f",
+      "code": "ZHONGJIUSDT",
+      "name": "ZHONGJI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ZHONGJIUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-71c5-922e-3891c27f4613",
       "code": "ZILUSDT",
       "name": "ZIL perpetual",
@@ -9475,6 +12771,22 @@
       }
     },
     {
+      "id": "01a159aa-8b54-77b9-bbd9-0f159cdac50c",
+      "code": "ZMUSDT",
+      "name": "ZM perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ZMUSDT.BINANCE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-72cd-a518-93fe5e688dcd",
       "code": "ZORAUSDT",
       "name": "ZORA perpetual",
@@ -9524,6 +12836,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "ZRX"
+      }
+    },
+    {
+      "id": "01a159aa-8b54-7a45-a539-1859f2aa5784",
+      "code": "ZSUSDT",
+      "name": "ZS perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ZSUSDT.BINANCE",
+          "venue": "XXXX"
+        }
       }
     }
   ]
