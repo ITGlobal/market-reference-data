@@ -612,7 +612,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US03823U1025"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a15db5-c388-7a66-a955-ec4254845b5b",
@@ -625,7 +626,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US21873S1087"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a15db5-c388-7ef6-b267-14dec18e9892",
@@ -638,7 +640,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US4576422053"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a15db5-c388-7144-87b9-7168ce457d96",
@@ -651,7 +654,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US02156V1098"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a15db5-c388-7178-b593-1ed634df294a",
@@ -664,7 +668,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US88023B1035"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a15db5-c388-7bbe-b811-c933bf519c85",
@@ -677,7 +682,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US75734B1008"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a15db5-c388-7f5c-8d63-3b04ba0c1369",
@@ -690,7 +696,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US46222L1089"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a15db5-c388-7d30-b843-c6ee0b4c66b0",
@@ -703,7 +710,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "KYG254571055"
-      }
+      },
+      "settlementFixing": "IUSD2"
     }
   ]
 }
