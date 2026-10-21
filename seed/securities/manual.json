@@ -287,6 +287,13 @@
       "kind": "Equity",
       "name": "National Atomic Company Kazatomprom JSC GDR",
       "id": "01a11bb5-8f80-7006-a8dd-919cc4882bc6"
+    },
+    {
+      "key": "KYG254571055",
+      "isin": "KYG254571055",
+      "kind": "Equity",
+      "name": "Credo Technology Group Holding Ltd",
+      "id": "01a15db7-269f-7324-93e8-bc000999a0bb"
     }
   ]
 }
