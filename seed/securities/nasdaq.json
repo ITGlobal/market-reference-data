@@ -513,6 +513,13 @@
       "name": "Corgi AMZN 2x Daily ETF"
     },
     {
+      "id": "01a0fbd0-2950-755d-a88d-c5104580fd58",
+      "key": "AMAT",
+      "isin": "US0382221051",
+      "kind": "Equity",
+      "name": "Applied Materials, Inc."
+    },
+    {
       "id": "01a163cb-7d89-7240-90da-9b583035c63e",
       "key": "AMBP",
       "isin": "LU2369833749",
@@ -1050,6 +1057,13 @@
       "isin": "US05501U6010",
       "kind": "Equity",
       "name": "Azul S.A. American Depositary Shares, each representing two (2) Common Shares"
+    },
+    {
+      "id": "01a0fbd0-2950-7b3e-9a04-0cad702c4856",
+      "key": "BA",
+      "isin": "US0970231058",
+      "kind": "Equity",
+      "name": "The Boeing Company"
     },
     {
       "id": "01a16409-792e-7bc2-97df-901739b73869",
@@ -4060,6 +4074,13 @@
       "issuerName": "East West Ave Acquisition Corp."
     },
     {
+      "id": "01a16424-e5dc-7f2a-988d-3e2f3642e19a",
+      "key": "EWJ",
+      "isin": "US46434G8226",
+      "kind": "Fund",
+      "name": "iShares MSCI Japan Index Fund"
+    },
+    {
       "id": "01a16409-792e-7e48-8f66-e3cc89a52917",
       "key": "EXEQ",
       "isin": "US9479132089",
@@ -6690,6 +6711,13 @@
       "issuerName": "Liberty Live Holdings, Inc."
     },
     {
+      "id": "01a0fbd0-2950-78aa-b76f-4c0c9086d7ed",
+      "key": "LMT",
+      "isin": "US5398301094",
+      "kind": "Equity",
+      "name": "Lockheed Martin Corporation"
+    },
+    {
       "id": "01a16409-792e-7e8c-8b60-a865dd65639a",
       "key": "LNAI",
       "isin": "US29350E3027",
@@ -6967,6 +6995,13 @@
       "kind": "Equity",
       "name": "Methanex Corporation - Common Stock",
       "issuerName": "Methanex Corporation"
+    },
+    {
+      "id": "01a0fbd0-2950-7a3d-b115-7a6274b6d949",
+      "key": "META",
+      "isin": "US30303M1027",
+      "kind": "Equity",
+      "name": "Meta Platforms, Inc."
     },
     {
       "id": "01a16409-792e-7537-9111-d4a700c37398",
@@ -7390,6 +7425,13 @@
       "isin": "US88340W2448",
       "kind": "Fund",
       "name": "Leverage Shares 2X Long MTSI Daily ETF"
+    },
+    {
+      "id": "01a0fbd0-2950-78dc-83d8-5db0cd53e122",
+      "key": "MU",
+      "isin": "US5951121038",
+      "kind": "Equity",
+      "name": "Micron Technology, Inc."
     },
     {
       "id": "01a16409-792e-7fb3-b6c3-306f55e32518",
@@ -8724,6 +8766,13 @@
       "name": "Invesco Building & Construction ETF"
     },
     {
+      "id": "01a0fbd0-2950-7723-b324-ab2e0b0e45df",
+      "key": "PLD",
+      "isin": "US74340W1036",
+      "kind": "Equity",
+      "name": "Prologis, Inc."
+    },
+    {
       "id": "01a163cb-7d8a-71f9-a93c-657022c5841f",
       "key": "PLG",
       "isin": "CA72765Q8829",
@@ -8743,6 +8792,13 @@
       "isin": "US21874J6516",
       "kind": "Fund",
       "name": "Corgi PLTR 2x Daily ETF"
+    },
+    {
+      "id": "01a0fbd0-2950-78c4-955f-b244196569e7",
+      "key": "PLTR",
+      "isin": "US69608A1088",
+      "kind": "Equity",
+      "name": "Palantir Technologies Inc."
     },
     {
       "id": "01a16409-792e-7deb-96b0-de547674d779",
@@ -10602,6 +10658,13 @@
       "name": "Leverage Shares 2X Long SPCX Daily ETF"
     },
     {
+      "id": "01a110af-6ab4-795f-9c21-2ffae6a2d821",
+      "key": "SPCX",
+      "isin": "US84615Q1031",
+      "kind": "Equity",
+      "name": "Space Exploration Technologies Corp."
+    },
+    {
       "id": "01a16409-792e-7eea-84b4-d734ae8a6e96",
       "key": "SPD",
       "isin": "US82889N2027",
@@ -11620,6 +11683,34 @@
       "kind": "Equity",
       "name": "Uranium Royalty Corp. - Common Stock",
       "issuerName": "Uranium Royalty Corp."
+    },
+    {
+      "id": "01a10c1f-11b5-7c85-8164-5bfc11cd7c9a",
+      "key": "US4642864007",
+      "isin": "US4642864007",
+      "kind": "Fund",
+      "name": "iShares MSCI Brazil ETF"
+    },
+    {
+      "id": "01a10c1f-11dc-7c9a-b8ce-c96ecdc7673e",
+      "key": "US4642874329",
+      "isin": "US4642874329",
+      "kind": "Fund",
+      "name": "iShares 20+ Year Treasury Bond ETF"
+    },
+    {
+      "id": "01a10c1f-11cc-712c-b579-27f52ea7f561",
+      "key": "US7223041028",
+      "isin": "US7223041028",
+      "kind": "Equity",
+      "name": "PDD Holdings Inc"
+    },
+    {
+      "id": "01a10c1f-11ba-7807-94b0-9e6c25e7c0d2",
+      "key": "US78467X1090",
+      "isin": "US78467X1090",
+      "kind": "Fund",
+      "name": "SPDR Dow Jones Industrial Average ETF Trust"
     },
     {
       "id": "01a163cb-7d8a-76ee-a96f-8bd1b858a92a",
