@@ -1,0 +1,125 @@
+{
+  "$schema": "../../schema/options-products.schema.json",
+  "products": [
+    {
+      "id": "01a144c4-d137-7bd0-9245-af569702787e",
+      "code": "BNB",
+      "name": "BNB options",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "BNB"
+      }
+    },
+    {
+      "id": "01a144c4-d137-7837-bb8e-f0177887d9f3",
+      "code": "BTC",
+      "name": "BTC options",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "BTC"
+      }
+    },
+    {
+      "id": "01a144c4-d137-7171-8140-1b43d6b93f41",
+      "code": "DOGE",
+      "name": "DOGE options",
+      "venue": "XBNF",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "DOGE"
+      }
+    },
+    {
+      "id": "01a144c4-d137-7f23-ab98-110533403dec",
+      "code": "ETH",
+      "name": "ETH options",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "ETH"
+      }
+    },
+    {
+      "id": "01a144c4-d137-726f-8314-b803c5fa419f",
+      "code": "SOL",
+      "name": "SOL options",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "SOL"
+      }
+    },
+    {
+      "id": "01a144c4-d137-7931-8377-e4343273f23f",
+      "code": "XAG",
+      "name": "XAG options",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "XAG"
+      }
+    },
+    {
+      "id": "01a144c4-d137-7c9e-b1da-2b1847b167e0",
+      "code": "XAU",
+      "name": "XAU options",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "XAU"
+      }
+    },
+    {
+      "id": "01a144c4-d137-7597-8a2d-5464b27f764a",
+      "code": "XRP",
+      "name": "XRP options",
+      "venue": "XBNF",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "XRP"
+      }
+    }
+  ]
+}

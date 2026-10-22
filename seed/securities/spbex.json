@@ -2,44 +2,12 @@
   "$schema": "../../schema/securities.schema.json",
   "securities": [
     {
-      "id": "01a15db5-c350-7190-bff1-f6141bdc4685",
-      "key": "1",
-      "isin": "KYG217651051",
-      "kind": "Equity",
-      "name": "CK Hutchison Holdings Limited",
-      "issuerName": "CK Hutchison Holdings Limited"
-    },
-    {
-      "id": "01a15db5-c350-753a-8d1d-2963e5d85f7b",
-      "key": "101",
-      "isin": "HK0101000591",
-      "kind": "Equity",
-      "name": "Hang Lung Properties Limited",
-      "issuerName": "Hang Lung Properties Limited"
-    },
-    {
       "id": "01a15db5-c350-70d8-993d-3d4de568f413",
       "key": "1024",
       "isin": "KYG532631028",
       "kind": "Equity",
       "name": "Kuaishou Technology Class B",
       "issuerName": "Kuaishou Technology"
-    },
-    {
-      "id": "01a15db5-c350-7d8e-b1d9-e960cd601159",
-      "key": "1038",
-      "isin": "BMG2178K1009",
-      "kind": "Equity",
-      "name": "CK Infrastructure Holdings Limited",
-      "issuerName": "CK Infrastructure Holdings Limited"
-    },
-    {
-      "id": "01a15db5-c350-7d70-8724-d9288be58466",
-      "key": "1044",
-      "isin": "KYG4402L1510",
-      "kind": "Equity",
-      "name": "Hengan International Group Company Limited",
-      "issuerName": "Hengan International Group Company Limited"
     },
     {
       "id": "01a15db5-c350-76d1-91d8-a593e22e1dce",
@@ -82,36 +50,12 @@
       "issuerName": "China Shenhua Energy Company Limited"
     },
     {
-      "id": "01a15db5-c350-74fe-af9c-010ab6f16301",
-      "key": "1093",
-      "isin": "HK1093012172",
-      "kind": "Equity",
-      "name": "CSPC Pharmaceutical Group Limited",
-      "issuerName": "CSPC Pharmaceutical Group Limited"
-    },
-    {
       "id": "01a15db5-c350-7f99-8f64-98640e0dbb3b",
       "key": "1099",
       "isin": "CNE100000FN7",
       "kind": "Equity",
       "name": "Sinopharm Group Co. Ltd. Class H",
       "issuerName": "Sinopharm Group Co. Ltd."
-    },
-    {
-      "id": "01a15db5-c350-7ffb-bafc-94e4526548da",
-      "key": "1109",
-      "isin": "KYG2108Y1052",
-      "kind": "Equity",
-      "name": "China Resources Land Limited",
-      "issuerName": "China Resources Land Limited"
-    },
-    {
-      "id": "01a15db5-c350-781b-a75d-b8e8c9f0cf11",
-      "key": "1113",
-      "isin": "KYG2177B1014",
-      "kind": "Equity",
-      "name": "CK Asset Holdings Limited",
-      "issuerName": "CK Asset Holdings Limited"
     },
     {
       "id": "01a15db5-c350-76cc-b0ef-af9b0381aeb9",
@@ -128,22 +72,6 @@
       "kind": "Equity",
       "name": "Yankuang Energy Group Company Limited Class H",
       "issuerName": "Yankuang Energy Group Company Limited"
-    },
-    {
-      "id": "01a15db5-c350-7c28-aefe-00b3e9ebc077",
-      "key": "1177",
-      "isin": "KYG8167W1380",
-      "kind": "Equity",
-      "name": "Sino Biopharmaceutical Limited",
-      "issuerName": "Sino Biopharmaceutical Limited"
-    },
-    {
-      "id": "01a15db5-c350-77e3-99ca-31058dc0e18c",
-      "key": "12",
-      "isin": "HK0012000102",
-      "kind": "Equity",
-      "name": "Henderson Land Development Company Limited",
-      "issuerName": "Henderson Land Development Company Limited"
     },
     {
       "id": "01a15db5-c350-77ec-b31d-53d28021c876",
@@ -168,14 +96,6 @@
       "kind": "Equity",
       "name": "Agricultural Bank of China Limited Class H",
       "issuerName": "Agricultural Bank of China Limited"
-    },
-    {
-      "id": "01a15db5-c350-70bb-9bcf-2b323da6a880",
-      "key": "1299",
-      "isin": "HK0000069689",
-      "kind": "Equity",
-      "name": "AIA Group Limited",
-      "issuerName": "AIA Group Limited"
     },
     {
       "id": "01a15db5-c350-7d28-aae6-401222b95b88",
@@ -218,14 +138,6 @@
       "issuerName": "Xtep International Holdings Limited"
     },
     {
-      "id": "01a15db5-c350-7c0c-8e54-b296a8bcf5f7",
-      "key": "1378",
-      "isin": "KYG211501005",
-      "kind": "Equity",
-      "name": "China Hongqiao Group Limited",
-      "issuerName": "China Hongqiao Group Limited"
-    },
-    {
       "id": "01a15db5-c350-76ed-b5fe-4042700d64cc",
       "key": "1385",
       "isin": "CNE100000510",
@@ -234,28 +146,12 @@
       "issuerName": "Shanghai Fudan Microelectronics Group Company Limited"
     },
     {
-      "id": "01a15db5-c350-7126-a61d-07ef9582fc35",
-      "key": "1398",
-      "isin": "CNE1000003G1",
-      "kind": "Equity",
-      "name": "Industrial and Commercial Bank of China Limited Class H",
-      "issuerName": "Industrial and Commercial Bank of China Limited"
-    },
-    {
       "id": "01a15db5-c350-7863-a253-04d15a0911cd",
       "key": "1548",
       "isin": "KYG3825B1059",
       "kind": "Equity",
       "name": "Genscript Biotech Corporation",
       "issuerName": "Genscript Biotech Corporation"
-    },
-    {
-      "id": "01a15db5-c350-7786-8861-3511480bc3ab",
-      "key": "16",
-      "isin": "HK0016000132",
-      "kind": "Equity",
-      "name": "Sun Hung Kai Properties Limited",
-      "issuerName": "Sun Hung Kai Properties Limited"
     },
     {
       "id": "01a15db5-c350-7a19-85ea-1cb74573a8f8",
@@ -272,14 +168,6 @@
       "kind": "Equity",
       "name": "Tsingtao Brewery Company Limited Class H",
       "issuerName": "Tsingtao Brewery Company Limited"
-    },
-    {
-      "id": "01a15db5-c350-75e8-bbbb-4f1b0b9cc343",
-      "key": "175",
-      "isin": "KYG3777B1032",
-      "kind": "Equity",
-      "name": "Geely Automobile Holdings Limited",
-      "issuerName": "Geely Automobile Holdings Limited"
     },
     {
       "id": "01a15db5-c350-77e2-8a31-3af9889b35be",
@@ -322,14 +210,6 @@
       "issuerName": "Zhaojin Mining Industry Company Limited"
     },
     {
-      "id": "01a15db5-c350-7957-a358-a6d56d560c49",
-      "key": "1876",
-      "isin": "KYG1674K1013",
-      "kind": "Equity",
-      "name": "Budweiser Brewing Company APAC Limited",
-      "issuerName": "Budweiser Brewing Company APAC Limited"
-    },
-    {
       "id": "01a15db5-c350-76cc-bdd6-d59e0ff1970e",
       "key": "1877",
       "isin": "CNE100003FF7",
@@ -362,14 +242,6 @@
       "issuerName": "COSCO SHIPPING Holdings Co., Ltd."
     },
     {
-      "id": "01a15db5-c350-7b70-819e-f4b0379af347",
-      "key": "1928",
-      "isin": "KYG7800X1079",
-      "kind": "Equity",
-      "name": "Sands China Ltd.",
-      "issuerName": "Sands China Ltd."
-    },
-    {
       "id": "01a15db5-c350-790f-9097-f9dd1570143a",
       "key": "1929",
       "isin": "KYG211461085",
@@ -384,14 +256,6 @@
       "kind": "Equity",
       "name": "China Minsheng Banking Corp., Ltd. Class H",
       "issuerName": "China Minsheng Banking Corp., Ltd."
-    },
-    {
-      "id": "01a15db5-c350-7bec-b1d7-d32bf1b80d1e",
-      "key": "1997",
-      "isin": "KYG9593A1040",
-      "kind": "Equity",
-      "name": "Wharf Real Estate Investment Company Limited",
-      "issuerName": "Wharf Real Estate Investment Company Limited"
     },
     {
       "id": "01a15db5-c350-77f3-a4fb-1b3cb2e0f65d",
@@ -416,14 +280,6 @@
       "kind": "Equity",
       "name": "Li Auto Inc. Class A",
       "issuerName": "Li Auto Inc."
-    },
-    {
-      "id": "01a15db5-c350-7937-a2e0-1f63166b150f",
-      "key": "2020",
-      "isin": "KYG040111059",
-      "kind": "Equity",
-      "name": "ANTA Sports Products Limited",
-      "issuerName": "ANTA Sports Products Limited"
     },
     {
       "id": "01a15db5-c350-73df-8b67-8caadca46230",
@@ -466,52 +322,12 @@
       "issuerName": "Shanghai MicroPort MedBot (Group) Co., Ltd."
     },
     {
-      "id": "01a15db5-c350-79f7-8f45-1235e4f46058",
-      "key": "2269",
-      "isin": "KYG970081173",
-      "kind": "Equity",
-      "name": "WuXi Biologics (Cayman) Inc.",
-      "issuerName": "WuXi Biologics (Cayman) Inc."
-    },
-    {
-      "id": "01a15db5-c350-7d15-a72f-97f6925d195c",
-      "key": "2313",
-      "isin": "KYG8087W1015",
-      "kind": "Equity",
-      "name": "Shenzhou International Group Holdings Limited",
-      "issuerName": "Shenzhou International Group Holdings Limited"
-    },
-    {
-      "id": "01a15db5-c350-7d3b-9e1a-2922f51eb9d5",
-      "key": "2318",
-      "isin": "CNE1000003X6",
-      "kind": "Equity",
-      "name": "Ping An Insurance (Group) Company of China, Ltd. Class H",
-      "issuerName": "Ping An Insurance (Group) Company of China, Ltd."
-    },
-    {
-      "id": "01a15db5-c350-7378-a1aa-b786fc368311",
-      "key": "2319",
-      "isin": "KYG210961051",
-      "kind": "Equity",
-      "name": "China Mengniu Dairy Company Limited",
-      "issuerName": "China Mengniu Dairy Company Limited"
-    },
-    {
       "id": "01a15db5-c350-7a1d-9056-924876f18df5",
       "key": "2328",
       "isin": "CNE100000593",
       "kind": "Equity",
       "name": "PICC Property and Casualty Company Limited Class H",
       "issuerName": "PICC Property and Casualty Company Limited"
-    },
-    {
-      "id": "01a15db5-c350-7cf0-ab5d-b0d7fb5f290d",
-      "key": "2331",
-      "isin": "KYG5496K1242",
-      "kind": "Equity",
-      "name": "Li Ning Company Limited",
-      "issuerName": "Li Ning Company Limited"
     },
     {
       "id": "01a15db5-c350-7181-8f1d-74d46ae7a1b0",
@@ -528,30 +344,6 @@
       "kind": "Equity",
       "name": "WuXi AppTec Co., Ltd. Class H",
       "issuerName": "WuXi AppTec Co., Ltd."
-    },
-    {
-      "id": "01a15db5-c350-73ac-9f66-ba66f4db33df",
-      "key": "2382",
-      "isin": "KYG8586D1097",
-      "kind": "Equity",
-      "name": "Sunny Optical Technology (Group) Company Limited",
-      "issuerName": "Sunny Optical Technology (Group) Company Limited"
-    },
-    {
-      "id": "01a15db5-c350-7aef-8848-34729ef97636",
-      "key": "2388",
-      "isin": "HK2388011192",
-      "kind": "Equity",
-      "name": "BOC Hong Kong (Holdings) Limited",
-      "issuerName": "BOC Hong Kong (Holdings) Limited"
-    },
-    {
-      "id": "01a15db5-c350-7594-87b1-30292cc3bff1",
-      "key": "241",
-      "isin": "BMG0171K1018",
-      "kind": "Equity",
-      "name": "Alibaba Health Information Technology Limited",
-      "issuerName": "Alibaba Health Information Technology Limited"
     },
     {
       "id": "01a15db5-c350-75e0-ba9d-f9b452c7b188",
@@ -586,44 +378,12 @@
       "issuerName": "JD Logistics, Inc."
     },
     {
-      "id": "01a15db5-c350-7a0d-a87b-31e7bc41ce40",
-      "key": "2628",
-      "isin": "CNE1000002L3",
-      "kind": "Equity",
-      "name": "China Life Insurance Company Limited Class H",
-      "issuerName": "China Life Insurance Company Limited"
-    },
-    {
-      "id": "01a15db5-c350-7597-a985-5e1fc26408ae",
-      "key": "267",
-      "isin": "HK0267001375",
-      "kind": "Equity",
-      "name": "CITIC Limited",
-      "issuerName": "CITIC Limited"
-    },
-    {
       "id": "01a15db5-c350-7d58-88db-de93b90fc7d5",
       "key": "268",
       "isin": "KYG525681477",
       "kind": "Equity",
       "name": "Kingdee International Software Group Company Limited",
       "issuerName": "Kingdee International Software Group Company Limited"
-    },
-    {
-      "id": "01a15db5-c350-7550-92cf-78b68b621bd5",
-      "key": "2688",
-      "isin": "KYG3066L1014",
-      "kind": "Equity",
-      "name": "ENN Energy Holdings Limited",
-      "issuerName": "ENN Energy Holdings Limited"
-    },
-    {
-      "id": "01a15db5-c350-70f0-a6a2-08f46cda23fc",
-      "key": "27",
-      "isin": "HK0027032686",
-      "kind": "Equity",
-      "name": "Galaxy Entertainment Group Limited",
-      "issuerName": "Galaxy Entertainment Group Limited"
     },
     {
       "id": "01a15db5-c350-7fd1-b14f-a5c5436d2152",
@@ -658,14 +418,6 @@
       "issuerName": "BYD Electronic (International) Company Limited"
     },
     {
-      "id": "01a15db5-c350-74a5-988b-b3fc1ce08607",
-      "key": "288",
-      "isin": "KYG960071028",
-      "kind": "Equity",
-      "name": "WH Group Limited",
-      "issuerName": "WH Group Limited"
-    },
-    {
       "id": "01a15db5-c350-709a-ae02-f7a4172b268e",
       "key": "2883",
       "isin": "CNE1000002P4",
@@ -680,22 +432,6 @@
       "kind": "Equity",
       "name": "Zijin Mining Group Company Limited Class H",
       "issuerName": "Zijin Mining Group Company Limited"
-    },
-    {
-      "id": "01a15db5-c350-779d-ae3a-5538ca80bd1b",
-      "key": "291",
-      "isin": "HK0291001490",
-      "kind": "Equity",
-      "name": "China Resources Beer (Holdings) Company Limited",
-      "issuerName": "China Resources Beer (Holdings) Company Limited"
-    },
-    {
-      "id": "01a15db5-c350-7e0e-8b2b-55cf0135a3ee",
-      "key": "3",
-      "isin": "HK0003000038",
-      "kind": "Equity",
-      "name": "The Hong Kong and China Gas Company Limited",
-      "issuerName": "The Hong Kong and China Gas Company Limited"
     },
     {
       "id": "01a15db5-c350-7b30-ae87-91b6aaca404c",
@@ -770,14 +506,6 @@
       "issuerName": "Fuyao Glass Industry Group Co., Ltd."
     },
     {
-      "id": "01a15db5-c350-7d10-be37-a5f7302e2450",
-      "key": "3690",
-      "isin": "KYG596691041",
-      "kind": "Equity",
-      "name": "Meituan Class B",
-      "issuerName": "Meituan"
-    },
-    {
       "id": "01a15db5-c350-76e9-84be-d2dd06abf7cb",
       "key": "3692",
       "isin": "KYG549581067",
@@ -800,22 +528,6 @@
       "kind": "Equity",
       "name": "GCL Technology Holdings Limited",
       "issuerName": "GCL Technology Holdings Limited"
-    },
-    {
-      "id": "01a15db5-c350-71b3-bb5f-60278353286d",
-      "key": "386",
-      "isin": "CNE1000002Q2",
-      "kind": "Equity",
-      "name": "China Petroleum & Chemical Corporation Class H",
-      "issuerName": "China Petroleum & Chemical Corporation"
-    },
-    {
-      "id": "01a15db5-c350-70db-9927-7d5b73dbac68",
-      "key": "388",
-      "isin": "HK0388045442",
-      "kind": "Equity",
-      "name": "Hong Kong Exchanges and Clearing Limited",
-      "issuerName": "Hong Kong Exchanges and Clearing Limited"
     },
     {
       "id": "01a15db5-c350-719d-919c-02259a4c58ca",
@@ -858,22 +570,6 @@
       "issuerName": "China International Capital Corporation Limited"
     },
     {
-      "id": "01a15db5-c350-767b-8533-1c114532de6e",
-      "key": "3968",
-      "isin": "CNE1000002M1",
-      "kind": "Equity",
-      "name": "China Merchants Bank Co., Ltd. Class H",
-      "issuerName": "China Merchants Bank Co., Ltd."
-    },
-    {
-      "id": "01a15db5-c350-77db-ad1c-3abf8f39d3f8",
-      "key": "3988",
-      "isin": "CNE1000001Z5",
-      "kind": "Equity",
-      "name": "Bank of China Limited Class H",
-      "issuerName": "Bank of China Limited"
-    },
-    {
       "id": "01a15db5-c350-7306-9ef4-3e99af277ee3",
       "key": "3993",
       "isin": "CNE100000114",
@@ -914,14 +610,6 @@
       "issuerName": "Hygeia Healthcare Holdings Co., Limited"
     },
     {
-      "id": "01a15db5-c350-7b6a-b01b-c28b616d9326",
-      "key": "6098",
-      "isin": "KYG2453A1085",
-      "kind": "Equity",
-      "name": "Country Garden Services Holdings Company Limited",
-      "issuerName": "Country Garden Services Holdings Company Limited"
-    },
-    {
       "id": "01a15db5-c350-7fce-b02b-58a6c8b0a709",
       "key": "6185",
       "isin": "CNE100003F01",
@@ -930,28 +618,12 @@
       "issuerName": "CanSino Biologics Inc."
     },
     {
-      "id": "01a15db5-c350-758d-82a6-89b09e442f97",
-      "key": "66",
-      "isin": "HK0066009694",
-      "kind": "Equity",
-      "name": "MTR Corporation Limited",
-      "issuerName": "MTR Corporation Limited"
-    },
-    {
       "id": "01a15db5-c350-7eaa-9a65-7c7aff859b1b",
       "key": "6618",
       "isin": "KYG5074A1004",
       "kind": "Equity",
       "name": "JD Health International Inc.",
       "issuerName": "JD Health International Inc."
-    },
-    {
-      "id": "01a15db5-c350-7969-8874-01c30faeb12b",
-      "key": "669",
-      "isin": "HK0669013440",
-      "kind": "Equity",
-      "name": "Techtronic Industries Company Limited",
-      "issuerName": "Techtronic Industries Company Limited"
     },
     {
       "id": "01a15db5-c350-751d-811f-d5124abbd6f3",
@@ -992,14 +664,6 @@
       "kind": "Equity",
       "name": "Yangtze Optical Fibre and Cable Joint Stock Limited Company Class H",
       "issuerName": "Yangtze Optical Fibre and Cable Joint Stock Limited Company"
-    },
-    {
-      "id": "01a15db5-c350-741f-85a6-f87af547d880",
-      "key": "688",
-      "isin": "HK0688002218",
-      "kind": "Equity",
-      "name": "China Overseas Land & Investment Limited",
-      "issuerName": "China Overseas Land & Investment Limited"
     },
     {
       "id": "01a15db5-c350-7a66-953b-96578a5e1552",
@@ -1050,30 +714,6 @@
       "issuerName": "China Resources Power Holdings Co., Limited"
     },
     {
-      "id": "01a15db5-c350-7524-989f-b47a0365f439",
-      "key": "857",
-      "isin": "CNE1000003W8",
-      "kind": "Equity",
-      "name": "PetroChina Company Limited Class H",
-      "issuerName": "PetroChina Company Limited"
-    },
-    {
-      "id": "01a15db5-c350-701f-8d1f-feabafdeeeed",
-      "key": "868",
-      "isin": "KYG9828G1082",
-      "kind": "Equity",
-      "name": "Xinyi Glass Holdings Limited",
-      "issuerName": "Xinyi Glass Holdings Limited"
-    },
-    {
-      "id": "01a15db5-c350-70aa-9cc6-ae68f5952bda",
-      "key": "881",
-      "isin": "KYG9894K1085",
-      "kind": "Equity",
-      "name": "Zhongsheng Group Holdings Limited",
-      "issuerName": "Zhongsheng Group Holdings Limited"
-    },
-    {
       "id": "01a15db5-c350-7da2-b950-d9657dedca40",
       "key": "914",
       "isin": "CNE1000001W2",
@@ -1090,14 +730,6 @@
       "issuerName": "China Longyuan Power Group Corporation Limited"
     },
     {
-      "id": "01a15db5-c350-7303-ae29-7b8b1f78350e",
-      "key": "939",
-      "isin": "CNE1000002H1",
-      "kind": "Equity",
-      "name": "China Construction Bank Corporation Class H",
-      "issuerName": "China Construction Bank Corporation"
-    },
-    {
       "id": "01a15db5-c350-70a9-b22c-75dc98524b26",
       "key": "956",
       "isin": "CNE100000TW9",
@@ -1106,44 +738,12 @@
       "issuerName": "China Suntien Green Energy Corporation Limited"
     },
     {
-      "id": "01a15db5-c350-7a0e-99cf-3d6cd513f9f1",
-      "key": "960",
-      "isin": "KYG5635P1090",
-      "kind": "Equity",
-      "name": "Longfor Group Holdings Limited",
-      "issuerName": "Longfor Group Holdings Limited"
-    },
-    {
-      "id": "01a15db5-c350-79c1-9098-96d10811a015",
-      "key": "9618",
-      "isin": "KYG8208B1014",
-      "kind": "Equity",
-      "name": "JD.com, Inc. Class A",
-      "issuerName": "JD.com, Inc."
-    },
-    {
       "id": "01a15db5-c350-7e59-bcc8-2e1d2ca54f4c",
       "key": "9626",
       "isin": "KYG1098A1013",
       "kind": "Equity",
       "name": "Bilibili Inc. Class Z",
       "issuerName": "Bilibili Inc."
-    },
-    {
-      "id": "01a15db5-c350-7ddf-864b-62e61d5f57c1",
-      "key": "9633",
-      "isin": "CNE100004272",
-      "kind": "Equity",
-      "name": "Nongfu Spring Co., Ltd. Class H",
-      "issuerName": "Nongfu Spring Co., Ltd."
-    },
-    {
-      "id": "01a15db5-c350-7dce-90b2-fd56fa456326",
-      "key": "968",
-      "isin": "KYG9829N1025",
-      "kind": "Equity",
-      "name": "Xinyi Solar Holdings Limited",
-      "issuerName": "Xinyi Solar Holdings Limited"
     },
     {
       "id": "01a15db5-c350-7636-b832-0b5129995194",
@@ -1178,14 +778,6 @@
       "issuerName": "Baidu, Inc."
     },
     {
-      "id": "01a15db5-c350-732a-8923-261b7816f2a5",
-      "key": "992",
-      "isin": "HK0992009065",
-      "kind": "Equity",
-      "name": "Lenovo Group Limited",
-      "issuerName": "Lenovo Group Limited"
-    },
-    {
       "id": "01a15db5-c350-7bc0-8f62-a1539bc87c69",
       "key": "9922",
       "isin": "KYG5141L1059",
@@ -1210,14 +802,6 @@
       "issuerName": "Trip.com Group Limited"
     },
     {
-      "id": "01a15db5-c350-71de-a3c0-604a49a07155",
-      "key": "9988",
-      "isin": "KYG017191142",
-      "kind": "Equity",
-      "name": "Alibaba Group Holding Limited",
-      "issuerName": "Alibaba Group Holding Limited"
-    },
-    {
       "id": "01a15db5-c350-7863-a68c-1c74167d1209",
       "key": "9992",
       "isin": "KYG7170M1033",
@@ -1234,30 +818,6 @@
       "issuerName": "RemeGen Co., Ltd."
     },
     {
-      "id": "01a15db5-c350-7a99-87cc-4b9be3daaa2e",
-      "key": "9999",
-      "isin": "KYG6427A1022",
-      "kind": "Equity",
-      "name": "NetEase, Inc.",
-      "issuerName": "NetEase, Inc."
-    },
-    {
-      "id": "01a15db5-c350-71f8-af9f-5fee7cb9c6c8",
-      "key": "ABCL",
-      "isin": "CA00288U1066",
-      "kind": "Equity",
-      "name": "AbCellera Biologics Inc.",
-      "issuerName": "AbCellera Biologics Inc."
-    },
-    {
-      "id": "01a15db5-c350-775f-8f86-901d36129006",
-      "key": "ACGL",
-      "isin": "BMG0450A1053",
-      "kind": "Equity",
-      "name": "Arch Capital Group Ltd.",
-      "issuerName": "Arch Capital Group Ltd."
-    },
-    {
       "id": "01a15db5-c350-7121-92b7-1ba258ad2bb9",
       "key": "ADS@DE",
       "isin": "DE000A1EWWW0",
@@ -1266,60 +826,12 @@
       "issuerName": "adidas AG"
     },
     {
-      "id": "01a15db5-c350-7232-9be9-7f1786f9140e",
-      "key": "AEM",
-      "isin": "CA0084741085",
-      "kind": "Equity",
-      "name": "Agnico Eagle Mines Limited",
-      "issuerName": "Agnico Eagle Mines Limited"
-    },
-    {
       "id": "01a15db5-c350-7c9d-99c0-c5ac544e1487",
       "key": "AFX@DE",
       "isin": "DE0005313704",
       "kind": "Equity",
       "name": "Carl Zeiss Meditec AG",
       "issuerName": "Carl Zeiss Meditec AG"
-    },
-    {
-      "id": "01a15db5-c350-7e0b-a26d-ca92e5a0572f",
-      "key": "AFYA",
-      "isin": "KYG011251066",
-      "kind": "Equity",
-      "name": "Afya Limited",
-      "issuerName": "Afya Limited"
-    },
-    {
-      "id": "01a15db5-c350-7915-a015-f795c56c277c",
-      "key": "AG",
-      "isin": "CA32076V1031",
-      "kind": "Equity",
-      "name": "First Majestic Silver Corp.",
-      "issuerName": "First Majestic Silver Corp."
-    },
-    {
-      "id": "01a15db5-c350-7150-b420-595ed40ce1b5",
-      "key": "AGG",
-      "isin": "US4642872265",
-      "kind": "Fund",
-      "name": "iShares Core U.S. Aggregate Bond ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c350-713d-8721-b159f3d5008a",
-      "key": "AGO",
-      "isin": "BMG0585R1060",
-      "kind": "Equity",
-      "name": "Assured Guaranty Ltd.",
-      "issuerName": "Assured Guaranty Ltd."
-    },
-    {
-      "id": "01a15db5-c350-7cb5-8d1f-0a9639135721",
-      "key": "ALC",
-      "isin": "CH0432492467",
-      "kind": "Equity",
-      "name": "Alcon Inc.",
-      "issuerName": "Alcon Inc."
     },
     {
       "id": "01a13a7a-7028-7261-8782-afd2f42bb9b7",
@@ -1345,68 +857,12 @@
       "issuerName": "Allianz SE"
     },
     {
-      "id": "01a15db5-c350-7d26-8365-0b7b70ae4b31",
-      "key": "AMBA",
-      "isin": "KYG037AX1015",
-      "kind": "Equity",
-      "name": "Ambarella, Inc.",
-      "issuerName": "Ambarella, Inc."
-    },
-    {
       "id": "01a15db5-c350-7b50-9d80-c2db40f2f452",
       "key": "AON",
       "isin": "IE00BLP1HW54",
       "kind": "Equity",
       "name": "Aon plc",
       "issuerName": "Aon plc"
-    },
-    {
-      "id": "01a15db5-c350-7474-88b9-542944f1085b",
-      "key": "AOSL",
-      "isin": "BMG6331P1041",
-      "kind": "Equity",
-      "name": "Alpha and Omega Semiconductor Limited",
-      "issuerName": "Alpha and Omega Semiconductor Limited"
-    },
-    {
-      "id": "01a15db5-c350-7d28-9dfe-eb7b6875cbc8",
-      "key": "ARKF",
-      "isin": "US00214Q7088",
-      "kind": "Fund",
-      "name": "ARK Blockchain & Fintech Innovation ETF",
-      "issuerName": "ARK ETF Trust"
-    },
-    {
-      "id": "01a15db5-c350-79f6-98e3-377abbe2bcb5",
-      "key": "ASHR",
-      "isin": "US2330518794",
-      "kind": "Fund",
-      "name": "Xtrackers Harvest CSI 300 China A-Shares ETF",
-      "issuerName": "DBX ETF Trust"
-    },
-    {
-      "id": "01a15db5-c350-7cdd-bb0b-683d534da0af",
-      "key": "AUPH",
-      "isin": "CA05156V1022",
-      "kind": "Equity",
-      "name": "Aurinia Pharmaceuticals Inc.",
-      "issuerName": "Aurinia Pharmaceuticals Inc."
-    },
-    {
-      "id": "01a15db5-c350-7d49-b540-630016f2dd30",
-      "key": "AXTA",
-      "isin": "BMG0750C1082",
-      "kind": "Equity",
-      "name": "Axalta Coating Systems Ltd.",
-      "issuerName": "Axalta Coating Systems Ltd."
-    },
-    {
-      "id": "01a15db5-c350-716a-95ed-8877bc67a846",
-      "key": "B",
-      "isin": "CA06849F1080",
-      "kind": "Equity",
-      "name": "Barrick Mining Corporation",
-      "issuerName": "Barrick Mining Corporation"
     },
     {
       "id": "01a15db5-c350-7247-b771-e9ac863f3d22",
@@ -1425,14 +881,6 @@
       "issuerName": "Bayer Aktiengesellschaft"
     },
     {
-      "id": "01a15db5-c350-7848-901a-ee79470ca8b0",
-      "key": "BCE",
-      "isin": "CA05534B7604",
-      "kind": "Equity",
-      "name": "BCE Inc.",
-      "issuerName": "BCE Inc."
-    },
-    {
       "id": "01a15db5-c350-7b1b-8497-67e7a6e90a98",
       "key": "BEI@DE",
       "isin": "DE0005200000",
@@ -1441,36 +889,12 @@
       "issuerName": "Beiersdorf Aktiengesellschaft"
     },
     {
-      "id": "01a15db5-c350-7822-afb4-7045b394093c",
-      "key": "BIL",
-      "isin": "US78468R6633",
-      "kind": "Fund",
-      "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
-      "issuerName": "SPDR Series Trust"
-    },
-    {
-      "id": "01a15db5-c350-7f00-a011-a2aeb27c38b7",
-      "key": "BIRK",
-      "isin": "JE00BS44BN30",
-      "kind": "Equity",
-      "name": "Birkenstock Holding plc",
-      "issuerName": "Birkenstock Holding plc"
-    },
-    {
       "id": "01a15db5-c350-776b-8644-9f0f8d51e9f7",
       "key": "BLDP",
       "isin": "CA0585861085",
       "kind": "Equity",
       "name": "Ballard Power Systems Inc.",
       "issuerName": "Ballard Power Systems Inc."
-    },
-    {
-      "id": "01a15db5-c350-7532-b908-a457f4cff5ee",
-      "key": "BMO",
-      "isin": "CA0636711016",
-      "kind": "Equity",
-      "name": "Bank of Montreal",
-      "issuerName": "Bank of Montreal"
     },
     {
       "id": "01a15db5-c350-71ef-ab61-06ba142b154e",
@@ -1505,110 +929,6 @@
       "issuerName": "BeyondSpring Inc."
     },
     {
-      "id": "01a15db5-c350-7406-9e9a-8ce8ec6fd2f1",
-      "key": "CB",
-      "isin": "CH0044328745",
-      "kind": "Equity",
-      "name": "Chubb Limited",
-      "issuerName": "Chubb Limited"
-    },
-    {
-      "id": "01a15db5-c350-7398-806d-6ebde6ea73ca",
-      "key": "CCJ",
-      "isin": "CA13321L1085",
-      "kind": "Equity",
-      "name": "Cameco Corporation",
-      "issuerName": "Cameco Corporation"
-    },
-    {
-      "id": "01a15db5-c350-73f6-ab22-7e9a6990c84e",
-      "key": "CCL",
-      "isin": "BMG2004J1036",
-      "kind": "Equity",
-      "name": "Carnival Corporation Ltd.",
-      "issuerName": "Carnival Corporation Ltd."
-    },
-    {
-      "id": "01a15db5-c350-742f-b33e-a35e60ce0599",
-      "key": "CGEN",
-      "isin": "IL0010852080",
-      "kind": "Equity",
-      "name": "Compugen Ltd.",
-      "issuerName": "Compugen Ltd."
-    },
-    {
-      "id": "01a15db5-c350-71bb-95c1-1a29284fc692",
-      "key": "CGNT",
-      "isin": "IL0011691438",
-      "kind": "Equity",
-      "name": "Cognyte Software Ltd.",
-      "issuerName": "Cognyte Software Ltd."
-    },
-    {
-      "id": "01a15db5-c350-7d52-b67f-6e2c337cef6c",
-      "key": "CHAU",
-      "isin": "US25490K8696",
-      "kind": "Fund",
-      "name": "Direxion Daily CSI 300 China A Share Bull 2X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
-      "id": "01a15db5-c350-7351-9853-01f03fd864db",
-      "key": "CHKP",
-      "isin": "IL0010824113",
-      "kind": "Equity",
-      "name": "Check Point Software Technologies Ltd.",
-      "issuerName": "Check Point Software Technologies Ltd."
-    },
-    {
-      "id": "01a15db5-c350-7a63-8e86-7a550e647597",
-      "key": "CLVT",
-      "isin": "JE00BJJN4441",
-      "kind": "Equity",
-      "name": "Clarivate Plc",
-      "issuerName": "Clarivate Plc"
-    },
-    {
-      "id": "01a15db5-c350-757c-9c7b-f73b0b004057",
-      "key": "CM",
-      "isin": "CA1360691010",
-      "kind": "Equity",
-      "name": "Canadian Imperial Bank of Commerce",
-      "issuerName": "Canadian Imperial Bank of Commerce"
-    },
-    {
-      "id": "01a15db5-c350-7c4a-8b79-c8fe5dc74b4a",
-      "key": "CNH",
-      "isin": "NL0010545661",
-      "kind": "Equity",
-      "name": "CNH Industrial N.V.",
-      "issuerName": "CNH Industrial N.V."
-    },
-    {
-      "id": "01a15db5-c350-7cc5-8682-b12dd891586f",
-      "key": "CNI",
-      "isin": "CA1363751027",
-      "kind": "Equity",
-      "name": "Canadian National Railway Company",
-      "issuerName": "Canadian National Railway Company"
-    },
-    {
-      "id": "01a15db5-c350-73d9-b8d6-2b9e5cc326ae",
-      "key": "CNQ",
-      "isin": "CA1363851017",
-      "kind": "Equity",
-      "name": "Canadian Natural Resources Limited",
-      "issuerName": "Canadian Natural Resources Limited"
-    },
-    {
-      "id": "01a15db5-c350-72d7-b70b-c532af22acee",
-      "key": "CNYA",
-      "isin": "US46434V5140",
-      "kind": "Fund",
-      "name": "iShares MSCI China A ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
       "id": "01a15db5-c350-72ea-af30-d306db6e8215",
       "key": "CON@DE",
       "isin": "DE0005439004",
@@ -1617,60 +937,12 @@
       "issuerName": "Continental Aktiengesellschaft"
     },
     {
-      "id": "01a15db5-c350-7076-9b6c-82a7eeaa3a92",
-      "key": "COPX",
-      "isin": "US37954Y8306",
-      "kind": "Fund",
-      "name": "Global X Copper Miners ETF",
-      "issuerName": "Global X Funds"
-    },
-    {
-      "id": "01a15db5-c350-77e7-b0d4-e67aee06c416",
-      "key": "CP",
-      "isin": "CA13646K1084",
-      "kind": "Equity",
-      "name": "Canadian Pacific Kansas City Limited",
-      "issuerName": "Canadian Pacific Kansas City Limited"
-    },
-    {
-      "id": "01a15db5-c350-7159-bda5-04d02c614619",
-      "key": "CPRI",
-      "isin": "VGG1890L1076",
-      "kind": "Equity",
-      "name": "Capri Holdings Limited",
-      "issuerName": "Capri Holdings Limited"
-    },
-    {
-      "id": "01a15db5-c350-71e8-ab4b-74abfa31d03a",
-      "key": "CQQQ",
-      "isin": "US46138E8003",
-      "kind": "Fund",
-      "name": "Invesco China Technology ETF",
-      "issuerName": "Invesco Exchange-Traded Fund Trust II"
-    },
-    {
-      "id": "01a15db5-c350-7310-841d-13bfaa9e461d",
-      "key": "CRSP",
-      "isin": "CH0334081137",
-      "kind": "Equity",
-      "name": "CRISPR Therapeutics AG",
-      "issuerName": "CRISPR Therapeutics AG"
-    },
-    {
       "id": "01a15db5-c350-71a0-8a39-c7d83c21f744",
       "key": "CSIQ",
       "isin": "CA1366351098",
       "kind": "Equity",
       "name": "Canadian Solar Inc.",
       "issuerName": "Canadian Solar Inc."
-    },
-    {
-      "id": "01a15db5-c350-7779-927c-048369ffcae8",
-      "key": "CWB",
-      "isin": "US78464A3591",
-      "kind": "Fund",
-      "name": "State Street SPDR Bloomberg Convertible Securities ETF",
-      "issuerName": "SPDR Series Trust"
     },
     {
       "id": "01a15db5-c350-7c24-9d48-72bb497a6849",
@@ -1697,14 +969,6 @@
       "issuerName": "DHL AG"
     },
     {
-      "id": "01a15db5-c350-7db1-b076-8711794c18b6",
-      "key": "DLO",
-      "isin": "KYG290181018",
-      "kind": "Equity",
-      "name": "DLocal Limited Class A",
-      "issuerName": "DLocal Limited"
-    },
-    {
       "id": "01a15db5-c350-78ed-a8a5-3b1ad621c086",
       "key": "DTE@DE",
       "isin": "DE0005557508",
@@ -1713,84 +977,12 @@
       "issuerName": "Deutsche Telekom AG"
     },
     {
-      "id": "01a15db5-c350-7a24-a0b5-ac35b14b45f8",
-      "key": "DXJ",
-      "isin": "US97717W8516",
-      "kind": "Fund",
-      "name": "WisdomTree Japan Hedged Equity Fund",
-      "issuerName": "WisdomTree Trust"
-    },
-    {
-      "id": "01a15db5-c350-7cca-b421-cb06b6fbed59",
-      "key": "EFV",
-      "isin": "US4642888774",
-      "kind": "Fund",
-      "name": "iShares MSCI EAFE Value ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c350-7d24-a73b-3e200494c014",
-      "key": "EG",
-      "isin": "BMG3223R1088",
-      "kind": "Equity",
-      "name": "Everest Group, Ltd.",
-      "issuerName": "Everest Group, Ltd."
-    },
-    {
-      "id": "01a15db5-c350-74a2-8038-410c3b72504b",
-      "key": "EIDO",
-      "isin": "US46429B3096",
-      "kind": "Fund",
-      "name": "iShares MSCI Indonesia ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c350-755b-9354-94ba7f781469",
-      "key": "ENB",
-      "isin": "CA29250N1050",
-      "kind": "Equity",
-      "name": "Enbridge Inc.",
-      "issuerName": "Enbridge Inc."
-    },
-    {
       "id": "01a15db5-c350-7501-aa87-87332020a31e",
       "key": "EOAN@DE",
       "isin": "DE000ENAG999",
       "kind": "Equity",
       "name": "E.ON SE",
       "issuerName": "E.ON SE"
-    },
-    {
-      "id": "01a15db5-c350-78be-ba49-1e02bd421150",
-      "key": "EPI",
-      "isin": "US97717W4226",
-      "kind": "Fund",
-      "name": "WisdomTree India Earnings Fund",
-      "issuerName": "WisdomTree Trust"
-    },
-    {
-      "id": "01a15db5-c350-73cd-8f5d-5042c1bf5e4e",
-      "key": "EPP",
-      "isin": "US4642866655",
-      "kind": "Fund",
-      "name": "iShares MSCI Pacific ex Japan ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-78dc-bc6d-f9a4b53c9de4",
-      "key": "ESGV",
-      "isin": "US9219107334",
-      "kind": "Fund",
-      "name": "Vanguard ESG U.S. Stock ETF",
-      "issuerName": "Vanguard World Fund"
-    },
-    {
-      "id": "01a15db5-c350-75eb-a5d8-0e98898b11e8",
-      "key": "ESTC",
-      "isin": "NL0013056914",
-      "kind": "Equity",
-      "name": "Elastic N.V.",
-      "issuerName": "Elastic N.V."
     },
     {
       "id": "01a15db5-c350-782f-82ab-ccf5b36c9f50",
@@ -1817,102 +1009,6 @@
       "issuerName": "Evotec SE"
     },
     {
-      "id": "01a15db5-c350-7efb-a8fa-913b8d415ad1",
-      "key": "EWA",
-      "isin": "US4642861037",
-      "kind": "Fund",
-      "name": "iShares MSCI Australia ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-7e80-9c91-1367696e192e",
-      "key": "EWC",
-      "isin": "US4642865095",
-      "kind": "Fund",
-      "name": "iShares MSCI Canada ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-7b3a-858b-b7fa7141428b",
-      "key": "EWI",
-      "isin": "US46434G8309",
-      "kind": "Fund",
-      "name": "iShares MSCI Italy ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-78df-ab72-d283e4fbba51",
-      "key": "EWM",
-      "isin": "US46434G8143",
-      "kind": "Fund",
-      "name": "iShares MSCI Malaysia ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-7ac9-b13d-fff2a1914a26",
-      "key": "EWP",
-      "isin": "US4642867646",
-      "kind": "Fund",
-      "name": "iShares MSCI Spain ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-79db-b691-0087bf9cbe80",
-      "key": "EWQ",
-      "isin": "US4642867075",
-      "kind": "Fund",
-      "name": "iShares MSCI France ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-7619-b59e-da5536a98dee",
-      "key": "EWS",
-      "isin": "US46434G7806",
-      "kind": "Fund",
-      "name": "iShares MSCI Singapore ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-78a2-8fca-3d0cc92dc067",
-      "key": "EWU",
-      "isin": "US46435G3341",
-      "kind": "Fund",
-      "name": "iShares MSCI United Kingdom ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c350-7cbb-abca-b1a01f8658b8",
-      "key": "EWW",
-      "isin": "US4642868222",
-      "kind": "Fund",
-      "name": "iShares MSCI Mexico ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-778c-bbdc-e6476416883a",
-      "key": "EZU",
-      "isin": "US4642866085",
-      "kind": "Fund",
-      "name": "iShares MSCI Eurozone ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c350-7769-a41f-19ebd9703a3f",
-      "key": "FAS",
-      "isin": "US25459Y6941",
-      "kind": "Fund",
-      "name": "Direxion Daily Financial Bull 3X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
-      "id": "01a15db5-c350-71ed-b745-49e9a0aa8169",
-      "key": "FEZ",
-      "isin": "US78463X2027",
-      "kind": "Fund",
-      "name": "State Street SPDR EURO STOXX 50 ETF",
-      "issuerName": "SPDR Index Shares Funds"
-    },
-    {
       "id": "01a15db5-c350-70ee-a963-f71e922aa30b",
       "key": "FIE@DE",
       "isin": "DE0005772206",
@@ -1929,28 +1025,12 @@
       "issuerName": "Fresenius Medical Care AG & Co. KGaA"
     },
     {
-      "id": "01a15db5-c351-753d-89c6-ba8b07fa083b",
-      "key": "FNV",
-      "isin": "CA3518581051",
-      "kind": "Equity",
-      "name": "Franco-Nevada Corporation",
-      "issuerName": "Franco-Nevada Corporation"
-    },
-    {
       "id": "01a15db5-c351-74c1-ac2e-76b28fd77fe9",
       "key": "FRE@DE",
       "isin": "DE000FRE5EN2",
       "kind": "Equity",
       "name": "Fresenius SE & Co. KGaA",
       "issuerName": "Fresenius SE & Co. KGaA"
-    },
-    {
-      "id": "01a15db5-c351-7ae5-b58b-2585aed869b8",
-      "key": "FROG",
-      "isin": "IL0011684185",
-      "kind": "Equity",
-      "name": "JFrog Ltd.",
-      "issuerName": "JFrog Ltd."
     },
     {
       "id": "01a15db5-c351-78d2-a37b-02b69bc5b536",
@@ -1961,30 +1041,6 @@
       "issuerName": "TechnipFMC plc"
     },
     {
-      "id": "01a15db5-c351-7de2-9214-39ec8f80cdb4",
-      "key": "FVRR",
-      "isin": "IL0011582033",
-      "kind": "Equity",
-      "name": "Fiverr International Ltd.",
-      "issuerName": "Fiverr International Ltd."
-    },
-    {
-      "id": "01a15db5-c351-7dc8-bc97-b4e06ce913fb",
-      "key": "FXI",
-      "isin": "US4642871846",
-      "kind": "Fund",
-      "name": "iShares China Large-Cap ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7e1e-8072-8795582cd14e",
-      "key": "G",
-      "isin": "BMG3922B1072",
-      "kind": "Equity",
-      "name": "Genpact Limited",
-      "issuerName": "Genpact Limited"
-    },
-    {
       "id": "01a15db5-c351-78ee-a9de-12c9abc21dff",
       "key": "GBF@DE",
       "isin": "DE0005909006",
@@ -1993,84 +1049,12 @@
       "issuerName": "Bilfinger SE"
     },
     {
-      "id": "01a15db5-c351-7ca3-ac92-054e8dc58049",
-      "key": "GDX",
-      "isin": "US92189F1066",
-      "kind": "Fund",
-      "name": "VanEck Gold Miners ETF",
-      "issuerName": "VanEck ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-7439-9963-8e0bbab3aceb",
-      "key": "GLBE",
-      "isin": "IL0011741688",
-      "kind": "Equity",
-      "name": "Global-E Online Ltd.",
-      "issuerName": "Global-E\u00A0Online Ltd."
-    },
-    {
-      "id": "01a15db5-c351-7b55-be66-ec57caeecf0e",
-      "key": "GLD",
-      "isin": "US78463V1070",
-      "kind": "Fund",
-      "name": "SPDR Gold Trust",
-      "issuerName": "SPDR Gold Trust"
-    },
-    {
-      "id": "01a15db5-c351-7c26-8377-fc3d3031f585",
-      "key": "GLOB",
-      "isin": "LU0974299876",
-      "kind": "Equity",
-      "name": "Globant S.A.",
-      "issuerName": "Globant S.A."
-    },
-    {
-      "id": "01a15db5-c351-77c3-a26f-cada6c091d19",
-      "key": "GRMN",
-      "isin": "CH0114405324",
-      "kind": "Equity",
-      "name": "Garmin Ltd.",
-      "issuerName": "Garmin Ltd."
-    },
-    {
-      "id": "01a15db5-c351-790f-b69f-92665099352c",
-      "key": "GSLC",
-      "isin": "US3814305039",
-      "kind": "Fund",
-      "name": "Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF",
-      "issuerName": "Goldman Sachs ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-763c-b602-d0b3a1fcff95",
-      "key": "GXC",
-      "isin": "US78463X4007",
-      "kind": "Fund",
-      "name": "State Street SPDR S&P China ETF",
-      "issuerName": "SPDR Index Shares Funds"
-    },
-    {
-      "id": "01a15db5-c351-702d-ab88-76e2d7230589",
-      "key": "HDV",
-      "isin": "US46429B6636",
-      "kind": "Fund",
-      "name": "iShares Core High Dividend ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
       "id": "01a15db5-c351-7588-bb1e-86c6f5cc8d7e",
       "key": "HEI@DE",
       "isin": "DE0006047004",
       "kind": "Equity",
       "name": "Heidelberg Materials AG",
       "issuerName": "Heidelberg Materials AG"
-    },
-    {
-      "id": "01a15db5-c351-79ce-8625-69e565b2f9ea",
-      "key": "HELE",
-      "isin": "BMG4388N1065",
-      "kind": "Equity",
-      "name": "Helen of Troy Limited",
-      "issuerName": "Helen of Troy Limited"
     },
     {
       "id": "01a15db5-c351-775d-9b46-9e8b88d9697c",
@@ -2097,36 +1081,12 @@
       "issuerName": "Hapag-Lloyd Aktiengesellschaft"
     },
     {
-      "id": "01a15db5-c351-7db8-a9b8-d99f02019381",
-      "key": "HLF",
-      "isin": "KYG4412G1010",
-      "kind": "Equity",
-      "name": "Herbalife Ltd.",
-      "issuerName": "Herbalife Ltd."
-    },
-    {
       "id": "01a15db5-c351-78a0-b8c1-215e2f5f34a7",
       "key": "HOT@DE",
       "isin": "DE0006070006",
       "kind": "Equity",
       "name": "HOCHTIEF Aktiengesellschaft",
       "issuerName": "HOCHTIEF Aktiengesellschaft"
-    },
-    {
-      "id": "01a15db5-c351-7fa1-89be-0fd32299a9f3",
-      "key": "HYG",
-      "isin": "US4642885135",
-      "kind": "Fund",
-      "name": "iShares iBoxx $ High Yield Corporate Bond ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7721-afa7-1d279a172d9e",
-      "key": "IAU",
-      "isin": "US4642852044",
-      "kind": "Fund",
-      "name": "iShares Gold Trust",
-      "issuerName": "iShares Gold Trust"
     },
     {
       "id": "01a15db5-c351-7c3e-85bc-ad34f0b7df12",
@@ -2137,30 +1097,6 @@
       "issuerName": "ICON public limited company"
     },
     {
-      "id": "01a15db5-c351-7f56-8711-5ec556a39783",
-      "key": "IEFA",
-      "isin": "US46432F8427",
-      "kind": "Fund",
-      "name": "iShares Core MSCI EAFE ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7746-ba2e-c48611388f47",
-      "key": "IEMG",
-      "isin": "US46434G1031",
-      "kind": "Fund",
-      "name": "iShares Core MSCI Emerging Markets ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c351-712b-9ad3-374723877aab",
-      "key": "IEV",
-      "isin": "US4642878619",
-      "kind": "Fund",
-      "name": "iShares Europe ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
       "id": "01a15db5-c351-7f41-a114-820557d79036",
       "key": "IFX@DE",
       "isin": "DE0006231004",
@@ -2169,275 +1105,11 @@
       "issuerName": "Infineon Technologies AG"
     },
     {
-      "id": "01a15db5-c351-7e3c-b1d4-fd00f31a1e76",
-      "key": "IGV",
-      "isin": "US4642875151",
-      "kind": "Fund",
-      "name": "iShares Expanded Tech-Software Sector ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-72b4-a115-c820d553fb1e",
-      "key": "IJH",
-      "isin": "US4642875078",
-      "kind": "Fund",
-      "name": "iShares Core S&P Mid-Cap ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7ea8-9de4-392169519368",
-      "key": "IJR",
-      "isin": "US4642878049",
-      "kind": "Fund",
-      "name": "iShares Core S&P Small-Cap ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7cee-b75b-1f10c1c41bc6",
-      "key": "ILF",
-      "isin": "US4642873909",
-      "kind": "Fund",
-      "name": "iShares Latin America 40 ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7d20-8f5e-899ab0caa3fb",
-      "key": "INDA",
-      "isin": "US46429B5984",
-      "kind": "Fund",
-      "name": "iShares MSCI India ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-738b-a0fb-daed2623bb05",
-      "key": "INMD",
-      "isin": "IL0011595993",
-      "kind": "Equity",
-      "name": "InMode Ltd.",
-      "issuerName": "InMode Ltd."
-    },
-    {
-      "id": "01a15db5-c351-7541-980a-74e08eafe367",
-      "key": "IQLT",
-      "isin": "US46434V4564",
-      "kind": "Fund",
-      "name": "iShares MSCI Intl Quality Factor ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-71de-b5f2-da4832d33c3d",
-      "key": "ITB",
-      "isin": "US4642887529",
-      "kind": "Fund",
-      "name": "iShares U.S. Home Construction ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-725e-b7a2-c313ce4c2d7d",
-      "key": "ITOT",
-      "isin": "US4642871507",
-      "kind": "Fund",
-      "name": "iShares Core S&P Total U.S. Stock Market ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-74de-babd-e58fcb23b946",
-      "key": "IVV",
-      "isin": "US4642872000",
-      "kind": "Fund",
-      "name": "iShares Core S&P 500 ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-797d-a6dd-036bb6555549",
-      "key": "IVZ",
-      "isin": "BMG491BT1088",
-      "kind": "Equity",
-      "name": "Invesco Ltd.",
-      "issuerName": "Invesco Ltd."
-    },
-    {
-      "id": "01a15db5-c351-77f3-b329-23aacf4d2ed9",
-      "key": "IWB",
-      "isin": "US4642876225",
-      "kind": "Fund",
-      "name": "iShares Russell 1000 ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7821-8423-6c7b4dae632b",
-      "key": "IWD",
-      "isin": "US4642875987",
-      "kind": "Fund",
-      "name": "iShares Russell 1000 Value ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7ed5-a841-38911e6b0668",
-      "key": "IWF",
-      "isin": "US4642876142",
-      "kind": "Fund",
-      "name": "iShares Russell 1000 Growth ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7e1b-9c81-a361f53e059b",
-      "key": "IWN",
-      "isin": "US4642876308",
-      "kind": "Fund",
-      "name": "iShares Russell 2000 Value ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-712d-bc55-c458ccec80ac",
-      "key": "IWO",
-      "isin": "US4642876480",
-      "kind": "Fund",
-      "name": "iShares Russell 2000 Growth ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-76aa-ba1f-2bd67ea348f5",
-      "key": "IWP",
-      "isin": "US4642874816",
-      "kind": "Fund",
-      "name": "iShares Russell Mid-Cap Growth ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7f35-8c15-5c1695b0bd1b",
-      "key": "IWR",
-      "isin": "US4642874998",
-      "kind": "Fund",
-      "name": "iShares Russell Mid-Cap ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7e6a-9742-8823f7e7b66f",
-      "key": "IXC",
-      "isin": "US4642873412",
-      "kind": "Fund",
-      "name": "iShares Global Energy ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7bcb-b1c5-b956019b2db9",
-      "key": "IXG",
-      "isin": "US4642873339",
-      "kind": "Fund",
-      "name": "iShares Global Financials ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-78cd-8703-0e9f34246c06",
-      "key": "IYE",
-      "isin": "US4642877967",
-      "kind": "Fund",
-      "name": "iShares U.S. Energy ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-730b-828f-87142a2f1c59",
-      "key": "IYF",
-      "isin": "US4642877884",
-      "kind": "Fund",
-      "name": "iShares U.S. Financials ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7e10-8199-bceac227fcea",
-      "key": "IYT",
-      "isin": "US4642871929",
-      "kind": "Fund",
-      "name": "iShares U.S. Transportation ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-752a-bc27-cf8c12052a35",
-      "key": "IYW",
-      "isin": "US4642877215",
-      "kind": "Fund",
-      "name": "iShares U.S. Technology ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7e75-9301-162ea0c4a7c0",
-      "key": "JCI",
-      "isin": "IE00BY7QL619",
-      "kind": "Equity",
-      "name": "Johnson Controls International plc",
-      "issuerName": "Johnson Controls International plc"
-    },
-    {
       "id": "01a13a20-7372-7a0d-a377-dc1361f91aa8",
       "key": "JETL",
       "isin": "RU000A10A0J4",
       "kind": "Equity",
       "name": "ДжетЛенд Холдинг ПАО ао"
-    },
-    {
-      "id": "01a15db5-c351-77e2-8ba2-684fa79f67d8",
-      "key": "JNK",
-      "isin": "US78468R6229",
-      "kind": "Fund",
-      "name": "State Street SPDR Bloomberg High Yield Bond ETF",
-      "issuerName": "SPDR Series Trust"
-    },
-    {
-      "id": "01a15db5-c351-7db0-ad2a-234f3fb41168",
-      "key": "JNUG",
-      "isin": "US25460G8318",
-      "kind": "Fund",
-      "name": "Direxion Daily Junior Gold Miners Index Bull 2X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-7add-b32d-820a505ff2c7",
-      "key": "JOBY",
-      "isin": "KYG651631007",
-      "kind": "Equity",
-      "name": "Joby Aviation, Inc.",
-      "issuerName": "Joby Aviation, Inc."
-    },
-    {
-      "id": "01a15db5-c351-7adb-afb2-9ddfb505c2e6",
-      "key": "KBE",
-      "isin": "US78464A7972",
-      "kind": "Fund",
-      "name": "State Street SPDR S&P Bank ETF",
-      "issuerName": "SPDR Series Trust"
-    },
-    {
-      "id": "01a15db5-c351-7418-855b-55abd9d26e15",
-      "key": "KGC",
-      "isin": "CA4969024047",
-      "kind": "Equity",
-      "name": "Kinross Gold Corporation",
-      "issuerName": "Kinross Gold Corporation"
-    },
-    {
-      "id": "01a15db5-c351-7d90-86a3-be0b4ed742c3",
-      "key": "KMG@KT",
-      "isin": "KZ1C00001122",
-      "kind": "Equity",
-      "name": "JSC NC «KazMunayGas»",
-      "issuerName": "Joint Stock Company “National Company “KazMunayGas”"
-    },
-    {
-      "id": "01a15db5-c351-71a1-9f1a-3e63a77b9755",
-      "key": "LAC",
-      "isin": "CA53681J1030",
-      "kind": "Equity",
-      "name": "Lithium Americas Corp.",
-      "issuerName": "Lithium Americas Corp."
-    },
-    {
-      "id": "01a15db5-c351-7b1b-824d-e623029c055c",
-      "key": "LAR",
-      "isin": "CH1403212751",
-      "kind": "Equity",
-      "name": "Lithium Argentina AG",
-      "issuerName": "Lithium Argentina AG"
     },
     {
       "id": "01a15db5-c351-7b13-aa09-66008d47b148",
@@ -2448,92 +1120,12 @@
       "issuerName": "Linde plc"
     },
     {
-      "id": "01a15db5-c351-756e-b39b-977c4965e7b6",
-      "key": "LOGI",
-      "isin": "CH0025751329",
-      "kind": "Equity",
-      "name": "Logitech International S.A.",
-      "issuerName": "Logitech International S.A."
-    },
-    {
-      "id": "01a15db5-c351-74ff-af52-14b28ca84fbb",
-      "key": "LQD",
-      "isin": "US4642872422",
-      "kind": "Fund",
-      "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-77fd-b390-67deb54e4758",
-      "key": "LSPD",
-      "isin": "CA53229C1077",
-      "kind": "Equity",
-      "name": "Lightspeed Commerce Inc.",
-      "issuerName": "Lightspeed Commerce Inc."
-    },
-    {
-      "id": "01a15db5-c351-7026-97ab-fcb6b0a1bc6f",
-      "key": "LYB",
-      "isin": "NL0009434992",
-      "kind": "Equity",
-      "name": "LyondellBasell Industries N.V. Class A",
-      "issuerName": "LyondellBasell Industries N.V."
-    },
-    {
-      "id": "01a15db5-c351-7709-9fa0-105e6fe79221",
-      "key": "MANU",
-      "isin": "KYG5784H1065",
-      "kind": "Equity",
-      "name": "Manchester United plc Class A",
-      "issuerName": "Manchester United plc"
-    },
-    {
       "id": "01a15db5-c351-7c9c-9897-86f3d0f05135",
       "key": "MDT",
       "isin": "IE00BTN1Y115",
       "kind": "Equity",
       "name": "Medtronic Public Limited Company",
       "issuerName": "Medtronic Public Limited Company"
-    },
-    {
-      "id": "01a15db5-c351-7a39-926c-aa438ad7f26b",
-      "key": "MDY",
-      "isin": "US78467Y1073",
-      "kind": "Fund",
-      "name": "State Street SPDR S&P MIDCAP 400 ETF Trust",
-      "issuerName": "SPDR S&P Midcap 400 ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-791a-9e54-bb53fc79d4bb",
-      "key": "MFC",
-      "isin": "CA56501R1064",
-      "kind": "Equity",
-      "name": "Manulife Financial Corporation",
-      "issuerName": "Manulife Financial Corporation"
-    },
-    {
-      "id": "01a15db5-c351-745e-a8ae-7895747a3139",
-      "key": "MGA",
-      "isin": "CA5592224011",
-      "kind": "Equity",
-      "name": "Magna International Inc.",
-      "issuerName": "Magna International Inc."
-    },
-    {
-      "id": "01a15db5-c351-7568-ac7f-0ba30eb31492",
-      "key": "MGK",
-      "isin": "US9219108167",
-      "kind": "Fund",
-      "name": "Vanguard Morningstar Mega Cap Growth ETF",
-      "issuerName": "Vanguard World Fund"
-    },
-    {
-      "id": "01a15db5-c351-7377-a0f9-e214c0661596",
-      "key": "MNDY",
-      "isin": "IL0011762130",
-      "kind": "Equity",
-      "name": "monday.com Ltd.",
-      "issuerName": "monday.com Ltd."
     },
     {
       "id": "01a15db5-c351-7a45-b2de-c92bf82f3b42",
@@ -2567,131 +1159,11 @@
       "issuerName": "Munchener Ruckversicherungs-Gesellschaft Aktiengesellschaft in Munchen"
     },
     {
-      "id": "01a15db5-c351-7a63-afc5-a27826109cad",
-      "key": "NAIL",
-      "isin": "US25490K5965",
-      "kind": "Fund",
-      "name": "Direxion Daily Homebuilders & Supplies Bull 3X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-7543-b969-7f68afb91903",
-      "key": "NAT",
-      "isin": "BMG657731060",
-      "kind": "Equity",
-      "name": "Nordic American Tankers Limited",
-      "issuerName": "Nordic American Tankers Limited"
-    },
-    {
       "id": "01a13a7a-7028-7d81-9612-bb9770d1a5f6",
       "key": "NFKS",
       "isin": "RU000A0ZYJA2",
       "kind": "Equity",
       "name": "ИК НФК-Сбережения ПАО ао"
-    },
-    {
-      "id": "01a15db5-c351-7c56-b6e4-aeea733e3ab2",
-      "key": "NTR",
-      "isin": "CA67077M1086",
-      "kind": "Equity",
-      "name": "Nutrien Ltd.",
-      "issuerName": "Nutrien Ltd."
-    },
-    {
-      "id": "01a15db5-c351-7a3f-b238-7b715d98dc39",
-      "key": "NU",
-      "isin": "KYG6683N1034",
-      "kind": "Equity",
-      "name": "Nu Holdings Ltd. Class A",
-      "issuerName": "Nu Holdings Ltd."
-    },
-    {
-      "id": "01a15db5-c351-7a34-b34f-5af491eef636",
-      "key": "NUGT",
-      "isin": "US25460G7815",
-      "kind": "Fund",
-      "name": "Direxion Daily Gold Miners Index Bull 2X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-73d7-ba0e-4c81d6196c47",
-      "key": "NVCR",
-      "isin": "JE00BYSS4X48",
-      "kind": "Equity",
-      "name": "NovoCure Limited",
-      "issuerName": "NovoCure Limited"
-    },
-    {
-      "id": "01a15db5-c351-7131-a562-2db3ff5286f4",
-      "key": "NXPI",
-      "isin": "NL0009538784",
-      "kind": "Equity",
-      "name": "NXP Semiconductors N.V.",
-      "issuerName": "NXP Semiconductors N.V."
-    },
-    {
-      "id": "01a15db5-c351-728d-a422-d110374c4cbd",
-      "key": "OEF",
-      "isin": "US4642871010",
-      "kind": "Fund",
-      "name": "iShares S&P 100 ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7e3d-87d4-c848ab72f939",
-      "key": "OIH",
-      "isin": "US92189H6071",
-      "kind": "Fund",
-      "name": "VanEck Oil Services ETF",
-      "issuerName": "VanEck ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-77ac-9280-d77dff57b80e",
-      "key": "PAAS",
-      "isin": "CA6979001089",
-      "kind": "Equity",
-      "name": "Pan American Silver Corp.",
-      "issuerName": "Pan American Silver Corp."
-    },
-    {
-      "id": "01a15db5-c351-79f1-87db-e7c33717e9af",
-      "key": "PAGS",
-      "isin": "KYG687071012",
-      "kind": "Equity",
-      "name": "Pagseguro Digital Ltd",
-      "issuerName": "PagSeguro Digital Ltd."
-    },
-    {
-      "id": "01a15db5-c351-7f86-9da2-c0b746cbb0b4",
-      "key": "PBA",
-      "isin": "CA7063271034",
-      "kind": "Equity",
-      "name": "Pembina Pipeline Corporation",
-      "issuerName": "Pembina Pipeline Corporation"
-    },
-    {
-      "id": "01a15db5-c351-788d-a81e-6907c9edaf64",
-      "key": "PDS",
-      "isin": "CA74022D4075",
-      "kind": "Equity",
-      "name": "Precision Drilling Corporation",
-      "issuerName": "Precision Drilling Corporation"
-    },
-    {
-      "id": "01a15db5-c351-7e15-baa8-c11ac7fb603d",
-      "key": "PICK",
-      "isin": "US46434G8481",
-      "kind": "Fund",
-      "name": "iShares MSCI Global Metals & Mining Producers ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
-      "id": "01a15db5-c351-7437-a479-20d120bbd551",
-      "key": "PIPR",
-      "isin": "US7240782091",
-      "kind": "Equity",
-      "name": "Piper Sandler Companies",
-      "issuerName": "Piper Sandler Companies"
     },
     {
       "id": "01a15db5-c351-7f40-83d1-8e2b7103f435",
@@ -2718,108 +1190,12 @@
       "issuerName": "Puma SE"
     },
     {
-      "id": "01a15db5-c351-7cb9-a86d-e2fdf2e9ac3f",
-      "key": "QLD",
-      "isin": "US74347R2067",
-      "kind": "Fund",
-      "name": "ProShares Ultra QQQ",
-      "issuerName": "ProShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-71cc-9f86-0d57a6a88e6f",
-      "key": "QSR",
-      "isin": "CA76131D1033",
-      "kind": "Equity",
-      "name": "Restaurant Brands International Inc.",
-      "issuerName": "Restaurant Brands International Inc."
-    },
-    {
-      "id": "01a15db5-c351-79a3-866f-3d820938274f",
-      "key": "QUAL",
-      "isin": "US46432F3394",
-      "kind": "Fund",
-      "name": "iShares MSCI USA Quality Factor ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-70e5-8895-f638f744b79c",
-      "key": "RACE",
-      "isin": "NL0011585146",
-      "kind": "Equity",
-      "name": "Ferrari N.V.",
-      "issuerName": "Ferrari N.V."
-    },
-    {
-      "id": "01a15db5-c351-7ee3-b806-dc76f99ea0b3",
-      "key": "RBA",
-      "isin": "CA74935Q1072",
-      "kind": "Equity",
-      "name": "RB Global, Inc.",
-      "issuerName": "RB Global, Inc."
-    },
-    {
-      "id": "01a15db5-c351-73c4-aecc-763e0cd143d2",
-      "key": "RCL",
-      "isin": "LR0008862868",
-      "kind": "Equity",
-      "name": "Royal Caribbean Cruises Ltd.",
-      "issuerName": "Royal Caribbean Cruises Ltd."
-    },
-    {
-      "id": "01a15db5-c351-7941-a52a-f6802381e7c7",
-      "key": "REMX",
-      "isin": "US92189H8051",
-      "kind": "Fund",
-      "name": "VanEck Rare Earth and Strategic Metals ETF",
-      "issuerName": "VanEck ETF Trust"
-    },
-    {
       "id": "01a15db5-c351-7f32-a2b6-6109a0ed70f9",
       "key": "RHM@DE",
       "isin": "DE0007030009",
       "kind": "Equity",
       "name": "Rheinmetall Aktiengesellschaft",
       "issuerName": "Rheinmetall Aktiengesellschaft"
-    },
-    {
-      "id": "01a15db5-c351-7150-ba1a-f12f488df0a0",
-      "key": "RIG",
-      "isin": "CH0048265513",
-      "kind": "Equity",
-      "name": "Transocean Ltd.",
-      "issuerName": "Transocean Ltd."
-    },
-    {
-      "id": "01a15db5-c351-7d44-85ff-c4fa0d0c3414",
-      "key": "RNR",
-      "isin": "BMG7496G1033",
-      "kind": "Equity",
-      "name": "RenaissanceRe Holdings Ltd.",
-      "issuerName": "RenaissanceRe Holdings Ltd."
-    },
-    {
-      "id": "01a15db5-c351-701d-a93e-d8d03f22b0b0",
-      "key": "RPV",
-      "isin": "US46137V2584",
-      "kind": "Fund",
-      "name": "Invesco S&P 500 Pure Value ETF",
-      "issuerName": "Invesco Exchange-Traded Fund Trust"
-    },
-    {
-      "id": "01a15db5-c351-7f57-859a-fab535ccf08b",
-      "key": "RSKD",
-      "isin": "IL0011786493",
-      "kind": "Equity",
-      "name": "Riskified Ltd. Class A",
-      "issuerName": "Riskified Ltd."
-    },
-    {
-      "id": "01a15db5-c351-708b-a9b7-ea59c3675779",
-      "key": "RSP",
-      "isin": "US46137V3574",
-      "kind": "Fund",
-      "name": "Invesco S&P 500 Equal Weight ETF",
-      "issuerName": "Invesco Exchange-Traded Fund Trust"
     },
     {
       "id": "01a15db5-c351-7d55-8e58-715599bff794",
@@ -2830,84 +1206,12 @@
       "issuerName": "RWE Aktiengesellschaft"
     },
     {
-      "id": "01a15db5-c351-77e3-9eae-fdeebe3974b7",
-      "key": "RY",
-      "isin": "CA7800871021",
-      "kind": "Equity",
-      "name": "Royal Bank of Canada",
-      "issuerName": "Royal Bank of Canada"
-    },
-    {
-      "id": "01a15db5-c351-7212-9115-65735df4a0c7",
-      "key": "SCHA",
-      "isin": "US8085246077",
-      "kind": "Fund",
-      "name": "Schwab U.S. Small-Cap ETF",
-      "issuerName": "Schwab Strategic Trust"
-    },
-    {
-      "id": "01a15db5-c351-7184-a339-fc2dcce4a2f5",
-      "key": "SCHB",
-      "isin": "US8085241029",
-      "kind": "Fund",
-      "name": "Schwab U.S. Broad Market ETF",
-      "issuerName": "Schwab Strategic Trust"
-    },
-    {
-      "id": "01a15db5-c351-7256-81de-3c890c6be0e7",
-      "key": "SCHD",
-      "isin": "US8085247976",
-      "kind": "Fund",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "issuerName": "Schwab Strategic Trust"
-    },
-    {
-      "id": "01a15db5-c351-7d8b-bd77-fc01173beabf",
-      "key": "SCHE",
-      "isin": "US8085247067",
-      "kind": "Fund",
-      "name": "Schwab Emerging Markets Equity ETF",
-      "issuerName": "Schwab Strategic Trust"
-    },
-    {
-      "id": "01a15db5-c351-72d5-aacf-04c5247d41f1",
-      "key": "SCHG",
-      "isin": "US8085243009",
-      "kind": "Fund",
-      "name": "Schwab U.S. Large-Cap Growth ETF",
-      "issuerName": "Schwab Strategic Trust"
-    },
-    {
-      "id": "01a15db5-c351-7982-9bfb-9bb57106178d",
-      "key": "SDY",
-      "isin": "US78464A7634",
-      "kind": "Fund",
-      "name": "State Street SPDR S&P Dividend ETF",
-      "issuerName": "SPDR Series Trust"
-    },
-    {
-      "id": "01a15db5-c351-7d42-8348-9cc1aa58e945",
-      "key": "SEB",
-      "isin": "US8115431079",
-      "kind": "Equity",
-      "name": "Seaboard Corporation",
-      "issuerName": "Seaboard Corporation"
-    },
-    {
       "id": "01a15db5-c351-7fa7-928d-1e9759e692cc",
       "key": "SHL@DE",
       "isin": "DE000SHL1006",
       "kind": "Equity",
       "name": "Siemens Healthineers AG",
       "issuerName": "Siemens Healthineers AG"
-    },
-    {
-      "id": "01a15db5-c351-70ff-b529-9ce20654e998",
-      "key": "SHOP",
-      "isin": "CA82509L1076",
-      "kind": "Equity",
-      "name": "Shopify Inc. Class A",
-      "issuerName": "Shopify Inc."
     },
     {
       "id": "01a15db5-c351-7d03-9d8d-dc2667109c8c",
@@ -2918,108 +1222,12 @@
       "issuerName": "Siemens Aktiengesellschaft"
     },
     {
-      "id": "01a15db5-c351-7268-b5fa-39e768d5927d",
-      "key": "SIG",
-      "isin": "BMG812761002",
-      "kind": "Equity",
-      "name": "Signet Jewelers Limited",
-      "issuerName": "Signet Jewelers Limited"
-    },
-    {
-      "id": "01a15db5-c351-74c1-b2c8-297e5b3e5808",
-      "key": "SLF",
-      "isin": "CA8667961053",
-      "kind": "Equity",
-      "name": "Sun Life Financial Inc.",
-      "issuerName": "Sun Life Financial Inc."
-    },
-    {
-      "id": "01a15db5-c351-7394-b2f1-cbfa6e48a75c",
-      "key": "SLV",
-      "isin": "US46428Q1094",
-      "kind": "Fund",
-      "name": "iShares Silver Trust",
-      "issuerName": "iShares Silver Trust"
-    },
-    {
-      "id": "01a15db5-c351-7dfd-bbe2-34fe34f54e1f",
-      "key": "SOXL",
-      "isin": "US25459W4583",
-      "kind": "Fund",
-      "name": "Direxion Daily Semiconductor Bull 3X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-7429-bbf9-f24d7ddb671e",
-      "key": "SPDW",
-      "isin": "US78463X8891",
-      "kind": "Fund",
-      "name": "State Street SPDR Portfolio Developed World ex-US ETF",
-      "issuerName": "SPDR Index Shares Funds"
-    },
-    {
-      "id": "01a15db5-c351-7fef-a99e-166620ab2593",
-      "key": "SPLV",
-      "isin": "US46138E3541",
-      "kind": "Fund",
-      "name": "Invesco S&P 500 Low Volatility ETF",
-      "issuerName": "Invesco Exchange-Traded Fund Trust II"
-    },
-    {
-      "id": "01a15db5-c351-76fd-802e-656859fe6d9e",
-      "key": "SPSB",
-      "isin": "US78464A4748",
-      "kind": "Fund",
-      "name": "State Street SPDR Portfolio Short Term Corporate Bond ETF",
-      "issuerName": "SPDR Series Trust"
-    },
-    {
-      "id": "01a15db5-c351-73bf-9f8b-0bb26b4c0a0a",
-      "key": "SPXL",
-      "isin": "US25459W8626",
-      "kind": "Fund",
-      "name": "Direxion Daily S&P 500 Bull 3X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-79dd-a78d-42d23571a17f",
-      "key": "SPYD",
-      "isin": "US78468R7888",
-      "kind": "Fund",
-      "name": "State Street SPDR Portfolio S&P 500 High Dividend ETF",
-      "issuerName": "SPDR Series Trust"
-    },
-    {
-      "id": "01a15db5-c351-7fde-8cc2-ef8fffcf71d2",
-      "key": "SPYM",
-      "isin": "US78464A8541",
-      "kind": "Fund",
-      "name": "State Street SPDR Portfolio S&P 500 ETF",
-      "issuerName": "SPDR Series Trust"
-    },
-    {
       "id": "01a15db5-c351-75f2-a7db-03e5a3a09474",
       "key": "STE",
       "isin": "IE00BFY8C754",
       "kind": "Equity",
       "name": "STERIS plc",
       "issuerName": "STERIS plc"
-    },
-    {
-      "id": "01a15db5-c351-787b-ac17-d4ca575302c1",
-      "key": "STLA",
-      "isin": "NL00150001Q9",
-      "kind": "Equity",
-      "name": "Stellantis N.V.",
-      "issuerName": "Stellantis N.V."
-    },
-    {
-      "id": "01a15db5-c351-78c5-97bf-dfd5fe1d9d72",
-      "key": "STNE",
-      "isin": "KYG851581069",
-      "kind": "Equity",
-      "name": "StoneCo Ltd. Class A",
-      "issuerName": "StoneCo Ltd."
     },
     {
       "id": "01a15db5-c351-7545-b886-deb6d488b075",
@@ -3030,14 +1238,6 @@
       "issuerName": "Seagate Technology Holdings public limited company"
     },
     {
-      "id": "01a15db5-c351-7371-882f-3e6607407e72",
-      "key": "SU",
-      "isin": "CA8672241079",
-      "kind": "Equity",
-      "name": "Suncor Energy\u00A0Inc.",
-      "issuerName": "Suncor Energy\u00A0Inc."
-    },
-    {
       "id": "01a15db5-c351-73e8-9c70-1c1ec3ad3887",
       "key": "SZU@DE",
       "isin": "DE0007297004",
@@ -3046,60 +1246,12 @@
       "issuerName": "Suedzucker AG"
     },
     {
-      "id": "01a15db5-c351-7737-b1f6-35abed18d141",
-      "key": "TBF",
-      "isin": "US74347X8496",
-      "kind": "Fund",
-      "name": "ProShares Short 20+ Year Treasury",
-      "issuerName": "ProShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7be7-9d0f-66272febdd32",
-      "key": "TD",
-      "isin": "CA8911605092",
-      "kind": "Equity",
-      "name": "The Toronto-Dominion Bank",
-      "issuerName": "The Toronto-Dominion Bank"
-    },
-    {
-      "id": "01a15db5-c351-74d2-8d44-97454646570f",
-      "key": "TECL",
-      "isin": "US25459W1027",
-      "kind": "Fund",
-      "name": "Direxion Daily Technology Bull 3X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-713c-ab2c-1042ba226533",
-      "key": "TFII",
-      "isin": "CA87241L1094",
-      "kind": "Equity",
-      "name": "TFI International Inc.",
-      "issuerName": "TFI International Inc."
-    },
-    {
-      "id": "01a15db5-c351-72ec-ba6e-db5b73298648",
-      "key": "THD",
-      "isin": "US4642866242",
-      "kind": "Fund",
-      "name": "iShares MSCI Thailand ETF",
-      "issuerName": "iShares, Inc."
-    },
-    {
       "id": "01a15db5-c351-7b1b-94fb-7f402f2d8872",
       "key": "TIND",
       "isin": "RU000A10EM12",
       "kind": "Fund",
       "name": "ЗКПИФ Т-Капитал Индустриальный",
       "issuerName": "Общество с ограниченной ответственностью \"Т-Капитал\""
-    },
-    {
-      "id": "01a15db5-c351-7568-8216-93e51445ca59",
-      "key": "TIP",
-      "isin": "US4642871762",
-      "kind": "Fund",
-      "name": "iShares TIPS Bond ETF",
-      "issuerName": "iShares Trust"
     },
     {
       "id": "01a15db5-c351-7607-9fd5-887bdd0f258b",
@@ -3118,28 +1270,12 @@
       "issuerName": "Talanx Aktiengesellschaft"
     },
     {
-      "id": "01a15db5-c351-703a-bf8b-6f3814c558f6",
-      "key": "TNA",
-      "isin": "US25459W8477",
-      "kind": "Fund",
-      "name": "Direxion Daily Small Cap Bull 3X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
       "id": "01a15db5-c351-7d55-8083-5fdfabb775da",
       "key": "TRES",
       "isin": "RU000A10FH75",
       "kind": "Fund",
       "name": "Общество с ограниченной ответственностью \"Т-Капитал\"",
       "issuerName": "Общество с ограниченной ответственностью \"Т-Капитал\""
-    },
-    {
-      "id": "01a15db5-c351-7110-9dcb-8bb22ad0e44f",
-      "key": "TRP",
-      "isin": "CA87807B1076",
-      "kind": "Equity",
-      "name": "TC Energy Corporation",
-      "issuerName": "TC Energy Corporation"
     },
     {
       "id": "01a15db5-c351-7764-95b2-90f29aec0fc2",
@@ -3150,76 +1286,12 @@
       "issuerName": "Trane Technologies plc"
     },
     {
-      "id": "01a15db5-c351-79c3-ad90-23a54df3d5f5",
-      "key": "TTT",
-      "isin": "US74347G8877",
-      "kind": "Fund",
-      "name": "ProShares UltraPro Short 20+ Year Treasury",
-      "issuerName": "ProShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-717f-9cc1-6d0fe99c3fad",
-      "key": "UBS",
-      "isin": "CH0244767585",
-      "kind": "Equity",
-      "name": "UBS Group AG",
-      "issuerName": "UBS Group AG"
-    },
-    {
-      "id": "01a15db5-c351-786a-b35c-c1dd64c24e5c",
-      "key": "UBT",
-      "isin": "US74347R1721",
-      "kind": "Fund",
-      "name": "ProShares Ultra 20+ Year Treasury",
-      "issuerName": "ProShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7595-9653-60709214a7a1",
-      "key": "UDOW",
-      "isin": "US74347X8231",
-      "kind": "Fund",
-      "name": "ProShares UltraPro Dow30",
-      "issuerName": "ProShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7cbc-a469-e77fec51891a",
-      "key": "UEC",
-      "isin": "US9168961038",
-      "kind": "Equity",
-      "name": "Uranium Energy Corp.",
-      "issuerName": "Uranium Energy Corp."
-    },
-    {
-      "id": "01a15db5-c351-7f66-b3b5-d034b79b716b",
-      "key": "URTY",
-      "isin": "US74347X7993",
-      "kind": "Fund",
-      "name": "UltraPro Russell2000",
-      "issuerName": "ProShares Trust"
-    },
-    {
-      "id": "01a15db5-c351-7bac-8f96-496b92d50e12",
-      "key": "USMV",
-      "isin": "US46429B6974",
-      "kind": "Fund",
-      "name": "iShares MSCI USA Min Vol Factor ETF",
-      "issuerName": "iShares Trust"
-    },
-    {
       "id": "01a15db5-c351-7c2d-a656-a51cd515f3ab",
       "key": "UTDI@DE",
       "isin": "DE0005089031",
       "kind": "Equity",
       "name": "United Internet AG",
       "issuerName": "United Internet AG"
-    },
-    {
-      "id": "01a15db5-c351-79b5-a16c-bf961a4f9dfb",
-      "key": "UUUU",
-      "isin": "CA2926717083",
-      "kind": "Equity",
-      "name": "Energy Fuels Inc.",
-      "issuerName": "Energy Fuels Inc."
     },
     {
       "id": "01a15db5-c351-7075-b7c0-d498e8dee998",
@@ -3230,84 +1302,12 @@
       "issuerName": "Valaris Limited"
     },
     {
-      "id": "01a15db5-c351-7139-90a6-248ddeda6697",
-      "key": "VBR",
-      "isin": "US9229086114",
-      "kind": "Fund",
-      "name": "Vanguard Morningstar Small-Cap Value ETF",
-      "issuerName": "Vanguard Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-728d-b535-3e288359f362",
-      "key": "VDE",
-      "isin": "US92204A3068",
-      "kind": "Fund",
-      "name": "Vanguard Energy ETF",
-      "issuerName": "Vanguard World Fund"
-    },
-    {
-      "id": "01a15db5-c351-779a-9205-31bd415f3628",
-      "key": "VEA",
-      "isin": "US9219438580",
-      "kind": "Fund",
-      "name": "Vanguard FTSE Developed Markets ETF",
-      "issuerName": "Vanguard Tax-Managed Funds"
-    },
-    {
-      "id": "01a15db5-c351-7b8c-a922-e8e3ad7a1f14",
-      "key": "VET",
-      "isin": "CA9237251058",
-      "kind": "Equity",
-      "name": "Vermilion Energy Inc.",
-      "issuerName": "Vermilion Energy Inc."
-    },
-    {
-      "id": "01a15db5-c351-79f5-ba59-b67a8a9ebaae",
-      "key": "VEU",
-      "isin": "US9220427754",
-      "kind": "Fund",
-      "name": "Vanguard FTSE All-World ex-US ETF",
-      "issuerName": "Vanguard International Equity Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-7092-8467-bee68adb1005",
-      "key": "VGK",
-      "isin": "US9220428745",
-      "kind": "Fund",
-      "name": "Vanguard FTSE Europe ETF",
-      "issuerName": "Vanguard International Equity Index Funds"
-    },
-    {
       "id": "01a15db5-c351-7917-a103-27084659809d",
       "key": "VIB3@DE",
       "isin": "DE0007657231",
       "kind": "Equity",
       "name": "Villeroy & Boch Aktiengesellschaft",
       "issuerName": "Villeroy & Boch Aktiengesellschaft"
-    },
-    {
-      "id": "01a15db5-c351-71db-9930-42d4e73f68ed",
-      "key": "VIG",
-      "isin": "US9219088443",
-      "kind": "Fund",
-      "name": "Vanguard Dividend Appreciation ETF",
-      "issuerName": "Vanguard Specialized Funds"
-    },
-    {
-      "id": "01a15db5-c351-7a7f-9357-aeee71e73427",
-      "key": "VIS",
-      "isin": "US92204A6038",
-      "kind": "Fund",
-      "name": "Vanguard Industrials ETF",
-      "issuerName": "Vanguard World Fund"
-    },
-    {
-      "id": "01a15db5-c351-7830-ae4b-d55cd1785b7b",
-      "key": "VLUE",
-      "isin": "US46432F3881",
-      "kind": "Fund",
-      "name": "iShares MSCI USA Value Factor ETF",
-      "issuerName": "iShares Trust"
     },
     {
       "id": "01a15db5-c351-7890-914a-39171d205d6a",
@@ -3318,22 +1318,6 @@
       "issuerName": "Vonovia SE"
     },
     {
-      "id": "01a15db5-c351-751b-afef-5a24f0f98508",
-      "key": "VO",
-      "isin": "US9229086296",
-      "kind": "Fund",
-      "name": "Vanguard Morningstar Mid-Cap ETF",
-      "issuerName": "Vanguard Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-753e-abae-618f117889a5",
-      "key": "VOT",
-      "isin": "US9229085389",
-      "kind": "Fund",
-      "name": "Vanguard Morningstar Mid-Cap Growth ETF",
-      "issuerName": "Vanguard Index Funds"
-    },
-    {
       "id": "01a15db5-c351-79b7-874e-5a346b8c8ffc",
       "key": "VOW@DE",
       "isin": "DE0007664005",
@@ -3342,204 +1326,12 @@
       "issuerName": "VOLKSWAGEN AKTIENGESELLSCHAFT"
     },
     {
-      "id": "01a15db5-c351-711b-aae7-3a371ad29d9f",
-      "key": "VPL",
-      "isin": "US9220428661",
-      "kind": "Fund",
-      "name": "Vanguard FTSE Pacific ETF",
-      "issuerName": "Vanguard International Equity Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-7413-abfd-6b40114db2c3",
-      "key": "VSS",
-      "isin": "US9220427184",
-      "kind": "Fund",
-      "name": "Vanguard FTSE All-World ex-US Small-Cap ETF",
-      "issuerName": "Vanguard International Equity Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-79b7-a907-c2c9206cdf93",
-      "key": "VTI",
-      "isin": "US9229087690",
-      "kind": "Fund",
-      "name": "Vanguard Morningstar Total Stock Market ETF",
-      "issuerName": "Vanguard Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-7107-ab4a-ed8904e49e98",
-      "key": "VTV",
-      "isin": "US9229087443",
-      "kind": "Fund",
-      "name": "Vanguard Morningstar Value ETF",
-      "issuerName": "Vanguard Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-7594-909c-6bd778c32d6d",
-      "key": "VV",
-      "isin": "US9229086379",
-      "kind": "Fund",
-      "name": "Vanguard Morningstar Large-Cap ETF",
-      "issuerName": "Vanguard Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-7880-9bbc-0328c2fdd729",
-      "key": "VWO",
-      "isin": "US9220428588",
-      "kind": "Fund",
-      "name": "Vanguard FTSE Emerging Markets ETF",
-      "issuerName": "Vanguard International Equity Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-70bb-b82a-fbd1a85e40d7",
-      "key": "VXF",
-      "isin": "US9229086528",
-      "kind": "Fund",
-      "name": "Vanguard Extended Market ETF",
-      "issuerName": "Vanguard Index Funds"
-    },
-    {
-      "id": "01a15db5-c351-770b-8c7a-8ed8b855e603",
-      "key": "WCN",
-      "isin": "CA94106B1013",
-      "kind": "Equity",
-      "name": "Waste Connections, Inc.",
-      "issuerName": "Waste Connections, Inc."
-    },
-    {
-      "id": "01a15db5-c351-7742-b138-bfa621dd6711",
-      "key": "WIX",
-      "isin": "IL0011301780",
-      "kind": "Equity",
-      "name": "Wix.com Ltd.",
-      "issuerName": "Wix.com Ltd."
-    },
-    {
-      "id": "01a15db5-c351-7ca8-8b4e-68c00a3e09e9",
-      "key": "WPM",
-      "isin": "CA9628791027",
-      "kind": "Equity",
-      "name": "Wheaton Precious Metals Corp.",
-      "issuerName": "Wheaton Precious Metals Corp."
-    },
-    {
-      "id": "01a15db5-c351-75fc-aac0-acf2b9ceffcc",
-      "key": "WTM",
-      "isin": "BMG9618E1075",
-      "kind": "Equity",
-      "name": "White Mountains Insurance Group, Ltd.",
-      "issuerName": "White Mountains Insurance Group, Ltd."
-    },
-    {
       "id": "01a15db5-c351-731b-8f8c-8c095706cb2a",
       "key": "WTW",
       "isin": "IE00BDB6Q211",
       "kind": "Equity",
       "name": "Willis Towers Watson Public Limited Company",
       "issuerName": "Willis Towers Watson Public Limited Company"
-    },
-    {
-      "id": "01a15db5-c351-778c-9caa-babcef5a823f",
-      "key": "XENE",
-      "isin": "CA98420N1050",
-      "kind": "Equity",
-      "name": "Xenon Pharmaceuticals Inc.",
-      "issuerName": "Xenon Pharmaceuticals Inc."
-    },
-    {
-      "id": "01a15db5-c351-754b-8c8b-d3f17c791b73",
-      "key": "XHB",
-      "isin": "US78464A8889",
-      "kind": "Fund",
-      "name": "State Street SPDR S&P Homebuilders ETF",
-      "issuerName": "SPDR Series Trust"
-    },
-    {
-      "id": "01a15db5-c351-7f66-8d31-7cdd981b557c",
-      "key": "XLB",
-      "isin": "US81369Y1001",
-      "kind": "Fund",
-      "name": "State Street Materials Select Sector SPDR ETF",
-      "issuerName": "The Select Sector SPDR Trust"
-    },
-    {
-      "id": "01a15db5-c351-7d57-ac7a-0feb8a388b01",
-      "key": "XLC",
-      "isin": "US81369Y8527",
-      "kind": "Fund",
-      "name": "State Street Communication Services Select Sector SPDR ETF",
-      "issuerName": "The Select Sector SPDR Trust"
-    },
-    {
-      "id": "01a15db5-c351-7475-92af-b434d68a84f1",
-      "key": "XLI",
-      "isin": "US81369Y7040",
-      "kind": "Fund",
-      "name": "State Street Industrial Select Sector SPDR ETF",
-      "issuerName": "The Select Sector SPDR Trust"
-    },
-    {
-      "id": "01a15db5-c351-7dc4-97d9-a4f73e62df5f",
-      "key": "XLP",
-      "isin": "US81369Y3080",
-      "kind": "Fund",
-      "name": "State Street Consumer Staples Select Sector SPDR ETF",
-      "issuerName": "The Select Sector SPDR Trust"
-    },
-    {
-      "id": "01a15db5-c351-72dc-b815-1be97d923c1d",
-      "key": "XLRE",
-      "isin": "US81369Y8600",
-      "kind": "Fund",
-      "name": "State Street Real Estate Select Sector SPDR ETF",
-      "issuerName": "The Select Sector SPDR Trust"
-    },
-    {
-      "id": "01a15db5-c351-795e-a2b7-0187d342995b",
-      "key": "XLU",
-      "isin": "US81369Y8865",
-      "kind": "Fund",
-      "name": "State Street Utilities Select Sector SPDR ETF",
-      "issuerName": "The Select Sector SPDR Trust"
-    },
-    {
-      "id": "01a15db5-c351-7cf6-80d3-dfb4bf8501a1",
-      "key": "XLY",
-      "isin": "US81369Y4070",
-      "kind": "Fund",
-      "name": "State Street Consumer Discretionary Select Sector SPDR ETF",
-      "issuerName": "The Select Sector SPDR Trust"
-    },
-    {
-      "id": "01a15db5-c351-7d0c-97ac-fcae3fa63357",
-      "key": "XP",
-      "isin": "KYG982391099",
-      "kind": "Equity",
-      "name": "XP Inc. Class A",
-      "issuerName": "XP Inc."
-    },
-    {
-      "id": "01a15db5-c351-7a4d-8c9d-740140a6229f",
-      "key": "XSD",
-      "isin": "US78464A8624",
-      "kind": "Fund",
-      "name": "State Street SPDR S&P Semiconductor ETF",
-      "issuerName": "SPDR Series Trust"
-    },
-    {
-      "id": "01a15db5-c351-7022-a608-c46d318e0cfe",
-      "key": "YINN",
-      "isin": "US25460G1958",
-      "kind": "Fund",
-      "name": "Direxion Daily FTSE China Bull 3X ETF",
-      "issuerName": "Direxion Shares ETF Trust"
-    },
-    {
-      "id": "01a15db5-c351-74df-aa0c-9484d99e5102",
-      "key": "ZIM",
-      "isin": "IL0065100930",
-      "kind": "Equity",
-      "name": "ZIM Integrated Shipping Services Ltd.",
-      "issuerName": "ZIM Integrated Shipping Services Ltd."
     }
   ]
 }
