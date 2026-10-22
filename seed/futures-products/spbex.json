@@ -2,315 +2,822 @@
   "$schema": "../../schema/futures-products.schema.json",
   "products": [
     {
+      "id": "01a15db5-c37e-7b32-b6b5-f388d5c3b9a7",
+      "code": "ABNBperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Airbnb, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US0090661010"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7994-8217-d2180cda09d6",
+      "code": "ADBEperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Adobe Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US00724F1012"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-77d3-bece-eb4a3c63317b",
+      "code": "AFRMperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Affirm Holdings, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US00827B1061"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
       "id": "01a13a20-7371-76ef-9af9-432193c8fbf3",
       "code": "AMDperpA",
       "name": "Бессрочный фьючерсный контракт на акции Advanced Micro Devices, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US0079031078"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-77d8-b3f5-2902e34bcfa4",
       "code": "AMZNperpA",
       "name": "Бессрочный фьючерсный контракт на акции Amazon.com, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US0231351067"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-71cf-bb3f-fef23626734a",
       "code": "APPperpA",
       "name": "Бессрочный фьючерсный контракт на акции AppLovin Corporation",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US03831W1080"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7f33-8be4-ae68ba63e3a6",
       "code": "ARMperpA",
       "name": "Бессрочный фьючерсный контракт на американские депозитарные акции Arm Holdings plc",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US0420682058"
-      }
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7d08-9846-a57d0fffc3f8",
+      "code": "ASTSperpA",
+      "name": "Бессрочный фьючерсный контракт на акции AST SpaceMobile, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US00217D1000"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7a60-b315-f4526c26a949",
       "code": "BEperpA",
       "name": "Бессрочный фьючерсный контракт на акции Bloom Energy Corporation",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US0937121079"
-      }
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-73ba-9a91-193018213d1b",
+      "code": "BIIBperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Biogen Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US09062X1037"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-79ab-9cc4-6e2c0c0356c5",
+      "code": "BSXperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Boston Scientific Corporation",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US1011371077"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-75ab-8169-97b7c800a6d2",
       "code": "BTCUSDperpA",
       "name": "Бессрочный фьючерсный контракт на курс биткоина к доллару США",
       "venue": "SPBE",
+      "contractSize": 0.0001,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "BTC"
-      }
+        "reference": {
+          "code": "IBTCUSD",
+          "venue": "XXXX"
+        }
+      },
+      "settlementFixing": "IUSD1"
+    },
+    {
+      "id": "01a15db5-c37e-7fa0-bd5c-4b70a1dcdbf1",
+      "code": "CIENperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Ciena Corporation",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US1717793095"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7b05-9d4b-dad4ce8cd9d8",
+      "code": "CMGperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Chipotle Mexican Grill, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US1696561059"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-76a7-8681-e07d4bf4e423",
       "code": "COHRperpA",
       "name": "Бессрочный фьючерсный контракт на акции Coherent Corp.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US19247G1076"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7c72-9598-7df833b79ea0",
       "code": "COINperpA",
       "name": "Бессрочный фьючерсный контракт на акции Coinbase Global, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US19260Q1076"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7927-89a0-61957eaeee2e",
       "code": "CRCLperpA",
       "name": "Бессрочный фьючерсный контракт на акции Circle Internet Group, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US1725731079"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7e44-828a-dacdf09b4dd1",
       "code": "CRWDperpA",
       "name": "Бессрочный фьючерсный контракт на акции CrowdStrike Holdings, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US22788C1053"
-      }
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-72e7-90f5-845531fadd1d",
+      "code": "CVNAperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Carvana Co.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US1468691027"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-768f-a9f3-ec48f0eec813",
       "code": "DASHperpA",
       "name": "Бессрочный фьючерсный контракт на акции DoorDash, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US25809K1051"
-      }
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7bbe-a4fe-01dcfcb8ff97",
+      "code": "DDOGperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Datadog, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US23804L1035"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-754a-8048-ed00ac1730bc",
+      "code": "DUOLperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Duolingo, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US26603R1068"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7cf9-89d1-39ba19ff08f0",
       "code": "ETHUSDperpA",
       "name": "Бессрочный фьючерсный контракт на курс эфира к доллару США",
       "venue": "SPBE",
+      "contractSize": 0.001,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "ETH"
-      }
+        "reference": {
+          "code": "IETHUSD",
+          "venue": "XXXX"
+        }
+      },
+      "settlementFixing": "IUSD1"
+    },
+    {
+      "id": "01a15db5-c37e-78e6-b59e-fc0ddc754e90",
+      "code": "FSLRperpA",
+      "name": "Бессрочный фьючерсный контракт на акции First Solar, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US3364331070"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7218-9d32-cec7c9bcf827",
+      "code": "GTLBperpA",
+      "name": "Бессрочный фьючерсный контракт на акции GitLab Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US37637K1088"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7ccf-92bd-98b1d58475f7",
       "code": "HOODperpA",
       "name": "Бессрочный фьючерсный контракт на акции Robinhood Markets, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US7707001027"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7e2a-8da6-0a75035b34bd",
       "code": "INTCperpA",
       "name": "Бессрочный фьючерсный контракт на акции Intel Corporation",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US4581401001"
-      }
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7212-8d9c-74d91c8c7c26",
+      "code": "ISRGperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Intuitive Surgical, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US46120E6023"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-755f-8d60-441e727185fb",
       "code": "LITEperpA",
       "name": "Бессрочный фьючерсный контракт на акции Lumentum Holdings Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US55024U1097"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7e69-8386-ca95f57044d7",
+      "code": "LKOH",
+      "name": "Расчетный фьючерсный контракт на акции ПАО \"ЛУКОЙЛ\"",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "RU0009024277"
       }
+    },
+    {
+      "id": "01a15db5-c37e-7171-b6e2-4803ca3d0df9",
+      "code": "LULUperpA",
+      "name": "Бессрочный фьючерсный контракт на акции lululemon athletica inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US5500211090"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7385-8f91-a1dbfa84b2a1",
+      "code": "MELIperpA",
+      "name": "Бессрочный фьючерсный контракт на акции MercadoLibre, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US58733R1023"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7cff-bde1-94ae29facd67",
       "code": "MRNAperpA",
       "name": "Бессрочный фьючерсный контракт на акции Moderna, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US60770K1079"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7fb5-be1b-1a1c3cdb0b90",
       "code": "MSTRperpA",
       "name": "Бессрочный фьючерсный контракт на акции Strategy Inc",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US5949724083"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7034-a5a7-4dd33a0c5355",
       "code": "NBISperpA",
       "name": "Бессрочный фьючерсный контракт на акции Nebius Group N.V.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "NL0009805522"
-      }
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7a8b-b401-09d1f5ec4c78",
+      "code": "NETperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Cloudflare, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US18915M1071"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-793b-af58-553903246a0f",
       "code": "NFLXperpA",
       "name": "Бессрочный фьючерсный контракт на акции Netflix, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US64110L1061"
-      }
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7085-a390-40ad52b0642a",
+      "code": "NOWperpA",
+      "name": "Бессрочный фьючерсный контракт на акции ServiceNow, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US81762P1021"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7932-babc-cadc6cf91444",
       "code": "PANWperpA",
       "name": "Бессрочный фьючерсный контракт на акции Palo Alto Networks, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US6974351057"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-70f2-920b-8ea4e24eeb09",
+      "code": "PDDperpA",
+      "name": "Бессрочный фьючерсный контракт на депозитарные расписки на акции PDD Holdings Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US7223041028"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7cf6-9957-34467b77d308",
+      "code": "RBLXperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Roblox Corporation",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US7710491033"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-768b-af36-15d8bf6c4d4e",
+      "code": "SBER",
+      "name": "Расчетный фьючерсный контракт на акции ПАО \"Сбербанк\"",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "RU0009029540"
       }
+    },
+    {
+      "id": "01a15db5-c37e-79d0-a468-e68c80740f9e",
+      "code": "SHOPperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Shopify Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "CA82509L1076"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7666-9284-95efbe07c241",
       "code": "SMCIperpA",
       "name": "Бессрочный фьючерсный контракт на акции Super Micro Computer, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US86800U3023"
-      }
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7cf6-b8e1-d2a1030fdf42",
       "code": "SNDKperpA",
       "name": "Бессрочный фьючерсный контракт на акции Sandisk Corporation",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US80004C2008"
-      }
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7a6a-afa0-2ca024cc6ed1",
+      "code": "SNOWperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Snowflake Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US8334451098"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7fa8-b930-16add672931d",
       "code": "SOLUSDperpA",
       "name": "Бессрочный фьючерсный контракт на курс соланы к доллару США",
       "venue": "SPBE",
+      "contractSize": 0.1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "SOL"
+        "reference": {
+          "code": "ISOLUSD",
+          "venue": "XXXX"
+        }
+      },
+      "settlementFixing": "IUSD1"
+    },
+    {
+      "id": "01a15db5-c37e-7c7b-a71b-b31a67d087af",
+      "code": "SPBE",
+      "name": "Расчетный фьючерсный контракт на акции ПАО \"СПБ Биржа\"",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "RU000A0JQ9P9"
       }
+    },
+    {
+      "id": "01a15db5-c37e-7dcc-8729-b56d5f1a2fba",
+      "code": "SPOTperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Spotify Technology S.A.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "LU1778762911"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7798-aa37-b35764644d9b",
+      "code": "TCSG",
+      "name": "Расчетный фьючерсный контракт на акции МКПАО \"Т-Технологии\"",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "RU000A107UL4"
+      }
+    },
+    {
+      "id": "01a15db5-c37e-7323-b541-69a8397c1936",
+      "code": "TEAMperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Atlassian Corporation",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US0494681010"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7592-bee0-44117616957f",
+      "code": "TOSTperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Toast, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US8887871080"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-76fb-9c9e-83351d397c9f",
       "code": "TRXUSDperpA",
       "name": "Бессрочный фьючерсный контракт на курс трона к доллару США",
       "venue": "SPBE",
+      "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "TRX"
-      }
+        "reference": {
+          "code": "ITRXUSD",
+          "venue": "XXXX"
+        }
+      },
+      "settlementFixing": "IUSD1"
     },
     {
       "id": "01a13a20-7371-752a-9b3d-1f292767ea18",
       "code": "TSLAperpA",
       "name": "Бессрочный фьючерсный контракт на акции Tesla, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US88160R1014"
-      }
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7c72-a01c-75926c9a4e64",
+      "code": "TTWOperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Take-Two Interactive Software, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US8740541094"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7834-922e-1a20dc4ac9bc",
       "code": "UBERperpA",
       "name": "Бессрочный фьючерсный контракт на акции Uber Technologies, Inc.",
       "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US90353T1007"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7776-ac1e-08e97b9a25ce",
+      "code": "UperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Unity Software Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US91332U1016"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-77ed-94da-731a13bcc17f",
+      "code": "VTBR",
+      "name": "Расчетный фьючерсный контракт на акции ПАО \"Банк ВТБ\"",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "RU000A0JP5V6"
       }
     },
     {
@@ -318,12 +825,72 @@
       "code": "XRPUSDperpA",
       "name": "Бессрочный фьючерсный контракт на курс рипла к доллару США",
       "venue": "SPBE",
+      "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "XRP"
+        "reference": {
+          "code": "IXRPUSD",
+          "venue": "XXXX"
+        }
+      },
+      "settlementFixing": "IUSD1"
+    },
+    {
+      "id": "01a15db5-c37e-755a-9dfe-f7f35d4ca1de",
+      "code": "XYZperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Block, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US8522341036"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7577-b6d6-b49fb0d24737",
+      "code": "YDEX",
+      "name": "Расчетный фьючерсный контракт на акции МКПАО \"ЯНДЕКС\"",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "RU000A107T19"
       }
+    },
+    {
+      "id": "01a15db5-c37e-700d-94d8-ec1698c7d264",
+      "code": "ZMperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Zoom Communications, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US98980L1017"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c37e-7637-9c91-a0404c361a4a",
+      "code": "ZSperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Zscaler, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US98980G1022"
+      },
+      "settlementFixing": "IUSD2"
     }
   ]
 }

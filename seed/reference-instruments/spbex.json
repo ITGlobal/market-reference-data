@@ -1,0 +1,235 @@
+{
+  "$schema": "../../schema/reference-instruments.schema.json",
+  "instruments": [
+    {
+      "id": "01a15db5-c36f-7b8d-a1a2-f465d8bcb250",
+      "type": "Index",
+      "code": "IBTCUSD",
+      "description": "Индекс IBTCUSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "СПБ Клиринг"
+    },
+    {
+      "id": "01a15db5-c36f-7f9c-beb5-98178155a5f1",
+      "type": "Index",
+      "code": "IETHUSD",
+      "description": "Индекс IETHUSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "СПБ Клиринг"
+    },
+    {
+      "id": "01a15db5-c36f-745b-9232-5a31b71c6ccd",
+      "type": "Index",
+      "code": "ISOLUSD",
+      "description": "Индекс ISOLUSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "СПБ Клиринг"
+    },
+    {
+      "id": "01a15db5-c36f-7bb0-a9fc-78237c464eb3",
+      "type": "Index",
+      "code": "ITRXUSD",
+      "description": "Индекс ITRXUSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "СПБ Клиринг"
+    },
+    {
+      "id": "01a15db5-c36f-742d-9cee-52d0a27b87cd",
+      "type": "Index",
+      "code": "IXRPUSD",
+      "description": "Индекс IXRPUSD",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USD",
+      "provider": "СПБ Клиринг"
+    },
+    {
+      "id": "01a15dc2-a96b-77db-a8e5-21a70e248d92",
+      "type": "Index",
+      "code": "SPB100",
+      "description": "Выбор миллионов",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-786e-b41e-bd67ca7f636c",
+      "type": "Index",
+      "code": "SPBIBTC",
+      "description": "Индекс биткоина",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-78fe-af7b-00931ed4c132",
+      "type": "Index",
+      "code": "SPBICAR",
+      "description": "Европейские автопроизводители",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-78c5-a13e-7737cd5ba950",
+      "type": "Index",
+      "code": "SPBIDGT",
+      "description": "Цифровая экономика",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-7f56-aba1-b093299e29be",
+      "type": "Index",
+      "code": "SPBIEVI",
+      "description": "Индустрия электромобилей",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-761e-ae6d-3a4257aa9565",
+      "type": "Index",
+      "code": "SPBIFR",
+      "description": "Фавориты рынка",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-7e11-8093-8501a50c7363",
+      "type": "Index",
+      "code": "SPBIFUT",
+      "description": "Будущее",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-7d02-b681-b699d0283b19",
+      "type": "Index",
+      "code": "SPBIHIDE",
+      "description": "Стоимость квадратного метра ХайдАУТ",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-7eed-8b35-9f339c90f6f4",
+      "type": "Index",
+      "code": "SPBILR",
+      "description": "Лидеры рынка",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-7d13-9dc9-df964871c254",
+      "type": "Index",
+      "code": "SPBIOIL",
+      "description": "Российский нефтегазовый сектор",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-7528-8ee4-bbea8caaf19d",
+      "type": "Index",
+      "code": "SPBIPR",
+      "description": "Сила России",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-7a84-a70b-a92b0c59b081",
+      "type": "Index",
+      "code": "SPBIREC",
+      "description": "Восстановление экономики",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-78bc-9a7e-0638b4dfc175",
+      "type": "Index",
+      "code": "SPBIRG",
+      "description": "Гиганты России",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96b-79a8-b7dd-01ddd2354113",
+      "type": "Index",
+      "code": "SPBIRT",
+      "description": "Российские технологии",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96c-78de-b1d9-12371cc714cc",
+      "type": "Index",
+      "code": "SPBIRUS",
+      "description": "Российские лидеры",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96c-767a-bf7b-2e8f02868832",
+      "type": "Index",
+      "code": "SPBIRUS2",
+      "description": "Российские лидеры 2.0",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96c-766d-9316-1e8552785a05",
+      "type": "Index",
+      "code": "SPBISEC",
+      "description": "Кибербезопасность",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96c-7728-96c8-eab19297bffc",
+      "type": "Index",
+      "code": "SPBISEM",
+      "description": "Производители полупроводников",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96c-74d3-9a5a-3edd00949be7",
+      "type": "Index",
+      "code": "SPBISEM10",
+      "description": "Производители полупроводников 2",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    },
+    {
+      "id": "01a15dc2-a96c-7f4e-9ce1-e5da613ec1ad",
+      "type": "Index",
+      "code": "SPBISI",
+      "description": "Умные инвестиции",
+      "venue": "XXXX",
+      "quoteUnit": "Points",
+      "provider": "СПБ Биржа"
+    }
+  ]
+}
