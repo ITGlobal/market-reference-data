@@ -5135,6 +5135,13 @@
       "issuerName": "Faraday Future Intelligent Electric Inc."
     },
     {
+      "id": "01a11bbc-7671-77e5-8762-e2386d82c0d4",
+      "key": "FFUT",
+      "isin": "US31624J6203",
+      "kind": "Fund",
+      "name": "Fidelity Managed Futures ETF"
+    },
+    {
       "id": "01a11bbc-7671-77e9-a772-a0e77fd2655d",
       "key": "FGBI",
       "isin": "US32043P1066",
@@ -5980,6 +5987,13 @@
       "isin": "US26923Q1278",
       "kind": "Fund",
       "name": "IDX Alternative FIAT ETF"
+    },
+    {
+      "id": "01a11bbc-7677-7927-8b6a-edf30ae3ccbb",
+      "key": "GLDI",
+      "isin": "US22542D2339",
+      "kind": "Fund",
+      "name": "ETRACS Gold Shares Covered Call ETNs due February 2, 2033"
     },
     {
       "id": "01a163cb-7d8a-74cc-a1fd-55f7c914718b",
