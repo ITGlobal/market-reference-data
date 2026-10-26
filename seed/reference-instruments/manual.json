@@ -425,15 +425,6 @@
     },
     {
       "type": "Index",
-      "code": "COMP",
-      "description": "Nasdaq Composite Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-765e-8fb4-981528fd7921"
-    },
-    {
-      "type": "Index",
       "code": "CRB",
       "description": "FTSE/CoreCommodity CRB Index",
       "venue": "XXXX",
@@ -821,66 +812,12 @@
     },
     {
       "type": "Index",
-      "code": "NBI",
-      "description": "Nasdaq Biotechnology Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-7964-a437-040b1cd73adf"
-    },
-    {
-      "type": "Index",
-      "code": "NCI",
-      "description": "Nasdaq Crypto Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-78e5-b503-752a57121370"
-    },
-    {
-      "type": "Index",
-      "code": "NDX",
-      "description": "Nasdaq-100 Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-78a8-80a2-1e6f6686ae2b"
-    },
-    {
-      "type": "Index",
-      "code": "NDXDIVA",
-      "description": "Nasdaq-100 Annual Dividend Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-7fec-b1f6-11ed4f6a9a48"
-    },
-    {
-      "type": "Index",
-      "code": "NDXDIVQ",
-      "description": "Nasdaq-100 Quarterly Dividend Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-71bc-8c2b-a23f4dc01036"
-    },
-    {
-      "type": "Index",
       "code": "NKY",
       "description": "Nikkei 225 Stock Average",
       "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Nikkei Inc.",
       "id": "01a0fbd0-2933-75bb-9a49-63145b87aa64"
-    },
-    {
-      "type": "Index",
-      "code": "NQH2O",
-      "description": "Nasdaq Veles California Water Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-7220-a709-5cf8cd590fbe"
     },
     {
       "type": "ReferenceRate",
@@ -1043,15 +980,6 @@
       "quoteUnit": "PercentPerAnnum",
       "provider": "Federal Reserve Bank of New York",
       "id": "01a0fbd0-2933-70d5-979a-3c75c50605f7"
-    },
-    {
-      "type": "Index",
-      "code": "SOX",
-      "description": "PHLX Semiconductor Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-7e6a-bc87-0fa13eec4d2c"
     },
     {
       "type": "Index",
@@ -1961,15 +1889,6 @@
       "quoteUnit": "Points",
       "provider": "FTSE Russell",
       "id": "01a0fbd0-2934-78a4-83ac-936a7175beab"
-    },
-    {
-      "type": "Index",
-      "code": "XNDX",
-      "description": "Nasdaq-100 Total Return Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2934-7ad0-a019-d9b31f632557"
     },
     {
       "type": "Synthetic",
