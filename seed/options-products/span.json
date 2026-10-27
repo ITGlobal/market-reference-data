@@ -2021,7 +2021,7 @@
       "id": "01a0fce8-5c4a-7cec-bab7-cfe4b8bc3762",
       "code": "ALO",
       "name": "ALI MW US TRANS PREMIUM",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 55116,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -2031,7 +2031,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "AUP",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -2093,7 +2093,7 @@
       "id": "01a0fbf5-08b6-7bcb-a011-1f41e661714b",
       "code": "AX",
       "name": "ALUMINUM OPTION",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 25,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -2103,7 +2103,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "ALI",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -2957,7 +2957,7 @@
       "id": "01a0fce8-5c4a-7755-b30e-0675a60e79a5",
       "code": "CAP",
       "name": "COMEX COPPER APO",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 25000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -2967,7 +2967,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "HGS",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -3155,7 +3155,7 @@
       "id": "01a0fbf5-08b6-79ef-945f-b09e6b3942a2",
       "code": "CHX",
       "name": "CHI #1 BUSHELING FERROUS SCRAP OPT",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 20,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -3165,7 +3165,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "BCH",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -3227,7 +3227,7 @@
       "id": "01a0fbf5-08b6-7bd7-b4aa-cecacdb6b5f2",
       "code": "COO",
       "name": "COBALT METAL (FASTMARKETS) APO",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 2204.62,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -3237,7 +3237,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "COB",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -3893,7 +3893,7 @@
       "id": "01a0fbf5-08b6-7783-b0f0-8717673d08d0",
       "code": "EHO",
       "name": "NORTH EURO HRC STEEL(ARGUS) APO",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 20,
       "quoteUnit": "Currency",
       "quoteAsset": "EUR",
@@ -3903,7 +3903,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "EHR",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -4181,7 +4181,7 @@
       "id": "01a0fbf5-08b6-74ec-a952-13ce0e2ee403",
       "code": "FMG",
       "name": "MICRO GOLD WEEKLY FRI OPTION Long d",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -4191,7 +4191,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "MGC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -4217,7 +4217,7 @@
       "id": "01a0fbf5-08b6-7fc9-ae64-4903cd8ee6ca",
       "code": "FSO",
       "name": "HMS 80/20 FERROUS SCRAP CFR TUR APO",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -4227,7 +4227,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "FSF",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -4703,7 +4703,7 @@
       "id": "01a0fbf5-08b6-7f03-a659-9f54b60c93bf",
       "code": "GMW",
       "name": "GOLD WEEKLY MONDAY OPTION Long date",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 100,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -4713,7 +4713,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "GC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -4793,7 +4793,7 @@
       "id": "01a0fbf5-08b6-71e5-aea9-7d900f0a5580",
       "code": "GWR",
       "name": "GOLD WEEKLY THURSDAY OPTION Long da",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 100,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -4803,7 +4803,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "GC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -4811,7 +4811,7 @@
       "id": "01a0fbf5-08b6-732a-93d5-a75442f87079",
       "code": "GWT",
       "name": "GOLD WEEKLY TUESDAY OPT Long dated",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 100,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -4821,7 +4821,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "GC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -4829,7 +4829,7 @@
       "id": "01a0fbf5-08b6-788c-adc6-bc674763bb6e",
       "code": "GWW",
       "name": "GOLD WEEKLY WEDNESDAY OPTION Long d",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 100,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -4839,7 +4839,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "GC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -5405,7 +5405,7 @@
       "id": "01a0fbf5-08b6-7fcf-9ff0-223d48a7a46a",
       "code": "HMW",
       "name": "COPPER WEEKLY MONDAY OPTION Long da",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 25000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -5415,7 +5415,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "HG",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -5513,7 +5513,7 @@
       "id": "01a0fbf5-08b6-750b-af49-8bcdaee1333d",
       "code": "HRO",
       "name": "U.S. MIDWEST DOMESTIC HOT-ROLLED CO",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 20,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -5523,7 +5523,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "HR",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -5711,7 +5711,7 @@
       "id": "01a0fbf5-08b6-7bc0-8516-6c91f7ece066",
       "code": "HWR",
       "name": "COPPER WEEKLY THURSDAY OPT Long dat",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 25000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -5721,7 +5721,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "HG",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -5729,7 +5729,7 @@
       "id": "01a0fbf5-08b6-7cf1-8a33-2a0429511fa1",
       "code": "HWT",
       "name": "COPPER WEEKLY TUESDAY OPTION Long d",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 25000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -5739,7 +5739,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "HG",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -5747,7 +5747,7 @@
       "id": "01a0fbf5-08b6-76c6-8cba-6dc12c7c2432",
       "code": "HWW",
       "name": "COPPER WKLY WED OPTION Long dated",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 25000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -5757,7 +5757,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "HG",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -5801,7 +5801,7 @@
       "id": "01a0fbf5-08b6-7b7a-ba1e-eacca3418ccd",
       "code": "HX",
       "name": "COPPER OPTIONS",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 25000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -5811,7 +5811,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "HG",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -5837,7 +5837,7 @@
       "id": "01a0fbf5-08b6-7192-bd44-f3f7a9af88a7",
       "code": "HXW",
       "name": "COPPER WEEKLY FRIDAY OPTION Long da",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 25000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -5847,7 +5847,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "HG",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -5873,7 +5873,7 @@
       "id": "01a0fbf5-08b6-7543-9109-2b6fab88d8b2",
       "code": "ICT",
       "name": "IRON ORE CFR CHINA PLATTS APO",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 500,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -5883,7 +5883,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "TIO",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -7007,7 +7007,7 @@
       "id": "01a0fbf5-08b6-7aad-9b03-290292642485",
       "code": "LCO",
       "name": "LITH CRBNT CIF CJK FSTMK AVG PR OPT",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 1000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -7017,7 +7017,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "LTC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -7043,7 +7043,7 @@
       "id": "01a0fbf5-08b6-7dce-bdf6-faf339cfecca",
       "code": "LHO",
       "name": "LITHIUM HYDROXIDE CIF CJK (FST) APO",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 1000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -7053,7 +7053,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "LTH",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -7547,7 +7547,7 @@
       "id": "01a0fbf5-08b6-7b6e-a758-69cfae59c76d",
       "code": "MMG",
       "name": "MICRO GOLD WEEKLY MONDAY OPTION Lon",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -7557,7 +7557,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "MGC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -8411,7 +8411,7 @@
       "id": "01a0fbf5-08b6-72fc-8c9e-3afd8af94e2f",
       "code": "OG",
       "name": "GOLD OPTIONS",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 100,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -8421,7 +8421,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "GC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -8429,7 +8429,7 @@
       "id": "01a0fbf5-08b6-71f7-b7c3-f5ce93938ef9",
       "code": "OGW",
       "name": "GOLD WEEKLY FRIDAY OPTION Long date",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 100,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -8439,7 +8439,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "GC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -8465,7 +8465,7 @@
       "id": "01a0fbf5-08b6-7002-9012-d1c25d611b84",
       "code": "OMG",
       "name": "MICRO GOLD OPTIONS",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -8475,7 +8475,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "MGC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -9455,7 +9455,7 @@
       "id": "01a0fbf5-08b6-7373-8a0a-2180142fc063",
       "code": "RWS",
       "name": "SILVER WEEKLY THURSDAY OPTION Long",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 5000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -9465,7 +9465,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "SI",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -10031,7 +10031,7 @@
       "id": "01a0fbf5-08b6-7344-af16-4d9621028431",
       "code": "SMW",
       "name": "SILVER WEEKLY MONDAY OPTION Long da",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 5000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -10041,7 +10041,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "SI",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -10067,7 +10067,7 @@
       "id": "01a0fbf5-08b6-7fdd-a5af-7d630f4850df",
       "code": "SO",
       "name": "SILVER OPTIONS",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 5000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -10077,7 +10077,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "SI",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -10265,7 +10265,7 @@
       "id": "01a0fbf5-08b6-7b5b-85ad-87537e9a55f8",
       "code": "SOW",
       "name": "SILVER WEEKLY FRIDAY OPTIONS Long d",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 5000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -10275,7 +10275,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "SI",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -10445,7 +10445,7 @@
       "id": "01a0fbf5-08b6-797d-b50d-f05da15e7fcd",
       "code": "SWW",
       "name": "SILVER WEEKLY WEDNESDAY OPTIONS Lon",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 5000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -10455,7 +10455,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "SI",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -10805,7 +10805,7 @@
       "id": "01a0fbf5-08b6-7c89-9925-b1362a26304b",
       "code": "TWS",
       "name": "SILVER WEEKLY TUESDAY OPTION Long d",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 5000,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -10815,7 +10815,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "SI",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
@@ -12209,7 +12209,7 @@
       "id": "01a0fbf5-08b6-7d4a-8655-987f82c1acb7",
       "code": "WMG",
       "name": "MICRO GOLD WEEKLY WED OPTION Long d",
-      "venue": "XCEC",
+      "venue": "XNYM",
       "contractSize": 10,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
@@ -12219,7 +12219,7 @@
       "underlying": {
         "futuresProduct": {
           "code": "MGC",
-          "venue": "XCEC"
+          "venue": "XNYM"
         }
       }
     },
