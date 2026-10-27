@@ -54,6 +54,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a0-70cb-9280-627bdffe8e9c",
+      "code": "AAPL_USDC-PERPETUAL",
+      "name": "AAPL_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AAPL_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7fa6-87e1-ec9d080f3357",
       "code": "AAVE_USDC-PERPETUAL",
       "name": "AAVE_USDC perpetual",
@@ -119,6 +135,38 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-7ac5-a1b0-9eb4aa370322",
+      "code": "AMD_USDC-PERPETUAL",
+      "name": "AMD_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AMD_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-74f2-859f-772e69ac30be",
+      "code": "AMZN_USDC-PERPETUAL",
+      "name": "AMZN_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AMZN_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7131-88f6-a8732eda2618",
       "code": "APE_USDC-PERPETUAL",
       "name": "APE_USDC perpetual",
@@ -155,6 +203,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "ARB"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7868-aa3b-94d68cc79521",
+      "code": "ARM_USDC-PERPETUAL",
+      "name": "ARM_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ARM_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -210,6 +274,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-7522-98d0-7c8e41b43802",
+      "code": "AVGO_USDC-PERPETUAL",
+      "name": "AVGO_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AVGO_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7e77-8531-232e60adefb6",
       "code": "AVNT_USDC-PERPETUAL",
       "name": "AVNT_USDC perpetual",
@@ -259,6 +339,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "BERA"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7981-a682-9b5d41accef6",
+      "code": "BE_USDC-PERPETUAL",
+      "name": "BE_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BE_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -408,6 +504,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-7d2a-ab39-5f1c52ef59ef",
+      "code": "CBRS_USDC-PERPETUAL",
+      "name": "CBRS_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CBRS_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7084-9d83-7d2b23a3e57b",
       "code": "CFX_USDC-PERPETUAL",
       "name": "CFX_USDC perpetual",
@@ -434,6 +546,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-7a06-aed4-e9f91126c772",
+      "code": "COIN50_USDC-PERPETUAL",
+      "name": "COIN50_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "COIN50_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7b6a-99a3-1038050b8a1b",
       "code": "COMP_USDC-PERPETUAL",
       "name": "COMP_USDC perpetual",
@@ -444,6 +572,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "COMP"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7864-8879-07885a8c5f3d",
+      "code": "CRCL_USDC-PERPETUAL",
+      "name": "CRCL_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CRCL_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -460,6 +604,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-77be-ad08-210695836b10",
+      "code": "CRWV_USDC-PERPETUAL",
+      "name": "CRWV_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CRWV_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7390-b73e-008d91d4892e",
       "code": "DASH_USDC-PERPETUAL",
       "name": "DASH_USDC perpetual",
@@ -470,6 +630,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "DASH"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-761b-8988-1f60b57c565f",
+      "code": "DELL_USDC-PERPETUAL",
+      "name": "DELL_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "DELL_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -496,6 +672,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "DOT"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7c8e-b78d-a680edda7320",
+      "code": "DRAM_USDC-PERPETUAL",
+      "name": "DRAM_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "DRAM_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -655,6 +847,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-76c2-b006-451329676877",
+      "code": "EWY_USDC-PERPETUAL",
+      "name": "EWY_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "EWY_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-794e-9bcb-e054d0d0c115",
       "code": "FARTCOIN_USDC-PERPETUAL",
       "name": "FARTCOIN_USDC perpetual",
@@ -707,6 +915,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-73a4-a84d-3e95c0910ca9",
+      "code": "GOOGL_USDC-PERPETUAL",
+      "name": "GOOGL_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "GOOGL_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7c33-89ec-248b501f2c7f",
       "code": "HBAR_USDC-PERPETUAL",
       "name": "HBAR_USDC perpetual",
@@ -717,6 +941,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "HBAR"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7a63-aba3-37e79d43ea13",
+      "code": "HOOD_USDC-PERPETUAL",
+      "name": "HOOD_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HOOD_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -772,6 +1012,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-751e-b8a1-b465969d89f4",
+      "code": "INTC_USDC-PERPETUAL",
+      "name": "INTC_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "INTC_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-77ff-8aaa-c8e1337ce012",
       "code": "INX_USDC-PERPETUAL",
       "name": "INX_USDC perpetual",
@@ -824,6 +1080,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-73e0-b13c-57e725f3977a",
+      "code": "KORU_USDC-PERPETUAL",
+      "name": "KORU_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "KORU_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7c23-b181-b0e94a5e5e61",
       "code": "LDO_USDC-PERPETUAL",
       "name": "LDO_USDC perpetual",
@@ -847,6 +1119,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "LINK"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-719b-8734-1208b381250b",
+      "code": "LITE_USDC-PERPETUAL",
+      "name": "LITE_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "LITE_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -902,6 +1190,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-7b7b-a2b0-b3d57617ae4c",
+      "code": "META_USDC-PERPETUAL",
+      "name": "META_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "META_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7415-acef-1cdd364eb064",
       "code": "MON_USDC-PERPETUAL",
       "name": "MON_USDC perpetual",
@@ -928,6 +1232,86 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-784b-a644-91ec646df04d",
+      "code": "MRVL_USDC-PERPETUAL",
+      "name": "MRVL_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MRVL_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7654-b16e-b8e3a84d9d58",
+      "code": "MSFT_USDC-PERPETUAL",
+      "name": "MSFT_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MSFT_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7e35-b536-f100d14a932f",
+      "code": "MSTR_USDC-PERPETUAL",
+      "name": "MSTR_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MSTR_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-744f-a41c-6085dd8f775c",
+      "code": "MU_USDC-PERPETUAL",
+      "name": "MU_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "MU_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-77b0-ab49-559b212e86b7",
+      "code": "NBIS_USDC-PERPETUAL",
+      "name": "NBIS_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NBIS_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7087-9561-d380ee9946ac",
       "code": "NEAR_USDC-PERPETUAL",
       "name": "NEAR_USDC perpetual",
@@ -951,6 +1335,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "NIGHT"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7d34-8878-8fbcdf7b6a6e",
+      "code": "NVDA_USDC-PERPETUAL",
+      "name": "NVDA_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NVDA_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1006,6 +1406,22 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-7c32-9963-bbc29ed92e59",
+      "code": "ORCL_USDC-PERPETUAL",
+      "name": "ORCL_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ORCL_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed84-7f52-7910-9a7e-8f2ac3a7bea5",
       "code": "PAXG_USDC",
       "name": "PAXG_USDC futures",
@@ -1055,6 +1471,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "PENGU"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7316-b2d5-befb4761f1a6",
+      "code": "PLTR_USDC-PERPETUAL",
+      "name": "PLTR_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PLTR_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1133,6 +1565,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "PYTH"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-730b-b5f6-c57d84398737",
+      "code": "QQQ_USDC-PERPETUAL",
+      "name": "QQQ_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "QQQ_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1227,6 +1675,54 @@
       }
     },
     {
+      "id": "01a17cc7-83a5-7a74-b5ad-fc49ff5dac93",
+      "code": "SKHY_USDC-PERPETUAL",
+      "name": "SKHY_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SKHY_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-72a8-8714-c3163582d327",
+      "code": "SNDK_USDC-PERPETUAL",
+      "name": "SNDK_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SNDK_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7016-95a0-ed4f76af7f43",
+      "code": "SNXX_USDC-PERPETUAL",
+      "name": "SNXX_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SNXX_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7f6c-b4f2-42d554bfd3e6",
       "code": "SOL_USDC",
       "name": "SOL_USDC futures",
@@ -1250,6 +1746,70 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "SOL"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-783c-8e8b-641656f0f43e",
+      "code": "SOXL_USDC-PERPETUAL",
+      "name": "SOXL_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SOXL_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7ad8-a0a2-6ee23d812b59",
+      "code": "SOXS_USDC-PERPETUAL",
+      "name": "SOXS_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SOXS_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-781f-819f-c5a7756d0981",
+      "code": "SPCX_USDC-PERPETUAL",
+      "name": "SPCX_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.0001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SPCX_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7f40-89d3-0a6915a1f48f",
+      "code": "SPY_USDC-PERPETUAL",
+      "name": "SPY_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SPY_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -1379,6 +1939,38 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "TRX"
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-79f6-b10d-a32e61682892",
+      "code": "TSLA_USDC-PERPETUAL",
+      "name": "TSLA_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TSLA_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a17cc7-83a5-7365-bf44-8aaf79897df7",
+      "code": "TSM_USDC-PERPETUAL",
+      "name": "TSM_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "TSM_USDC.DERIBIT",
+          "venue": "XXXX"
+        }
       }
     },
     {
