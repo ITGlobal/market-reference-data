@@ -5048,12 +5048,6 @@
       ]
     },
     {
-      "id": "01a10b24-5c26-7790-a4c8-b1cfb8b886c9",
-      "mic": "ITSL",
-      "name": "INTERNATIONAL TRADING SYSTEM (ITS)",
-      "boards": []
-    },
-    {
       "id": "01a10b24-5c25-7443-a8a7-764bd71aad29",
       "mic": "IVZX",
       "name": "INVESCO CANADA PTF TRADES",

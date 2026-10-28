@@ -6,7 +6,7 @@
       "type": "Index",
       "code": "ABAQ",
       "description": "ABA Community Bank NASDAQ Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -15,7 +15,7 @@
       "type": "Index",
       "code": "BKX",
       "description": "KBW Bank Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -24,7 +24,7 @@
       "type": "Index",
       "code": "BSCBO",
       "description": "NASDAQ BulletShares USD Corporate Bond 2024 Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -33,7 +33,7 @@
       "type": "Index",
       "code": "BSCBP",
       "description": "NASDAQ BulletShares USD Corporate Bond 2025 Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -42,7 +42,7 @@
       "type": "Index",
       "code": "BXN",
       "description": "CBOE NASDAQ-100 BuyWrite Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -51,7 +51,7 @@
       "type": "Index",
       "code": "CELS",
       "description": "NASDAQ Clean Edge Green Energy Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -60,7 +60,7 @@
       "type": "Index",
       "code": "CEXX",
       "description": "NASDAQ Clean Edge Green Energy Total Return Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -69,7 +69,7 @@
       "type": "Index",
       "code": "CIX100",
       "description": "Cryptoindex.com",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -78,7 +78,7 @@
       "type": "Index",
       "code": "COMP",
       "description": "Nasdaq Composite Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -87,7 +87,7 @@
       "type": "Index",
       "code": "CPQ",
       "description": "ISE CTA Cloud Computing Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -96,7 +96,7 @@
       "type": "Index",
       "code": "DWANQFF",
       "description": "Dorsey Wright Focus Five Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -105,7 +105,7 @@
       "type": "Index",
       "code": "EMCLOUD",
       "description": "BVP Nasdaq Emerging Cloud Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -114,7 +114,7 @@
       "type": "Index",
       "code": "HGX",
       "description": "PHLX Housing Sector",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -123,7 +123,7 @@
       "type": "Index",
       "code": "ISRQ",
       "description": "NASDAQ Israel Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -132,7 +132,7 @@
       "type": "Index",
       "code": "IXBK",
       "description": "NASDAQ Bank",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -141,7 +141,7 @@
       "type": "Index",
       "code": "IXCO",
       "description": "NASDAQ Computer",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -150,7 +150,7 @@
       "type": "Index",
       "code": "IXF",
       "description": "NASDAQ Financial-100",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -159,7 +159,7 @@
       "type": "Index",
       "code": "IXFN",
       "description": "NASDAQ Other Finance",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -168,7 +168,7 @@
       "type": "Index",
       "code": "IXHC",
       "description": "NASDAQ Health Care Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -177,7 +177,7 @@
       "type": "Index",
       "code": "IXID",
       "description": "NASDAQ Industrial",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -186,7 +186,7 @@
       "type": "Index",
       "code": "IXIS",
       "description": "NASDAQ Insurance",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -195,7 +195,7 @@
       "type": "Index",
       "code": "IXTC",
       "description": "NASDAQ Telecommunications",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -204,7 +204,7 @@
       "type": "Index",
       "code": "IXTR",
       "description": "NASDAQ Transportation",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -213,7 +213,7 @@
       "type": "Index",
       "code": "NBI",
       "description": "Nasdaq Biotechnology Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -222,7 +222,7 @@
       "type": "Index",
       "code": "NBIJR",
       "description": "Nasdaq Junior Biotechnology Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -231,7 +231,7 @@
       "type": "Index",
       "code": "NCI",
       "description": "Nasdaq Crypto Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -240,7 +240,7 @@
       "type": "Index",
       "code": "NDX",
       "description": "Nasdaq-100 Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -249,7 +249,7 @@
       "type": "Index",
       "code": "NDXDIVA",
       "description": "Nasdaq-100 Annual Dividend Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -258,7 +258,7 @@
       "type": "Index",
       "code": "NDXDIVQ",
       "description": "Nasdaq-100 Quarterly Dividend Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -267,7 +267,7 @@
       "type": "Index",
       "code": "NDXE",
       "description": "The NASDAQ-100 Equal Weighted Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -276,7 +276,7 @@
       "type": "Index",
       "code": "NDXGEN5",
       "description": "Nasdaq Generations 5 Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -285,7 +285,7 @@
       "type": "Index",
       "code": "NDXT",
       "description": "NASDAQ-100 Technology Sector Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -294,7 +294,7 @@
       "type": "Index",
       "code": "NDXX",
       "description": "NASDAQ-100 Ex-Tech Sector Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -303,7 +303,7 @@
       "type": "Index",
       "code": "NGX",
       "description": "Nasdaq Next Generation 100 Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -312,7 +312,7 @@
       "type": "Index",
       "code": "NQ7HANDLTL",
       "description": "Nasdaq 7HANDL Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -321,7 +321,7 @@
       "type": "Index",
       "code": "NQCINGER",
       "description": "NASDAQ Commodity Natural Gas Index ER",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -330,7 +330,7 @@
       "type": "Index",
       "code": "NQCYBRT",
       "description": "Nasdaq CTA Cybersecurity Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -339,7 +339,7 @@
       "type": "Index",
       "code": "NQGM",
       "description": "NASDAQ Global Market Composite",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -348,7 +348,7 @@
       "type": "Index",
       "code": "NQGS",
       "description": "NASDAQ Global Select Market Composite",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -357,7 +357,7 @@
       "type": "Index",
       "code": "NQH2O",
       "description": "Nasdaq Veles California Water Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -366,7 +366,7 @@
       "type": "Index",
       "code": "NQUS500LC",
       "description": "Nasdaq US 500 Large Cap",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -375,7 +375,7 @@
       "type": "Index",
       "code": "NQVWLCCT",
       "description": "Nasdaq Victory US 500 Large Vol Wt L/C TR",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -384,7 +384,7 @@
       "type": "Index",
       "code": "NQVWLCT",
       "description": "Nasdaq Victory US 500 Large Vol Wt TR",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -393,7 +393,7 @@
       "type": "Index",
       "code": "NQVWLDCT",
       "description": "Nasdaq Victory US 100 Large High Div Vol Wt L/C TR",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -402,7 +402,7 @@
       "type": "Index",
       "code": "NQX",
       "description": "NASDAQ-100 Reduced Value Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -411,7 +411,7 @@
       "type": "Index",
       "code": "NXTQ",
       "description": "NASDAQ Q-50",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -420,7 +420,7 @@
       "type": "Index",
       "code": "OMXB10",
       "description": "OMX Baltic 10",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -429,7 +429,7 @@
       "type": "Index",
       "code": "OMXC20",
       "description": "OMX Copenhagen 20",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -438,7 +438,7 @@
       "type": "Index",
       "code": "OMXH25",
       "description": "OMX Helsinki 25",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -447,7 +447,7 @@
       "type": "Index",
       "code": "OMXN40",
       "description": "OMX Nordic 40",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -456,7 +456,7 @@
       "type": "Index",
       "code": "OMXS30",
       "description": "OMX Stockholm 30 Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -465,7 +465,7 @@
       "type": "Index",
       "code": "OSX",
       "description": "PHLX Oil Service Sector",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -474,7 +474,7 @@
       "type": "Index",
       "code": "QNET",
       "description": "NASDAQ Internet Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -483,7 +483,7 @@
       "type": "Index",
       "code": "QXV",
       "description": "Invesco QQQ INAV Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -492,7 +492,7 @@
       "type": "Index",
       "code": "RCMP",
       "description": "NASDAQ Capital Market Composite Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -501,7 +501,7 @@
       "type": "Index",
       "code": "SOX",
       "description": "PHLX Semiconductor Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -510,7 +510,7 @@
       "type": "Index",
       "code": "SRVRSCPR",
       "description": "Benchmark Data &Infrastructure Real Estate SCTR In",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -519,7 +519,7 @@
       "type": "Index",
       "code": "UTY",
       "description": "PHLX Utility Sector",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -528,7 +528,7 @@
       "type": "Index",
       "code": "VOLNDX",
       "description": "Volatility NASDAQ - 100",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -537,7 +537,7 @@
       "type": "Index",
       "code": "VOLQ",
       "description": "Nasdaq-100 Volatility Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -546,7 +546,7 @@
       "type": "Index",
       "code": "XAU",
       "description": "PHLX Gold/Silver Sector",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -555,7 +555,7 @@
       "type": "Index",
       "code": "XMI",
       "description": "Major Market Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -564,7 +564,7 @@
       "type": "Index",
       "code": "XND",
       "description": "Nasdaq-100 Micro Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -573,7 +573,7 @@
       "type": "Index",
       "code": "XNDX",
       "description": "Nasdaq-100 Total Return Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -582,7 +582,7 @@
       "type": "Index",
       "code": "XNDX10E",
       "description": "Nasdaq-100 Volatility Control 10% Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -591,7 +591,7 @@
       "type": "Index",
       "code": "XNDX12E",
       "description": "Nasdaq-100 Volatility Control 12% Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -600,7 +600,7 @@
       "type": "Index",
       "code": "XNDX5E",
       "description": "Nasdaq-100 Volatility Control 5% Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     },
@@ -609,7 +609,7 @@
       "type": "Index",
       "code": "XNDX7E",
       "description": "Nasdaq-100 Volatility Control 7% Index",
-      "venue": "XXXX",
+      "venue": "XNAS",
       "quoteUnit": "Points",
       "provider": "Nasdaq"
     }

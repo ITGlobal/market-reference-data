@@ -6,7 +6,8 @@
       "type": "Index",
       "code": "ITSS",
       "description": "The ITS Shariah Index",
-      "venue": "XXXX",
+      "venue": "ITSL",
+      "board": "ITSI",
       "quoteUnit": "Points",
       "provider": "ITS"
     },
@@ -15,7 +16,8 @@
       "type": "Index",
       "code": "ITSW",
       "description": "The ITS World Index",
-      "venue": "XXXX",
+      "venue": "ITSL",
+      "board": "ITSI",
       "quoteUnit": "Points",
       "provider": "ITS"
     }
