@@ -551,57 +551,6 @@
       }
     },
     {
-      "id": "01a0ed84-7f52-7247-babc-94951a877f03",
-      "code": "BTC_USDT-PERPETUAL",
-      "name": "BTC perpetual (linear, settled in USDT)",
-      "venue": "XDRB",
-      "contractSize": 0.001,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USDT",
-      "settlementMethod": "Cash",
-      "underlying": {
-        "asset": "BTC"
-      }
-    },
-    {
-      "id": "01a0ed84-7f52-7bff-b1e8-049cda550b8f",
-      "code": "ETH_USDT-PERPETUAL",
-      "name": "ETH perpetual (linear, settled in USDT)",
-      "venue": "XDRB",
-      "contractSize": 0.01,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USDT",
-      "settlementMethod": "Cash",
-      "underlying": {
-        "asset": "ETH"
-      }
-    },
-    {
-      "id": "01a0ed84-7f52-7910-9a7e-8f2ac3a7bea5",
-      "code": "PAXG_USDC",
-      "name": "PAXG futures (linear, settled in USDC)",
-      "venue": "XDRB",
-      "contractSize": 0.01,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USDC",
-      "settlementMethod": "Cash",
-      "underlying": {
-        "asset": "PAXG"
-      }
-    },
-    {
-      "id": "01a0ed84-7f52-7c21-82f6-69d754746c9a",
-      "code": "THETA_USDC-PERPETUAL",
-      "name": "THETA perpetual (linear, settled in USDC)",
-      "venue": "XDRB",
-      "quoteUnit": "Currency",
-      "quoteAsset": "USDC",
-      "settlementMethod": "Cash",
-      "underlying": {
-        "asset": "THETA"
-      }
-    },
-    {
       "id": "01a15db5-c388-787e-bd89-6416c33f61d8",
       "code": "AAOIperpA",
       "name": "Бессрочный фьючерсный контракт на акции Applied Optoelectronics, Inc.",
