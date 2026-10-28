@@ -5048,12 +5048,6 @@
       ]
     },
     {
-      "id": "01a10b24-5c26-7790-a4c8-b1cfb8b886c9",
-      "mic": "ITSL",
-      "name": "INTERNATIONAL TRADING SYSTEM (ITS)",
-      "boards": []
-    },
-    {
       "id": "01a10b24-5c25-7443-a8a7-764bd71aad29",
       "mic": "IVZX",
       "name": "INVESCO CANADA PTF TRADES",
@@ -9992,6 +9986,12 @@
       "boards": []
     },
     {
+      "id": "01a17d53-930d-73e1-981b-2e7d23adbfad",
+      "mic": "XCEC",
+      "name": "Commodity Exchange",
+      "boards": []
+    },
+    {
       "id": "01a10b24-5c26-7b19-9f8f-e9654a4ec4cb",
       "mic": "XCEF",
       "name": "DEUTSCHE BOERSE -  CEF - REAL-TIME FEED",
@@ -11949,11 +11949,6 @@
       "mic": "XNYM",
       "name": "New York Mercantile Exchange",
       "boards": [
-        {
-          "id": "01a10b24-5c26-7f7f-a579-133ce116666a",
-          "code": "XCEC",
-          "name": "COMMODITIES EXCHANGE CENTER"
-        },
         {
           "id": "01a10b24-5c26-78d0-b54e-43e5f8114a70",
           "code": "XNYE",

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schema/venues.schema.json",
+  "venues": [
+    {
+      "id": "01a10b24-5c26-7790-a4c8-b1cfb8b886c9",
+      "mic": "ITSL",
+      "name": "INTERNATIONAL TRADING SYSTEM (ITS)",
+      "boards": [
+        {
+          "id": "01a18273-8559-7130-bd96-7a6643ee56e6",
+          "code": "ITSI",
+          "name": "ITSL Indices"
+        }
+      ]
+    }
+  ]
+}

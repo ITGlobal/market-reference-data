@@ -65,7 +65,7 @@
       "type": "ReferenceRate",
       "code": "ZR_YLD_CRV",
       "description": "Кривая бескупонной доходности государственных облигаций (G-кривая)",
-      "venue": "XXXX",
+      "venue": "MISX",
       "quoteUnit": "PercentPerAnnum",
       "methodology": "Рассчитывается и публикуется Московской Биржей на основании доходности ОФЗ; используется как бенчмарк для купонов корпоративных облигаций",
       "provider": "Московская Биржа",
@@ -75,7 +75,7 @@
       "type": "ReferenceRate",
       "code": "RUSFAR",
       "description": "RUSFAR",
-      "venue": "XXXX",
+      "venue": "MISX",
       "quoteUnit": "PercentPerAnnum",
       "methodology": "Рассчитывается Московской Биржей по заявкам РЕПО с ЦК под обеспечение КСУ пула GC Bonds",
       "provider": "Московская Биржа",
@@ -425,15 +425,6 @@
     },
     {
       "type": "Index",
-      "code": "COMP",
-      "description": "Nasdaq Composite Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-765e-8fb4-981528fd7921"
-    },
-    {
-      "type": "Index",
       "code": "CRB",
       "description": "FTSE/CoreCommodity CRB Index",
       "venue": "XXXX",
@@ -670,7 +661,7 @@
       "type": "Index",
       "code": "IBOVUSD",
       "description": "Ibovespa USD Index",
-      "venue": "XXXX",
+      "venue": "BVMF",
       "quoteUnit": "Points",
       "provider": "B3",
       "id": "01a0fbd0-2933-7daa-b670-aa4e25f929ba"
@@ -821,66 +812,12 @@
     },
     {
       "type": "Index",
-      "code": "NBI",
-      "description": "Nasdaq Biotechnology Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-7964-a437-040b1cd73adf"
-    },
-    {
-      "type": "Index",
-      "code": "NCI",
-      "description": "Nasdaq Crypto Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-78e5-b503-752a57121370"
-    },
-    {
-      "type": "Index",
-      "code": "NDX",
-      "description": "Nasdaq-100 Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-78a8-80a2-1e6f6686ae2b"
-    },
-    {
-      "type": "Index",
-      "code": "NDXDIVA",
-      "description": "Nasdaq-100 Annual Dividend Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-7fec-b1f6-11ed4f6a9a48"
-    },
-    {
-      "type": "Index",
-      "code": "NDXDIVQ",
-      "description": "Nasdaq-100 Quarterly Dividend Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-71bc-8c2b-a23f4dc01036"
-    },
-    {
-      "type": "Index",
       "code": "NKY",
       "description": "Nikkei 225 Stock Average",
       "venue": "XXXX",
       "quoteUnit": "Points",
       "provider": "Nikkei Inc.",
       "id": "01a0fbd0-2933-75bb-9a49-63145b87aa64"
-    },
-    {
-      "type": "Index",
-      "code": "NQH2O",
-      "description": "Nasdaq Veles California Water Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-7220-a709-5cf8cd590fbe"
     },
     {
       "type": "ReferenceRate",
@@ -1043,15 +980,6 @@
       "quoteUnit": "PercentPerAnnum",
       "provider": "Federal Reserve Bank of New York",
       "id": "01a0fbd0-2933-70d5-979a-3c75c50605f7"
-    },
-    {
-      "type": "Index",
-      "code": "SOX",
-      "description": "PHLX Semiconductor Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2933-7e6a-bc87-0fa13eec4d2c"
     },
     {
       "type": "Index",
@@ -1264,7 +1192,7 @@
       "type": "Index",
       "code": "TPX",
       "description": "TOPIX",
-      "venue": "XXXX",
+      "venue": "XJPX",
       "quoteUnit": "Points",
       "provider": "JPX Market Innovation & Research",
       "id": "01a0fbd0-2933-709d-8b12-ad6fafd68ce8"
@@ -1273,7 +1201,7 @@
       "type": "Basket",
       "code": "UMBS30_20",
       "description": "30-Year UMBS TBA 2.0% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7297-8f94-1c830c8068c0"
@@ -1282,7 +1210,7 @@
       "type": "Basket",
       "code": "UMBS30_25",
       "description": "30-Year UMBS TBA 2.5% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7753-951c-ea3a49085f50"
@@ -1291,7 +1219,7 @@
       "type": "Basket",
       "code": "UMBS30_30",
       "description": "30-Year UMBS TBA 3.0% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-799c-af44-66dda32be513"
@@ -1300,7 +1228,7 @@
       "type": "Basket",
       "code": "UMBS30_35",
       "description": "30-Year UMBS TBA 3.5% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7207-a7a8-39720c2dad37"
@@ -1309,7 +1237,7 @@
       "type": "Basket",
       "code": "UMBS30_40",
       "description": "30-Year UMBS TBA 4.0% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7bec-9dd9-360ac4f2d473"
@@ -1318,7 +1246,7 @@
       "type": "Basket",
       "code": "UMBS30_45",
       "description": "30-Year UMBS TBA 4.5% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7594-b159-b7f7e2b6b8e0"
@@ -1327,7 +1255,7 @@
       "type": "Basket",
       "code": "UMBS30_50",
       "description": "30-Year UMBS TBA 5.0% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-70bd-aee4-932966945050"
@@ -1336,7 +1264,7 @@
       "type": "Basket",
       "code": "UMBS30_55",
       "description": "30-Year UMBS TBA 5.5% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7b65-925c-73ea59fa4cd3"
@@ -1345,7 +1273,7 @@
       "type": "Basket",
       "code": "UMBS30_60",
       "description": "30-Year UMBS TBA 6.0% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7011-b13f-8024e7534eb4"
@@ -1354,7 +1282,7 @@
       "type": "Basket",
       "code": "UMBS30_65",
       "description": "30-Year UMBS TBA 6.5% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7435-aeea-ede17af13c53"
@@ -1363,7 +1291,7 @@
       "type": "Basket",
       "code": "UMBS30_70",
       "description": "30-Year UMBS TBA 7.0% Coupon",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7461-a8ca-dcf8ec3cc86f"
@@ -1372,7 +1300,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS10Y",
       "description": "USD SOFR Swap Rate 10-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7dbc-a916-59989124c8bc"
@@ -1381,7 +1309,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS12Y",
       "description": "USD SOFR Swap Rate 12-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-75d8-b5d1-1e01fede6e23"
@@ -1390,7 +1318,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS15Y",
       "description": "USD SOFR Swap Rate 15-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7950-8cf0-74438a5e277e"
@@ -1399,7 +1327,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS1Y",
       "description": "USD SOFR Swap Rate 1-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-76f0-9138-dfa153b347fc"
@@ -1408,7 +1336,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS20Y",
       "description": "USD SOFR Swap Rate 20-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7b3e-8d24-44d087e4af5f"
@@ -1417,7 +1345,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS2Y",
       "description": "USD SOFR Swap Rate 2-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7247-963d-5516085f977f"
@@ -1426,7 +1354,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS30Y",
       "description": "USD SOFR Swap Rate 30-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-708e-9257-49f07ab38814"
@@ -1435,7 +1363,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS3Y",
       "description": "USD SOFR Swap Rate 3-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7a69-88b8-9dfcf7ed555b"
@@ -1444,7 +1372,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS4Y",
       "description": "USD SOFR Swap Rate 4-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7c04-958a-d087c7eb4fc3"
@@ -1453,7 +1381,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS5Y",
       "description": "USD SOFR Swap Rate 5-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-752a-8ccf-3fd18b469ede"
@@ -1462,7 +1390,7 @@
       "type": "ReferenceRate",
       "code": "USDSOFRS7Y",
       "description": "USD SOFR Swap Rate 7-Year",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-723a-b3ce-7084e4545cba"
@@ -1471,7 +1399,7 @@
       "type": "ReferenceRate",
       "code": "UST10Y",
       "description": "U.S. Treasury 10-Year Yield",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-721a-9e9e-6ee827d890cc"
@@ -1480,7 +1408,7 @@
       "type": "Basket",
       "code": "UST10YDB",
       "description": "10-Year U.S. Treasury Note Futures Deliverable Basket",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7843-8d32-dc2fd70c65ef"
@@ -1489,7 +1417,7 @@
       "type": "Basket",
       "code": "UST20YDB",
       "description": "20-Year U.S. Treasury Bond Futures Deliverable Basket",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-704b-a258-e687d3b7b3a0"
@@ -1498,7 +1426,7 @@
       "type": "ReferenceRate",
       "code": "UST2Y",
       "description": "U.S. Treasury 2-Year Yield",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7bcb-8ea1-b2024c94526a"
@@ -1507,7 +1435,7 @@
       "type": "Basket",
       "code": "UST2YDB",
       "description": "2-Year U.S. Treasury Note Futures Deliverable Basket",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7323-931d-2eb8025f3b04"
@@ -1516,7 +1444,7 @@
       "type": "ReferenceRate",
       "code": "UST30Y",
       "description": "U.S. Treasury 30-Year Yield",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-71d7-bb8a-9cfe79ba1733"
@@ -1525,7 +1453,7 @@
       "type": "Basket",
       "code": "UST3YDB",
       "description": "3-Year U.S. Treasury Note Futures Deliverable Basket",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-74af-ad51-c8310ae19b42"
@@ -1534,7 +1462,7 @@
       "type": "ReferenceRate",
       "code": "UST5Y",
       "description": "U.S. Treasury 5-Year Yield",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentPerAnnum",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7254-b1e5-71e45b1719c7"
@@ -1543,7 +1471,7 @@
       "type": "Basket",
       "code": "UST5YDB",
       "description": "5-Year U.S. Treasury Note Futures Deliverable Basket",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-74b9-ae93-e9d734befb3f"
@@ -1561,7 +1489,7 @@
       "type": "Basket",
       "code": "USTBDB",
       "description": "U.S. Treasury Bond Futures Deliverable Basket",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7d43-bbf2-8ee3b260d78a"
@@ -1570,7 +1498,7 @@
       "type": "Basket",
       "code": "USTU10YDB",
       "description": "Ultra 10-Year U.S. Treasury Note Futures Deliverable Basket",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-73e0-88ba-439adecb528f"
@@ -1579,7 +1507,7 @@
       "type": "Basket",
       "code": "USTUBDB",
       "description": "Ultra U.S. Treasury Bond Futures Deliverable Basket",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "PercentOfFace",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-71ae-88da-1036e36a4f22"
@@ -1588,7 +1516,7 @@
       "type": "Index",
       "code": "WX_AMSTERDAM_CAT",
       "description": "Amsterdam Cumulative Average Temperature Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7150-aca7-f8acf12d6fc6"
@@ -1597,7 +1525,7 @@
       "type": "Index",
       "code": "WX_AMSTERDAM_HDD",
       "description": "Amsterdam Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-79e6-82e8-045eca22bbbc"
@@ -1606,7 +1534,7 @@
       "type": "Index",
       "code": "WX_ATLANTA_CDD",
       "description": "Atlanta Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7c11-9505-a4bc99e01f55"
@@ -1615,7 +1543,7 @@
       "type": "Index",
       "code": "WX_ATLANTA_HDD",
       "description": "Atlanta Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7300-a821-dba692477204"
@@ -1624,7 +1552,7 @@
       "type": "Index",
       "code": "WX_BOSTON_CDD",
       "description": "Boston Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7670-843c-61e8cfd21d20"
@@ -1633,7 +1561,7 @@
       "type": "Index",
       "code": "WX_BOSTON_HDD",
       "description": "Boston Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-71b2-8738-4d81a8e46d0a"
@@ -1642,7 +1570,7 @@
       "type": "Index",
       "code": "WX_BURBANK_CDD",
       "description": "Burbank Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-72ce-a0bd-6f51443120d2"
@@ -1651,7 +1579,7 @@
       "type": "Index",
       "code": "WX_BURBANK_HDD",
       "description": "Burbank Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7cdc-adc0-d0c4f37f0d51"
@@ -1660,7 +1588,7 @@
       "type": "Index",
       "code": "WX_CHICAGO_CDD",
       "description": "Chicago Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7da3-8ced-72cc99f26da8"
@@ -1669,7 +1597,7 @@
       "type": "Index",
       "code": "WX_CHICAGO_HDD",
       "description": "Chicago Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-70ab-a793-5b7e7bcb670a"
@@ -1678,7 +1606,7 @@
       "type": "Index",
       "code": "WX_CINCINNATI_CDD",
       "description": "Cincinnati Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7b08-a20b-5a336be98e7e"
@@ -1687,7 +1615,7 @@
       "type": "Index",
       "code": "WX_CINCINNATI_HDD",
       "description": "Cincinnati Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-76cb-9a33-14a46ec0f700"
@@ -1696,7 +1624,7 @@
       "type": "Index",
       "code": "WX_DALLAS_CDD",
       "description": "Dallas Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2933-7909-aeee-e7ae52833727"
@@ -1705,7 +1633,7 @@
       "type": "Index",
       "code": "WX_DALLAS_HDD",
       "description": "Dallas Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7176-9719-d2460e6cd759"
@@ -1714,7 +1642,7 @@
       "type": "Index",
       "code": "WX_ESSEN_CAT",
       "description": "Essen Cumulative Average Temperature Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7302-be7e-b93470533166"
@@ -1723,7 +1651,7 @@
       "type": "Index",
       "code": "WX_ESSEN_HDD",
       "description": "Essen Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-732e-9981-f98e857573ef"
@@ -1732,7 +1660,7 @@
       "type": "Index",
       "code": "WX_HOUSTON_CDD",
       "description": "Houston Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7635-9a0e-9aa677550357"
@@ -1741,7 +1669,7 @@
       "type": "Index",
       "code": "WX_HOUSTON_HDD",
       "description": "Houston Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-756d-a13b-936d7fee97c6"
@@ -1750,7 +1678,7 @@
       "type": "Index",
       "code": "WX_LASVEGAS_CDD",
       "description": "Las Vegas Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-77f7-9590-ceb5c87afe2f"
@@ -1759,7 +1687,7 @@
       "type": "Index",
       "code": "WX_LASVEGAS_HDD",
       "description": "Las Vegas Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7d8e-931d-09ed865e4d20"
@@ -1768,7 +1696,7 @@
       "type": "Index",
       "code": "WX_LONDON_CAT",
       "description": "London Cumulative Average Temperature Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-79e7-9785-91d4716ba042"
@@ -1777,7 +1705,7 @@
       "type": "Index",
       "code": "WX_LONDON_HDD",
       "description": "London Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-73c8-bb1f-c6117898c0bd"
@@ -1786,7 +1714,7 @@
       "type": "Index",
       "code": "WX_MINNEAPOLIS_CDD",
       "description": "Minneapolis Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7388-a542-7a0898f50e4d"
@@ -1795,7 +1723,7 @@
       "type": "Index",
       "code": "WX_MINNEAPOLIS_HDD",
       "description": "Minneapolis Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7c93-a3b5-9f6718786c94"
@@ -1804,7 +1732,7 @@
       "type": "Index",
       "code": "WX_NEWYORK_CDD",
       "description": "New York Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7c8b-84c6-5a1dc3b4178a"
@@ -1813,7 +1741,7 @@
       "type": "Index",
       "code": "WX_NEWYORK_HDD",
       "description": "New York Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7164-94de-54bcd11889ff"
@@ -1822,7 +1750,7 @@
       "type": "Index",
       "code": "WX_PARIS_CAT",
       "description": "Paris Cumulative Average Temperature Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7ca9-aa1d-d8c95fad66f4"
@@ -1831,7 +1759,7 @@
       "type": "Index",
       "code": "WX_PARIS_HDD",
       "description": "Paris Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7e09-a4b4-1e8f480253ad"
@@ -1840,7 +1768,7 @@
       "type": "Index",
       "code": "WX_PHILADELPHIA_CDD",
       "description": "Philadelphia Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7fa2-bac7-a0baf718b66f"
@@ -1849,7 +1777,7 @@
       "type": "Index",
       "code": "WX_PHILADELPHIA_HDD",
       "description": "Philadelphia Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7a52-a778-8b73749241a4"
@@ -1858,7 +1786,7 @@
       "type": "Index",
       "code": "WX_PORTLAND_CDD",
       "description": "Portland Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7e96-bcbe-2d059cf8f390"
@@ -1867,7 +1795,7 @@
       "type": "Index",
       "code": "WX_PORTLAND_HDD",
       "description": "Portland Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-793d-bd79-247aafbcb9c3"
@@ -1876,7 +1804,7 @@
       "type": "Index",
       "code": "WX_SACRAMENTO_CDD",
       "description": "Sacramento Cooling Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-746d-8672-b0283f021abc"
@@ -1885,7 +1813,7 @@
       "type": "Index",
       "code": "WX_SACRAMENTO_HDD",
       "description": "Sacramento Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7b12-afb5-1460513e3b74"
@@ -1894,7 +1822,7 @@
       "type": "Index",
       "code": "WX_TOKYO_CAT",
       "description": "Tokyo Cumulative Average Temperature Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-78e0-979f-3b25b17f545f"
@@ -1903,7 +1831,7 @@
       "type": "Index",
       "code": "WX_TOKYO_HDD",
       "description": "Tokyo Heating Degree Day Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbd0-2934-7225-823d-5ce102c5c109"
@@ -1963,19 +1891,10 @@
       "id": "01a0fbd0-2934-78a4-83ac-936a7175beab"
     },
     {
-      "type": "Index",
-      "code": "XNDX",
-      "description": "Nasdaq-100 Total Return Index",
-      "venue": "XXXX",
-      "quoteUnit": "Points",
-      "provider": "Nasdaq",
-      "id": "01a0fbd0-2934-7ad0-a019-d9b31f632557"
-    },
-    {
       "type": "Synthetic",
       "code": "BAKKEN_VS_WTI",
       "description": "Bakken vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7df2-9164-15645e60ead1"
@@ -2011,7 +1930,7 @@
       "type": "Synthetic",
       "code": "BRENT_VS_DUBAI",
       "description": "Brent vs Dubai",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-72b6-9f1b-2b25725bc3c0"
@@ -2020,7 +1939,7 @@
       "type": "Synthetic",
       "code": "BRENT_VS_OMAN",
       "description": "Brent vs Oman",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7bab-9755-be133c566f8b"
@@ -2029,7 +1948,7 @@
       "type": "Synthetic",
       "code": "BUTANE_MB_VS_ARA",
       "description": "Mont Belvieu Normal Butane vs Butane CIF ARA",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7a14-a27d-0624e33d3180"
@@ -2038,7 +1957,7 @@
       "type": "Synthetic",
       "code": "C5COND_VS_WTI",
       "description": "C5+ Condensate vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7d1d-b3ec-8562ee9f3023"
@@ -2047,7 +1966,7 @@
       "type": "Synthetic",
       "code": "CARBDIESEL_LA_VS_ULSD",
       "description": "Los Angeles CARB Diesel vs NY Harbor ULSD",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-73eb-a28d-a9dda4555ff2"
@@ -2056,7 +1975,7 @@
       "type": "Synthetic",
       "code": "CBOB_GC_CRACK",
       "description": "Gulf Coast Gasoline vs Crude Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7ae9-bcea-ae9ced0e79bf"
@@ -2065,7 +1984,7 @@
       "type": "Synthetic",
       "code": "CBOB_GC_VS_RBOB",
       "description": "Gulf Coast CBOB A2 vs RBOB",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7c6f-9ee9-2e421de708cf"
@@ -2074,7 +1993,7 @@
       "type": "Index",
       "code": "CMEXEURBI",
       "description": "CME EUR/USD Cross-Currency Basis Index",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Points",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-77a3-b047-8a8fbc4a5977"
@@ -2083,7 +2002,7 @@
       "type": "Synthetic",
       "code": "CPC_VS_DATEDBRENT",
       "description": "CPC Blend vs Dated Brent",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7b62-ad00-853d36a7639e"
@@ -2092,7 +2011,7 @@
       "type": "Synthetic",
       "code": "CPO_SASIA_VS_MYR",
       "description": "South Asia Crude Palm Oil (FM) vs Bursa Malaysia Crude Palm Oil",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7abe-a6de-e8a0f7ed2d0f"
@@ -2119,7 +2038,7 @@
       "type": "Synthetic",
       "code": "DATEDBRENT_VS_BRENT",
       "description": "Dated Brent vs Brent Futures (Dated-to-Frontline)",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7d6b-995a-b3c8cc3dab1e"
@@ -2128,7 +2047,7 @@
       "type": "Synthetic",
       "code": "DIESEL10_VS_GASOIL",
       "description": "European Diesel 10ppm vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7f22-ba8f-38aece4dcd15"
@@ -2137,7 +2056,7 @@
       "type": "Synthetic",
       "code": "DIESEL10_VS_ULSD",
       "description": "European Diesel 10ppm vs NY Harbor ULSD",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-78ee-832f-c53efc89addc"
@@ -2164,7 +2083,7 @@
       "type": "Synthetic",
       "code": "ESTR_3M_BASIS",
       "description": "€STR Three-Month Basis Spread",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7c69-b296-fc24133a8acb"
@@ -2173,7 +2092,7 @@
       "type": "Synthetic",
       "code": "ETH_BTC_RATIO",
       "description": "Ether / Bitcoin Ratio",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-70d2-aeeb-8c9547352cb9"
@@ -2182,7 +2101,7 @@
       "type": "Synthetic",
       "code": "EUROBOB_NONOXY_CRACK",
       "description": "Eurobob Non-Oxy NWE vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-795f-8fee-814513ccf8e3"
@@ -2191,7 +2110,7 @@
       "type": "Synthetic",
       "code": "EUROBOB_NONOXY_VS_NAPHTHA",
       "description": "Eurobob Non-Oxy vs Naphtha CIF NWE",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-773f-a0eb-3a4a2d2c220d"
@@ -2200,7 +2119,7 @@
       "type": "Synthetic",
       "code": "EUROBOB_NONOXY_VS_OXY",
       "description": "Eurobob Non-Oxy vs Eurobob Oxy NWE",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7356-b290-3c475cec1c1c"
@@ -2209,7 +2128,7 @@
       "type": "Synthetic",
       "code": "EUROBOB_OXY_CRACK",
       "description": "Eurobob Oxy NWE vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7923-a5c4-cefd50d54552"
@@ -2218,7 +2137,7 @@
       "type": "Synthetic",
       "code": "EUROBOB_OXY_VS_NAPHTHA",
       "description": "Eurobob Oxy vs Naphtha CIF NWE",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7653-824b-ffb34cf11925"
@@ -2227,7 +2146,7 @@
       "type": "Synthetic",
       "code": "FAME0_VS_GASOIL",
       "description": "FAME 0 Biodiesel vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7978-9c39-1b22d8a6db36"
@@ -2254,7 +2173,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_180_BRENT_CRACK",
       "description": "Singapore 180cst Fuel Oil vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7e2c-bedc-a125f2fb903c"
@@ -2263,7 +2182,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_180_DUBAI_CRACK",
       "description": "Singapore 180cst Fuel Oil vs Dubai Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7570-83b9-9664e9bdfc23"
@@ -2272,7 +2191,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_180_VS_380",
       "description": "Singapore Fuel Oil Viscosity Spread (180cst vs 380cst)",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7ebf-961f-7ea9ad3ee5fb"
@@ -2281,7 +2200,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_1NY_VS_1EU",
       "description": "NY 1% Fuel Oil vs Euro 1% Fuel Oil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-77a9-b1f7-5e029e832482"
@@ -2290,7 +2209,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_1NY_VS_3GC",
       "description": "NY 1% Fuel Oil vs Gulf Coast HSFO",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7182-adb2-914f15ec1aff"
@@ -2299,7 +2218,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_1_BARGES_VS_CARGOES",
       "description": "Fuel Oil 1% Barges vs Cargoes",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-783c-8148-a6d70adf4561"
@@ -2308,7 +2227,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_1_CRACK",
       "description": "Fuel Oil 1% NWE vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-747e-b263-8025f1b6c87e"
@@ -2317,7 +2236,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_1_MED_VS_NWE",
       "description": "Fuel Oil 1% Mediterranean vs NWE",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-71ff-ad59-c6ef5503745f"
@@ -2326,7 +2245,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_1_NY_CRACK",
       "description": "NY Harbor 1% Fuel Oil Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7dac-bb68-f08b24460296"
@@ -2335,7 +2254,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_1_VS_35",
       "description": "Fuel Oil 1% vs 3.5% (Hi-Lo)",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-79e4-8ab6-eaa33a4f66b0"
@@ -2344,7 +2263,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_35_CRACK",
       "description": "Fuel Oil 3.5% vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-7a96-8a5a-3abc032f896b"
@@ -2353,7 +2272,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_35_RDM_VS_MED",
       "description": "Fuel Oil 3.5% Rotterdam vs Mediterranean",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad76-730a-9b2b-d2f6d5ea2eec"
@@ -2362,7 +2281,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_380_BRENT_CRACK",
       "description": "Singapore 380cst Fuel Oil vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-798a-aa7f-83854592c1bd"
@@ -2371,7 +2290,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_380_DUBAI_CRACK",
       "description": "Singapore 380cst Fuel Oil vs Dubai Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7918-8828-55d9e9d84332"
@@ -2380,7 +2299,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_380_VS_35",
       "description": "East-West Fuel Oil (Singapore 380cst vs Rotterdam 3.5%)",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-74c9-b9c4-fc27b051dc2d"
@@ -2389,7 +2308,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_3_GC_CRACK",
       "description": "Gulf Coast HSFO vs Crude Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-727b-86b2-e497de9bd5fb"
@@ -2398,7 +2317,7 @@
       "type": "Synthetic",
       "code": "FUELOIL_3_VS_35",
       "description": "Gulf Coast HSFO vs Euro 3.5% Fuel Oil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7150-a042-f64112c0afda"
@@ -2407,7 +2326,7 @@
       "type": "Synthetic",
       "code": "GASOIL01_VS_GASOIL",
       "description": "Gasoil 0.1% vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7219-aae4-90fda01ac300"
@@ -2416,7 +2335,7 @@
       "type": "Synthetic",
       "code": "GASOIL_BRENT_CRACK",
       "description": "ICE Gasoil vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-71d6-bd32-5d1875596297"
@@ -2425,7 +2344,7 @@
       "type": "Synthetic",
       "code": "GASOIL_SG_DUBAI_CRACK",
       "description": "Singapore Gasoil vs Dubai Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-76a9-bd30-2b425a9610ee"
@@ -2434,7 +2353,7 @@
       "type": "Synthetic",
       "code": "GASOIL_SG_VS_GASOIL",
       "description": "Singapore Gasoil vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7c00-aa68-9d1d8862c891"
@@ -2443,7 +2362,7 @@
       "type": "Synthetic",
       "code": "GASOIL_SG_VS_VLSFO_SG",
       "description": "Singapore Gasoil vs Singapore Marine Fuel 0.5%",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7933-a673-074ce67f7300"
@@ -2452,7 +2371,7 @@
       "type": "Synthetic",
       "code": "GASOLINE_10PPM_CRACK",
       "description": "Premium Unleaded 10ppm vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-779a-a6bc-5e391a2b6ec1"
@@ -2461,7 +2380,7 @@
       "type": "Synthetic",
       "code": "GASOLINE_CHI_VS_RBOB",
       "description": "Chicago Unleaded Gasoline vs RBOB",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-739e-b3f7-ad12224aa614"
@@ -2470,7 +2389,7 @@
       "type": "Synthetic",
       "code": "GASOLINE_EAST_WEST",
       "description": "East-West Gasoline (Singapore 92 vs Eurobob)",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7b2c-8aa1-69a013f476a3"
@@ -2479,7 +2398,7 @@
       "type": "Synthetic",
       "code": "GASOLINE_GC87_VS_RBOB",
       "description": "Gulf Coast Unleaded 87 M2 vs RBOB",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-75b6-98a9-7776283c532a"
@@ -2488,7 +2407,7 @@
       "type": "Synthetic",
       "code": "GASOLINE_GRP3_VS_RBOB",
       "description": "Group Three Sub-Octane Gasoline vs RBOB",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7c82-b769-089602f266da"
@@ -2497,7 +2416,7 @@
       "type": "Synthetic",
       "code": "GUERNSEY_VS_WTI",
       "description": "Guernsey Light Sweet vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-782b-92ae-8c726865b2e9"
@@ -2506,7 +2425,7 @@
       "type": "Synthetic",
       "code": "HLS_VS_WTI",
       "description": "Heavy Louisiana Sweet vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7587-9eb8-55a2809d3262"
@@ -2515,7 +2434,7 @@
       "type": "Synthetic",
       "code": "HVO_VS_GASOIL",
       "description": "HVO vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7d73-8fc9-34d97ab552bd"
@@ -2533,7 +2452,7 @@
       "type": "Synthetic",
       "code": "JCC_VS_BRENT",
       "description": "Japan Crude Cocktail vs Brent",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7899-9af3-972679c1d051"
@@ -2542,7 +2461,7 @@
       "type": "Synthetic",
       "code": "JET_BRENT_CRACK",
       "description": "NWE Jet vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-70bb-b265-1f6d1ff9217e"
@@ -2551,7 +2470,7 @@
       "type": "Synthetic",
       "code": "JET_GC_VS_ULSD",
       "description": "Gulf Coast Jet Fuel vs NY Harbor ULSD",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a11079-5b9a-7849-a2c9-3ff5730ecc41"
@@ -2560,7 +2479,7 @@
       "type": "Synthetic",
       "code": "JET_LA_VS_ULSD",
       "description": "Los Angeles Jet Fuel vs NY Harbor ULSD",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-78b6-8650-3d5d098baa14"
@@ -2569,7 +2488,7 @@
       "type": "Synthetic",
       "code": "JET_NY_VS_ULSD",
       "description": "NY Jet Fuel vs NY Harbor ULSD",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7638-bd40-d630e1f43536"
@@ -2578,7 +2497,7 @@
       "type": "Synthetic",
       "code": "JET_SG_DUBAI_CRACK",
       "description": "Singapore Jet Kerosene vs Dubai Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-700f-ad6f-6783e129ae71"
@@ -2587,7 +2506,7 @@
       "type": "Synthetic",
       "code": "JET_SG_VS_GASOIL_SG",
       "description": "Singapore Jet Kerosene vs Singapore Gasoil (Regrade)",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7647-b060-a3898837ad00"
@@ -2596,7 +2515,7 @@
       "type": "Synthetic",
       "code": "JET_VS_GASOIL",
       "description": "NWE Jet Fuel vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-75e4-a650-dbb7fcae6a3a"
@@ -2605,7 +2524,7 @@
       "type": "Synthetic",
       "code": "LLS_VS_WTI",
       "description": "Light Louisiana Sweet vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7013-8dd6-04fc343eb146"
@@ -2614,7 +2533,7 @@
       "type": "Synthetic",
       "code": "MARS_VS_BRENT",
       "description": "Mars vs Brent",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7509-81b1-393bf0bb8398"
@@ -2623,7 +2542,7 @@
       "type": "Synthetic",
       "code": "MARS_VS_WTI",
       "description": "Mars vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7572-9dd2-58a705b3d6c8"
@@ -2632,7 +2551,7 @@
       "type": "Synthetic",
       "code": "MOGAS92_BRENT_CRACK",
       "description": "Singapore Mogas 92 vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7032-bf3a-1ae383456c60"
@@ -2641,7 +2560,7 @@
       "type": "Synthetic",
       "code": "MOGAS92_DUBAI_CRACK",
       "description": "Singapore Mogas 92 vs Dubai Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7865-a3ea-5d82ed9808de"
@@ -2650,7 +2569,7 @@
       "type": "Synthetic",
       "code": "MOGAS92_VS_EUROBOB_NONOXY",
       "description": "Singapore Mogas 92 vs Eurobob Non-Oxy",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7c98-be89-23352fbbc93b"
@@ -2659,7 +2578,7 @@
       "type": "Synthetic",
       "code": "MOGAS95_VS_MOGAS92",
       "description": "Singapore Mogas 95 vs Mogas 92",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7ae8-a857-4770067c9bcb"
@@ -2668,7 +2587,7 @@
       "type": "Synthetic",
       "code": "NAPHTHA_EAST_WEST",
       "description": "East-West Naphtha (Japan C&F vs CIF NWE)",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7efc-ab55-c0675603594d"
@@ -2677,7 +2596,7 @@
       "type": "Synthetic",
       "code": "NAPHTHA_JP_BRENT_CRACK",
       "description": "Japan C&F Naphtha vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-74db-a14e-2a66cd42ca0b"
@@ -2686,7 +2605,7 @@
       "type": "Synthetic",
       "code": "NAPHTHA_JP_DUBAI_CRACK",
       "description": "Japan C&F Naphtha vs Dubai Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7f93-9a16-66d169352229"
@@ -2695,7 +2614,7 @@
       "type": "Synthetic",
       "code": "NAPHTHA_NWE_BRENT_CRACK",
       "description": "Naphtha CIF NWE vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-749d-b730-572c992ebec0"
@@ -2704,7 +2623,7 @@
       "type": "Synthetic",
       "code": "NG_VS_NBP",
       "description": "Henry Hub Natural Gas vs UK NBP",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7a56-8e6f-c4204e7bb054"
@@ -2713,7 +2632,7 @@
       "type": "Synthetic",
       "code": "NG_VS_TTF",
       "description": "Henry Hub Natural Gas vs Dutch TTF",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-79cf-ba24-b48801816c6d"
@@ -2722,7 +2641,7 @@
       "type": "Synthetic",
       "code": "PALMOIL_VS_GASOIL",
       "description": "Malaysian Crude Palm Oil vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XCME",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7c69-b3be-aa4e8676bd06"
@@ -2758,7 +2677,7 @@
       "type": "Synthetic",
       "code": "PROPANE_ARA_VS_NAPHTHA",
       "description": "Propane CIF ARA vs Naphtha CIF NWE",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7b8e-9fd7-5b232e760a96"
@@ -2767,7 +2686,7 @@
       "type": "Synthetic",
       "code": "PROPANE_FEI_VS_ARA",
       "description": "Argus Far East Propane vs Propane CIF ARA",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7981-9904-f560101a4640"
@@ -2776,7 +2695,7 @@
       "type": "Synthetic",
       "code": "PROPANE_FEI_VS_NAPHTHA_JP",
       "description": "Argus Far East Propane vs Japan Naphtha",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7f20-94b5-71f5d4f49f4e"
@@ -2785,7 +2704,7 @@
       "type": "Synthetic",
       "code": "PROPANE_MB_NTET_VS_FEI",
       "description": "Mont Belvieu Non-TET Propane vs Argus Propane Far East Index",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a11079-5b94-79d3-b447-fb94db93df18"
@@ -2794,7 +2713,7 @@
       "type": "Synthetic",
       "code": "PROPANE_MB_VS_ARA",
       "description": "Mont Belvieu TET Propane vs Propane CIF ARA",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7c53-a13b-5ae4cd35f89a"
@@ -2803,7 +2722,7 @@
       "type": "Synthetic",
       "code": "PROPANE_MB_VS_FEI",
       "description": "Mont Belvieu TET Propane vs Argus Propane Far East Index",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a11079-5b91-704c-b844-12bacba989f8"
@@ -2812,7 +2731,7 @@
       "type": "Synthetic",
       "code": "RBOB_BRENT_CRACK",
       "description": "RBOB Gasoline vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-789a-ac7d-61b2d190db2b"
@@ -2821,7 +2740,7 @@
       "type": "Synthetic",
       "code": "RBOB_VS_EUROBOB_NONOXY",
       "description": "RBOB Gasoline vs Eurobob Non-Oxy NWE",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7c88-a649-440db844a506"
@@ -2830,7 +2749,7 @@
       "type": "Synthetic",
       "code": "RBOB_VS_EUROBOB_OXY",
       "description": "RBOB Gasoline vs Eurobob Oxy NWE",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7eab-8dad-b2ba9663c6eb"
@@ -2839,7 +2758,7 @@
       "type": "Synthetic",
       "code": "RBOB_VS_ULSD",
       "description": "RBOB Gasoline vs NY Harbor ULSD",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7cda-bcdb-6db38b5f0624"
@@ -2848,7 +2767,7 @@
       "type": "Synthetic",
       "code": "RBOB_WTI_CRACK",
       "description": "RBOB Gasoline vs WTI Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-78c0-9211-07c1c175fefb"
@@ -2857,7 +2776,7 @@
       "type": "Synthetic",
       "code": "RME_VS_GASOIL",
       "description": "RME Biodiesel vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7fef-aed5-97163e4fda99"
@@ -2866,7 +2785,7 @@
       "type": "Synthetic",
       "code": "SGC_VS_WTI",
       "description": "Southern Green Canyon vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-789f-b006-b00a991c9992"
@@ -2875,7 +2794,7 @@
       "type": "Synthetic",
       "code": "SOYOIL_SASIA_VS_CBOT",
       "description": "South Asia Soybean Oil (FM) vs CBOT Soybean Oil",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-75a8-b33b-0e63a190dfb9"
@@ -2884,7 +2803,7 @@
       "type": "Synthetic",
       "code": "SOYOIL_VS_ULSD",
       "description": "Soybean Oil vs NY Harbor ULSD (BOHO)",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7cc8-bed1-fab4b8f9006d"
@@ -2893,7 +2812,7 @@
       "type": "Synthetic",
       "code": "SOY_OILSHARE",
       "description": "Soybean Oilshare (soybean oil share of the crush value)",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-79bf-a672-f8bdc148334f"
@@ -2902,7 +2821,7 @@
       "type": "Synthetic",
       "code": "SWEETSW_VS_WTI",
       "description": "EMDA Sweet SW vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7850-a25b-13fc1ad2c9fd"
@@ -2911,7 +2830,7 @@
       "type": "Synthetic",
       "code": "SYN_VS_WTI",
       "description": "Synthetic Crude (SYN) vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7fa9-8041-b71e44eeeee4"
@@ -2920,7 +2839,7 @@
       "type": "Synthetic",
       "code": "UCOME_VS_GASOIL",
       "description": "UCOME Biodiesel vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7771-baa3-a548f79bb3c5"
@@ -2929,7 +2848,7 @@
       "type": "Synthetic",
       "code": "UCO_VS_GASOIL",
       "description": "Used Cooking Oil vs ICE Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7b16-bc93-47341d219088"
@@ -2938,7 +2857,7 @@
       "type": "Synthetic",
       "code": "UHC_VS_WTI",
       "description": "UHC Clearbrook vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7ba8-a09b-929e8d08cd3c"
@@ -2947,7 +2866,7 @@
       "type": "Synthetic",
       "code": "ULSD_BRENT_CRACK",
       "description": "NY Harbor ULSD vs Brent Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-74ec-a8bf-5c8519d7aa18"
@@ -2956,7 +2875,7 @@
       "type": "Synthetic",
       "code": "ULSD_CHI_VS_NY",
       "description": "Chicago ULSD vs NY Harbor ULSD",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7624-8295-28ea329272ca"
@@ -2965,7 +2884,7 @@
       "type": "Synthetic",
       "code": "ULSD_GC_CRACK",
       "description": "Gulf Coast ULSD Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-78d1-8bda-5e6882ef731a"
@@ -2974,7 +2893,7 @@
       "type": "Synthetic",
       "code": "ULSD_GC_VS_JET_GC",
       "description": "Gulf Coast ULSD vs Gulf Coast Jet Fuel",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-712a-8cc9-cf704bc50fbe"
@@ -2983,7 +2902,7 @@
       "type": "Synthetic",
       "code": "ULSD_GC_VS_NY",
       "description": "Gulf Coast ULSD vs NY Harbor ULSD (Up-Down)",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7bc5-9431-b0ad516bc656"
@@ -2992,7 +2911,7 @@
       "type": "Synthetic",
       "code": "ULSD_GRP3_VS_NY",
       "description": "Group Three ULSD vs NY Harbor ULSD",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-77e7-8ede-ce534f96203c"
@@ -3001,7 +2920,7 @@
       "type": "Synthetic",
       "code": "ULSD_NYARGUS_VS_NY",
       "description": "NY ULSD (Argus) vs NY Harbor ULSD",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7e96-bbfc-7e92d0668f6d"
@@ -3010,7 +2929,7 @@
       "type": "Synthetic",
       "code": "ULSD_VS_GASOIL",
       "description": "NY Harbor ULSD vs ICE Low Sulphur Gasoil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a11079-5b9d-7d6c-b8e4-7ca4fca8aac2"
@@ -3019,7 +2938,7 @@
       "type": "Synthetic",
       "code": "ULSD_WTI_CRACK",
       "description": "NY Harbor ULSD vs WTI Crack Spread",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-743e-b243-22ce43ee57da"
@@ -3028,7 +2947,7 @@
       "type": "Synthetic",
       "code": "VLSFO_EAST_WEST",
       "description": "Singapore Marine Fuel 0.5% vs Rotterdam Marine Fuel 0.5%",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-76e8-b087-8f26369d1b55"
@@ -3037,7 +2956,7 @@
       "type": "Synthetic",
       "code": "VLSFO_USGC_VS_EU",
       "description": "USGC Marine Fuel 0.5% vs Rotterdam Marine Fuel 0.5%",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7443-aa5f-01fdc68c1619"
@@ -3046,7 +2965,7 @@
       "type": "Synthetic",
       "code": "VLSFO_USGC_VS_HSFO",
       "description": "USGC Marine Fuel 0.5% Barges vs Gulf Coast HSFO",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a11079-5b97-7643-85a0-230c7a62b085"
@@ -3055,7 +2974,7 @@
       "type": "Synthetic",
       "code": "VLSFO_VS_FUELOIL_35",
       "description": "Euro Marine Fuel 0.5% vs Euro 3.5% Fuel Oil",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7355-8146-71ad47168866"
@@ -3064,7 +2983,7 @@
       "type": "Synthetic",
       "code": "WCS_VS_WTI",
       "description": "Western Canadian Select vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7384-b67b-b990d5544720"
@@ -3073,7 +2992,7 @@
       "type": "Synthetic",
       "code": "WHEAT_CBOT_VS_EURONEXT",
       "description": "CBOT Wheat vs Euronext Milling Wheat",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7530-a491-2307b15212e5"
@@ -3082,7 +3001,7 @@
       "type": "Synthetic",
       "code": "WHEAT_KC_VS_EURONEXT",
       "description": "KC HRW Wheat vs Euronext Milling Wheat",
-      "venue": "XXXX",
+      "venue": "XCBT",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-705c-a7fa-df0a28265661"
@@ -3091,7 +3010,7 @@
       "type": "Synthetic",
       "code": "WTIARGUS_VS_WTI",
       "description": "Argus WTI vs NYMEX WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-77d3-82ca-17d7e555dcaf"
@@ -3100,7 +3019,7 @@
       "type": "Synthetic",
       "code": "WTIEXPIPE_VS_WTI",
       "description": "WTI Ex-Pipe (Argus) vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7ac8-b480-f9603cd891b3"
@@ -3109,7 +3028,7 @@
       "type": "Synthetic",
       "code": "WTIHOU_VS_BRENT",
       "description": "WTI Houston vs Brent",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7b06-a711-d54e408e533a"
@@ -3118,7 +3037,7 @@
       "type": "Synthetic",
       "code": "WTIHOU_VS_DUBAI",
       "description": "WTI Houston vs Dubai",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7be7-8b61-248dd5d6a93b"
@@ -3127,7 +3046,7 @@
       "type": "Synthetic",
       "code": "WTIHOU_VS_WTI",
       "description": "WTI Houston vs WTI Cushing",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7a28-b7d2-f87859d608fe"
@@ -3136,7 +3055,7 @@
       "type": "Synthetic",
       "code": "WTIMID_VS_BRENT",
       "description": "WTI Midland vs Brent",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7760-bc9c-1edbe73a477f"
@@ -3145,7 +3064,7 @@
       "type": "Synthetic",
       "code": "WTIMID_VS_DUBAI",
       "description": "WTI Midland vs Dubai",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-785d-9f02-4b3fac435aac"
@@ -3154,7 +3073,7 @@
       "type": "Synthetic",
       "code": "WTIMID_VS_WTI",
       "description": "WTI Midland vs WTI Cushing",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7593-b103-17ddbd3c2cbe"
@@ -3163,7 +3082,7 @@
       "type": "Synthetic",
       "code": "WTI_VS_BRENT",
       "description": "WTI vs Brent",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7bed-bd1f-e82423845d05"
@@ -3172,7 +3091,7 @@
       "type": "Synthetic",
       "code": "WTI_VS_DUBAI",
       "description": "WTI vs Dubai",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-7ff9-be07-2abe4905aaa7"
@@ -3181,7 +3100,7 @@
       "type": "Synthetic",
       "code": "WTS_VS_WTI",
       "description": "West Texas Sour vs WTI",
-      "venue": "XXXX",
+      "venue": "XNYM",
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-709d-aa3e-f077632809b3"

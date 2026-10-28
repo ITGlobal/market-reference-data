@@ -2,11 +2,1107 @@
   "$schema": "../../schema/securities.schema.json",
   "securities": [
     {
+      "id": "01a15db5-c350-70d8-993d-3d4de568f413",
+      "key": "1024",
+      "isin": "KYG532631028",
+      "kind": "Equity",
+      "name": "Kuaishou Technology Class B",
+      "issuerName": "Kuaishou Technology"
+    },
+    {
+      "id": "01a15db5-c350-76d1-91d8-a593e22e1dce",
+      "key": "1055",
+      "isin": "CNE1000002T6",
+      "kind": "Equity",
+      "name": "China Southern Airlines Company Limited Class H",
+      "issuerName": "China Southern Airlines Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7f8b-9186-8f4b310d3006",
+      "key": "1061",
+      "isin": "KYG312371035",
+      "kind": "Equity",
+      "name": "Essex Bio-Technology Limited",
+      "issuerName": "Essex Bio-Technology Limited"
+    },
+    {
+      "id": "01a15db5-c350-7e03-9af4-e34f7a9ff82f",
+      "key": "1066",
+      "isin": "CNE100000171",
+      "kind": "Equity",
+      "name": "Shandong Weigao Group Medical Polymer Company Limited Class H",
+      "issuerName": "Shandong Weigao Group Medical Polymer Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-793e-860c-a6c50d5832cb",
+      "key": "1072",
+      "isin": "CNE100000304",
+      "kind": "Equity",
+      "name": "Dongfang Electric Corporation Limited Class H",
+      "issuerName": "Dongfang Electric Corporation Limited"
+    },
+    {
+      "id": "01a15db5-c350-7344-a997-f54d5bfbf70d",
+      "key": "1088",
+      "isin": "CNE1000002R0",
+      "kind": "Equity",
+      "name": "China Shenhua Energy Company Limited Class H",
+      "issuerName": "China Shenhua Energy Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7f99-8f64-98640e0dbb3b",
+      "key": "1099",
+      "isin": "CNE100000FN7",
+      "kind": "Equity",
+      "name": "Sinopharm Group Co. Ltd. Class H",
+      "issuerName": "Sinopharm Group Co. Ltd."
+    },
+    {
+      "id": "01a15db5-c350-76cc-b0ef-af9b0381aeb9",
+      "key": "1138",
+      "isin": "CNE1000002S8",
+      "kind": "Equity",
+      "name": "COSCO SHIPPING Energy Transportation Co., Ltd. Class H",
+      "issuerName": "COSCO SHIPPING Energy Transportation Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-72f8-b095-7404c00aca4d",
+      "key": "1171",
+      "isin": "CNE1000004Q8",
+      "kind": "Equity",
+      "name": "Yankuang Energy Group Company Limited Class H",
+      "issuerName": "Yankuang Energy Group Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-77ec-b31d-53d28021c876",
+      "key": "1209",
+      "isin": "KYG2122G1064",
+      "kind": "Equity",
+      "name": "China Resources Mixc Lifestyle Services Limited",
+      "issuerName": "China Resources Mixc Lifestyle Services Limited"
+    },
+    {
+      "id": "01a15db5-c350-78ec-9de2-5a0bba0a5a08",
+      "key": "1211",
+      "isin": "CNE100000296",
+      "kind": "Equity",
+      "name": "BYD Company Limited Class H",
+      "issuerName": "BYD Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7a12-afe9-4b09c1d5c1aa",
+      "key": "1288",
+      "isin": "CNE100000Q43",
+      "kind": "Equity",
+      "name": "Agricultural Bank of China Limited Class H",
+      "issuerName": "Agricultural Bank of China Limited"
+    },
+    {
+      "id": "01a15db5-c350-7d28-aae6-401222b95b88",
+      "key": "1336",
+      "isin": "CNE100001922",
+      "kind": "Equity",
+      "name": "New China Life Insurance Company Ltd. Class H",
+      "issuerName": "New China Life Insurance Company Ltd."
+    },
+    {
+      "id": "01a15db5-c350-78fb-81d5-9394eb8a6cc9",
+      "key": "1339",
+      "isin": "CNE100001MK7",
+      "kind": "Equity",
+      "name": "The People's Insurance Company (Group) of China Limited Class H",
+      "issuerName": "The People’s Insurance Company (Group) of China Limited"
+    },
+    {
+      "id": "01a15db5-c350-7a8a-88b7-b7af9f85c80d",
+      "key": "1347",
+      "isin": "HK0000218211",
+      "kind": "Equity",
+      "name": "Hua Hong Grace Semiconductor Limited",
+      "issuerName": "Hua Hong Grace Semiconductor Limited"
+    },
+    {
+      "id": "01a15db5-c350-72db-9897-972afda3d63b",
+      "key": "1359",
+      "isin": "CNE100001QS1",
+      "kind": "Equity",
+      "name": "China Cinda Asset Management Co., Ltd. Class H",
+      "issuerName": "China Cinda Asset Management Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-7222-9848-b3e8ad1aaee1",
+      "key": "1368",
+      "isin": "KYG982771092",
+      "kind": "Equity",
+      "name": "Xtep International Holdings Limited",
+      "issuerName": "Xtep International Holdings Limited"
+    },
+    {
+      "id": "01a15db5-c350-76ed-b5fe-4042700d64cc",
+      "key": "1385",
+      "isin": "CNE100000510",
+      "kind": "Equity",
+      "name": "Shanghai Fudan Microelectronics Group Company Limited Class H",
+      "issuerName": "Shanghai Fudan Microelectronics Group Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7863-a253-04d15a0911cd",
+      "key": "1548",
+      "isin": "KYG3825B1059",
+      "kind": "Equity",
+      "name": "Genscript Biotech Corporation",
+      "issuerName": "Genscript Biotech Corporation"
+    },
+    {
+      "id": "01a15db5-c350-7a19-85ea-1cb74573a8f8",
+      "key": "1658",
+      "isin": "CNE1000029W3",
+      "kind": "Equity",
+      "name": "Postal Savings Bank of China Co., Ltd. Class H",
+      "issuerName": "Postal Savings Bank of China Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-79e7-883a-93c082457430",
+      "key": "168",
+      "isin": "CNE1000004K1",
+      "kind": "Equity",
+      "name": "Tsingtao Brewery Company Limited Class H",
+      "issuerName": "Tsingtao Brewery Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-77e2-8a31-3af9889b35be",
+      "key": "1766",
+      "isin": "CNE100000BG0",
+      "kind": "Equity",
+      "name": "CRRC Corporation Limited Class H",
+      "issuerName": "CRRC Corporation Limited"
+    },
+    {
+      "id": "01a15db5-c350-7e42-8182-4d29538cc36d",
+      "key": "1797",
+      "isin": "KYG5313A1013",
+      "kind": "Equity",
+      "name": "East Buy Holding Limited",
+      "issuerName": "East Buy Holding Limited"
+    },
+    {
+      "id": "01a15db5-c350-7b39-97a2-fc85e285b9b7",
+      "key": "1801",
+      "isin": "KYG4818G1010",
+      "kind": "Equity",
+      "name": "Innovent Biologics, Inc.",
+      "issuerName": "Innovent Biologics, Inc."
+    },
+    {
+      "id": "01a15db5-c350-777f-8436-cc27a8de2c8e",
+      "key": "1816",
+      "isin": "CNE100001T80",
+      "kind": "Equity",
+      "name": "CGN Power Co., Ltd. Class H",
+      "issuerName": "CGN Power Co., Ltd"
+    },
+    {
+      "id": "01a15db5-c350-7222-bdd9-0e753e0e5ad2",
+      "key": "1818",
+      "isin": "CNE1000004R6",
+      "kind": "Equity",
+      "name": "Zhaojin Mining Industry Company Limited Class H",
+      "issuerName": "Zhaojin Mining Industry Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-76cc-bdd6-d59e0ff1970e",
+      "key": "1877",
+      "isin": "CNE100003FF7",
+      "kind": "Equity",
+      "name": "Shanghai Junshi Biosciences Co., Ltd. Class H",
+      "issuerName": "Shanghai Junshi Biosciences Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-7c19-b3aa-55d5db4a053a",
+      "key": "1880",
+      "isin": "CNE100004YZ4",
+      "kind": "Equity",
+      "name": "China Tourism Group Duty Free Corporation Limited Class H",
+      "issuerName": "China Tourism Group Duty Free Corporation Limited"
+    },
+    {
+      "id": "01a15db5-c350-7c75-ae60-59ae9da3040f",
+      "key": "1898",
+      "isin": "CNE100000528",
+      "kind": "Equity",
+      "name": "China Coal Energy Company Limited Class H",
+      "issuerName": "China Coal Energy Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7805-ab8f-5172702be0f4",
+      "key": "1919",
+      "isin": "CNE1000002J7",
+      "kind": "Equity",
+      "name": "COSCO SHIPPING Holdings Co., Ltd. Class H",
+      "issuerName": "COSCO SHIPPING Holdings Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-790f-9097-f9dd1570143a",
+      "key": "1929",
+      "isin": "KYG211461085",
+      "kind": "Equity",
+      "name": "Chow Tai Fook Jewellery Group Limited",
+      "issuerName": "Chow Tai Fook Jewellery Group Limited"
+    },
+    {
+      "id": "01a15db5-c350-7775-a05d-ccc86d70d37d",
+      "key": "1988",
+      "isin": "CNE100000HF9",
+      "kind": "Equity",
+      "name": "China Minsheng Banking Corp., Ltd. Class H",
+      "issuerName": "China Minsheng Banking Corp., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-77f3-a4fb-1b3cb2e0f65d",
+      "key": "1COV@DE",
+      "isin": "DE0006062144",
+      "kind": "Equity",
+      "name": "Covestro AG",
+      "issuerName": "Covestro AG"
+    },
+    {
+      "id": "01a15db5-c350-7b53-99e5-1a67342e30c1",
+      "key": "2007",
+      "isin": "KYG245241032",
+      "kind": "Equity",
+      "name": "Country Garden Holdings Company Limited",
+      "issuerName": "Country Garden Holdings Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7f92-ba1a-e7408cb44442",
+      "key": "2015",
+      "isin": "KYG5479M1050",
+      "kind": "Equity",
+      "name": "Li Auto Inc. Class A",
+      "issuerName": "Li Auto Inc."
+    },
+    {
+      "id": "01a15db5-c350-73df-8b67-8caadca46230",
+      "key": "2196",
+      "isin": "CNE100001M79",
+      "kind": "Equity",
+      "name": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd. Class H",
+      "issuerName": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-74ae-a35e-db0b126878d4",
+      "key": "2202",
+      "isin": "CNE100001SR9",
+      "kind": "Equity",
+      "name": "China Vanke Co., Ltd. Class H",
+      "issuerName": "China Vanke Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-7e57-b146-521ddd813816",
+      "key": "2208",
+      "isin": "CNE100000PP1",
+      "kind": "Equity",
+      "name": "Goldwind Science & Technology Co., Ltd. Class H",
+      "issuerName": "Goldwind Science & Technology Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-7ade-a0a8-919030d7b863",
+      "key": "2238",
+      "isin": "CNE100000Q35",
+      "kind": "Equity",
+      "name": "Guangzhou Automobile Group Company Limited Class H",
+      "issuerName": "Guangzhou Automobile Group Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7c8b-ace3-79159daa8986",
+      "key": "2252",
+      "isin": "CNE100004QP1",
+      "kind": "Equity",
+      "name": "Shanghai MicroPort MedBot (Group) Co., Ltd. Class H",
+      "issuerName": "Shanghai MicroPort MedBot (Group) Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-7a1d-9056-924876f18df5",
+      "key": "2328",
+      "isin": "CNE100000593",
+      "kind": "Equity",
+      "name": "PICC Property and Casualty Company Limited Class H",
+      "issuerName": "PICC Property and Casualty Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7181-8f1d-74d46ae7a1b0",
+      "key": "2333",
+      "isin": "CNE100000338",
+      "kind": "Equity",
+      "name": "Great Wall Motor Company Limited Class H",
+      "issuerName": "Great Wall Motor Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7fe9-8730-a5967f175543",
+      "key": "2359",
+      "isin": "CNE100003F19",
+      "kind": "Equity",
+      "name": "WuXi AppTec Co., Ltd. Class H",
+      "issuerName": "WuXi AppTec Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-75e0-ba9d-f9b452c7b188",
+      "key": "2518",
+      "isin": "KYG066341028",
+      "kind": "Equity",
+      "name": "Autohome Inc.",
+      "issuerName": "Autohome Inc."
+    },
+    {
+      "id": "01a15db5-c350-72d3-b45b-b875deca283e",
+      "key": "2600",
+      "isin": "CNE1000001T8",
+      "kind": "Equity",
+      "name": "Aluminum Corporation of China Limited Class H",
+      "issuerName": "Aluminum Corporation of China Limited"
+    },
+    {
+      "id": "01a15db5-c350-7989-a79a-a49bd3df0496",
+      "key": "2601",
+      "isin": "CNE1000009Q7",
+      "kind": "Equity",
+      "name": "China Pacific Insurance (Group) Co., Ltd. Class H",
+      "issuerName": "China Pacific Insurance (Group) Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-7b77-a0c9-17e659737770",
+      "key": "2618",
+      "isin": "KYG5074S1012",
+      "kind": "Equity",
+      "name": "JD Logistics, Inc.",
+      "issuerName": "JD Logistics, Inc."
+    },
+    {
+      "id": "01a15db5-c350-7d58-88db-de93b90fc7d5",
+      "key": "268",
+      "isin": "KYG525681477",
+      "kind": "Equity",
+      "name": "Kingdee International Software Group Company Limited",
+      "issuerName": "Kingdee International Software Group Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7fd1-b14f-a5c5436d2152",
+      "key": "2822",
+      "isin": "HK0000127412",
+      "kind": "Fund",
+      "name": "CSOP FTSE China A50 ETF (HKD)",
+      "issuerName": "CSOP Asset Management Limited"
+    },
+    {
+      "id": "01a15db5-c350-7055-b5af-3a281416abd7",
+      "key": "2823",
+      "isin": "HK2823028546",
+      "kind": "Fund",
+      "name": "iShares FTSE China A50 ETF (HKD)",
+      "issuerName": "BlackRock Asset Management North Asia Limited"
+    },
+    {
+      "id": "01a15db5-c350-7994-b7aa-859689fc3e49",
+      "key": "2828",
+      "isin": "HK2828013055",
+      "kind": "Fund",
+      "name": "Hang Seng China Enterprises Index ETF (HKD)",
+      "issuerName": "Hang Seng Investment Management Limited"
+    },
+    {
+      "id": "01a15db5-c350-75f9-a095-0b706d2b0304",
+      "key": "285",
+      "isin": "HK0285041858",
+      "kind": "Equity",
+      "name": "BYD Electronic (International) Company Limited",
+      "issuerName": "BYD Electronic (International) Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-709a-ae02-f7a4172b268e",
+      "key": "2883",
+      "isin": "CNE1000002P4",
+      "kind": "Equity",
+      "name": "China Oilfield Services Limited Class H",
+      "issuerName": "China Oilfield Services Limited"
+    },
+    {
+      "id": "01a15db5-c350-7aa5-85fd-c654b14e9c81",
+      "key": "2899",
+      "isin": "CNE100000502",
+      "kind": "Equity",
+      "name": "Zijin Mining Group Company Limited Class H",
+      "issuerName": "Zijin Mining Group Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7b30-ae87-91b6aaca404c",
+      "key": "3010",
+      "isin": "HK0000051877",
+      "kind": "Fund",
+      "name": "iShares Core MSCI Asia ex Japan ETF (HKD)",
+      "issuerName": "BlackRock Asset Management North Asia Limited"
+    },
+    {
+      "id": "01a15db5-c350-70bc-9586-232eb79c80fa",
+      "key": "3033",
+      "isin": "HK0000642568",
+      "kind": "Fund",
+      "name": "CSOP Hang Seng TECH Index ETF (HKD)",
+      "issuerName": "CSOP Asset Management Limited"
+    },
+    {
+      "id": "01a15db5-c350-7318-a5e6-4f1cb2e42501",
+      "key": "3067",
+      "isin": "HK0000651213",
+      "kind": "Fund",
+      "name": "iShares Hang Seng TECH ETF (HKD)",
+      "issuerName": "BlackRock Asset Management North Asia Limited"
+    },
+    {
+      "id": "01a15db5-c350-7d17-aecd-8c1cb9251929",
+      "key": "3188",
+      "isin": "HK0000123577",
+      "kind": "Fund",
+      "name": "ChinaAMC CSI 300 Index ETF (HKD)",
+      "issuerName": "China Asset Management (Hong Kong) Limited"
+    },
+    {
+      "id": "01a15db5-c350-7e38-a2a6-6646e58220cc",
+      "key": "322",
+      "isin": "KYG8878S1030",
+      "kind": "Equity",
+      "name": "Tingyi (Cayman Islands) Holding Corp.",
+      "issuerName": "Tingyi (Cayman Islands) Holding Corp."
+    },
+    {
+      "id": "01a15db5-c350-72b5-b76f-9ec9acbfb9fd",
+      "key": "3328",
+      "isin": "CNE100000205",
+      "kind": "Equity",
+      "name": "Bank of Communications Co., Ltd. Class H",
+      "issuerName": "Bank of Communications Co., Ltd"
+    },
+    {
+      "id": "01a15db5-c350-7bbb-8fdc-7ee635eceb10",
+      "key": "3347",
+      "isin": "CNE1000040M1",
+      "kind": "Equity",
+      "name": "Hangzhou Tigermed Consulting Co., Ltd. Class H",
+      "issuerName": "Hangzhou Tigermed Consulting Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-79dc-bbe3-3efdf4c98117",
+      "key": "338",
+      "isin": "CNE1000004C8",
+      "kind": "Equity",
+      "name": "Sinopec Shanghai Petrochemical Company Limited Class H",
+      "issuerName": "Sinopec Shanghai Petrochemical Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7d10-9f80-aa0002cd03a9",
+      "key": "3606",
+      "isin": "CNE100001TR7",
+      "kind": "Equity",
+      "name": "Fuyao Glass Industry Group Co., Ltd. Class H",
+      "issuerName": "Fuyao Glass Industry Group Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-76e9-84be-d2dd06abf7cb",
+      "key": "3692",
+      "isin": "KYG549581067",
+      "kind": "Equity",
+      "name": "Hansoh Pharmaceutical Group Company Limited",
+      "issuerName": "Hansoh Pharmaceutical Group Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7517-8cb9-58e5fe83cf2f",
+      "key": "3759",
+      "isin": "CNE100003PG4",
+      "kind": "Equity",
+      "name": "Pharmaron Beijing Co., Ltd. Class H",
+      "issuerName": "Pharmaron Beijing Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-7825-b801-bf50d4f08b7d",
+      "key": "3800",
+      "isin": "KYG3774X1088",
+      "kind": "Equity",
+      "name": "GCL Technology Holdings Limited",
+      "issuerName": "GCL Technology Holdings Limited"
+    },
+    {
+      "id": "01a15db5-c350-719d-919c-02259a4c58ca",
+      "key": "3888",
+      "isin": "KYG5264Y1089",
+      "kind": "Equity",
+      "name": "Kingsoft Corporation Limited",
+      "issuerName": "Kingsoft Corporation Limited"
+    },
+    {
+      "id": "01a15db5-c350-7d42-9582-95b965be8db8",
+      "key": "3898",
+      "isin": "CNE1000004X4",
+      "kind": "Equity",
+      "name": "Zhuzhou CRRC Times Electric Co., Ltd. Class H",
+      "issuerName": "Zhuzhou CRRC Times Electric Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-771e-94c6-c35974f74208",
+      "key": "390",
+      "isin": "CNE1000007Z2",
+      "kind": "Equity",
+      "name": "China Railway Group Limited Class H",
+      "issuerName": "China Railway Group Limited"
+    },
+    {
+      "id": "01a15db5-c350-79b4-bfde-e3b9cf19bdfa",
+      "key": "3900",
+      "isin": "KYG4100M1050",
+      "kind": "Equity",
+      "name": "Greentown China Holdings Limited",
+      "issuerName": "Greentown China Holdings Limited"
+    },
+    {
+      "id": "01a15db5-c350-71d1-abde-ce3bd4d11d56",
+      "key": "3908",
+      "isin": "CNE100002359",
+      "kind": "Equity",
+      "name": "China International Capital Corporation Limited Class H",
+      "issuerName": "China International Capital Corporation Limited"
+    },
+    {
+      "id": "01a15db5-c350-7306-9ef4-3e99af277ee3",
+      "key": "3993",
+      "isin": "CNE100000114",
+      "kind": "Equity",
+      "name": "CMOC Group Limited Class H",
+      "issuerName": "CMOC Group Limited"
+    },
+    {
+      "id": "01a15db5-c350-7145-aa1e-76f073575e4d",
+      "key": "6030",
+      "isin": "CNE1000016V2",
+      "kind": "Equity",
+      "name": "CITIC Securities Company Limited Class H",
+      "issuerName": "CITIC Securities Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7dbf-85b8-4cd097449691",
+      "key": "6049",
+      "isin": "CNE100003PV3",
+      "kind": "Equity",
+      "name": "Poly Property Services Co., Ltd. Class H",
+      "issuerName": "Poly Property Services Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-76d2-85c9-bd22146b3e87",
+      "key": "6060",
+      "isin": "CNE100002QY7",
+      "kind": "Equity",
+      "name": "ZhongAn Online P & C Insurance Co., Ltd. Class H",
+      "issuerName": "ZhongAn Online P & C Insurance Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-744e-88f3-dd49bfa423b1",
+      "key": "6078",
+      "isin": "KYG4712E1035",
+      "kind": "Equity",
+      "name": "Hygeia Healthcare Holdings Co., Limited",
+      "issuerName": "Hygeia Healthcare Holdings Co., Limited"
+    },
+    {
+      "id": "01a15db5-c350-7fce-b02b-58a6c8b0a709",
+      "key": "6185",
+      "isin": "CNE100003F01",
+      "kind": "Equity",
+      "name": "CanSino Biologics Inc. Class H",
+      "issuerName": "CanSino Biologics Inc."
+    },
+    {
+      "id": "01a15db5-c350-7eaa-9a65-7c7aff859b1b",
+      "key": "6618",
+      "isin": "KYG5074A1004",
+      "kind": "Equity",
+      "name": "JD Health International Inc.",
+      "issuerName": "JD Health International Inc."
+    },
+    {
+      "id": "01a15db5-c350-751d-811f-d5124abbd6f3",
+      "key": "6690",
+      "isin": "CNE1000048K8",
+      "kind": "Equity",
+      "name": "Haier Smart Home Co., Ltd. Class H",
+      "issuerName": "Haier Smart Home Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-734e-a7bd-2b869f9edb4a",
+      "key": "670",
+      "isin": "CNE1000002K5",
+      "kind": "Equity",
+      "name": "China Eastern Airlines Corporation Limited Class H",
+      "issuerName": "China Eastern Airlines Corporation Limited"
+    },
+    {
+      "id": "01a15db5-c350-7289-aabb-979847c59434",
+      "key": "6862",
+      "isin": "KYG4290A1013",
+      "kind": "Equity",
+      "name": "Haidilao International Holding Ltd.",
+      "issuerName": "Haidilao International Holding Ltd."
+    },
+    {
+      "id": "01a15db5-c350-77ee-8da9-f6a642bbcb76",
+      "key": "6865",
+      "isin": "CNE100002375",
+      "kind": "Equity",
+      "name": "Flat Glass Group Co., Ltd. Class H",
+      "issuerName": "Flat Glass Group Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-703e-8217-75b05fb2d6d8",
+      "key": "6869",
+      "isin": "CNE100001T72",
+      "kind": "Equity",
+      "name": "Yangtze Optical Fibre and Cable Joint Stock Limited Company Class H",
+      "issuerName": "Yangtze Optical Fibre and Cable Joint Stock Limited Company"
+    },
+    {
+      "id": "01a15db5-c350-7a66-953b-96578a5e1552",
+      "key": "6881",
+      "isin": "CNE100001NT6",
+      "kind": "Equity",
+      "name": "China Galaxy Securities Co., Ltd. Class H",
+      "issuerName": "China Galaxy Securities Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-743c-a543-2522a3d4ec9e",
+      "key": "6886",
+      "isin": "CNE100001YQ9",
+      "kind": "Equity",
+      "name": "Huatai Securities Co., Ltd. Class H",
+      "issuerName": "Huatai Securities Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-77a4-ba14-a042338f3641",
+      "key": "6969",
+      "isin": "KYG8245V1023",
+      "kind": "Equity",
+      "name": "Smoore International Holdings Limited",
+      "issuerName": "Smoore International Holdings Limited"
+    },
+    {
+      "id": "01a15db5-c350-76e3-8a91-c8aded8e6219",
+      "key": "753",
+      "isin": "CNE1000001S0",
+      "kind": "Equity",
+      "name": "Air China Limited Class H",
+      "issuerName": "Air China Limited"
+    },
+    {
+      "id": "01a15db5-c350-7abe-9eb0-f48305b56058",
+      "key": "763",
+      "isin": "CNE1000004Y2",
+      "kind": "Equity",
+      "name": "ZTE Corporation Class H",
+      "issuerName": "ZTE Corporation"
+    },
+    {
+      "id": "01a15db5-c350-7c99-990c-6d98f53a54c3",
+      "key": "836",
+      "isin": "HK0836012952",
+      "kind": "Equity",
+      "name": "China Resources Power Holdings Co., Limited",
+      "issuerName": "China Resources Power Holdings Co., Limited"
+    },
+    {
+      "id": "01a15db5-c350-7da2-b950-d9657dedca40",
+      "key": "914",
+      "isin": "CNE1000001W2",
+      "kind": "Equity",
+      "name": "Anhui Conch Cement Company Limited Class H",
+      "issuerName": "Anhui Conch Cement Company Limited"
+    },
+    {
+      "id": "01a15db5-c350-7109-8b01-089dbfaffb33",
+      "key": "916",
+      "isin": "CNE100000HD4",
+      "kind": "Equity",
+      "name": "China Longyuan Power Group Corporation Limited Class H",
+      "issuerName": "China Longyuan Power Group Corporation Limited"
+    },
+    {
+      "id": "01a15db5-c350-70a9-b22c-75dc98524b26",
+      "key": "956",
+      "isin": "CNE100000TW9",
+      "kind": "Equity",
+      "name": "China Suntien Green Energy Corporation Limited Class H",
+      "issuerName": "China Suntien Green Energy Corporation Limited"
+    },
+    {
+      "id": "01a15db5-c350-7e59-bcc8-2e1d2ca54f4c",
+      "key": "9626",
+      "isin": "KYG1098A1013",
+      "kind": "Equity",
+      "name": "Bilibili Inc. Class Z",
+      "issuerName": "Bilibili Inc."
+    },
+    {
+      "id": "01a15db5-c350-7636-b832-0b5129995194",
+      "key": "9696",
+      "isin": "CNE100005F09",
+      "kind": "Equity",
+      "name": "Tianqi Lithium Corporation Class H",
+      "issuerName": "Tianqi Lithium Corporation"
+    },
+    {
+      "id": "01a15db5-c350-73ad-b8c1-4e17ee954335",
+      "key": "9866",
+      "isin": "KYG6525F1028",
+      "kind": "Equity",
+      "name": "NIO Inc. Class A",
+      "issuerName": "NIO Inc."
+    },
+    {
+      "id": "01a15db5-c350-7add-b285-e8ad6a53ffc1",
+      "key": "9868",
+      "isin": "KYG982AW1003",
+      "kind": "Equity",
+      "name": "XPeng Inc. Class A",
+      "issuerName": "XPeng Inc."
+    },
+    {
+      "id": "01a15db5-c350-77f2-aacb-615a04aff071",
+      "key": "9888",
+      "isin": "KYG070341048",
+      "kind": "Equity",
+      "name": "Baidu, Inc. Class A",
+      "issuerName": "Baidu, Inc."
+    },
+    {
+      "id": "01a15db5-c350-7bc0-8f62-a1539bc87c69",
+      "key": "9922",
+      "isin": "KYG5141L1059",
+      "kind": "Equity",
+      "name": "Jiumaojiu International Holdings Limited",
+      "issuerName": "Jiumaojiu International Holdings Limited"
+    },
+    {
+      "id": "01a15db5-c350-7ded-bacd-00e48ab66a58",
+      "key": "9926",
+      "isin": "KYG0146B1032",
+      "kind": "Equity",
+      "name": "Akeso, Inc.",
+      "issuerName": "Akeso, Inc."
+    },
+    {
+      "id": "01a15db5-c350-7bbc-b870-f95b62635cfc",
+      "key": "9961",
+      "isin": "KYG9066F1019",
+      "kind": "Equity",
+      "name": "Trip.com Group Limited",
+      "issuerName": "Trip.com Group Limited"
+    },
+    {
+      "id": "01a15db5-c350-7863-a68c-1c74167d1209",
+      "key": "9992",
+      "isin": "KYG7170M1033",
+      "kind": "Equity",
+      "name": "Pop Mart International Group Limited",
+      "issuerName": "Pop Mart International Group\u00A0Limited"
+    },
+    {
+      "id": "01a15db5-c350-715f-927c-21d48a5bddda",
+      "key": "9995",
+      "isin": "CNE1000048G6",
+      "kind": "Equity",
+      "name": "RemeGen Co., Ltd. Class H",
+      "issuerName": "RemeGen Co., Ltd."
+    },
+    {
+      "id": "01a15db5-c350-7121-92b7-1ba258ad2bb9",
+      "key": "ADS@DE",
+      "isin": "DE000A1EWWW0",
+      "kind": "Equity",
+      "name": "adidas AG",
+      "issuerName": "adidas AG"
+    },
+    {
+      "id": "01a15db5-c350-7c9d-99c0-c5ac544e1487",
+      "key": "AFX@DE",
+      "isin": "DE0005313704",
+      "kind": "Equity",
+      "name": "Carl Zeiss Meditec AG",
+      "issuerName": "Carl Zeiss Meditec AG"
+    },
+    {
       "id": "01a13a7a-7028-7261-8782-afd2f42bb9b7",
       "key": "ALGOT",
       "isin": "RU000A10E3V9",
       "kind": "Fund",
       "name": "ИПИФ комбинированный «Алготех»"
+    },
+    {
+      "id": "01a15db5-c350-7e62-9b87-11e3c43bbbb5",
+      "key": "ALLE",
+      "isin": "IE00BFRT3W74",
+      "kind": "Equity",
+      "name": "Allegion Public Limited Company",
+      "issuerName": "Allegion Public Limited Company"
+    },
+    {
+      "id": "01a15db5-c350-7f4c-af6b-62ae41254edd",
+      "key": "ALV@DE",
+      "isin": "DE0008404005",
+      "kind": "Equity",
+      "name": "Allianz SE",
+      "issuerName": "Allianz SE"
+    },
+    {
+      "id": "01a15db5-c350-7b50-9d80-c2db40f2f452",
+      "key": "AON",
+      "isin": "IE00BLP1HW54",
+      "kind": "Equity",
+      "name": "Aon plc",
+      "issuerName": "Aon plc"
+    },
+    {
+      "id": "01a15db5-c350-7247-b771-e9ac863f3d22",
+      "key": "BAS@DE",
+      "isin": "DE000BASF111",
+      "kind": "Equity",
+      "name": "BASF SE",
+      "issuerName": "BASF SE"
+    },
+    {
+      "id": "01a15db5-c350-7226-89e5-918800033c48",
+      "key": "BAYN@DE",
+      "isin": "DE000BAY0017",
+      "kind": "Equity",
+      "name": "Bayer Aktiengesellschaft",
+      "issuerName": "Bayer Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c350-7b1b-8497-67e7a6e90a98",
+      "key": "BEI@DE",
+      "isin": "DE0005200000",
+      "kind": "Equity",
+      "name": "Beiersdorf Aktiengesellschaft",
+      "issuerName": "Beiersdorf Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c350-776b-8644-9f0f8d51e9f7",
+      "key": "BLDP",
+      "isin": "CA0585861085",
+      "kind": "Equity",
+      "name": "Ballard Power Systems Inc.",
+      "issuerName": "Ballard Power Systems Inc."
+    },
+    {
+      "id": "01a15db5-c350-71ef-ab61-06ba142b154e",
+      "key": "BMW3@DE",
+      "isin": "DE0005190037",
+      "kind": "Equity",
+      "name": "Bayerische Motoren Werke Aktiengesellschaft",
+      "issuerName": "Bayerische Motoren Werke Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c350-7908-9f98-11f724ab591a",
+      "key": "BOSS@DE",
+      "isin": "DE000A1PHFF7",
+      "kind": "Equity",
+      "name": "HUGO BOSS AG",
+      "issuerName": "HUGO BOSS AG"
+    },
+    {
+      "id": "01a15db5-c350-7966-bd33-2252c919f4c6",
+      "key": "BVB@DE",
+      "isin": "DE0005493092",
+      "kind": "Equity",
+      "name": "Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien",
+      "issuerName": "Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien"
+    },
+    {
+      "id": "01a15db5-c350-7ddd-888e-9c2b9a7076c5",
+      "key": "BYSI",
+      "isin": "KYG108301006",
+      "kind": "Equity",
+      "name": "BeyondSpring Inc.",
+      "issuerName": "BeyondSpring Inc."
+    },
+    {
+      "id": "01a15db5-c350-72ea-af30-d306db6e8215",
+      "key": "CON@DE",
+      "isin": "DE0005439004",
+      "kind": "Equity",
+      "name": "Continental Aktiengesellschaft",
+      "issuerName": "Continental Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c350-71a0-8a39-c7d83c21f744",
+      "key": "CSIQ",
+      "isin": "CA1366351098",
+      "kind": "Equity",
+      "name": "Canadian Solar Inc.",
+      "issuerName": "Canadian Solar Inc."
+    },
+    {
+      "id": "01a15db5-c350-7c24-9d48-72bb497a6849",
+      "key": "DBK@DE",
+      "isin": "DE0005140008",
+      "kind": "Equity",
+      "name": "Deutsche Bank Aktiengesellschaft",
+      "issuerName": "Deutsche Bank Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c350-7def-8b96-c1170a7ef9bb",
+      "key": "DHER@DE",
+      "isin": "DE000A2E4K43",
+      "kind": "Equity",
+      "name": "Delivery Hero SE",
+      "issuerName": "Delivery Hero SE"
+    },
+    {
+      "id": "01a15db5-c350-7835-a792-3ee339bb795c",
+      "key": "DHL@DE",
+      "isin": "DE0005552004",
+      "kind": "Equity",
+      "name": "DHL AG",
+      "issuerName": "DHL AG"
+    },
+    {
+      "id": "01a15db5-c350-78ed-a8a5-3b1ad621c086",
+      "key": "DTE@DE",
+      "isin": "DE0005557508",
+      "kind": "Equity",
+      "name": "Deutsche Telekom AG",
+      "issuerName": "Deutsche Telekom AG"
+    },
+    {
+      "id": "01a15db5-c350-7501-aa87-87332020a31e",
+      "key": "EOAN@DE",
+      "isin": "DE000ENAG999",
+      "kind": "Equity",
+      "name": "E.ON SE",
+      "issuerName": "E.ON SE"
+    },
+    {
+      "id": "01a15db5-c350-782f-82ab-ccf5b36c9f50",
+      "key": "ETN",
+      "isin": "IE00B8KQN827",
+      "kind": "Equity",
+      "name": "Eaton Corporation plc",
+      "issuerName": "Eaton Corporation plc"
+    },
+    {
+      "id": "01a15db5-c350-7bcb-a7fa-0db203b51579",
+      "key": "EVK@DE",
+      "isin": "DE000EVNK013",
+      "kind": "Equity",
+      "name": "Evonik Industries AG",
+      "issuerName": "Evonik Industries AG"
+    },
+    {
+      "id": "01a15db5-c350-76ea-96e7-1a48d651feab",
+      "key": "EVT@DE",
+      "isin": "DE0005664809",
+      "kind": "Equity",
+      "name": "Evotec SE",
+      "issuerName": "Evotec SE"
+    },
+    {
+      "id": "01a15db5-c350-70ee-a963-f71e922aa30b",
+      "key": "FIE@DE",
+      "isin": "DE0005772206",
+      "kind": "Equity",
+      "name": "Fielmann Aktiengesellschaft",
+      "issuerName": "Fielmann Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c351-7a22-8f38-a7f5d5320667",
+      "key": "FME@DE",
+      "isin": "DE0005785802",
+      "kind": "Equity",
+      "name": "Fresenius Medical Care AG & Co. KGaA",
+      "issuerName": "Fresenius Medical Care AG & Co. KGaA"
+    },
+    {
+      "id": "01a15db5-c351-74c1-ac2e-76b28fd77fe9",
+      "key": "FRE@DE",
+      "isin": "DE000FRE5EN2",
+      "kind": "Equity",
+      "name": "Fresenius SE & Co. KGaA",
+      "issuerName": "Fresenius SE & Co. KGaA"
+    },
+    {
+      "id": "01a15db5-c351-78d2-a37b-02b69bc5b536",
+      "key": "FTI",
+      "isin": "GB00BDSFG982",
+      "kind": "Equity",
+      "name": "TechnipFMC plc",
+      "issuerName": "TechnipFMC plc"
+    },
+    {
+      "id": "01a15db5-c351-78ee-a9de-12c9abc21dff",
+      "key": "GBF@DE",
+      "isin": "DE0005909006",
+      "kind": "Equity",
+      "name": "Bilfinger SE",
+      "issuerName": "Bilfinger SE"
+    },
+    {
+      "id": "01a15db5-c351-7588-bb1e-86c6f5cc8d7e",
+      "key": "HEI@DE",
+      "isin": "DE0006047004",
+      "kind": "Equity",
+      "name": "Heidelberg Materials AG",
+      "issuerName": "Heidelberg Materials AG"
+    },
+    {
+      "id": "01a15db5-c351-775d-9b46-9e8b88d9697c",
+      "key": "HEN3@DE",
+      "isin": "DE0006048432",
+      "kind": "Equity",
+      "name": "Henkel AG & Co. KGaA",
+      "issuerName": "Henkel AG & Co. KGaA"
+    },
+    {
+      "id": "01a15db5-c351-7cb3-bbb8-de8e3bac339f",
+      "key": "HEN@DE",
+      "isin": "DE0006048408",
+      "kind": "Equity",
+      "name": "Henkel AG & Co. KGaA",
+      "issuerName": "Henkel AG & Co. KGaA"
+    },
+    {
+      "id": "01a15db5-c351-7590-96fc-047a3df47cf0",
+      "key": "HLAG@DE",
+      "isin": "DE000HLAG475",
+      "kind": "Equity",
+      "name": "Hapag-Lloyd Aktiengesellschaft",
+      "issuerName": "Hapag-Lloyd Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c351-78a0-b8c1-215e2f5f34a7",
+      "key": "HOT@DE",
+      "isin": "DE0006070006",
+      "kind": "Equity",
+      "name": "HOCHTIEF Aktiengesellschaft",
+      "issuerName": "HOCHTIEF Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c351-7c3e-85bc-ad34f0b7df12",
+      "key": "ICLR",
+      "isin": "IE0005711209",
+      "kind": "Equity",
+      "name": "ICON public limited company",
+      "issuerName": "ICON public limited company"
+    },
+    {
+      "id": "01a15db5-c351-7f41-a114-820557d79036",
+      "key": "IFX@DE",
+      "isin": "DE0006231004",
+      "kind": "Equity",
+      "name": "Infineon Technologies AG",
+      "issuerName": "Infineon Technologies AG"
     },
     {
       "id": "01a13a20-7372-7a0d-a377-dc1361f91aa8",
@@ -16,6 +1112,30 @@
       "name": "ДжетЛенд Холдинг ПАО ао"
     },
     {
+      "id": "01a15db5-c351-7b13-aa09-66008d47b148",
+      "key": "LIN",
+      "isin": "IE000S9YS762",
+      "kind": "Equity",
+      "name": "Linde plc",
+      "issuerName": "Linde plc"
+    },
+    {
+      "id": "01a15db5-c351-7c9c-9897-86f3d0f05135",
+      "key": "MDT",
+      "isin": "IE00BTN1Y115",
+      "kind": "Equity",
+      "name": "Medtronic Public Limited Company",
+      "issuerName": "Medtronic Public Limited Company"
+    },
+    {
+      "id": "01a15db5-c351-7a45-b2de-c92bf82f3b42",
+      "key": "MRK@DE",
+      "isin": "DE0006599905",
+      "kind": "Equity",
+      "name": "MERCK Kommanditgesellschaft auf Aktien",
+      "issuerName": "MERCK Kommanditgesellschaft auf Aktien"
+    },
+    {
       "id": "01a13a7a-7028-7d6a-adf5-58f44810078a",
       "key": "MTKB",
       "isin": "RU000A0JRAK8",
@@ -23,11 +1143,195 @@
       "name": "МЕТКОМБАНК ПАО ао"
     },
     {
+      "id": "01a15db5-c351-7a4a-9a68-94bc34a7df32",
+      "key": "MTX@DE",
+      "isin": "DE000A0D9PT0",
+      "kind": "Equity",
+      "name": "MTU Aero Engines AG",
+      "issuerName": "MTU Aero Engines AG"
+    },
+    {
+      "id": "01a15db5-c351-7534-8f0f-8b86eb0bf057",
+      "key": "MUV2@DE",
+      "isin": "DE0008430026",
+      "kind": "Equity",
+      "name": "Munchener Ruckversicherungs-Gesellschaft Aktiengesellschaft in Munchen",
+      "issuerName": "Munchener Ruckversicherungs-Gesellschaft Aktiengesellschaft in Munchen"
+    },
+    {
       "id": "01a13a7a-7028-7d81-9612-bb9770d1a5f6",
       "key": "NFKS",
       "isin": "RU000A0ZYJA2",
       "kind": "Equity",
       "name": "ИК НФК-Сбережения ПАО ао"
+    },
+    {
+      "id": "01a15db5-c351-7f40-83d1-8e2b7103f435",
+      "key": "PRTA",
+      "isin": "IE00B91XRN20",
+      "kind": "Equity",
+      "name": "Prothena Corporation Public Limited Company",
+      "issuerName": "Prothena Corporation Public Limited Company"
+    },
+    {
+      "id": "01a15db5-c351-7812-8cfd-ae35401685e0",
+      "key": "PSM@DE",
+      "isin": "DE000PSM7770",
+      "kind": "Equity",
+      "name": "ProSiebenSat.1 Media SE",
+      "issuerName": "ProSiebenSat.1 Media SE"
+    },
+    {
+      "id": "01a15db5-c351-7e0d-b5da-c4ff2e43e92e",
+      "key": "PUM@DE",
+      "isin": "DE0006969603",
+      "kind": "Equity",
+      "name": "Puma SE",
+      "issuerName": "Puma SE"
+    },
+    {
+      "id": "01a15db5-c351-7f32-a2b6-6109a0ed70f9",
+      "key": "RHM@DE",
+      "isin": "DE0007030009",
+      "kind": "Equity",
+      "name": "Rheinmetall Aktiengesellschaft",
+      "issuerName": "Rheinmetall Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c351-7d55-8e58-715599bff794",
+      "key": "RWE@DE",
+      "isin": "DE0007037129",
+      "kind": "Equity",
+      "name": "RWE Aktiengesellschaft",
+      "issuerName": "RWE Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c351-7fa7-928d-1e9759e692cc",
+      "key": "SHL@DE",
+      "isin": "DE000SHL1006",
+      "kind": "Equity",
+      "name": "Siemens Healthineers AG",
+      "issuerName": "Siemens Healthineers AG"
+    },
+    {
+      "id": "01a15db5-c351-7d03-9d8d-dc2667109c8c",
+      "key": "SIE@DE",
+      "isin": "DE0007236101",
+      "kind": "Equity",
+      "name": "Siemens Aktiengesellschaft",
+      "issuerName": "Siemens Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c351-75f2-a7db-03e5a3a09474",
+      "key": "STE",
+      "isin": "IE00BFY8C754",
+      "kind": "Equity",
+      "name": "STERIS plc",
+      "issuerName": "STERIS plc"
+    },
+    {
+      "id": "01a15db5-c351-7545-b886-deb6d488b075",
+      "key": "STX",
+      "isin": "IE00BKVD2N49",
+      "kind": "Equity",
+      "name": "Seagate Technology Holdings public limited company",
+      "issuerName": "Seagate Technology Holdings public limited company"
+    },
+    {
+      "id": "01a15db5-c351-73e8-9c70-1c1ec3ad3887",
+      "key": "SZU@DE",
+      "isin": "DE0007297004",
+      "kind": "Equity",
+      "name": "Suedzucker AG",
+      "issuerName": "Suedzucker AG"
+    },
+    {
+      "id": "01a15db5-c351-7b1b-94fb-7f402f2d8872",
+      "key": "TIND",
+      "isin": "RU000A10EM12",
+      "kind": "Fund",
+      "name": "ЗКПИФ Т-Капитал Индустриальный",
+      "issuerName": "Общество с ограниченной ответственностью \"Т-Капитал\""
+    },
+    {
+      "id": "01a15db5-c351-7607-9fd5-887bdd0f258b",
+      "key": "TKA@DE",
+      "isin": "DE0007500001",
+      "kind": "Equity",
+      "name": "thyssenkrupp AG",
+      "issuerName": "thyssenkrupp AG"
+    },
+    {
+      "id": "01a15db5-c351-7350-b4ed-ad80af8223d1",
+      "key": "TLX@DE",
+      "isin": "DE000TLX1005",
+      "kind": "Equity",
+      "name": "Talanx Aktiengesellschaft",
+      "issuerName": "Talanx Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c351-7d55-8083-5fdfabb775da",
+      "key": "TRES",
+      "isin": "RU000A10FH75",
+      "kind": "Fund",
+      "name": "Общество с ограниченной ответственностью \"Т-Капитал\"",
+      "issuerName": "Общество с ограниченной ответственностью \"Т-Капитал\""
+    },
+    {
+      "id": "01a15db5-c351-7764-95b2-90f29aec0fc2",
+      "key": "TT",
+      "isin": "IE00BK9ZQ967",
+      "kind": "Equity",
+      "name": "Trane Technologies plc",
+      "issuerName": "Trane Technologies plc"
+    },
+    {
+      "id": "01a15db5-c351-7c2d-a656-a51cd515f3ab",
+      "key": "UTDI@DE",
+      "isin": "DE0005089031",
+      "kind": "Equity",
+      "name": "United Internet AG",
+      "issuerName": "United Internet AG"
+    },
+    {
+      "id": "01a15db5-c351-7075-b7c0-d498e8dee998",
+      "key": "VAL",
+      "isin": "BMG9460G1015",
+      "kind": "Equity",
+      "name": "Valaris Limited",
+      "issuerName": "Valaris Limited"
+    },
+    {
+      "id": "01a15db5-c351-7917-a103-27084659809d",
+      "key": "VIB3@DE",
+      "isin": "DE0007657231",
+      "kind": "Equity",
+      "name": "Villeroy & Boch Aktiengesellschaft",
+      "issuerName": "Villeroy & Boch Aktiengesellschaft"
+    },
+    {
+      "id": "01a15db5-c351-7890-914a-39171d205d6a",
+      "key": "VNA@DE",
+      "isin": "DE000A1ML7J1",
+      "kind": "Equity",
+      "name": "Vonovia SE",
+      "issuerName": "Vonovia SE"
+    },
+    {
+      "id": "01a15db5-c351-79b7-874e-5a346b8c8ffc",
+      "key": "VOW@DE",
+      "isin": "DE0007664005",
+      "kind": "Equity",
+      "name": "VOLKSWAGEN AKTIENGESELLSCHAFT",
+      "issuerName": "VOLKSWAGEN AKTIENGESELLSCHAFT"
+    },
+    {
+      "id": "01a15db5-c351-731b-8f8c-8c095706cb2a",
+      "key": "WTW",
+      "isin": "IE00BDB6Q211",
+      "kind": "Equity",
+      "name": "Willis Towers Watson Public Limited Company",
+      "issuerName": "Willis Towers Watson Public Limited Company"
     }
   ]
 }

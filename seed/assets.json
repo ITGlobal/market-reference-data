@@ -8319,6 +8319,18 @@
       "type": "Crypto",
       "name": "ZRX",
       "id": "01a144c4-d141-7f79-820a-49601755bab4"
+    },
+    {
+      "symbol": "BUIDL",
+      "type": "Crypto",
+      "name": "BUIDL",
+      "id": "01a178c3-48ab-764d-8d29-fa03a2998b0b"
+    },
+    {
+      "symbol": "CBETH",
+      "type": "Crypto",
+      "name": "CBETH",
+      "id": "01a178c3-48ab-7a4b-b5ba-e3996389ca7c"
     }
   ]
 }

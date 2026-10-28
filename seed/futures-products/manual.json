@@ -143,7 +143,7 @@
       "underlying": {
         "reference": {
           "code": "KEYRATE",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -551,55 +551,116 @@
       }
     },
     {
-      "id": "01a0ed84-7f52-7247-babc-94951a877f03",
-      "code": "BTC_USDT-PERPETUAL",
-      "name": "BTC perpetual (linear, settled in USDT)",
-      "venue": "XDRB",
-      "contractSize": 0.001,
+      "id": "01a15db5-c388-787e-bd89-6416c33f61d8",
+      "code": "AAOIperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Applied Optoelectronics, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
-      "quoteAsset": "USDT",
+      "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "BTC"
-      }
+        "security": "US03823U1025"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
-      "id": "01a0ed84-7f52-7bff-b1e8-049cda550b8f",
-      "code": "ETH_USDT-PERPETUAL",
-      "name": "ETH perpetual (linear, settled in USDT)",
-      "venue": "XDRB",
-      "contractSize": 0.01,
+      "id": "01a15db5-c388-7a66-a955-ec4254845b5b",
+      "code": "CRWVperpA",
+      "name": "Бессрочный фьючерсный контракт на акции CoreWeave, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
-      "quoteAsset": "USDT",
+      "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "ETH"
-      }
+        "security": "US21873S1087"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
-      "id": "01a0ed84-7f52-7910-9a7e-8f2ac3a7bea5",
-      "code": "PAXG_USDC",
-      "name": "PAXG futures (linear, settled in USDC)",
-      "venue": "XDRB",
-      "contractSize": 0.01,
+      "id": "01a15db5-c388-7ef6-b267-14dec18e9892",
+      "code": "INODperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Innodata Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
-      "quoteAsset": "USDC",
+      "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "PAXG"
-      }
+        "security": "US4576422053"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
-      "id": "01a0ed84-7f52-7c21-82f6-69d754746c9a",
-      "code": "THETA_USDC-PERPETUAL",
-      "name": "THETA perpetual (linear, settled in USDC)",
-      "venue": "XDRB",
+      "id": "01a15db5-c388-7144-87b9-7168ce457d96",
+      "code": "OKLOperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Oklo Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
       "quoteUnit": "Currency",
-      "quoteAsset": "USDC",
+      "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "asset": "THETA"
-      }
+        "security": "US02156V1098"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c388-7178-b593-1ed634df294a",
+      "code": "TEMperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Tempus AI, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US88023B1035"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c388-7bbe-b811-c933bf519c85",
+      "code": "RDDTperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Reddit, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US75734B1008"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c388-7f5c-8d63-3b04ba0c1369",
+      "code": "IONQperpA",
+      "name": "Бессрочный фьючерсный контракт на акции IonQ, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US46222L1089"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a15db5-c388-7d30-b843-c6ee0b4c66b0",
+      "code": "CRDOperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Credo Technology Group Holding Ltd",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "KYG254571055"
+      },
+      "settlementFixing": "IUSD2"
     }
   ]
 }
