@@ -6,7 +6,7 @@
       "type": "Index",
       "code": "IBTCUSD",
       "description": "Индекс IBTCUSD",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Currency",
       "settlementAsset": "USD",
       "provider": "СПБ Клиринг"
@@ -16,7 +16,7 @@
       "type": "Index",
       "code": "IETHUSD",
       "description": "Индекс IETHUSD",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Currency",
       "settlementAsset": "USD",
       "provider": "СПБ Клиринг"
@@ -26,7 +26,7 @@
       "type": "Index",
       "code": "ISOLUSD",
       "description": "Индекс ISOLUSD",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Currency",
       "settlementAsset": "USD",
       "provider": "СПБ Клиринг"
@@ -36,7 +36,7 @@
       "type": "Index",
       "code": "ITRXUSD",
       "description": "Индекс ITRXUSD",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Currency",
       "settlementAsset": "USD",
       "provider": "СПБ Клиринг"
@@ -46,7 +46,7 @@
       "type": "Index",
       "code": "IXRPUSD",
       "description": "Индекс IXRPUSD",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Currency",
       "settlementAsset": "USD",
       "provider": "СПБ Клиринг"
@@ -56,7 +56,7 @@
       "type": "Index",
       "code": "SPB100",
       "description": "Выбор миллионов",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -65,7 +65,7 @@
       "type": "Index",
       "code": "SPBIBTC",
       "description": "Индекс биткоина",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -74,7 +74,7 @@
       "type": "Index",
       "code": "SPBICAR",
       "description": "Европейские автопроизводители",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -83,7 +83,7 @@
       "type": "Index",
       "code": "SPBIDGT",
       "description": "Цифровая экономика",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -92,7 +92,7 @@
       "type": "Index",
       "code": "SPBIEVI",
       "description": "Индустрия электромобилей",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -101,7 +101,7 @@
       "type": "Index",
       "code": "SPBIFR",
       "description": "Фавориты рынка",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -110,7 +110,7 @@
       "type": "Index",
       "code": "SPBIFUT",
       "description": "Будущее",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -119,7 +119,7 @@
       "type": "Index",
       "code": "SPBIHIDE",
       "description": "Стоимость квадратного метра ХайдАУТ",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -128,7 +128,7 @@
       "type": "Index",
       "code": "SPBILR",
       "description": "Лидеры рынка",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -137,7 +137,7 @@
       "type": "Index",
       "code": "SPBIOIL",
       "description": "Российский нефтегазовый сектор",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -146,7 +146,7 @@
       "type": "Index",
       "code": "SPBIPR",
       "description": "Сила России",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -155,7 +155,7 @@
       "type": "Index",
       "code": "SPBIREC",
       "description": "Восстановление экономики",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -164,7 +164,7 @@
       "type": "Index",
       "code": "SPBIRG",
       "description": "Гиганты России",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -173,7 +173,7 @@
       "type": "Index",
       "code": "SPBIRT",
       "description": "Российские технологии",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -182,7 +182,7 @@
       "type": "Index",
       "code": "SPBIRUS",
       "description": "Российские лидеры",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -191,7 +191,7 @@
       "type": "Index",
       "code": "SPBIRUS2",
       "description": "Российские лидеры 2.0",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -200,7 +200,7 @@
       "type": "Index",
       "code": "SPBISEC",
       "description": "Кибербезопасность",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -209,7 +209,7 @@
       "type": "Index",
       "code": "SPBISEM",
       "description": "Производители полупроводников",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -218,7 +218,7 @@
       "type": "Index",
       "code": "SPBISEM10",
       "description": "Производители полупроводников 2",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     },
@@ -227,7 +227,7 @@
       "type": "Index",
       "code": "SPBISI",
       "description": "Умные инвестиции",
-      "venue": "XXXX",
+      "venue": "SPBE",
       "quoteUnit": "Points",
       "provider": "СПБ Биржа"
     }

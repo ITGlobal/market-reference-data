@@ -13,7 +13,7 @@
       "underlying": {
         "reference": {
           "code": "RUSFAR",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -438,7 +438,7 @@
       "underlying": {
         "reference": {
           "code": "MOEXCN",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -815,7 +815,7 @@
       "underlying": {
         "reference": {
           "code": "MOEXFN",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -964,7 +964,7 @@
       "underlying": {
         "reference": {
           "code": "MREDC",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1007,7 +1007,7 @@
       "underlying": {
         "reference": {
           "code": "IMOEX",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1036,7 +1036,7 @@
       "underlying": {
         "reference": {
           "code": "MIPO",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1236,7 +1236,7 @@
       "underlying": {
         "reference": {
           "code": "IMOEX",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1252,7 +1252,7 @@
       "underlying": {
         "reference": {
           "code": "MOEXMM",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1281,7 +1281,7 @@
       "underlying": {
         "reference": {
           "code": "IMOEXCNY",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1336,7 +1336,7 @@
       "underlying": {
         "reference": {
           "code": "IMOEX",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1471,7 +1471,7 @@
       "underlying": {
         "reference": {
           "code": "MOEXOG",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1671,7 +1671,7 @@
       "underlying": {
         "reference": {
           "code": "RGBI",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1687,7 +1687,7 @@
       "underlying": {
         "reference": {
           "code": "RGBILP",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1755,7 +1755,7 @@
       "underlying": {
         "reference": {
           "code": "RTSI",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1771,7 +1771,7 @@
       "underlying": {
         "reference": {
           "code": "RTSI",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },
@@ -1832,7 +1832,7 @@
       "underlying": {
         "reference": {
           "code": "RVI",
-          "venue": "XXXX"
+          "venue": "MISX"
         }
       }
     },

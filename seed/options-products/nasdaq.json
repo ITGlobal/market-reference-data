@@ -1292,24 +1292,6 @@
       }
     },
     {
-      "id": "01a17735-2f9d-7bfa-b00a-1bee1fb82e3b",
-      "code": "ALL",
-      "name": "Options on ALL",
-      "venue": "XISX",
-      "contractSize": 100,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "reference": {
-          "code": "ALL",
-          "venue": "XXXX"
-        }
-      }
-    },
-    {
       "id": "01a163dc-9e3a-7853-b563-ad39d66a168d",
       "code": "ALLO",
       "name": "Options on ALLO",
@@ -6288,7 +6270,7 @@
       "underlying": {
         "reference": {
           "code": "COMP",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -17901,7 +17883,7 @@
       "underlying": {
         "reference": {
           "code": "NDX",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -17919,7 +17901,7 @@
       "underlying": {
         "reference": {
           "code": "NDX",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -22679,24 +22661,6 @@
       }
     },
     {
-      "id": "01a17735-2f9d-7d1b-9ed1-cedaf55ad5bc",
-      "code": "RVI",
-      "name": "Options on RVI",
-      "venue": "XISX",
-      "contractSize": 100,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "reference": {
-          "code": "RVI",
-          "venue": "XXXX"
-        }
-      }
-    },
-    {
       "id": "01a163dc-9e3c-7742-9a7d-d592cf613bb6",
       "code": "RVMD",
       "name": "Options on RVMD",
@@ -24254,24 +24218,6 @@
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "US83946P1075"
-      }
-    },
-    {
-      "id": "01a17735-2f9d-7b4d-886b-b7d74cdacd5b",
-      "code": "SPLV",
-      "name": "Options on SPLV",
-      "venue": "XISX",
-      "contractSize": 100,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "reference": {
-          "code": "SPLV",
-          "venue": "XXXX"
-        }
       }
     },
     {
@@ -29975,24 +29921,6 @@
       }
     },
     {
-      "id": "01a17735-2f9d-7ee3-ab2e-693629470ff8",
-      "code": "ALL",
-      "name": "Options on ALL",
-      "venue": "XNAS",
-      "contractSize": 100,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "reference": {
-          "code": "ALL",
-          "venue": "XXXX"
-        }
-      }
-    },
-    {
       "id": "01a163dc-9e3c-7f93-80d1-5faa274b4a0e",
       "code": "ALLO",
       "name": "Options on ALLO",
@@ -32736,7 +32664,7 @@
       "underlying": {
         "reference": {
           "code": "BKX",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -32754,7 +32682,7 @@
       "underlying": {
         "reference": {
           "code": "BKX",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -35397,7 +35325,7 @@
       "underlying": {
         "reference": {
           "code": "COMP",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -41415,7 +41343,7 @@
       "underlying": {
         "reference": {
           "code": "HGX",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -47778,7 +47706,7 @@
       "underlying": {
         "reference": {
           "code": "NDX",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -47796,7 +47724,7 @@
       "underlying": {
         "reference": {
           "code": "NDX",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -49629,7 +49557,7 @@
       "underlying": {
         "reference": {
           "code": "OSX",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -49647,7 +49575,7 @@
       "underlying": {
         "reference": {
           "code": "OSX",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -52997,24 +52925,6 @@
       }
     },
     {
-      "id": "01a17735-2f9d-7ebb-b61b-2517a2a37a5f",
-      "code": "RVI",
-      "name": "Options on RVI",
-      "venue": "XNAS",
-      "contractSize": 100,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "reference": {
-          "code": "RVI",
-          "venue": "XXXX"
-        }
-      }
-    },
-    {
       "id": "01a163dc-9e3e-7f11-bed9-63c839b7b122",
       "code": "RVMD",
       "name": "Options on RVMD",
@@ -54602,24 +54512,6 @@
       "premiumStyle": "Upfront",
       "underlying": {
         "security": "US83946P1075"
-      }
-    },
-    {
-      "id": "01a17735-2f9d-7ac2-8a95-4589dba3a408",
-      "code": "SPLV",
-      "name": "Options on SPLV",
-      "venue": "XNAS",
-      "contractSize": 100,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "reference": {
-          "code": "SPLV",
-          "venue": "XXXX"
-        }
       }
     },
     {
@@ -57441,7 +57333,7 @@
       "underlying": {
         "reference": {
           "code": "UTY",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -58974,7 +58866,7 @@
       "underlying": {
         "reference": {
           "code": "XAU",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },
@@ -59172,7 +59064,7 @@
       "underlying": {
         "reference": {
           "code": "XND",
-          "venue": "XXXX"
+          "venue": "XNAS"
         }
       }
     },

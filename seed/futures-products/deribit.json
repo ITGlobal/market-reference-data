@@ -64,8 +64,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "AAPL_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "AAPL_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -145,8 +145,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "AMD_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "AMD_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -161,8 +161,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "AMZN_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "AMZN_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -216,8 +216,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "ARM_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "ARM_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -284,8 +284,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "AVGO_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "AVGO_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -352,8 +352,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "BE_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "BE_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -447,7 +447,7 @@
       "underlying": {
         "reference": {
           "code": "BTCDVOL",
-          "venue": "XXXX"
+          "venue": "XDRB"
         }
       }
     },
@@ -514,8 +514,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "CBRS_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "CBRS_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -556,8 +556,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "COIN50_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "COIN50_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -585,8 +585,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "CRCL_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "CRCL_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -614,8 +614,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "CRWV_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "CRWV_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -643,8 +643,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "DELL_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "DELL_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -685,8 +685,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "DRAM_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "DRAM_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -857,8 +857,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "EWY_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "EWY_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -925,8 +925,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "GOOGL_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "GOOGL_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -954,8 +954,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "HOOD_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "HOOD_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1022,8 +1022,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "INTC_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "INTC_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1090,8 +1090,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "KORU_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "KORU_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1132,8 +1132,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "LITE_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "LITE_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1200,8 +1200,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "META_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "META_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1242,8 +1242,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "MRVL_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "MRVL_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1258,8 +1258,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "MSFT_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "MSFT_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1274,8 +1274,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "MSTR_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "MSTR_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1290,8 +1290,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "MU_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "MU_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1306,8 +1306,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "NBIS_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "NBIS_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1348,8 +1348,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "NVDA_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "NVDA_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1416,8 +1416,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "ORCL_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "ORCL_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1484,8 +1484,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "PLTR_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "PLTR_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1578,8 +1578,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "QQQ_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "QQQ_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1685,8 +1685,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "SKHY_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "SKHY_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1701,8 +1701,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "SNDK_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "SNDK_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1717,8 +1717,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "SNXX_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "SNXX_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1759,8 +1759,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "SOXL_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "SOXL_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1775,8 +1775,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "SOXS_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "SOXS_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1791,8 +1791,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "SPCX_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "SPCX_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1807,8 +1807,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "SPY_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "SPY_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1952,8 +1952,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "TSLA_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "TSLA_USDC",
+          "venue": "XDRB"
         }
       }
     },
@@ -1968,8 +1968,8 @@
       "settlementMethod": "Cash",
       "underlying": {
         "reference": {
-          "code": "TSM_USDC.DERIBIT",
-          "venue": "XXXX"
+          "code": "TSM_USDC",
+          "venue": "XDRB"
         }
       }
     },

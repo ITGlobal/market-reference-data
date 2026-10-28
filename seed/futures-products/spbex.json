@@ -167,7 +167,7 @@
       "underlying": {
         "reference": {
           "code": "IBTCUSD",
-          "venue": "XXXX"
+          "venue": "SPBE"
         }
       },
       "settlementFixing": "IUSD1"
@@ -324,7 +324,7 @@
       "underlying": {
         "reference": {
           "code": "IETHUSD",
-          "venue": "XXXX"
+          "venue": "SPBE"
         }
       },
       "settlementFixing": "IUSD1"
@@ -661,7 +661,7 @@
       "underlying": {
         "reference": {
           "code": "ISOLUSD",
-          "venue": "XXXX"
+          "venue": "SPBE"
         }
       },
       "settlementFixing": "IUSD1"
@@ -746,7 +746,7 @@
       "underlying": {
         "reference": {
           "code": "ITRXUSD",
-          "venue": "XXXX"
+          "venue": "SPBE"
         }
       },
       "settlementFixing": "IUSD1"
@@ -832,7 +832,7 @@
       "underlying": {
         "reference": {
           "code": "IXRPUSD",
-          "venue": "XXXX"
+          "venue": "SPBE"
         }
       },
       "settlementFixing": "IUSD1"
