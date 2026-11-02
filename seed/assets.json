@@ -8331,6 +8331,102 @@
       "type": "Crypto",
       "name": "CBETH",
       "id": "01a178c3-48ab-7a4b-b5ba-e3996389ca7c"
+    },
+    {
+      "symbol": "APPB",
+      "type": "Crypto",
+      "name": "APPB",
+      "id": "01a19c01-530c-79e5-b5e5-12207f303b5c"
+    },
+    {
+      "symbol": "BOTB",
+      "type": "Crypto",
+      "name": "BOTB",
+      "id": "01a19c01-530c-7276-8b2b-daac0436eac3"
+    },
+    {
+      "symbol": "BRKBB",
+      "type": "Crypto",
+      "name": "BRKBB",
+      "id": "01a19c01-530c-76e6-b80b-6d64515b664f"
+    },
+    {
+      "symbol": "BSPB",
+      "type": "Crypto",
+      "name": "BSPB",
+      "id": "01a19c01-530c-7975-8e79-bbe951f80b91"
+    },
+    {
+      "symbol": "GEVB",
+      "type": "Crypto",
+      "name": "GEVB",
+      "id": "01a19c01-530c-74b3-b39f-814d698eb623"
+    },
+    {
+      "symbol": "KSTRB",
+      "type": "Crypto",
+      "name": "KSTRB",
+      "id": "01a19c01-530d-7354-adc3-3a2a13f351d5"
+    },
+    {
+      "symbol": "PREDICT",
+      "type": "Crypto",
+      "name": "PREDICT",
+      "id": "01a19c01-530d-7ef0-88cb-285cc0cf35ff"
+    },
+    {
+      "symbol": "SKDDB",
+      "type": "Crypto",
+      "name": "SKDDB",
+      "id": "01a19c01-530d-710d-b616-993e4b5f0344"
+    },
+    {
+      "symbol": "SKUUB",
+      "type": "Crypto",
+      "name": "SKUUB",
+      "id": "01a19c01-530d-7819-a5a3-102e118a96e6"
+    },
+    {
+      "symbol": "TMFB",
+      "type": "Crypto",
+      "name": "TMFB",
+      "id": "01a19c01-530d-7016-8aff-5ffca3b5c1a4"
+    },
+    {
+      "symbol": "VSTB",
+      "type": "Crypto",
+      "name": "VSTB",
+      "id": "01a19c01-530d-7ee5-9ca5-9b06b6d2d56a"
+    },
+    {
+      "symbol": "哈基米",
+      "type": "Crypto",
+      "name": "哈基米",
+      "id": "01a19c01-530d-7ab0-b73c-badaa9237ce0"
+    },
+    {
+      "symbol": "币安人生",
+      "type": "Crypto",
+      "name": "币安人生",
+      "id": "01a19c01-530d-7923-9b62-d9210f535c5d"
+    },
+    {
+      "symbol": "我踏马来了",
+      "type": "Crypto",
+      "name": "我踏马来了",
+      "id": "01a19c01-530d-73f6-960e-9399b9fe6c90"
+    },
+    {
+      "symbol": "牛来",
+      "type": "Crypto",
+      "name": "牛来",
+      "id": "01a19c01-530d-762a-a9d2-2f747b9ef182"
+    },
+    {
+      "symbol": "龙虾",
+      "type": "Crypto",
+      "name": "龙虾",
+      "id": "01a19c01-530d-7f80-983f-d8e6bbd29d30"
     }
   ]
 }
