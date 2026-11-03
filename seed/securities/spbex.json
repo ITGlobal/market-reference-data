@@ -1128,6 +1128,78 @@
       "issuerName": "Medtronic Public Limited Company"
     },
     {
+      "id": "01a19cc2-122a-7d3d-bc21-56a68649cd6a",
+      "key": "MGKL1P1",
+      "isin": "RU000A10DTC8",
+      "kind": "Debt",
+      "name": "МГКЛ 001PS-01",
+      "issuerName": "Публичное акционерное общество \"МГКЛ\"",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Fixed",
+        "couponRate": 24,
+        "couponFrequency": "Monthly",
+        "dayCount": "Act365",
+        "issueDate": "2025-12-16",
+        "maturityDate": "2030-11-20"
+      }
+    },
+    {
+      "id": "01a19cc2-122a-760c-9bea-c44625f995e2",
+      "key": "MGKL1P2",
+      "isin": "RU000A10EG10",
+      "kind": "Debt",
+      "name": "МГКЛ 001PS-02",
+      "issuerName": "Публичное акционерное общество \"МГКЛ\"",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Fixed",
+        "couponRate": 24.5,
+        "couponFrequency": "Monthly",
+        "dayCount": "Act365",
+        "issueDate": "2026-03-06",
+        "maturityDate": "2031-02-08"
+      }
+    },
+    {
+      "id": "01a19cc2-122a-7099-a3f5-c565c83e131e",
+      "key": "MGKL1P3",
+      "isin": "RU000A10FDE3",
+      "kind": "Debt",
+      "name": "МГКЛ 001PS-03",
+      "issuerName": "Публичное акционерное общество \"МГКЛ\"",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Fixed",
+        "couponRate": 26,
+        "couponFrequency": "Monthly",
+        "dayCount": "Act365",
+        "issueDate": "2026-06-11",
+        "maturityDate": "2030-05-21"
+      }
+    },
+    {
+      "id": "01a19cc2-122a-74d2-a7ee-c3c9024f1cde",
+      "key": "MGKLCO1",
+      "isin": "RU000A10ENZ0",
+      "kind": "Debt",
+      "name": "МГКЛ СО-001",
+      "issuerName": "Публичное акционерное общество \"МГКЛ\"",
+      "debt": {
+        "faceValue": 6,
+        "faceCurrency": "RUB",
+        "rateType": "Fixed",
+        "couponRate": 15,
+        "couponFrequency": "Monthly",
+        "dayCount": "Act365",
+        "issueDate": "2026-03-26",
+        "maturityDate": "2032-03-10"
+      }
+    },
+    {
       "id": "01a15db5-c351-7a45-b2de-c92bf82f3b42",
       "key": "MRK@DE",
       "isin": "DE0006599905",
@@ -1212,6 +1284,78 @@
       "kind": "Equity",
       "name": "Siemens Healthineers AG",
       "issuerName": "Siemens Healthineers AG"
+    },
+    {
+      "id": "01a19cc2-122a-7bdc-8855-b8547e167b47",
+      "key": "SIBN6P1",
+      "isin": "RU000A10C1S1",
+      "kind": "Debt",
+      "name": "Газпром нефть 6P1R",
+      "issuerName": "Публичное акционерное общество \"Газпром нефть\"",
+      "debt": {
+        "faceValue": 100,
+        "faceCurrency": "EUR",
+        "rateType": "Fixed",
+        "couponRate": 7.5,
+        "couponFrequency": "Monthly",
+        "dayCount": "Act365",
+        "issueDate": "2025-07-11",
+        "maturityDate": "2027-07-01"
+      }
+    },
+    {
+      "id": "01a19cc2-122a-70c9-9b06-a672b93d3dcc",
+      "key": "SIBN6P2",
+      "isin": "RU000A10C6G5",
+      "kind": "Debt",
+      "name": "Газпром нефть 6P2R",
+      "issuerName": "Публичное акционерное общество \"Газпром нефть\"",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "CNY",
+        "rateType": "Fixed",
+        "couponRate": 7.5,
+        "couponFrequency": "Monthly",
+        "dayCount": "Act365",
+        "issueDate": "2025-07-25",
+        "maturityDate": "2027-01-16"
+      }
+    },
+    {
+      "id": "01a19cc2-122a-704d-8286-d7a8e8bb1029",
+      "key": "SIBN6P3",
+      "isin": "RU000A10CLW5",
+      "kind": "Debt",
+      "name": "Газпром нефть 6P3R",
+      "issuerName": "Публичное акционерное общество \"Газпром нефть\"",
+      "debt": {
+        "faceValue": 100,
+        "faceCurrency": "USD",
+        "rateType": "Fixed",
+        "couponRate": 7.25,
+        "couponFrequency": "Monthly",
+        "dayCount": "Act365",
+        "issueDate": "2025-08-29",
+        "maturityDate": "2027-08-19"
+      }
+    },
+    {
+      "id": "01a19cc2-122a-7a14-9d4c-e955cafb7816",
+      "key": "SIBN6P4",
+      "isin": "RU000A10CLE3",
+      "kind": "Debt",
+      "name": "Газпром нефть 6P4R",
+      "issuerName": "Публичное акционерное общество \"Газпром нефть\"",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "CNY",
+        "rateType": "Fixed",
+        "couponRate": 7.25,
+        "couponFrequency": "Monthly",
+        "dayCount": "Act365",
+        "issueDate": "2025-08-28",
+        "maturityDate": "2027-02-19"
+      }
     },
     {
       "id": "01a15db5-c351-7d03-9d8d-dc2667109c8c",
@@ -1332,6 +1476,24 @@
       "kind": "Equity",
       "name": "Willis Towers Watson Public Limited Company",
       "issuerName": "Willis Towers Watson Public Limited Company"
+    },
+    {
+      "id": "01a19cc2-122a-74b6-a8b4-23fa60b0ee11",
+      "key": "XMED1P1",
+      "isin": "RU000A10G0R1",
+      "kind": "Debt",
+      "name": "ХимМед СПБ-001Р-01",
+      "issuerName": "Акционерное общество \"ХимМед\"",
+      "debt": {
+        "faceValue": 1000,
+        "faceCurrency": "RUB",
+        "rateType": "Fixed",
+        "couponRate": 22.5,
+        "couponFrequency": "Monthly",
+        "dayCount": "Act365",
+        "issueDate": "2026-09-08",
+        "maturityDate": "2029-08-23"
+      }
     }
   ]
 }
