@@ -608,6 +608,33 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-797b-85a5-af8d467dd325",
+      "type": "Index",
+      "code": "FIXAAOI",
+      "description": "Фиксинг МосБиржи AAOI",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-770a-9e72-a3087803ff2b",
+      "type": "Index",
+      "code": "FIXABNB",
+      "description": "Фиксинг МосБиржи ABNB",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7ae2-99e9-f8789e9ce66b",
+      "type": "Index",
+      "code": "FIXADBE",
+      "description": "Фиксинг МосБиржи ADBE",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044d-7850-a1d7-5213d8653e78",
       "type": "Index",
       "code": "FIXAFKS",
@@ -630,6 +657,15 @@
       "type": "Index",
       "code": "FIXAGRO",
       "description": "Фиксинг МосБиржи ДР РОС АГРО ПЛС",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7aa0-aed7-a994af9e1e1b",
+      "type": "Index",
+      "code": "FIXALAB",
+      "description": "Фиксинг МосБиржи ALAB",
       "venue": "MISX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
@@ -671,10 +707,37 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-799f-aa6b-6702c759df9a",
+      "type": "Index",
+      "code": "FIXARM",
+      "description": "Фиксинг МосБиржи ARM",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044d-7004-a12c-c7fad0eae1cd",
       "type": "Index",
       "code": "FIXASTR",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Группа Астра",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7ef5-96f9-5db5ee064c0c",
+      "type": "Index",
+      "code": "FIXBE",
+      "description": "Фиксинг МосБиржи BE",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-754a-81dd-d9f97872df44",
+      "type": "Index",
+      "code": "FIXBIIB",
+      "description": "Фиксинг МосБиржи BIIB",
       "venue": "MISX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
@@ -716,6 +779,15 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-7230-91c0-55a5ef70b357",
+      "type": "Index",
+      "code": "FIXCIEN",
+      "description": "Фиксинг МосБиржи CIEN",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044d-73ca-b56c-3d844d8a0c03",
       "type": "Index",
       "code": "FIXCMG",
@@ -752,10 +824,37 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-789d-a906-1332f1ebbaaa",
+      "type": "Index",
+      "code": "FIXCRCL",
+      "description": "Фиксинг МосБиржи CRCL",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-719c-867f-95ad2350fdb2",
+      "type": "Index",
+      "code": "FIXCRDO",
+      "description": "Фиксинг МосБиржи CRDO",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044d-71b2-b03d-1385d5a3753d",
       "type": "Index",
       "code": "FIXCRWD",
       "description": "Фиксинг МосБиржи CRWD",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7a24-8d7e-5d068bba168f",
+      "type": "Index",
+      "code": "FIXCRWV",
+      "description": "Фиксинг МосБиржи CRWV",
       "venue": "MISX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
@@ -779,10 +878,28 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-7da9-bb4a-ae67a4d08814",
+      "type": "Index",
+      "code": "FIXDDOG",
+      "description": "Фиксинг МосБиржи DDOG",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044d-762a-ac35-df543ead791b",
       "type": "Index",
       "code": "FIXDOMRF",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО ДОМ.РФ",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7a49-bc5b-aa24569f5a66",
+      "type": "Index",
+      "code": "FIXDUOL",
+      "description": "Фиксинг МосБиржи DUOL",
       "venue": "MISX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
@@ -860,6 +977,15 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-7f8e-9bee-5396268e7c1a",
+      "type": "Index",
+      "code": "FIXGTLB",
+      "description": "Фиксинг МосБиржи GTLB",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044d-7921-8b48-288f8f841bd3",
       "type": "Index",
       "code": "FIXHEAD",
@@ -887,10 +1013,28 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-76e9-9593-4e0397a3e9b7",
+      "type": "Index",
+      "code": "FIXINTC",
+      "description": "Фиксинг МосБиржи INTC",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044d-72af-a059-abd25f429f98",
       "type": "Index",
       "code": "FIXIRAO",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Интер РАО",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7d69-968e-1407fe80fc8e",
+      "type": "Index",
+      "code": "FIXIREN",
+      "description": "Фиксинг МосБиржи IREN",
       "venue": "MISX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
@@ -977,10 +1121,28 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-7feb-837a-83d419781ecc",
+      "type": "Index",
+      "code": "FIXMRNA",
+      "description": "Фиксинг МосБиржи MRNA",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044d-795c-8d83-54029cf58d14",
       "type": "Index",
       "code": "FIXMSNG",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО Мосэнерго",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7f9c-a003-3afa12060b1b",
+      "type": "Index",
+      "code": "FIXMSTR",
+      "description": "Фиксинг МосБиржи MSTR",
       "venue": "MISX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
@@ -1040,10 +1202,28 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-7060-a2c8-fd3cdcf91ccf",
+      "type": "Index",
+      "code": "FIXNOW",
+      "description": "Фиксинг МосБиржи NOW",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044d-7f83-8f98-56dc426b4dff",
       "type": "Index",
       "code": "FIXNVTK",
       "description": "Фиксинг МосБиржи обыкновенных акций ПАО НОВАТЭК",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7c14-85c7-b61c4578a4e9",
+      "type": "Index",
+      "code": "FIXON",
+      "description": "Фиксинг МосБиржи ON",
       "venue": "MISX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
@@ -1139,6 +1319,15 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-70d3-8dac-0ab55def1f0c",
+      "type": "Index",
+      "code": "FIXRDDT",
+      "description": "Фиксинг МосБиржи RDDT",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044e-76e8-ae3f-6123143f52f0",
       "type": "Index",
       "code": "FIXRENI",
@@ -1211,6 +1400,15 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-7723-a553-74e9d077b566",
+      "type": "Index",
+      "code": "FIXSHOP",
+      "description": "Фиксинг МосБиржи SHOP",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044e-7b84-a621-4a82781eaa7b",
       "type": "Index",
       "code": "FIXSMCI",
@@ -1256,10 +1454,28 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-742f-bc62-bc105b0e4b04",
+      "type": "Index",
+      "code": "FIXSNOW",
+      "description": "Фиксинг МосБиржи SNOW",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044e-75c4-8a92-eb1ecd7e6d31",
       "type": "Index",
       "code": "FIXSPCX",
       "description": "Фиксинг МосБиржи SPCX",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-73ec-a648-08e05f49811c",
+      "type": "Index",
+      "code": "FIXSPOT",
+      "description": "Фиксинг МосБиржи SPOT",
       "venue": "MISX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"
@@ -1319,6 +1535,15 @@
       "provider": "Московская Биржа"
     },
     {
+      "id": "01a1a0bb-cb5b-7ab6-ab84-9241daa9a57f",
+      "type": "Index",
+      "code": "FIXTEAM",
+      "description": "Фиксинг МосБиржи TEAM",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
       "id": "01a0ec4b-044e-73ac-bb80-e3c3e69c34e6",
       "type": "Index",
       "code": "FIXTRNFP",
@@ -1332,6 +1557,24 @@
       "type": "Index",
       "code": "FIXTSLA",
       "description": "Фиксинг МосБиржи TSLA",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7a53-82b8-d0a05a3308f6",
+      "type": "Index",
+      "code": "FIXTTWO",
+      "description": "Фиксинг МосБиржи TTWO",
+      "venue": "MISX",
+      "quoteUnit": "Points",
+      "provider": "Московская Биржа"
+    },
+    {
+      "id": "01a1a0bb-cb5b-7ca3-bcca-8737178e8c07",
+      "type": "Index",
+      "code": "FIXU",
+      "description": "Фиксинг МосБиржи U",
       "venue": "MISX",
       "quoteUnit": "Points",
       "provider": "Московская Биржа"

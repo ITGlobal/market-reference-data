@@ -71,12 +71,25 @@
       "code": "ETHA",
       "name": "Фьючерсный контракт на акции инвестиционного фонда ETHA Trust ETF",
       "venue": "MISX",
+      "contractSize": 0.333333333333,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US46438R2040"
+      }
+    },
+    {
+      "id": "01a1a0bc-69a3-7e72-8d94-e749d7fa2c0f",
+      "code": "ETHAA",
+      "name": "Фьючерсный контракт на акции инвестиционного фонда ETHA Trust ETF",
+      "venue": "MISX",
       "contractSize": 1,
       "quoteUnit": "Currency",
       "quoteAsset": "USD",
       "settlementMethod": "Cash",
       "underlying": {
-        "security": "US46438R1059"
+        "security": "US46438R2040"
       }
     },
     {
