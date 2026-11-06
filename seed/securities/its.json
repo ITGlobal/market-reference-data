@@ -2090,6 +2090,14 @@
       "issuerName": "Assembly Biosciences, Inc."
     },
     {
+      "id": "01a1b03d-7465-7a27-b11c-55d4853512ed",
+      "key": "ASPE@ITSL",
+      "isin": "US0449331091",
+      "kind": "Equity",
+      "name": "Aspen Neuroscience, Inc.",
+      "issuerName": "Aspen Neuroscience, Inc."
+    },
+    {
       "id": "01a1165e-d544-781c-bd03-8b3d729ae677",
       "key": "ASPN@ITSL",
       "isin": "US04523Y1055",
@@ -2640,6 +2648,14 @@
       "kind": "Equity",
       "name": "Barrett Business Services, Inc.",
       "issuerName": "Barrett Business Services, Inc."
+    },
+    {
+      "id": "01a1b03d-7465-7127-a3b6-8dbd46325413",
+      "key": "BBTX@ITSL",
+      "isin": "US0589371030",
+      "kind": "Equity",
+      "name": "Bambusa Therapeutics, Inc.",
+      "issuerName": "Bambusa Therapeutics, Inc."
     },
     {
       "id": "01a1165e-d545-7292-91da-12bd9bd06301",
@@ -5235,6 +5251,14 @@
       "kind": "Equity",
       "name": "CTS Corporation",
       "issuerName": "CTS Corporation"
+    },
+    {
+      "id": "01a1b03d-7465-7e57-82e1-891ece79ca98",
+      "key": "CTY@ITSL",
+      "isin": "US1787821081",
+      "kind": "Equity",
+      "name": "City Therapeutics, Inc.",
+      "issuerName": "City Therapeutics, Inc."
     },
     {
       "id": "01a1165e-d545-7728-8344-81344b732667",
@@ -12185,6 +12209,14 @@
       "issuerName": "LyondellBasell Industries N.V."
     },
     {
+      "id": "01a1b03d-7465-7311-acf9-230cb9943916",
+      "key": "LYCA@ITSL",
+      "isin": "US55081P1003",
+      "kind": "Equity",
+      "name": "Lycia Therapeutics, Inc.",
+      "issuerName": "Lycia Therapeutics, Inc."
+    },
+    {
       "id": "01a1165e-d545-772c-9554-d7f2a366d503",
       "key": "LYNX@ITSL",
       "isin": "US55173P1093",
@@ -13121,6 +13153,14 @@
       "kind": "Equity",
       "name": "Madison Square Garden Entertainment Corp.",
       "issuerName": "Madison Square Garden Entertainment Corp."
+    },
+    {
+      "id": "01a1b03d-7465-7fcf-879b-5ef617796d68",
+      "key": "MSGR@ITSL",
+      "isin": "US62477J1025",
+      "kind": "Equity",
+      "name": "MSG Rangers Corp.",
+      "issuerName": "MSG Rangers Corp."
     },
     {
       "id": "01a1165e-d545-71b3-b725-29acc1a5d762",
@@ -14182,6 +14222,14 @@
       "kind": "Equity",
       "name": "Nature’s Sunshine Products, Inc.",
       "issuerName": "Nature’s Sunshine Products, Inc."
+    },
+    {
+      "id": "01a1b03d-7465-77d6-950c-768f6dbf60e7",
+      "key": "NAVI@ITSL",
+      "isin": "US63943R1086",
+      "kind": "Equity",
+      "name": "Navient Holdings, Inc.",
+      "issuerName": "Navient Holdings, Inc."
     },
     {
       "id": "01a1165e-d545-7a8f-a013-487e7444fe1f",

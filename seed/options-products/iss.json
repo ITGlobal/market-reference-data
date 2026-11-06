@@ -53,6 +53,21 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-7252-90a2-a241191051a4",
+      "code": "AFLT",
+      "name": "Опционы на акции AFLT",
+      "venue": "MISX",
+      "contractSize": 10,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0009062285"
+      }
+    },
+    {
       "id": "01a0f24e-75f2-77c8-8f4b-2c6261881eda",
       "code": "ALRS",
       "name": "Опционы на фьючерсы ALRS",
@@ -68,21 +83,6 @@
           "code": "ALRS",
           "venue": "MISX"
         }
-      }
-    },
-    {
-      "id": "01a0f24e-75f2-7252-90a2-a241191051a4",
-      "code": "AFLT",
-      "name": "Опционы на акции AFLT",
-      "venue": "MISX",
-      "contractSize": 10,
-      "quoteUnit": "Currency",
-      "quoteAsset": "RUB",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "security": "RU0009062285"
       }
     },
     {
@@ -286,6 +286,21 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-79b0-a388-06c9b51e8f7c",
+      "code": "FEES",
+      "name": "Опционы на акции FEES",
+      "venue": "MISX",
+      "contractSize": 10000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU000A0JPNN9"
+      }
+    },
+    {
       "id": "01a0f24e-75f2-7f0f-bfcb-785b82a8bfb8",
       "code": "GAZR",
       "name": "Опционы на фьючерсы GAZR",
@@ -301,21 +316,6 @@
           "code": "GAZR",
           "venue": "MISX"
         }
-      }
-    },
-    {
-      "id": "01a0f24e-75f2-79b0-a388-06c9b51e8f7c",
-      "code": "FEES",
-      "name": "Опционы на акции FEES",
-      "venue": "MISX",
-      "contractSize": 10000,
-      "quoteUnit": "Currency",
-      "quoteAsset": "RUB",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "security": "RU000A0JPNN9"
       }
     },
     {
@@ -554,6 +554,21 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-733f-9086-53c56cba812d",
+      "code": "MAGN",
+      "name": "Опционы на акции MAGN",
+      "venue": "MISX",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0009084396"
+      }
+    },
+    {
       "id": "01a0f24e-75f2-7ca6-99fd-d5cd5336adc1",
       "code": "MGNT",
       "name": "Опционы на фьючерсы MGNT",
@@ -569,21 +584,6 @@
           "code": "MGNT",
           "venue": "MISX"
         }
-      }
-    },
-    {
-      "id": "01a0f24e-75f2-733f-9086-53c56cba812d",
-      "code": "MAGN",
-      "name": "Опционы на акции MAGN",
-      "venue": "MISX",
-      "contractSize": 1,
-      "quoteUnit": "Currency",
-      "quoteAsset": "RUB",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "security": "RU0009084396"
       }
     },
     {
@@ -998,6 +998,21 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-7e7c-beb7-55eb7cf1e05b",
+      "code": "SBPR",
+      "name": "Опционы на акции SBERP",
+      "venue": "MISX",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "security": "RU0009029557"
+      }
+    },
+    {
       "id": "01a0f24e-75f2-7903-979d-78be3c4abf6f",
       "code": "SBRF",
       "name": "Опционы на фьючерсы SBRF",
@@ -1013,21 +1028,6 @@
           "code": "SBRF",
           "venue": "MISX"
         }
-      }
-    },
-    {
-      "id": "01a0f24e-75f2-7e7c-beb7-55eb7cf1e05b",
-      "code": "SBPR",
-      "name": "Опционы на акции SBERP",
-      "venue": "MISX",
-      "contractSize": 1,
-      "quoteUnit": "Currency",
-      "quoteAsset": "RUB",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "security": "RU0009029557"
       }
     },
     {
@@ -1260,6 +1260,22 @@
       }
     },
     {
+      "id": "01a0f24e-75f2-7bf5-974d-f310e1efa7dc",
+      "code": "Si",
+      "name": "Опционы на доллар США",
+      "venue": "MISX",
+      "contractSize": 100,
+      "quoteUnit": "Currency",
+      "quoteAsset": "RUB",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "asset": "USD"
+      },
+      "settlementFixing": "USDFIXME"
+    },
+    {
       "id": "01a0f24e-75f2-76fb-bace-0d8907bb4cf2",
       "code": "TATN",
       "name": "Опционы на фьючерсы TATN",
@@ -1276,22 +1292,6 @@
           "venue": "MISX"
         }
       }
-    },
-    {
-      "id": "01a0f24e-75f2-7bf5-974d-f310e1efa7dc",
-      "code": "Si",
-      "name": "Опционы на доллар США",
-      "venue": "MISX",
-      "contractSize": 100,
-      "quoteUnit": "Currency",
-      "quoteAsset": "RUB",
-      "exerciseStyle": "European",
-      "settlementMethod": "Cash",
-      "premiumStyle": "Upfront",
-      "underlying": {
-        "asset": "USD"
-      },
-      "settlementFixing": "USDFIXME"
     },
     {
       "id": "01a0ec4b-049f-70f8-9bca-8e9c55e4edc4",

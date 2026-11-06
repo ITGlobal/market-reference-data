@@ -1482,6 +1482,86 @@
       }
     },
     {
+      "id": "01a1b063-2df3-751b-a6ad-9b97a1b74ffa",
+      "code": "31E",
+      "name": "US ERCOT WND PWR 2022 3MO SYN FUT",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_US_ERCOT_2022",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7076-adbe-d464ddbd62ef",
+      "code": "31G",
+      "name": "GERMANY WIND PWR 2019 3MO SYN FUT",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_DE_2019",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7685-b665-859e4e956b67",
+      "code": "31H",
+      "name": "GERMANY WIND PWR 2022 B 3MO SYN FUT",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_DE_2022B",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7703-991c-805c4abe8b4b",
+      "code": "31U",
+      "name": "UK WIND PWR 2022 3MO STP SYN FUT",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "GBP",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_UK_2022",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-74f3-85d8-0252074f4af2",
+      "code": "31V",
+      "name": "AUS VIC 2024-06 WIND PWR 3M SYN FUT",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "AUD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WX_WIND_AU_VIC_2024_06",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08a2-7d7c-9819-ad93755cb987",
       "code": "32",
       "name": "EURO PROPNE CIFARA ARGUS BALMO FUT",
@@ -4173,6 +4253,32 @@
       }
     },
     {
+      "id": "01a1b063-2df3-758d-8c2d-6aac1ac0f73c",
+      "code": "BCA",
+      "name": "BITCOIN CASH FUTURES",
+      "venue": "XCME",
+      "contractSize": 250,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BCH"
+      }
+    },
+    {
+      "id": "01a1b063-2df3-790b-990e-4a513038fed7",
+      "code": "BCB",
+      "name": "BTIC ON BITCOIN CASH FUT LONDON",
+      "venue": "XCME",
+      "contractSize": 250,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BCH"
+      }
+    },
+    {
       "id": "01a0fbf5-08a0-765f-bc44-c8f3c9f1abe7",
       "code": "BCH",
       "name": "CHI #1 BUSHELING FERROUS SCRAP FUT",
@@ -4684,6 +4790,19 @@
       }
     },
     {
+      "id": "01a1b063-2df3-70fb-b255-95d078561cb7",
+      "code": "BMC",
+      "name": "MICRO BTIC ON BITCOIN CASH FUT LDN",
+      "venue": "XCME",
+      "contractSize": 25,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BCH"
+      }
+    },
+    {
       "id": "01a0fbf5-089d-7551-a47d-d1f148ebd72c",
       "code": "BME",
       "name": "BCOM ALL METALS INDEX FUT",
@@ -4745,6 +4864,19 @@
           "code": "BCOMIN",
           "venue": "XXXX"
         }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-77eb-8ca2-0f4fa3774421",
+      "code": "BMU",
+      "name": "MICRO BTIC ON UNI LONDON FUTURES",
+      "venue": "XCME",
+      "contractSize": 1000,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "UNI"
       }
     },
     {
@@ -5158,6 +5290,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "JETFUEL"
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7cdb-a104-b7dabf8e3069",
+      "code": "BUN",
+      "name": "BTIC ON UNI FUTURES LONDON FUT",
+      "venue": "XCME",
+      "contractSize": 10000,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "UNI"
       }
     },
     {
@@ -6545,6 +6690,86 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "POWER_DE"
+      }
+    },
+    {
+      "id": "01a1b063-2df3-79fd-bb41-38aedcae8780",
+      "code": "DFA",
+      "name": "DRY FRHT ROUTE WEST AUST TO QIN FUT",
+      "venue": "XNYM",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PLATTS_DRY_WAUS_QIN_CAPE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7eb7-a107-2aaf701e4194",
+      "code": "DFB",
+      "name": "DRY FRHT ROUTE BRAZ TO QIN FUT",
+      "venue": "XNYM",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PLATTS_DRY_BRA_QIN_CAPE",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7ce3-ac14-43ff7f8d0fdc",
+      "code": "DFC",
+      "name": "DRY FRHT RT BRZ TO QIN(PAN) FUT",
+      "venue": "XNYM",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PLATTS_DRY_BRA_QIN_PMX",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7965-bb82-8287fe5efc1c",
+      "code": "DFD",
+      "name": "DRY FRHT RT(PR) BRA TO QIN(PA) FUT",
+      "venue": "XNYM",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PLATTS_DRY_BRA_QIN_PMX_PROMPT",
+          "venue": "XXXX"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7837-83ba-c22d9fef37bc",
+      "code": "DFE",
+      "name": "DRY FRT ROUTE US GULF TO QINGDA FUT",
+      "venue": "XNYM",
+      "contractSize": 1000,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "PLATTS_DRY_USG_QIN_PMX",
+          "venue": "XXXX"
+        }
       }
     },
     {
@@ -10529,6 +10754,19 @@
       }
     },
     {
+      "id": "01a0fbf5-08a0-7e2a-a112-21a762915852",
+      "code": "HR",
+      "name": "U.S. MIDWEST DOMESTIC HOT-ROLLED CO",
+      "venue": "XCEC",
+      "contractSize": 20,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "HRC"
+      }
+    },
+    {
       "id": "01a0fbf5-089f-7ca5-b635-202dea70229f",
       "code": "HR",
       "name": "HOUSTON HDD INDEX FUTURE",
@@ -10542,19 +10780,6 @@
           "code": "WX_HOUSTON_HDD",
           "venue": "XCME"
         }
-      }
-    },
-    {
-      "id": "01a0fbf5-08a0-7e2a-a112-21a762915852",
-      "code": "HR",
-      "name": "U.S. MIDWEST DOMESTIC HOT-ROLLED CO",
-      "venue": "XCEC",
-      "contractSize": 20,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "settlementMethod": "Cash",
-      "underlying": {
-        "asset": "HRC"
       }
     },
     {
@@ -13428,6 +13653,19 @@
       }
     },
     {
+      "id": "01a1b063-2df3-76c6-82f6-53ac8906db6a",
+      "code": "MCH",
+      "name": "MICRO BITCOIN CASH FUTURES",
+      "venue": "XCME",
+      "contractSize": 25,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "BCH"
+      }
+    },
+    {
       "id": "01a0fbf5-089f-715d-9acb-447776a6c8ac",
       "code": "MCI",
       "name": "MICRO FUT ON NASDAQ CRYPTO INDEX",
@@ -14700,6 +14938,19 @@
           "code": "DIESEL10_VS_GASOIL",
           "venue": "XNYM"
         }
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7a51-a779-b2ab8c151626",
+      "code": "MUN",
+      "name": "MICRO UNI FUTURE",
+      "venue": "XCME",
+      "contractSize": 1000,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "UNI"
       }
     },
     {
@@ -22784,6 +23035,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "NAPHTHA"
+      }
+    },
+    {
+      "id": "01a1b063-2df3-7d63-b6c2-8f9770073b78",
+      "code": "UNI",
+      "name": "UNI FUTURE",
+      "venue": "XCME",
+      "contractSize": 10000,
+      "quoteUnit": "Points",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "UNI"
       }
     },
     {

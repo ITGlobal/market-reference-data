@@ -12080,6 +12080,24 @@
       }
     },
     {
+      "id": "01a1b063-2e15-7f45-8404-c20e7fe01308",
+      "code": "WES",
+      "name": "US ERCOT WIND PWR 2022 3MO ST OPT",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "31E",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08b5-7bce-9129-acf6fec07463",
       "code": "WFW",
       "name": "WK WEDS 5 YR T NOTE OPT Long dated",
@@ -12112,6 +12130,42 @@
         "futuresProduct": {
           "code": "BP",
           "venue": "XCME"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2e15-7027-89d2-c56a2d42ace5",
+      "code": "WGS",
+      "name": "GERMANY WIND POWER 2019 3MO STR OPT",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "31G",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2e15-73cc-8613-fedf27081587",
+      "code": "WHS",
+      "name": "GERMANY WIND POWER 2022 B 3MO ST OP",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "EUR",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "31H",
+          "venue": "XNYM"
         }
       }
     },
@@ -12350,6 +12404,24 @@
       }
     },
     {
+      "id": "01a1b063-2e15-7d6a-a021-34515e731136",
+      "code": "WUS",
+      "name": "UK WIND POWER 2022 3-MONTH STRIP OP",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "GBP",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "31U",
+          "venue": "XNYM"
+        }
+      }
+    },
+    {
       "id": "01a0fbf5-08b5-7ebd-8b3c-cf906fc41817",
       "code": "WUW",
       "name": "WK WEDS ULTRA T BOND OPT Long dated",
@@ -12364,6 +12436,24 @@
         "futuresProduct": {
           "code": "UBE",
           "venue": "XCBT"
+        }
+      }
+    },
+    {
+      "id": "01a1b063-2e15-7e03-b9f4-7bf917a95f0e",
+      "code": "WVS",
+      "name": "AUS VIC 2024-06 WIND PWR 3MO ST OP",
+      "venue": "XNYM",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "AUD",
+      "exerciseStyle": "European",
+      "settlementMethod": "Cash",
+      "premiumStyle": "Upfront",
+      "underlying": {
+        "futuresProduct": {
+          "code": "31V",
+          "venue": "XNYM"
         }
       }
     },
