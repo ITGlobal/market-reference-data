@@ -173,6 +173,20 @@
       "settlementFixing": "IUSD1"
     },
     {
+      "id": "01a1b03d-8308-7ab7-afb9-f89e06e25cce",
+      "code": "CATperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Caterpillar Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US1491231015"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
       "id": "01a15db5-c37e-7fa0-bd5c-4b70a1dcdbf1",
       "code": "CIENperpA",
       "name": "Бессрочный фьючерсный контракт на акции Ciena Corporation",
@@ -299,6 +313,20 @@
       "settlementFixing": "IUSD2"
     },
     {
+      "id": "01a1b03d-8308-783a-a23e-5f497aa40020",
+      "code": "DELLperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Dell Technologies Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US24703L2025"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
       "id": "01a15db5-c37e-754a-8048-ed00ac1730bc",
       "code": "DUOLperpA",
       "name": "Бессрочный фьючерсный контракт на акции Duolingo, Inc.",
@@ -340,6 +368,20 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US3364331070"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a1b03d-8308-7a17-adcc-b66d9ac3fd32",
+      "code": "GOOGLperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Alphabet Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US02079K3059"
       },
       "settlementFixing": "IUSD2"
     },
@@ -427,6 +469,20 @@
       }
     },
     {
+      "id": "01a1b03d-8308-7bfc-ad0e-879ac97d1741",
+      "code": "LRCXperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Lam Research Corporation",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US5128073062"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
       "id": "01a15db5-c37e-7171-b6e2-4803ca3d0df9",
       "code": "LULUperpA",
       "name": "Бессрочный фьючерсный контракт на акции lululemon athletica inc.",
@@ -437,6 +493,20 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US5500211090"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a1b03d-8308-7367-9021-e38bedcf049a",
+      "code": "MCDperpA",
+      "name": "Бессрочный фьючерсный контракт на акции McDonalds Corporation",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US5801351017"
       },
       "settlementFixing": "IUSD2"
     },
@@ -469,6 +539,20 @@
       "settlementFixing": "IUSD2"
     },
     {
+      "id": "01a1b03d-8308-7ce2-bade-eb0c557b7c02",
+      "code": "MRVLperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Marvell Technology, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US5738741041"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
       "id": "01a13a20-7371-7fb5-be1b-1a1c3cdb0b90",
       "code": "MSTRperpA",
       "name": "Бессрочный фьючерсный контракт на акции Strategy Inc",
@@ -479,6 +563,20 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US5949724083"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a1b03d-8308-7e2f-b297-65fa293e9af3",
+      "code": "MUperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Micron Technology, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US5951121038"
       },
       "settlementFixing": "IUSD2"
     },
@@ -535,6 +633,34 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US81762P1021"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a1b03d-8308-7ce9-ad64-8b2a8379d36d",
+      "code": "NVDAperpA",
+      "name": "Бессрочный фьючерсный контракт на акции NVIDIA Corporation",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US67066G1040"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a1b03d-8308-7d78-baee-aa8fbb158f99",
+      "code": "ORCLperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Oracle Corporation",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US68389X1054"
       },
       "settlementFixing": "IUSD2"
     },
@@ -819,6 +945,20 @@
       "underlying": {
         "security": "RU000A0JP5V6"
       }
+    },
+    {
+      "id": "01a1b03d-8308-7ec3-af17-28c5fad73734",
+      "code": "WDCperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Western Digital Corporation",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US9581021055"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a13a20-7371-7f21-b290-0e1a1974fb79",
