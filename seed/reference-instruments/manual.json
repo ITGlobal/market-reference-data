@@ -3104,6 +3104,51 @@
       "quoteUnit": "Currency",
       "provider": "CME Group",
       "id": "01a0fbea-ad77-709d-aa3e-f077632809b3"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_DRY_WAUS_QIN_CAPE",
+      "description": "Platts Dry Freight Western Australia to Qingdao (Capesize)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a1b060-e4ad-7d96-b3d9-86b2f300e2cc"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_DRY_BRA_QIN_CAPE",
+      "description": "Platts Dry Freight Brazil to Qingdao (Capesize)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a1b060-e4ad-794e-af14-86f043cca625"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_DRY_BRA_QIN_PMX",
+      "description": "Platts Dry Freight Brazil to Qingdao (Panamax)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a1b060-e4ad-73fd-bf83-c3297f45da04"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_DRY_BRA_QIN_PMX_PROMPT",
+      "description": "Platts Dry Freight Prompt Brazil to Qingdao (Panamax)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a1b060-e4ad-7b62-b11f-51ef91b88822"
+    },
+    {
+      "type": "Index",
+      "code": "PLATTS_DRY_USG_QIN_PMX",
+      "description": "Platts Dry Freight US Gulf to Qingdao (Panamax)",
+      "venue": "XXXX",
+      "quoteUnit": "Currency",
+      "provider": "S&P Global Platts",
+      "id": "01a1b060-e4ad-7dab-9867-a0eb49b945bb"
     }
   ]
 }
