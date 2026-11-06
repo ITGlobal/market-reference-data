@@ -10529,6 +10529,19 @@
       }
     },
     {
+      "id": "01a0fbf5-08a0-7e2a-a112-21a762915852",
+      "code": "HR",
+      "name": "U.S. MIDWEST DOMESTIC HOT-ROLLED CO",
+      "venue": "XCEC",
+      "contractSize": 20,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "HRC"
+      }
+    },
+    {
       "id": "01a0fbf5-089f-7ca5-b635-202dea70229f",
       "code": "HR",
       "name": "HOUSTON HDD INDEX FUTURE",
@@ -10542,19 +10555,6 @@
           "code": "WX_HOUSTON_HDD",
           "venue": "XCME"
         }
-      }
-    },
-    {
-      "id": "01a0fbf5-08a0-7e2a-a112-21a762915852",
-      "code": "HR",
-      "name": "U.S. MIDWEST DOMESTIC HOT-ROLLED CO",
-      "venue": "XCEC",
-      "contractSize": 20,
-      "quoteUnit": "Currency",
-      "quoteAsset": "USD",
-      "settlementMethod": "Cash",
-      "underlying": {
-        "asset": "HRC"
       }
     },
     {
