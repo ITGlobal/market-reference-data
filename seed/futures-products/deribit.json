@@ -54,6 +54,22 @@
       }
     },
     {
+      "id": "01a1e8b4-aa89-7fe3-9134-ab076582dacb",
+      "code": "AAOI_USDC-PERPETUAL",
+      "name": "AAOI_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AAOI_USDC",
+          "venue": "XDRB"
+        }
+      }
+    },
+    {
       "id": "01a17cc7-83a0-70cb-9280-627bdffe8e9c",
       "code": "AAPL_USDC-PERPETUAL",
       "name": "AAPL_USDC perpetual",
@@ -368,6 +384,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "BILL"
+      }
+    },
+    {
+      "id": "01a1e8b4-aa89-7be3-902f-3a1f4eecf8c3",
+      "code": "BMNR_USDC-PERPETUAL",
+      "name": "BMNR_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "BMNR_USDC",
+          "venue": "XDRB"
+        }
       }
     },
     {
@@ -928,6 +960,32 @@
           "code": "GOOGL_USDC",
           "venue": "XDRB"
         }
+      }
+    },
+    {
+      "id": "01a1e8b4-aa89-70d4-b35a-171b92595cda",
+      "code": "GRAM_USDC-PERPETUAL",
+      "name": "GRAM_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "GRAM"
+      }
+    },
+    {
+      "id": "01a1e8b4-aa89-7f97-866a-91fd7654bb68",
+      "code": "GRASS_USDC-PERPETUAL",
+      "name": "GRASS_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "GRASS"
       }
     },
     {
@@ -1568,6 +1626,19 @@
       }
     },
     {
+      "id": "01a1e8b4-aa89-7d17-9ab4-8b0e9fe1111d",
+      "code": "QNT_USDC-PERPETUAL",
+      "name": "QNT_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "QNT"
+      }
+    },
+    {
       "id": "01a17cc7-83a5-730b-b5f6-c57d84398737",
       "code": "QQQ_USDC-PERPETUAL",
       "name": "QQQ_USDC perpetual",
@@ -1607,6 +1678,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "RESOLV"
+      }
+    },
+    {
+      "id": "01a1e8b4-aa89-73b2-b7f4-1956c2d2e9e7",
+      "code": "RKLB_USDC-PERPETUAL",
+      "name": "RKLB_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "RKLB_USDC",
+          "venue": "XDRB"
+        }
       }
     },
     {
@@ -2013,6 +2100,22 @@
       }
     },
     {
+      "id": "01a1e8b4-aa89-7aa1-9fc8-8e0896720535",
+      "code": "WDC_USDC-PERPETUAL",
+      "name": "WDC_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.01,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "WDC_USDC",
+          "venue": "XDRB"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469b-7d12-bbf8-620011e7335c",
       "code": "WIF_USDC-PERPETUAL",
       "name": "WIF_USDC perpetual",
@@ -2140,6 +2243,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "ZEC"
+      }
+    },
+    {
+      "id": "01a1e8b4-aa89-744d-a551-87fc3e36ab31",
+      "code": "ZRO_USDC-PERPETUAL",
+      "name": "ZRO_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "ZRO"
       }
     }
   ]

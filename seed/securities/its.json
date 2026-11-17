@@ -1874,6 +1874,14 @@
       "issuerName": "ARK ETF Trust"
     },
     {
+      "id": "01a1e8af-fcf2-7151-9f86-2341a59a11fd",
+      "key": "ARKK@ITSL",
+      "isin": "US00214Q1040",
+      "kind": "Fund",
+      "name": "ARK ETF Trust",
+      "issuerName": "ARK ETF Trust"
+    },
+    {
       "id": "01a1165e-d544-7dd3-b2c6-c3fb25ddc883",
       "key": "ARKO@ITSL",
       "isin": "US0412421085",
@@ -17472,6 +17480,14 @@
       "issuerName": "Rezolute, Inc."
     },
     {
+      "id": "01a1e8af-fcf2-73a9-921b-6c6ac4fb971b",
+      "key": "RZRA@ITSL",
+      "isin": "US76189Q1058",
+      "kind": "Equity",
+      "name": "Rezera Inc.",
+      "issuerName": "Rezera Inc."
+    },
+    {
       "id": "01a1165e-d545-72e8-ba8f-37d3ca5555a8",
       "key": "SABR@ITSL",
       "isin": "US78573M1045",
@@ -18208,6 +18224,14 @@
       "issuerName": "abrdn Silver ETF Trust"
     },
     {
+      "id": "01a1e8af-fcf2-7e3e-bd31-cb9c05292a41",
+      "key": "SJNK@ITSL",
+      "isin": "US78468R4083",
+      "kind": "Fund",
+      "name": "SPDR Series Trust",
+      "issuerName": "SPDR Series Trust"
+    },
+    {
       "id": "01a1165e-d545-7239-aab1-e5ef50ab6bd8",
       "key": "SKHY@ITSL",
       "isin": "US78392B2060",
@@ -18918,6 +18942,14 @@
       "kind": "Equity",
       "name": "Sensus Healthcare, Inc.",
       "issuerName": "Sensus Healthcare, Inc."
+    },
+    {
+      "id": "01a1e8af-fcf2-776f-8973-635b202b0642",
+      "key": "SRVR@ITSL",
+      "isin": "US69374H7411",
+      "kind": "Fund",
+      "name": "Pacer Funds Trust",
+      "issuerName": "Pacer Funds Trust"
     },
     {
       "id": "01a1165e-d545-79a6-8fc0-88030b9077e3",
@@ -20519,6 +20551,23 @@
       }
     },
     {
+      "id": "01a1e8af-fcf3-7349-b18a-128b5defe402",
+      "key": "US1682701@ITSL",
+      "isin": "US91282CMH15",
+      "kind": "Debt",
+      "name": "The United States of America US1682701",
+      "issuerName": "The United States of America",
+      "debt": {
+        "faceValue": 100,
+        "faceCurrency": "USD",
+        "rateType": "Fixed",
+        "couponRate": 4.125,
+        "couponFrequency": "SemiAnnual",
+        "dayCount": "ActAct",
+        "maturityDate": "2027-01-31"
+      }
+    },
+    {
       "id": "01a1165e-d544-72e5-a854-d9c90d688ebf",
       "key": "USMV@ITSL",
       "isin": "US46429B6974",
@@ -21335,6 +21384,14 @@
       "issuerName": "Valvoline Inc."
     },
     {
+      "id": "01a1e8af-fcf3-756b-8adc-aff682e876db",
+      "key": "VVVV@ITSL",
+      "isin": "CH1621652267",
+      "kind": "Equity",
+      "name": "vVARDIS Holding AG",
+      "issuerName": "vVARDIS Holding AG"
+    },
+    {
       "id": "01a1165e-d545-7c09-8b4f-4bd5e50d6448",
       "key": "VVX@ITSL",
       "isin": "US92242T1016",
@@ -21805,6 +21862,14 @@
       "kind": "Equity",
       "name": "TeraWulf Inc.",
       "issuerName": "TeraWulf Inc."
+    },
+    {
+      "id": "01a1e8af-fcf3-7b05-b8c4-68162dffda5f",
+      "key": "WWB@ITSL",
+      "isin": "CH1623933509",
+      "kind": "Equity",
+      "name": "Windward Bio Group AG",
+      "issuerName": "Windward Bio Group AG"
     },
     {
       "id": "01a1165e-d545-7588-9f71-272a353ce442",

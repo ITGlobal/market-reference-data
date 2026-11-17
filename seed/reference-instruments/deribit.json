@@ -2,6 +2,17 @@
   "$schema": "../../schema/reference-instruments.schema.json",
   "instruments": [
     {
+      "id": "01a1e8b4-a9d0-7b63-9201-565fae2a5a46",
+      "type": "Index",
+      "code": "AAOI_USDC",
+      "description": "Deribit AAOI index price",
+      "venue": "XDRB",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDC",
+      "methodology": "Index price of AAOI in USDC, computed by Deribit (index aaoi_usdc)",
+      "provider": "Deribit"
+    },
+    {
       "id": "01a17cc7-83b5-7b4c-b68b-1febea33b078",
       "type": "Index",
       "code": "AAPL_USDC",
@@ -65,6 +76,17 @@
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
       "methodology": "Index price of BE in USDC, computed by Deribit (index be_usdc)",
+      "provider": "Deribit"
+    },
+    {
+      "id": "01a1e8b4-a9d1-7cf8-9f41-e9930b7543e6",
+      "type": "Index",
+      "code": "BMNR_USDC",
+      "description": "Deribit BMNR index price",
+      "venue": "XDRB",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDC",
+      "methodology": "Index price of BMNR in USDC, computed by Deribit (index bmnr_usdc)",
       "provider": "Deribit"
     },
     {
@@ -320,6 +342,17 @@
       "provider": "Deribit"
     },
     {
+      "id": "01a1e8b4-a9d1-7e4e-849b-a3cc2531cf7f",
+      "type": "Index",
+      "code": "RKLB_USDC",
+      "description": "Deribit RKLB index price",
+      "venue": "XDRB",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDC",
+      "methodology": "Index price of RKLB in USDC, computed by Deribit (index rklb_usdc)",
+      "provider": "Deribit"
+    },
+    {
       "id": "01a17cc7-83b7-7275-a376-282459105614",
       "type": "Index",
       "code": "SKHY_USDC",
@@ -416,6 +449,17 @@
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
       "methodology": "Index price of TSM in USDC, computed by Deribit (index tsm_usdc)",
+      "provider": "Deribit"
+    },
+    {
+      "id": "01a1e8b4-a9d1-7ee2-b5bf-d6812f3e6d4c",
+      "type": "Index",
+      "code": "WDC_USDC",
+      "description": "Deribit WDC index price",
+      "venue": "XDRB",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDC",
+      "methodology": "Index price of WDC in USDC, computed by Deribit (index wdc_usdc)",
       "provider": "Deribit"
     }
   ]
