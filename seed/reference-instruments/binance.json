@@ -176,6 +176,17 @@
       "provider": "Binance"
     },
     {
+      "id": "01a1e8b4-9ffb-7400-80a1-a09ac6e59eb5",
+      "type": "Index",
+      "code": "ANTUSDT",
+      "description": "Binance ANT pre-IPO price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "methodology": "Pre-IPO price of ANT in USDT, computed by Binance; the company is not publicly listed",
+      "provider": "Binance"
+    },
+    {
       "id": "01a159aa-8b46-7f7a-a926-7d0328986caf",
       "type": "Index",
       "code": "APLDUSDT",
@@ -796,6 +807,17 @@
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
       "methodology": "Index price of FLNC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed FLNC:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_FLNCUSD//uindex(USDTUSD) 25.74%, pyth_pro FLNC//uindex(USDTUSD) 25.74%, databento FLNC//uindex(USDTUSD) 11.03%, massive FMV.FLNC//uindex(USDTUSD) 11.03%, binance_future FLNCUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=FLNCUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a1e8b4-9ffb-79ef-b5d4-ef5e7b664186",
+      "type": "Index",
+      "code": "FRHCUSDT",
+      "description": "Binance FRHC index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "methodology": "Index price of FRHC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-17: dxfeed FRHC:USLF24//uindex(USDTUSD) 49.3%, kaiko KK_RFR_FRHCUSD//uindex(USDTUSD) 49.3%, binance_future FRHCUSDT 1.41%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=FRHCUSDT",
       "provider": "Binance"
     },
     {
@@ -1522,6 +1544,17 @@
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
       "methodology": "Index price of NOW in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NOW:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NOWUSD//uindex(USDTUSD) 25.74%, pyth_pro NOW//uindex(USDTUSD) 25.74%, databento NOW//uindex(USDTUSD) 11.03%, massive FMV.NOW//uindex(USDTUSD) 11.03%, binance_future NOWUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NOWUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a1e8b4-9ffb-77d2-a11e-0451173d2cac",
+      "type": "Index",
+      "code": "NUUSDT",
+      "description": "Binance NU index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "methodology": "Index price of NU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-17: dxfeed NU:USLF24//uindex(USDTUSD) 33.02%, kaiko KK_RFR_NUUSD//uindex(USDTUSD) 33.02%, pyth_pro NU//uindex(USDTUSD) 33.02%, binance_future NUUSDT 0.94%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NUUSDT",
       "provider": "Binance"
     },
     {

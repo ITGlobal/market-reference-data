@@ -1051,6 +1051,22 @@
       }
     },
     {
+      "id": "01a1e8b4-a08c-7564-a236-7e4f72f4e9dc",
+      "code": "ANTUSDT",
+      "name": "ANT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ANTUSDT",
+          "venue": "XBNF"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7964-a4dd-460e1042aff5",
       "code": "APEUSDT",
       "name": "APE perpetual",
@@ -4849,6 +4865,22 @@
       }
     },
     {
+      "id": "01a1e8b4-a08c-7241-b42d-9192c4371b52",
+      "code": "FRHCUSDT",
+      "name": "FRHC perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "FRHCUSDT",
+          "venue": "XBNF"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7b02-bd14-49aeacaa8ec9",
       "code": "FTMUSDT",
       "name": "FTM perpetual",
@@ -5764,6 +5796,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "HYPER"
+      }
+    },
+    {
+      "id": "01a1e8b4-a08c-78fb-ac8e-4e70d8255909",
+      "code": "HYPEUSDC",
+      "name": "HYPE perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "HYPE"
       }
     },
     {
@@ -8125,6 +8170,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "NULS"
+      }
+    },
+    {
+      "id": "01a1e8b4-a08c-7db8-bcec-994a9859e1d7",
+      "code": "NUUSDT",
+      "name": "NU perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NUUSDT",
+          "venue": "XBNF"
+        }
       }
     },
     {
@@ -11519,6 +11580,19 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "TRU"
+      }
+    },
+    {
+      "id": "01a1e8b4-a08c-7b15-a135-d41a41712a15",
+      "code": "TRXUSDC",
+      "name": "TRX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "asset": "TRX"
       }
     },
     {

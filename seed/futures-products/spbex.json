@@ -2,6 +2,20 @@
   "$schema": "../../schema/futures-products.schema.json",
   "products": [
     {
+      "id": "01a1e8b0-0e9c-762e-8363-7d799722bd76",
+      "code": "AAPLperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Apple Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US0378331005"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
       "id": "01a15db5-c37e-7b32-b6b5-f388d5c3b9a7",
       "code": "ABNBperpA",
       "name": "Бессрочный фьючерсный контракт на акции Airbnb, Inc.",
@@ -337,6 +351,20 @@
       "settlementMethod": "Cash",
       "underlying": {
         "security": "US26603R1068"
+      },
+      "settlementFixing": "IUSD2"
+    },
+    {
+      "id": "01a1e8b0-0e9d-753e-86b8-2ea5acf82c53",
+      "code": "ENPHperpA",
+      "name": "Бессрочный фьючерсный контракт на акции Enphase Energy, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US29355A1079"
       },
       "settlementFixing": "IUSD2"
     },
@@ -718,6 +746,20 @@
       "underlying": {
         "security": "RU0009029540"
       }
+    },
+    {
+      "id": "01a1e8b0-0e9d-7883-86f5-9aa28aca7a0b",
+      "code": "SEDGperpA",
+      "name": "Бессрочный фьючерсный контракт на акции SolarEdge Technologies, Inc.",
+      "venue": "SPBE",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USD",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "security": "US83417M1045"
+      },
+      "settlementFixing": "IUSD2"
     },
     {
       "id": "01a15db5-c37e-79d0-a468-e68c80740f9e",
