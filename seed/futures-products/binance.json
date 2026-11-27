@@ -945,6 +945,22 @@
       }
     },
     {
+      "id": "01a21c05-cc89-7400-8e65-07b4b8beec54",
+      "code": "AMDLUSDT",
+      "name": "AMDL perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "AMDLUSDT",
+          "venue": "XBNF"
+        }
+      }
+    },
+    {
       "id": "01a159aa-8b54-7e71-ae6a-ce36cda29ca1",
       "code": "AMDUSDT",
       "name": "AMD perpetual",
@@ -1255,6 +1271,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "ARPA"
+      }
+    },
+    {
+      "id": "01a21c05-cc89-7906-9fb3-1610e49a883e",
+      "code": "ARTYUSDT",
+      "name": "ARTY perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ARTYUSDT",
+          "venue": "XBNF"
+        }
       }
     },
     {
@@ -2756,6 +2788,22 @@
       "underlying": {
         "reference": {
           "code": "CBRSUSDT",
+          "venue": "XBNF"
+        }
+      }
+    },
+    {
+      "id": "01a21c05-cc89-7936-838a-a2181963ab63",
+      "code": "CCJUSDT",
+      "name": "CCJ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "CCJUSDT",
           "venue": "XBNF"
         }
       }
@@ -4454,6 +4502,22 @@
       }
     },
     {
+      "id": "01a21c05-cc89-7fe0-81a5-0b157fa62b03",
+      "code": "ETNUSDT",
+      "name": "ETN perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ETNUSDT",
+          "venue": "XBNF"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7590-9212-88930199821e",
       "code": "EULUSDT",
       "name": "EUL perpetual",
@@ -5647,6 +5711,22 @@
       }
     },
     {
+      "id": "01a21c05-cc89-74d9-8807-e56c5f27f493",
+      "code": "HK1888USDT",
+      "name": "HK1888 perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "HK1888USDT",
+          "venue": "XBNF"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-7627-801b-f2a7f383ec0a",
       "code": "HMSTRUSDT",
       "name": "HMSTR perpetual",
@@ -5841,6 +5921,22 @@
       }
     },
     {
+      "id": "01a21c05-cc89-7933-b62c-bbf521362992",
+      "code": "IBITUSDT",
+      "name": "IBIT perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IBITUSDT",
+          "venue": "XBNF"
+        }
+      }
+    },
+    {
       "id": "01a19c01-52eb-79c2-bf08-bdfeaead0c1c",
       "code": "IBKRUSDT",
       "name": "IBKR perpetual",
@@ -5948,6 +6044,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "ID"
+      }
+    },
+    {
+      "id": "01a21c05-cc89-73ee-b262-c9a7d28bb77c",
+      "code": "IGVUSDT",
+      "name": "IGV perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "IGVUSDT",
+          "venue": "XBNF"
+        }
       }
     },
     {
@@ -6249,6 +6361,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "JELLYJELLY"
+      }
+    },
+    {
+      "id": "01a21c05-cc89-7487-a6ff-46fd1f8c58ed",
+      "code": "JNJUSDT",
+      "name": "JNJ perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "JNJUSDT",
+          "venue": "XBNF"
+        }
       }
     },
     {
@@ -8044,6 +8172,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "NIL"
+      }
+    },
+    {
+      "id": "01a21c05-cc89-7836-812c-0a4fc0ee47a0",
+      "code": "NIOUSDT",
+      "name": "NIO perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "NIOUSDT",
+          "venue": "XBNF"
+        }
       }
     },
     {
@@ -10592,6 +10736,22 @@
       }
     },
     {
+      "id": "01a21c05-cc89-742f-898d-fdf382d66cb9",
+      "code": "SOXXUSDT",
+      "name": "SOXX perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "SOXXUSDT",
+          "venue": "XBNF"
+        }
+      }
+    },
+    {
       "id": "01a144c4-d129-73c9-a340-3a22e5d7010e",
       "code": "SPACEUSDT",
       "name": "SPACE perpetual",
@@ -12647,6 +12807,22 @@
       "settlementMethod": "Cash",
       "underlying": {
         "asset": "XEM"
+      }
+    },
+    {
+      "id": "01a21c05-cc89-7d2e-a9d1-f5f7c622e9db",
+      "code": "XIAOMIUSDT",
+      "name": "XIAOMI perpetual",
+      "venue": "XBNF",
+      "contractSize": 1,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDT",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "XIAOMIUSDT",
+          "venue": "XBNF"
+        }
       }
     },
     {

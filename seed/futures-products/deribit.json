@@ -183,6 +183,22 @@
       }
     },
     {
+      "id": "01a21c05-f1e7-7cbb-83b2-2142e5e8bfa8",
+      "code": "ANT_USDC-PERPETUAL",
+      "name": "ANT_USDC perpetual",
+      "venue": "XDRB",
+      "contractSize": 0.001,
+      "quoteUnit": "Currency",
+      "quoteAsset": "USDC",
+      "settlementMethod": "Cash",
+      "underlying": {
+        "reference": {
+          "code": "ANT_USDC",
+          "venue": "XDRB"
+        }
+      }
+    },
+    {
       "id": "01a0ed7b-469a-7131-88f6-a8732eda2618",
       "code": "APE_USDC-PERPETUAL",
       "name": "APE_USDC perpetual",

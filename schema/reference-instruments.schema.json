@@ -19,6 +19,7 @@
           "board": { "type": "string", "minLength": 1 },
           "quoteUnit": { "type": "string", "enum": ["Currency", "Points", "PercentOfFace", "PercentPerAnnum"] },
           "settlementAsset": { "type": "string", "minLength": 1 },
+          "base": { "type": "string", "minLength": 1 },
           "methodology": { "type": "string" },
           "provider": { "type": "string" }
         },

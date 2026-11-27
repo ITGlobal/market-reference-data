@@ -9,6 +9,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "AAOI",
       "methodology": "Index price of AAOI in USDC, computed by Deribit (index aaoi_usdc)",
       "provider": "Deribit"
     },
@@ -20,6 +21,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "AAPL",
       "methodology": "Index price of AAPL in USDC, computed by Deribit (index aapl_usdc)",
       "provider": "Deribit"
     },
@@ -31,6 +33,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "AMD",
       "methodology": "Index price of AMD in USDC, computed by Deribit (index amd_usdc)",
       "provider": "Deribit"
     },
@@ -42,7 +45,20 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "AMZN",
       "methodology": "Index price of AMZN in USDC, computed by Deribit (index amzn_usdc)",
+      "provider": "Deribit"
+    },
+    {
+      "id": "01a21c05-f0dd-7e55-90a0-ab559f6ae12b",
+      "type": "Index",
+      "code": "ANT_USDC",
+      "description": "Deribit ANT index price",
+      "venue": "XDRB",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDC",
+      "base": "ANT",
+      "methodology": "Index price of ANT in USDC, computed by Deribit (index ant_usdc)",
       "provider": "Deribit"
     },
     {
@@ -53,6 +69,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "ARM",
       "methodology": "Index price of ARM in USDC, computed by Deribit (index arm_usdc)",
       "provider": "Deribit"
     },
@@ -64,6 +81,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "AVGO",
       "methodology": "Index price of AVGO in USDC, computed by Deribit (index avgo_usdc)",
       "provider": "Deribit"
     },
@@ -75,6 +93,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "BE",
       "methodology": "Index price of BE in USDC, computed by Deribit (index be_usdc)",
       "provider": "Deribit"
     },
@@ -86,6 +105,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "BMNR",
       "methodology": "Index price of BMNR in USDC, computed by Deribit (index bmnr_usdc)",
       "provider": "Deribit"
     },
@@ -107,6 +127,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "CBRS",
       "methodology": "Index price of CBRS in USDC, computed by Deribit (index cbrs_usdc)",
       "provider": "Deribit"
     },
@@ -118,6 +139,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "COIN50",
       "methodology": "Index price of COIN50 in USDC, computed by Deribit (index coin50_usdc)",
       "provider": "Deribit"
     },
@@ -129,6 +151,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "CRCL",
       "methodology": "Index price of CRCL in USDC, computed by Deribit (index crcl_usdc)",
       "provider": "Deribit"
     },
@@ -140,6 +163,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "CRWV",
       "methodology": "Index price of CRWV in USDC, computed by Deribit (index crwv_usdc)",
       "provider": "Deribit"
     },
@@ -151,6 +175,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "DELL",
       "methodology": "Index price of DELL in USDC, computed by Deribit (index dell_usdc)",
       "provider": "Deribit"
     },
@@ -162,6 +187,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "DRAM",
       "methodology": "Index price of DRAM in USDC, computed by Deribit (index dram_usdc)",
       "provider": "Deribit"
     },
@@ -173,6 +199,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "EWY",
       "methodology": "Index price of EWY in USDC, computed by Deribit (index ewy_usdc)",
       "provider": "Deribit"
     },
@@ -184,6 +211,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "GOOGL",
       "methodology": "Index price of GOOGL in USDC, computed by Deribit (index googl_usdc)",
       "provider": "Deribit"
     },
@@ -195,6 +223,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "HOOD",
       "methodology": "Index price of HOOD in USDC, computed by Deribit (index hood_usdc)",
       "provider": "Deribit"
     },
@@ -206,6 +235,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "INTC",
       "methodology": "Index price of INTC in USDC, computed by Deribit (index intc_usdc)",
       "provider": "Deribit"
     },
@@ -217,6 +247,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "KORU",
       "methodology": "Index price of KORU in USDC, computed by Deribit (index koru_usdc)",
       "provider": "Deribit"
     },
@@ -228,6 +259,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "LITE",
       "methodology": "Index price of LITE in USDC, computed by Deribit (index lite_usdc)",
       "provider": "Deribit"
     },
@@ -239,6 +271,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "META",
       "methodology": "Index price of META in USDC, computed by Deribit (index meta_usdc)",
       "provider": "Deribit"
     },
@@ -250,6 +283,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "MRVL",
       "methodology": "Index price of MRVL in USDC, computed by Deribit (index mrvl_usdc)",
       "provider": "Deribit"
     },
@@ -261,6 +295,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "MSFT",
       "methodology": "Index price of MSFT in USDC, computed by Deribit (index msft_usdc)",
       "provider": "Deribit"
     },
@@ -272,6 +307,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "MSTR",
       "methodology": "Index price of MSTR in USDC, computed by Deribit (index mstr_usdc)",
       "provider": "Deribit"
     },
@@ -283,6 +319,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "MU",
       "methodology": "Index price of MU in USDC, computed by Deribit (index mu_usdc)",
       "provider": "Deribit"
     },
@@ -294,6 +331,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "NBIS",
       "methodology": "Index price of NBIS in USDC, computed by Deribit (index nbis_usdc)",
       "provider": "Deribit"
     },
@@ -305,6 +343,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "NVDA",
       "methodology": "Index price of NVDA in USDC, computed by Deribit (index nvda_usdc)",
       "provider": "Deribit"
     },
@@ -316,6 +355,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "ORCL",
       "methodology": "Index price of ORCL in USDC, computed by Deribit (index orcl_usdc)",
       "provider": "Deribit"
     },
@@ -327,6 +367,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "PLTR",
       "methodology": "Index price of PLTR in USDC, computed by Deribit (index pltr_usdc)",
       "provider": "Deribit"
     },
@@ -338,6 +379,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "QQQ",
       "methodology": "Index price of QQQ in USDC, computed by Deribit (index qqq_usdc)",
       "provider": "Deribit"
     },
@@ -349,6 +391,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "RKLB",
       "methodology": "Index price of RKLB in USDC, computed by Deribit (index rklb_usdc)",
       "provider": "Deribit"
     },
@@ -360,6 +403,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "SKHY",
       "methodology": "Index price of SKHY in USDC, computed by Deribit (index skhy_usdc)",
       "provider": "Deribit"
     },
@@ -371,6 +415,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "SNDK",
       "methodology": "Index price of SNDK in USDC, computed by Deribit (index sndk_usdc)",
       "provider": "Deribit"
     },
@@ -382,6 +427,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "SNXX",
       "methodology": "Index price of SNXX in USDC, computed by Deribit (index snxx_usdc)",
       "provider": "Deribit"
     },
@@ -393,6 +439,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "SOXL",
       "methodology": "Index price of SOXL in USDC, computed by Deribit (index soxl_usdc)",
       "provider": "Deribit"
     },
@@ -404,6 +451,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "SOXS",
       "methodology": "Index price of SOXS in USDC, computed by Deribit (index soxs_usdc)",
       "provider": "Deribit"
     },
@@ -415,6 +463,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "SPCX",
       "methodology": "Index price of SPCX in USDC, computed by Deribit (index spcx_usdc)",
       "provider": "Deribit"
     },
@@ -426,6 +475,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "SPY",
       "methodology": "Index price of SPY in USDC, computed by Deribit (index spy_usdc)",
       "provider": "Deribit"
     },
@@ -437,6 +487,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "TSLA",
       "methodology": "Index price of TSLA in USDC, computed by Deribit (index tsla_usdc)",
       "provider": "Deribit"
     },
@@ -448,6 +499,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "TSM",
       "methodology": "Index price of TSM in USDC, computed by Deribit (index tsm_usdc)",
       "provider": "Deribit"
     },
@@ -459,6 +511,7 @@
       "venue": "XDRB",
       "quoteUnit": "Currency",
       "settlementAsset": "USDC",
+      "base": "WDC",
       "methodology": "Index price of WDC in USDC, computed by Deribit (index wdc_usdc)",
       "provider": "Deribit"
     }

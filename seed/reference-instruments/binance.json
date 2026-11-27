@@ -9,6 +9,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AAOI",
       "methodology": "Index price of AAOI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed AAOI:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_AAOIUSD//uindex(USDTUSD) 25.74%, pyth_pro AAOI//uindex(USDTUSD) 25.74%, databento AAOI//uindex(USDTUSD) 11.03%, massive FMV.AAOI//uindex(USDTUSD) 11.03%, binance_future AAOIUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AAOIUSDT",
       "provider": "Binance"
     },
@@ -20,6 +21,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AAPL",
       "methodology": "Index price of AAPL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed AAPL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_AAPLUSD//uindex(USDTUSD) 25.74%, pyth_pro AAPL//uindex(USDTUSD) 25.74%, databento AAPL//uindex(USDTUSD) 11.03%, massive FMV.AAPL//uindex(USDTUSD) 11.03%, binance_future AAPLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AAPLUSDT",
       "provider": "Binance"
     },
@@ -31,6 +33,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ABBV",
       "methodology": "Index price of ABBV in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed ABBV:USLF24//uindex(USDTUSD) 40.7%, kaiko KK_RFR_ABBVUSD//uindex(USDTUSD) 40.7%, massive FMV.ABBV//uindex(USDTUSD) 17.44%, binance_future ABBVUSDT 1.16%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ABBVUSDT",
       "provider": "Binance"
     },
@@ -42,6 +45,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ACN",
       "methodology": "Index price of ACN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ACN:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ACNUSD//uindex(USDTUSD) 25.74%, pyth_pro ACN//uindex(USDTUSD) 25.74%, databento ACN//uindex(USDTUSD) 11.03%, massive FMV.ACN//uindex(USDTUSD) 11.03%, binance_future ACNUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ACNUSDT",
       "provider": "Binance"
     },
@@ -53,6 +57,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ADBE",
       "methodology": "Index price of ADBE in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ADBE:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ADBEUSD//uindex(USDTUSD) 25.74%, pyth_pro ADBE//uindex(USDTUSD) 25.74%, databento ADBE//uindex(USDTUSD) 11.03%, massive FMV.ADBE//uindex(USDTUSD) 11.03%, binance_future ADBEUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ADBEUSDT",
       "provider": "Binance"
     },
@@ -64,6 +69,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AGPU",
       "methodology": "Index price of AGPU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_AGPUUSD//uindex(USDTUSD) 40.7%, pyth_pro AGPU//uindex(USDTUSD) 40.7%, massive FMV.AGPU//uindex(USDTUSD) 17.44%, binance_future AGPUUSDT 1.16%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AGPUUSDT",
       "provider": "Binance"
     },
@@ -75,6 +81,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AKAM",
       "methodology": "Index price of AKAM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed AKAM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_AKAMUSD//uindex(USDTUSD) 25.74%, pyth_pro AKAM//uindex(USDTUSD) 25.74%, databento AKAM//uindex(USDTUSD) 11.03%, massive FMV.AKAM//uindex(USDTUSD) 11.03%, binance_future AKAMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AKAMUSDT",
       "provider": "Binance"
     },
@@ -86,6 +93,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ALAB",
       "methodology": "Index price of ALAB in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ALAB:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ALABUSD//uindex(USDTUSD) 25.74%, pyth_pro ALAB//uindex(USDTUSD) 25.74%, databento ALAB//uindex(USDTUSD) 11.03%, massive FMV.ALAB//uindex(USDTUSD) 11.03%, binance_future ALABUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ALABUSDT",
       "provider": "Binance"
     },
@@ -106,6 +114,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AMAT",
       "methodology": "Index price of AMAT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed AMAT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_AMATUSD//uindex(USDTUSD) 25.74%, pyth_pro AMAT//uindex(USDTUSD) 25.74%, databento AMAT//uindex(USDTUSD) 11.03%, massive FMV.AMAT//uindex(USDTUSD) 11.03%, binance_future AMATUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AMATUSDT",
       "provider": "Binance"
     },
@@ -117,7 +126,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AMC",
       "methodology": "Index price of AMC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed AMC:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_AMCUSD//uindex(USDTUSD) 25.74%, pyth_pro AMC//uindex(USDTUSD) 25.74%, databento AMC//uindex(USDTUSD) 11.03%, massive FMV.AMC//uindex(USDTUSD) 11.03%, binance_future AMCUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AMCUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-7dd4-887a-8e74ce4ffa2e",
+      "type": "Index",
+      "code": "AMDLUSDT",
+      "description": "Binance AMDL index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "AMDL",
+      "methodology": "Index price of AMDL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: dxfeed AMDL:USLF24//uindex(USDTUSD) 49.3%, kaiko KK_RFR_AMDLUSD//uindex(USDTUSD) 49.3%, binance_future AMDLUSDT 1.41%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AMDLUSDT",
       "provider": "Binance"
     },
     {
@@ -128,6 +150,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AMD",
       "methodology": "Index price of AMD in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed AMD:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_AMDUSD//uindex(USDTUSD) 25.74%, pyth_pro AMD//uindex(USDTUSD) 25.74%, databento AMD//uindex(USDTUSD) 11.03%, massive FMV.AMD//uindex(USDTUSD) 11.03%, binance_future AMDUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AMDUSDT",
       "provider": "Binance"
     },
@@ -139,6 +162,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AMGN",
       "methodology": "Index price of AMGN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed AMGN:USLF24//uindex(USDTUSD) 28.93%, kaiko KK_RFR_AMGNUSD//uindex(USDTUSD) 28.93%, pyth_pro AMGN//uindex(USDTUSD) 28.93%, massive FMV.AMGN//uindex(USDTUSD) 12.4%, binance_future AMGNUSDT 0.83%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AMGNUSDT",
       "provider": "Binance"
     },
@@ -150,6 +174,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AMZN",
       "methodology": "Index price of AMZN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed AMZN:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_AMZNUSD//uindex(USDTUSD) 25.74%, pyth_pro AMZN//uindex(USDTUSD) 25.74%, databento AMZN//uindex(USDTUSD) 11.03%, massive FMV.AMZN//uindex(USDTUSD) 11.03%, binance_future AMZNUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AMZNUSDT",
       "provider": "Binance"
     },
@@ -161,6 +186,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ANET",
       "methodology": "Index price of ANET in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ANET:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ANETUSD//uindex(USDTUSD) 25.74%, pyth_pro ANET//uindex(USDTUSD) 25.74%, databento ANET//uindex(USDTUSD) 11.03%, massive FMV.ANET//uindex(USDTUSD) 11.03%, binance_future ANETUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ANETUSDT",
       "provider": "Binance"
     },
@@ -172,6 +198,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ANTHROPIC",
       "methodology": "Pre-IPO price of ANTHROPIC in USDT, computed by Binance; the company is not publicly listed",
       "provider": "Binance"
     },
@@ -183,6 +210,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ANT",
       "methodology": "Pre-IPO price of ANT in USDT, computed by Binance; the company is not publicly listed",
       "provider": "Binance"
     },
@@ -194,6 +222,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "APLD",
       "methodology": "Index price of APLD in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed APLD:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_APLDUSD//uindex(USDTUSD) 25.74%, pyth_pro APLD//uindex(USDTUSD) 25.74%, databento APLD//uindex(USDTUSD) 11.03%, massive FMV.APLD//uindex(USDTUSD) 11.03%, binance_future APLDUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=APLDUSDT",
       "provider": "Binance"
     },
@@ -205,6 +234,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "APP",
       "methodology": "Index price of APP in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed APP:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_APPUSD//uindex(USDTUSD) 25.74%, pyth_pro APP//uindex(USDTUSD) 25.74%, databento APP//uindex(USDTUSD) 11.03%, massive FMV.APP//uindex(USDTUSD) 11.03%, binance_future APPUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=APPUSDT",
       "provider": "Binance"
     },
@@ -216,7 +246,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ARM",
       "methodology": "Index price of ARM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ARM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ARMUSD//uindex(USDTUSD) 25.74%, pyth_pro ARM//uindex(USDTUSD) 25.74%, databento ARM//uindex(USDTUSD) 11.03%, massive FMV.ARM//uindex(USDTUSD) 11.03%, binance_future ARMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ARMUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-7b93-b729-04bc9a121f0a",
+      "type": "Index",
+      "code": "ARTYUSDT",
+      "description": "Binance ARTY index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "ARTY",
+      "methodology": "Index price of ARTY in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: dxfeed ARTY:USLF24//uindex(USDTUSD) 49.3%, kaiko KK_RFR_ARTYUSD//uindex(USDTUSD) 49.3%, binance_future ARTYUSDT 1.41%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ARTYUSDT",
       "provider": "Binance"
     },
     {
@@ -227,6 +270,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ASML",
       "methodology": "Index price of ASML in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ASML:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ASMLUSD//uindex(USDTUSD) 25.74%, pyth_pro ASML//uindex(USDTUSD) 25.74%, databento ASML//uindex(USDTUSD) 11.03%, massive FMV.ASML//uindex(USDTUSD) 11.03%, binance_future ASMLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ASMLUSDT",
       "provider": "Binance"
     },
@@ -238,6 +282,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ASTS",
       "methodology": "Index price of ASTS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ASTS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ASTSUSD//uindex(USDTUSD) 25.74%, pyth_pro ASTS//uindex(USDTUSD) 25.74%, databento ASTS//uindex(USDTUSD) 11.03%, massive FMV.ASTS//uindex(USDTUSD) 11.03%, binance_future ASTSUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ASTSUSDT",
       "provider": "Binance"
     },
@@ -249,6 +294,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AVGO",
       "methodology": "Index price of AVGO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed AVGO:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_AVGOUSD//uindex(USDTUSD) 25.74%, pyth_pro AVGO//uindex(USDTUSD) 25.74%, databento AVGO//uindex(USDTUSD) 11.03%, massive FMV.AVGO//uindex(USDTUSD) 11.03%, binance_future AVGOUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AVGOUSDT",
       "provider": "Binance"
     },
@@ -260,6 +306,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "AXTI",
       "methodology": "Index price of AXTI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed AXTI:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_AXTIUSD//uindex(USDTUSD) 25.74%, pyth_pro AXTI//uindex(USDTUSD) 25.74%, databento AXTI//uindex(USDTUSD) 11.03%, massive FMV.AXTI//uindex(USDTUSD) 11.03%, binance_future AXTIUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=AXTIUSDT",
       "provider": "Binance"
     },
@@ -271,6 +318,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BABA",
       "methodology": "Index price of BABA in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BABA:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BABAUSD//uindex(USDTUSD) 25.74%, pyth_pro BABA//uindex(USDTUSD) 25.74%, databento BABA//uindex(USDTUSD) 11.03%, massive FMV.BABA//uindex(USDTUSD) 11.03%, binance_future BABAUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BABAUSDT",
       "provider": "Binance"
     },
@@ -282,6 +330,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BAC",
       "methodology": "Index price of BAC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed BAC:USLF24//uindex(USDTUSD) 28.93%, kaiko KK_RFR_BACUSD//uindex(USDTUSD) 28.93%, pyth_pro BAC//uindex(USDTUSD) 28.93%, massive FMV.BAC//uindex(USDTUSD) 12.4%, binance_future BACUSDT 0.83%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BACUSDT",
       "provider": "Binance"
     },
@@ -293,6 +342,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BBX",
       "methodology": "Index price of BBX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BB:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BBUSD//uindex(USDTUSD) 25.74%, pyth_pro BB//uindex(USDTUSD) 25.74%, databento BB//uindex(USDTUSD) 11.03%, massive FMV.BB//uindex(USDTUSD) 11.03%, binance_future BBXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BBXUSDT",
       "provider": "Binance"
     },
@@ -304,6 +354,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BE",
       "methodology": "Index price of BE in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BE:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BEUSD//uindex(USDTUSD) 25.74%, pyth_pro BE//uindex(USDTUSD) 25.74%, databento BE//uindex(USDTUSD) 11.03%, massive FMV.BE//uindex(USDTUSD) 11.03%, binance_future BEUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BEUSDT",
       "provider": "Binance"
     },
@@ -315,6 +366,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BITO",
       "methodology": "Index price of BITO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BITO:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BITOUSD//uindex(USDTUSD) 25.74%, pyth_pro BITO//uindex(USDTUSD) 25.74%, databento BITO//uindex(USDTUSD) 11.03%, massive FMV.BITO//uindex(USDTUSD) 11.03%, binance_future BITOUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BITOUSDT",
       "provider": "Binance"
     },
@@ -326,6 +378,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BMNR",
       "methodology": "Index price of BMNR in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BMNR:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BMNRUSD//uindex(USDTUSD) 25.74%, pyth_pro BMNR//uindex(USDTUSD) 25.74%, databento BMNR//uindex(USDTUSD) 11.03%, massive FMV.BMNR//uindex(USDTUSD) 11.03%, binance_future BMNRUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BMNRUSDT",
       "provider": "Binance"
     },
@@ -337,6 +390,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BNC",
       "methodology": "Index price of BNC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BNC:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BNCUSD//uindex(USDTUSD) 25.74%, pyth_pro BNC//uindex(USDTUSD) 25.74%, databento BNC//uindex(USDTUSD) 11.03%, massive FMV.BNC//uindex(USDTUSD) 11.03%, binance_future BNCUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BNCUSDT",
       "provider": "Binance"
     },
@@ -348,6 +402,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BOT",
       "methodology": "Index price of BOT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BOT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BOTUSD//uindex(USDTUSD) 25.74%, pyth_pro BOT//uindex(USDTUSD) 25.74%, databento BOT//uindex(USDTUSD) 11.03%, massive FMV.BOT//uindex(USDTUSD) 11.03%, binance_future BOTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BOTUSDT",
       "provider": "Binance"
     },
@@ -359,6 +414,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BRKB",
       "methodology": "Index price of BRKB in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BRK/B:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BRKBUSD//uindex(USDTUSD) 25.74%, pyth_pro BRK.B//uindex(USDTUSD) 25.74%, databento BRK.B//uindex(USDTUSD) 11.03%, massive FMV.BRK.B//uindex(USDTUSD) 11.03%, binance_future BRKBUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BRKBUSDT",
       "provider": "Binance"
     },
@@ -370,6 +426,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BSP",
       "methodology": "Index price of BSP in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BSP:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BSPUSD//uindex(USDTUSD) 25.74%, pyth_pro BSP//uindex(USDTUSD) 25.74%, databento BSP//uindex(USDTUSD) 11.03%, massive FMV.BSP//uindex(USDTUSD) 11.03%, binance_future BSPUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BSPUSDT",
       "provider": "Binance"
     },
@@ -390,6 +447,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BWET",
       "methodology": "Index price of BWET in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BWET:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BWETUSD//uindex(USDTUSD) 25.74%, pyth_pro BWET//uindex(USDTUSD) 25.74%, databento BWET//uindex(USDTUSD) 11.03%, massive FMV.BWET//uindex(USDTUSD) 11.03%, binance_future BWETUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BWETUSDT",
       "provider": "Binance"
     },
@@ -401,6 +459,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BX",
       "methodology": "Index price of BX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed BX:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_BXUSD//uindex(USDTUSD) 25.74%, pyth_pro BX//uindex(USDTUSD) 25.74%, databento BX//uindex(USDTUSD) 11.03%, massive FMV.BX//uindex(USDTUSD) 11.03%, binance_future BXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BXUSDT",
       "provider": "Binance"
     },
@@ -412,6 +471,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "BYD",
       "methodology": "Index price of BYD in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_1211HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 1211HK//uindex(USDTHKD) 49.5%, binance_future BYDUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=BYDUSDT",
       "provider": "Binance"
     },
@@ -423,6 +483,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CAT",
       "methodology": "Index price of CAT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CAT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CATUSD//uindex(USDTUSD) 25.74%, pyth_pro CAT//uindex(USDTUSD) 25.74%, databento CAT//uindex(USDTUSD) 11.03%, massive FMV.CAT//uindex(USDTUSD) 11.03%, binance_future CATUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CATUSDT",
       "provider": "Binance"
     },
@@ -434,7 +495,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CBRS",
       "methodology": "Index price of CBRS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CBRS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CBRSUSD//uindex(USDTUSD) 25.74%, pyth_pro CBRS//uindex(USDTUSD) 25.74%, databento CBRS//uindex(USDTUSD) 11.03%, massive FMV.CBRS//uindex(USDTUSD) 11.03%, binance_future CBRSUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CBRSUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-7f0f-b720-3d96a3e6b6ee",
+      "type": "Index",
+      "code": "CCJUSDT",
+      "description": "Binance CCJ index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "CCJ",
+      "methodology": "Index price of CCJ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: dxfeed CCJ:USLF24//uindex(USDTUSD) 33.02%, kaiko KK_RFR_CCJUSD//uindex(USDTUSD) 33.02%, pyth_pro CCJ//uindex(USDTUSD) 33.02%, binance_future CCJUSDT 0.94%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CCJUSDT",
       "provider": "Binance"
     },
     {
@@ -445,6 +519,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CEG",
       "methodology": "Index price of CEG in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed CEG:USLF24//uindex(USDTUSD) 40.7%, kaiko KK_RFR_CEGUSD//uindex(USDTUSD) 40.7%, massive FMV.CEG//uindex(USDTUSD) 17.44%, binance_future CEGUSDT 1.16%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CEGUSDT",
       "provider": "Binance"
     },
@@ -456,6 +531,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CIEN",
       "methodology": "Index price of CIEN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CIEN:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CIENUSD//uindex(USDTUSD) 25.74%, pyth_pro CIEN//uindex(USDTUSD) 25.74%, databento CIEN//uindex(USDTUSD) 11.03%, massive FMV.CIEN//uindex(USDTUSD) 11.03%, binance_future CIENUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CIENUSDT",
       "provider": "Binance"
     },
@@ -467,6 +543,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "COHR",
       "methodology": "Index price of COHR in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed COHR:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_COHRUSD//uindex(USDTUSD) 25.74%, pyth_pro COHR//uindex(USDTUSD) 25.74%, databento COHR//uindex(USDTUSD) 11.03%, massive FMV.COHR//uindex(USDTUSD) 11.03%, binance_future COHRUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=COHRUSDT",
       "provider": "Binance"
     },
@@ -478,6 +555,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "COIN",
       "methodology": "Index price of COIN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed COIN:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_COINUSD//uindex(USDTUSD) 25.74%, pyth_pro COIN//uindex(USDTUSD) 25.74%, databento COIN//uindex(USDTUSD) 11.03%, massive FMV.COIN//uindex(USDTUSD) 11.03%, binance_future COINUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=COINUSDT",
       "provider": "Binance"
     },
@@ -489,6 +567,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "COST",
       "methodology": "Index price of COST in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed COST:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_COSTUSD//uindex(USDTUSD) 25.74%, pyth_pro COST//uindex(USDTUSD) 25.74%, databento COST//uindex(USDTUSD) 11.03%, massive FMV.COST//uindex(USDTUSD) 11.03%, binance_future COSTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=COSTUSDT",
       "provider": "Binance"
     },
@@ -500,6 +579,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CRCL",
       "methodology": "Index price of CRCL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CRCL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CRCLUSD//uindex(USDTUSD) 25.74%, pyth_pro CRCL//uindex(USDTUSD) 25.74%, databento CRCL//uindex(USDTUSD) 11.03%, massive FMV.CRCL//uindex(USDTUSD) 11.03%, binance_future CRCLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CRCLUSDT",
       "provider": "Binance"
     },
@@ -511,6 +591,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CRDO",
       "methodology": "Index price of CRDO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CRDO:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CRDOUSD//uindex(USDTUSD) 25.74%, pyth_pro CRDO//uindex(USDTUSD) 25.74%, databento CRDO//uindex(USDTUSD) 11.03%, massive FMV.CRDO//uindex(USDTUSD) 11.03%, binance_future CRDOUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CRDOUSDT",
       "provider": "Binance"
     },
@@ -522,6 +603,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CRML",
       "methodology": "Index price of CRML in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CRML:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CRMLUSD//uindex(USDTUSD) 25.74%, pyth_pro CRML//uindex(USDTUSD) 25.74%, databento CRML//uindex(USDTUSD) 11.03%, massive FMV.CRML//uindex(USDTUSD) 11.03%, binance_future CRMLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CRMLUSDT",
       "provider": "Binance"
     },
@@ -533,6 +615,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CRM",
       "methodology": "Index price of CRM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CRM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CRMUSD//uindex(USDTUSD) 25.74%, pyth_pro CRM//uindex(USDTUSD) 25.74%, databento CRM//uindex(USDTUSD) 11.03%, massive FMV.CRM//uindex(USDTUSD) 11.03%, binance_future CRMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CRMUSDT",
       "provider": "Binance"
     },
@@ -544,6 +627,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CRWD",
       "methodology": "Index price of CRWD in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CRWD:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CRWDUSD//uindex(USDTUSD) 25.74%, pyth_pro CRWD//uindex(USDTUSD) 25.74%, databento CRWD//uindex(USDTUSD) 11.03%, massive FMV.CRWD//uindex(USDTUSD) 11.03%, binance_future CRWDUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CRWDUSDT",
       "provider": "Binance"
     },
@@ -555,6 +639,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CRWV",
       "methodology": "Index price of CRWV in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CRWV:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CRWVUSD//uindex(USDTUSD) 25.74%, pyth_pro CRWV//uindex(USDTUSD) 25.74%, databento CRWV//uindex(USDTUSD) 11.03%, massive FMV.CRWV//uindex(USDTUSD) 11.03%, binance_future CRWVUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CRWVUSDT",
       "provider": "Binance"
     },
@@ -566,6 +651,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CSCO",
       "methodology": "Index price of CSCO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CSCO:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CSCOUSD//uindex(USDTUSD) 25.74%, pyth_pro CSCO//uindex(USDTUSD) 25.74%, databento CSCO//uindex(USDTUSD) 11.03%, massive FMV.CSCO//uindex(USDTUSD) 11.03%, binance_future CSCOUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CSCOUSDT",
       "provider": "Binance"
     },
@@ -577,6 +663,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CSOPSAMSUNG2L",
       "methodology": "Index price of CSOPSAMSUNG2L in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_7747HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 7747HK//uindex(USDTHKD) 49.5%, binance_future CSOPSAMSUNG2LUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CSOPSAMSUNG2LUSDT",
       "provider": "Binance"
     },
@@ -588,6 +675,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CSOPSKHYNIX2L",
       "methodology": "Index price of CSOPSKHYNIX2L in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_7709HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 7709HK//uindex(USDTHKD) 49.5%, binance_future CSOPSKHYNIX2LUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CSOPSKHYNIX2LUSDT",
       "provider": "Binance"
     },
@@ -599,6 +687,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CVNA",
       "methodology": "Index price of CVNA in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CVNA:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CVNAUSD//uindex(USDTUSD) 25.74%, pyth_pro CVNA//uindex(USDTUSD) 25.74%, databento CVNA//uindex(USDTUSD) 11.03%, massive FMV.CVNA//uindex(USDTUSD) 11.03%, binance_future CVNAUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CVNAUSDT",
       "provider": "Binance"
     },
@@ -610,6 +699,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CXMT",
       "methodology": "Index price of CXMT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: pyth_pro 688825CNY//uindex(USDTCNH) 81.08%, aster_futures_index CXMTUSD 9.01%, hyperliquid xyz:CXMT//uindex(USDTUSD) 9.01%, binance_future CXMTUSDT 0.9%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CXMTUSDT",
       "provider": "Binance"
     },
@@ -621,6 +711,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "CYPH",
       "methodology": "Index price of CYPH in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed CYPH:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_CYPHUSD//uindex(USDTUSD) 25.74%, pyth_pro CYPH//uindex(USDTUSD) 25.74%, databento CYPH//uindex(USDTUSD) 11.03%, massive FMV.CYPH//uindex(USDTUSD) 11.03%, binance_future CYPHUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=CYPHUSDT",
       "provider": "Binance"
     },
@@ -632,6 +723,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "DDOG",
       "methodology": "Index price of DDOG in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed DDOG:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_DDOGUSD//uindex(USDTUSD) 25.74%, pyth_pro DDOG//uindex(USDTUSD) 25.74%, databento DDOG//uindex(USDTUSD) 11.03%, massive FMV.DDOG//uindex(USDTUSD) 11.03%, binance_future DDOGUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=DDOGUSDT",
       "provider": "Binance"
     },
@@ -652,6 +744,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "DELL",
       "methodology": "Index price of DELL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed DELL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_DELLUSD//uindex(USDTUSD) 25.74%, pyth_pro DELL//uindex(USDTUSD) 25.74%, databento DELL//uindex(USDTUSD) 11.03%, massive FMV.DELL//uindex(USDTUSD) 11.03%, binance_future DELLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=DELLUSDT",
       "provider": "Binance"
     },
@@ -663,6 +756,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "DIS",
       "methodology": "Index price of DIS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed DIS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_DISUSD//uindex(USDTUSD) 25.74%, pyth_pro DIS//uindex(USDTUSD) 25.74%, databento DIS//uindex(USDTUSD) 11.03%, massive FMV.DIS//uindex(USDTUSD) 11.03%, binance_future DISUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=DISUSDT",
       "provider": "Binance"
     },
@@ -674,6 +768,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "DJT",
       "methodology": "Index price of DJT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed DJT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_DJTUSD//uindex(USDTUSD) 25.74%, pyth_pro DJT//uindex(USDTUSD) 25.74%, databento DJT//uindex(USDTUSD) 11.03%, massive FMV.DJT//uindex(USDTUSD) 11.03%, binance_future DJTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=DJTUSDT",
       "provider": "Binance"
     },
@@ -685,6 +780,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "DKNG",
       "methodology": "Index price of DKNG in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed DKNG:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_DKNGUSD//uindex(USDTUSD) 25.74%, pyth_pro DKNG//uindex(USDTUSD) 25.74%, databento DKNG//uindex(USDTUSD) 11.03%, massive FMV.DKNG//uindex(USDTUSD) 11.03%, binance_future DKNGUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=DKNGUSDT",
       "provider": "Binance"
     },
@@ -696,6 +792,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "DRAM",
       "methodology": "Index price of DRAM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed DRAM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_DRAMUSD//uindex(USDTUSD) 25.74%, pyth_pro DRAM//uindex(USDTUSD) 25.74%, databento DRAM//uindex(USDTUSD) 11.03%, massive FMV.DRAM//uindex(USDTUSD) 11.03%, binance_future DRAMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=DRAMUSDT",
       "provider": "Binance"
     },
@@ -707,6 +804,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "EBAY",
       "methodology": "Index price of EBAY in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed EBAY:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_EBAYUSD//uindex(USDTUSD) 25.74%, pyth_pro EBAY//uindex(USDTUSD) 25.74%, databento EBAY//uindex(USDTUSD) 11.03%, massive FMV.EBAY//uindex(USDTUSD) 11.03%, binance_future EBAYUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=EBAYUSDT",
       "provider": "Binance"
     },
@@ -718,6 +816,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "EIDO",
       "methodology": "Index price of EIDO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed EIDO:USLF24//uindex(USDTUSD) 49.02%, kaiko KK_RFR_EIDOUSD//uindex(USDTUSD) 49.02%, binance_future EIDOUSDT 1.96%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=EIDOUSDT",
       "provider": "Binance"
     },
@@ -729,7 +828,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "EQT",
       "methodology": "Index price of EQT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed EQT:USLF24//uindex(USDTUSD) 68.63%, massive FMV.EQT//uindex(USDTUSD) 29.41%, binance_future EQTUSDT 1.96%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=EQTUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-7e2b-aa6c-ba0cbf29a209",
+      "type": "Index",
+      "code": "ETNUSDT",
+      "description": "Binance ETN index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "ETN",
+      "methodology": "Index price of ETN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: dxfeed ETN:USLF24//uindex(USDTUSD) 33.02%, kaiko KK_RFR_ETNUSD//uindex(USDTUSD) 33.02%, pyth_pro ETN//uindex(USDTUSD) 33.02%, binance_future ETNUSDT 0.94%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ETNUSDT",
       "provider": "Binance"
     },
     {
@@ -740,6 +852,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "EWJ",
       "methodology": "Index price of EWJ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed EWJ:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_EWJUSD//uindex(USDTUSD) 25.74%, pyth_pro EWJ//uindex(USDTUSD) 25.74%, databento EWJ//uindex(USDTUSD) 11.03%, massive FMV.EWJ//uindex(USDTUSD) 11.03%, binance_future EWJUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=EWJUSDT",
       "provider": "Binance"
     },
@@ -751,6 +864,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "EWT",
       "methodology": "Index price of EWT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed EWT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_EWTUSD//uindex(USDTUSD) 25.74%, pyth_pro EWT//uindex(USDTUSD) 25.74%, databento EWT//uindex(USDTUSD) 11.03%, massive FMV.EWT//uindex(USDTUSD) 11.03%, binance_future EWTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=EWTUSDT",
       "provider": "Binance"
     },
@@ -762,6 +876,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "EWY",
       "methodology": "Index price of EWY in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed EWY:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_EWYUSD//uindex(USDTUSD) 25.74%, pyth_pro EWY//uindex(USDTUSD) 25.74%, databento EWY//uindex(USDTUSD) 11.03%, massive FMV.EWY//uindex(USDTUSD) 11.03%, binance_future EWYUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=EWYUSDT",
       "provider": "Binance"
     },
@@ -773,6 +888,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "EWZS",
       "methodology": "Index price of EWZS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed EWZS:USLF24//uindex(USDTUSD) 97.22%, binance_future EWZSUSDT 2.78%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=EWZSUSDT",
       "provider": "Binance"
     },
@@ -784,6 +900,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "EWZ",
       "methodology": "Index price of EWZ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed EWZ:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_EWZUSD//uindex(USDTUSD) 25.74%, pyth_pro EWZ//uindex(USDTUSD) 25.74%, databento EWZ//uindex(USDTUSD) 11.03%, massive FMV.EWZ//uindex(USDTUSD) 11.03%, binance_future EWZUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=EWZUSDT",
       "provider": "Binance"
     },
@@ -795,6 +912,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "FLEX",
       "methodology": "Index price of FLEX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed FLEX:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_FLEXUSD//uindex(USDTUSD) 25.74%, pyth_pro FLEX//uindex(USDTUSD) 25.74%, databento FLEX//uindex(USDTUSD) 11.03%, massive FMV.FLEX//uindex(USDTUSD) 11.03%, binance_future FLEXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=FLEXUSDT",
       "provider": "Binance"
     },
@@ -806,6 +924,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "FLNC",
       "methodology": "Index price of FLNC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed FLNC:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_FLNCUSD//uindex(USDTUSD) 25.74%, pyth_pro FLNC//uindex(USDTUSD) 25.74%, databento FLNC//uindex(USDTUSD) 11.03%, massive FMV.FLNC//uindex(USDTUSD) 11.03%, binance_future FLNCUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=FLNCUSDT",
       "provider": "Binance"
     },
@@ -817,6 +936,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "FRHC",
       "methodology": "Index price of FRHC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-17: dxfeed FRHC:USLF24//uindex(USDTUSD) 49.3%, kaiko KK_RFR_FRHCUSD//uindex(USDTUSD) 49.3%, binance_future FRHCUSDT 1.41%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=FRHCUSDT",
       "provider": "Binance"
     },
@@ -828,6 +948,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "FWDI",
       "methodology": "Index price of FWDI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed FWDI:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_FWDIUSD//uindex(USDTUSD) 25.74%, pyth_pro FWDI//uindex(USDTUSD) 25.74%, databento FWDI//uindex(USDTUSD) 11.03%, massive FMV.FWDI//uindex(USDTUSD) 11.03%, binance_future FWDIUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=FWDIUSDT",
       "provider": "Binance"
     },
@@ -839,6 +960,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "GDX",
       "methodology": "Index price of GDX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed GDX:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_GDXUSD//uindex(USDTUSD) 25.74%, pyth_pro GDX//uindex(USDTUSD) 25.74%, databento GDX//uindex(USDTUSD) 11.03%, massive FMV.GDX//uindex(USDTUSD) 11.03%, binance_future GDXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=GDXUSDT",
       "provider": "Binance"
     },
@@ -850,6 +972,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "GEV",
       "methodology": "Index price of GEV in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed GEV:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_GEVUSD//uindex(USDTUSD) 25.74%, pyth_pro GEV//uindex(USDTUSD) 25.74%, databento GEV//uindex(USDTUSD) 11.03%, massive FMV.GEV//uindex(USDTUSD) 11.03%, binance_future GEVUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=GEVUSDT",
       "provider": "Binance"
     },
@@ -861,6 +984,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "GIGADEV",
       "methodology": "Index price of GIGADEV in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_3986HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 3986HK//uindex(USDTHKD) 49.5%, binance_future GIGADEVUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=GIGADEVUSDT",
       "provider": "Binance"
     },
@@ -872,6 +996,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "GLW",
       "methodology": "Index price of GLW in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed GLW:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_GLWUSD//uindex(USDTUSD) 25.74%, pyth_pro GLW//uindex(USDTUSD) 25.74%, databento GLW//uindex(USDTUSD) 11.03%, massive FMV.GLW//uindex(USDTUSD) 11.03%, binance_future GLWUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=GLWUSDT",
       "provider": "Binance"
     },
@@ -883,6 +1008,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "GME",
       "methodology": "Index price of GME in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed GME:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_GMEUSD//uindex(USDTUSD) 25.74%, pyth_pro GME//uindex(USDTUSD) 25.74%, databento GME//uindex(USDTUSD) 11.03%, massive FMV.GME//uindex(USDTUSD) 11.03%, binance_future GMEUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=GMEUSDT",
       "provider": "Binance"
     },
@@ -894,6 +1020,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "GOOGL",
       "methodology": "Index price of GOOGL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed GOOGL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_GOOGLUSD//uindex(USDTUSD) 25.74%, pyth_pro GOOGL//uindex(USDTUSD) 25.74%, databento GOOGL//uindex(USDTUSD) 11.03%, massive FMV.GOOGL//uindex(USDTUSD) 11.03%, binance_future GOOGLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=GOOGLUSDT",
       "provider": "Binance"
     },
@@ -905,6 +1032,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "GPRO",
       "methodology": "Index price of GPRO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed GPRO:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_GPROUSD//uindex(USDTUSD) 25.74%, pyth_pro GPRO//uindex(USDTUSD) 25.74%, databento GPRO//uindex(USDTUSD) 11.03%, massive FMV.GPRO//uindex(USDTUSD) 11.03%, binance_future GPROUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=GPROUSDT",
       "provider": "Binance"
     },
@@ -916,6 +1044,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "GS",
       "methodology": "Index price of GS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed GS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_GSUSD//uindex(USDTUSD) 25.74%, pyth_pro GS//uindex(USDTUSD) 25.74%, databento GS//uindex(USDTUSD) 11.03%, massive FMV.GS//uindex(USDTUSD) 11.03%, binance_future GSUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=GSUSDT",
       "provider": "Binance"
     },
@@ -927,6 +1056,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "GTLB",
       "methodology": "Index price of GTLB in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed GTLB:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_GTLBUSD//uindex(USDTUSD) 25.74%, pyth_pro GTLB//uindex(USDTUSD) 25.74%, databento GTLB//uindex(USDTUSD) 11.03%, massive FMV.GTLB//uindex(USDTUSD) 11.03%, binance_future GTLBUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=GTLBUSDT",
       "provider": "Binance"
     },
@@ -938,6 +1068,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HANMI",
       "methodology": "Index price of HANMI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_A042700KRW_USD//uindex(USDTUSD) 49.5%, pyth_pro HANMI//uindex(USDTKRW) 49.5%, binance_future HANMIUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HANMIUSDT",
       "provider": "Binance"
     },
@@ -949,6 +1080,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HD",
       "methodology": "Index price of HD in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed HD:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_HDUSD//uindex(USDTUSD) 25.74%, pyth_pro HD//uindex(USDTUSD) 25.74%, databento HD//uindex(USDTUSD) 11.03%, massive FMV.HD//uindex(USDTUSD) 11.03%, binance_future HDUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HDUSDT",
       "provider": "Binance"
     },
@@ -960,6 +1092,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HIMS",
       "methodology": "Index price of HIMS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed HIMS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_HIMSUSD//uindex(USDTUSD) 25.74%, pyth_pro HIMS//uindex(USDTUSD) 25.74%, databento HIMS//uindex(USDTUSD) 11.03%, massive FMV.HIMS//uindex(USDTUSD) 11.03%, binance_future HIMSUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HIMSUSDT",
       "provider": "Binance"
     },
@@ -971,6 +1104,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HK0625",
       "methodology": "Index price of HK0625 in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_625HKD 49.3%, pyth_pro 0625HK 49.3%, binance_future HK0625USDT 1.41%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HK0625USDT",
       "provider": "Binance"
     },
@@ -982,6 +1116,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HK0700",
       "methodology": "Index price of HK0700 in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_700HKD 49.5%, pyth_pro 0700HK 49.5%, binance_future HK0700USDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HK0700USDT",
       "provider": "Binance"
     },
@@ -993,6 +1128,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HK0992",
       "methodology": "Index price of HK0992 in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_992HKD 49.5%, pyth_pro 0992HK 49.5%, binance_future HK0992USDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HK0992USDT",
       "provider": "Binance"
     },
@@ -1004,7 +1140,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HK1810",
       "methodology": "Index price of HK1810 in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_1810HKD 49.5%, pyth_pro 1810HK 49.5%, binance_future HK1810USDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HK1810USDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-70d6-b5a8-3463d05cc2db",
+      "type": "Index",
+      "code": "HK1888USDT",
+      "description": "Binance HK1888 index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "HK1888",
+      "methodology": "Index price of HK1888 in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: kaiko KK_RFR_1888HKD 68.63%, redstone KINGBOARD_LAMINATES 29.41%, binance_future HK1888USDT 1.96%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HK1888USDT",
       "provider": "Binance"
     },
     {
@@ -1015,6 +1164,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HOOD",
       "methodology": "Index price of HOOD in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed HOOD:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_HOODUSD//uindex(USDTUSD) 25.74%, pyth_pro HOOD//uindex(USDTUSD) 25.74%, databento HOOD//uindex(USDTUSD) 11.03%, massive FMV.HOOD//uindex(USDTUSD) 11.03%, binance_future HOODUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HOODUSDT",
       "provider": "Binance"
     },
@@ -1026,6 +1176,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HPE",
       "methodology": "Index price of HPE in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed HPE:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_HPEUSD//uindex(USDTUSD) 25.74%, pyth_pro HPE//uindex(USDTUSD) 25.74%, databento HPE//uindex(USDTUSD) 11.03%, massive FMV.HPE//uindex(USDTUSD) 11.03%, binance_future HPEUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HPEUSDT",
       "provider": "Binance"
     },
@@ -1037,6 +1188,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HUT",
       "methodology": "Index price of HUT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed HUT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_HUTUSD//uindex(USDTUSD) 25.74%, pyth_pro HUT//uindex(USDTUSD) 25.74%, databento HUT//uindex(USDTUSD) 11.03%, massive FMV.HUT//uindex(USDTUSD) 11.03%, binance_future HUTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HUTUSDT",
       "provider": "Binance"
     },
@@ -1048,7 +1200,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "HYUNDAI",
       "methodology": "Index price of HYUNDAI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_A005380KRW_USD//uindex(USDTUSD) 49.02%, pyth_pro HYUNDAI//uindex(USDTKRW) 49.02%, binance_future HYUNDAIUSDT 0.98%, hyperliquid xyz:HYUNDAI//uindex(USDTUSD) 0.98%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=HYUNDAIUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-7bae-993b-1504eed6df93",
+      "type": "Index",
+      "code": "IBITUSDT",
+      "description": "Binance IBIT index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "IBIT",
+      "methodology": "Index price of IBIT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: dxfeed IBIT:USLF24//uindex(USDTUSD) 33.02%, kaiko KK_RFR_IBITUSD//uindex(USDTUSD) 33.02%, pyth_pro IBIT//uindex(USDTUSD) 33.02%, binance_future IBITUSDT 0.94%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=IBITUSDT",
       "provider": "Binance"
     },
     {
@@ -1059,6 +1224,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "IBKR",
       "methodology": "Index price of IBKR in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed IBKR:USLF24//uindex(USDTUSD) 29.17%, kaiko KK_RFR_IBKRUSD//uindex(USDTUSD) 29.17%, pyth_pro IBKR//uindex(USDTUSD) 29.17%, massive FMV.IBKR//uindex(USDTUSD) 12.5%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=IBKRUSDT",
       "provider": "Binance"
     },
@@ -1070,7 +1236,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "IBM",
       "methodology": "Index price of IBM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed IBM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_IBMUSD//uindex(USDTUSD) 25.74%, pyth_pro IBM//uindex(USDTUSD) 25.74%, databento IBM//uindex(USDTUSD) 11.03%, massive FMV.IBM//uindex(USDTUSD) 11.03%, binance_future IBMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=IBMUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-7370-8117-e192f3b44d96",
+      "type": "Index",
+      "code": "IGVUSDT",
+      "description": "Binance IGV index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "IGV",
+      "methodology": "Index price of IGV in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: dxfeed IGV:USLF24//uindex(USDTUSD) 33.02%, kaiko KK_RFR_IGVUSD//uindex(USDTUSD) 33.02%, pyth_pro IGV//uindex(USDTUSD) 33.02%, binance_future IGVUSDT 0.94%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=IGVUSDT",
       "provider": "Binance"
     },
     {
@@ -1081,6 +1260,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "INTC",
       "methodology": "Index price of INTC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed INTC:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_INTCUSD//uindex(USDTUSD) 25.74%, pyth_pro INTC//uindex(USDTUSD) 25.74%, databento INTC//uindex(USDTUSD) 11.03%, massive FMV.INTC//uindex(USDTUSD) 11.03%, binance_future INTCUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=INTCUSDT",
       "provider": "Binance"
     },
@@ -1092,6 +1272,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "INTW",
       "methodology": "Index price of INTW in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed INTW:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_INTWUSD//uindex(USDTUSD) 25.74%, pyth_pro INTW//uindex(USDTUSD) 25.74%, databento INTW//uindex(USDTUSD) 11.03%, massive FMV.INTW//uindex(USDTUSD) 11.03%, binance_future INTWUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=INTWUSDT",
       "provider": "Binance"
     },
@@ -1103,6 +1284,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "IONQ",
       "methodology": "Index price of IONQ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed IONQ:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_IONQUSD//uindex(USDTUSD) 25.74%, pyth_pro IONQ//uindex(USDTUSD) 25.74%, databento IONQ//uindex(USDTUSD) 11.03%, massive FMV.IONQ//uindex(USDTUSD) 11.03%, binance_future IONQUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=IONQUSDT",
       "provider": "Binance"
     },
@@ -1114,6 +1296,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "IREN",
       "methodology": "Index price of IREN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed IREN:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_IRENUSD//uindex(USDTUSD) 25.74%, pyth_pro IREN//uindex(USDTUSD) 25.74%, databento IREN//uindex(USDTUSD) 11.03%, massive FMV.IREN//uindex(USDTUSD) 11.03%, binance_future IRENUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=IRENUSDT",
       "provider": "Binance"
     },
@@ -1125,7 +1308,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "IWM",
       "methodology": "Index price of IWM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed IWM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_IWMUSD//uindex(USDTUSD) 25.74%, pyth_pro IWM//uindex(USDTUSD) 25.74%, databento IWM//uindex(USDTUSD) 11.03%, massive FMV.IWM//uindex(USDTUSD) 11.03%, binance_future IWMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=IWMUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-7049-aa6a-af6a7f2c12d6",
+      "type": "Index",
+      "code": "JNJUSDT",
+      "description": "Binance JNJ index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "JNJ",
+      "methodology": "Index price of JNJ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: dxfeed JNJ:USLF24//uindex(USDTUSD) 49.3%, kaiko KK_RFR_JNJUSD//uindex(USDTUSD) 49.3%, binance_future JNJUSDT 1.41%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=JNJUSDT",
       "provider": "Binance"
     },
     {
@@ -1136,6 +1332,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "JPM",
       "methodology": "Index price of JPM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed JPM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_JPMUSD//uindex(USDTUSD) 25.74%, pyth_pro JPM//uindex(USDTUSD) 25.74%, databento JPM//uindex(USDTUSD) 11.03%, massive FMV.JPM//uindex(USDTUSD) 11.03%, binance_future JPMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=JPMUSDT",
       "provider": "Binance"
     },
@@ -1147,6 +1344,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "KLAC",
       "methodology": "Index price of KLAC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed KLAC:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_KLACUSD//uindex(USDTUSD) 25.74%, pyth_pro KLAC//uindex(USDTUSD) 25.74%, databento KLAC//uindex(USDTUSD) 11.03%, massive FMV.KLAC//uindex(USDTUSD) 11.03%, binance_future KLACUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=KLACUSDT",
       "provider": "Binance"
     },
@@ -1158,6 +1356,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "KODEX200",
       "methodology": "Index price of KODEX200 in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_A069500KRW_USD//uindex(USDTUSD) 49.5%, pyth_pro KODEX200//uindex(USDTKRW) 49.5%, binance_future KODEX200USDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=KODEX200USDT",
       "provider": "Binance"
     },
@@ -1169,6 +1368,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "KORU",
       "methodology": "Index price of KORU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed KORU:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_KORUUSD//uindex(USDTUSD) 25.74%, pyth_pro KORU//uindex(USDTUSD) 25.74%, databento KORU//uindex(USDTUSD) 11.03%, massive FMV.KORU//uindex(USDTUSD) 11.03%, binance_future KORUUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=KORUUSDT",
       "provider": "Binance"
     },
@@ -1180,6 +1380,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "KO",
       "methodology": "Index price of KO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed KO:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_KOUSD//uindex(USDTUSD) 25.74%, pyth_pro KO//uindex(USDTUSD) 25.74%, databento KO//uindex(USDTUSD) 11.03%, massive FMV.KO//uindex(USDTUSD) 11.03%, binance_future KOUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=KOUSDT",
       "provider": "Binance"
     },
@@ -1191,6 +1392,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "KSTR",
       "methodology": "Index price of KSTR in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed KSTR:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_KSTRUSD//uindex(USDTUSD) 25.74%, pyth_pro KSTR//uindex(USDTUSD) 25.74%, databento KSTR//uindex(USDTUSD) 11.03%, massive FMV.KSTR//uindex(USDTUSD) 11.03%, binance_future KSTRUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=KSTRUSDT",
       "provider": "Binance"
     },
@@ -1202,6 +1404,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "KUAISHOU",
       "methodology": "Index price of KUAISHOU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_1024HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 1024HK//uindex(USDTHKD) 49.5%, binance_future KUAISHOUUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=KUAISHOUUSDT",
       "provider": "Binance"
     },
@@ -1213,6 +1416,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "LGELECTRONICS",
       "methodology": "Index price of LGELECTRONICS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_A066570KRW_USD//uindex(USDTUSD) 49.5%, pyth_pro LGELECTRONICS//uindex(USDTKRW) 49.5%, binance_future LGELECTRONICSUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=LGELECTRONICSUSDT",
       "provider": "Binance"
     },
@@ -1224,6 +1428,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "LITE",
       "methodology": "Index price of LITE in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed LITE:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_LITEUSD//uindex(USDTUSD) 25.74%, pyth_pro LITE//uindex(USDTUSD) 25.74%, databento LITE//uindex(USDTUSD) 11.03%, massive FMV.LITE//uindex(USDTUSD) 11.03%, binance_future LITEUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=LITEUSDT",
       "provider": "Binance"
     },
@@ -1235,6 +1440,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "LLY",
       "methodology": "Index price of LLY in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed LLY:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_LLYUSD//uindex(USDTUSD) 25.74%, pyth_pro LLY//uindex(USDTUSD) 25.74%, databento LLY//uindex(USDTUSD) 11.03%, massive FMV.LLY//uindex(USDTUSD) 11.03%, binance_future LLYUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=LLYUSDT",
       "provider": "Binance"
     },
@@ -1246,6 +1452,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "LRCX",
       "methodology": "Index price of LRCX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed LRCX:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_LRCXUSD//uindex(USDTUSD) 25.74%, pyth_pro LRCX//uindex(USDTUSD) 25.74%, databento LRCX//uindex(USDTUSD) 11.03%, massive FMV.LRCX//uindex(USDTUSD) 11.03%, binance_future LRCXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=LRCXUSDT",
       "provider": "Binance"
     },
@@ -1257,6 +1464,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "LYTE",
       "methodology": "Index price of LYTE in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed LYTE:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_LYTEUSD//uindex(USDTUSD) 25.74%, pyth_pro LYTE//uindex(USDTUSD) 25.74%, databento LYTE//uindex(USDTUSD) 11.03%, massive FMV.LYTE//uindex(USDTUSD) 11.03%, binance_future LYTEUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=LYTEUSDT",
       "provider": "Binance"
     },
@@ -1268,6 +1476,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MARA",
       "methodology": "Index price of MARA in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MARA:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MARAUSD//uindex(USDTUSD) 25.74%, pyth_pro MARA//uindex(USDTUSD) 25.74%, databento MARA//uindex(USDTUSD) 11.03%, massive FMV.MARA//uindex(USDTUSD) 11.03%, binance_future MARAUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MARAUSDT",
       "provider": "Binance"
     },
@@ -1279,6 +1488,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MCD",
       "methodology": "Index price of MCD in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MCD:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MCDUSD//uindex(USDTUSD) 25.74%, pyth_pro MCD//uindex(USDTUSD) 25.74%, databento MCD//uindex(USDTUSD) 11.03%, massive FMV.MCD//uindex(USDTUSD) 11.03%, binance_future MCDUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MCDUSDT",
       "provider": "Binance"
     },
@@ -1290,6 +1500,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MDB",
       "methodology": "Index price of MDB in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MDB:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MDBUSD//uindex(USDTUSD) 25.74%, pyth_pro MDB//uindex(USDTUSD) 25.74%, databento MDB//uindex(USDTUSD) 11.03%, massive FMV.MDB//uindex(USDTUSD) 11.03%, binance_future MDBUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MDBUSDT",
       "provider": "Binance"
     },
@@ -1301,6 +1512,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MDT",
       "methodology": "Index price of MDT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed MDT:USLF24//uindex(USDTUSD) 40.7%, kaiko KK_RFR_MDTUSD//uindex(USDTUSD) 40.7%, massive FMV.MDT//uindex(USDTUSD) 17.44%, binance_future MDTUSDT 1.16%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MDTUSDT",
       "provider": "Binance"
     },
@@ -1312,6 +1524,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MEITUAN",
       "methodology": "Index price of MEITUAN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_3690HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 3690HK//uindex(USDTHKD) 49.5%, binance_future MEITUANUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MEITUANUSDT",
       "provider": "Binance"
     },
@@ -1323,6 +1536,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MELI",
       "methodology": "Index price of MELI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed MELI:USLF24//uindex(USDTUSD) 28.93%, kaiko KK_RFR_MELIUSD//uindex(USDTUSD) 28.93%, pyth_pro MELI//uindex(USDTUSD) 28.93%, massive FMV.MELI//uindex(USDTUSD) 12.4%, binance_future MELIUSDT 0.83%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MELIUSDT",
       "provider": "Binance"
     },
@@ -1334,6 +1548,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "META",
       "methodology": "Index price of META in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed META:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_METAUSD//uindex(USDTUSD) 25.74%, pyth_pro META//uindex(USDTUSD) 25.74%, databento META//uindex(USDTUSD) 11.03%, massive FMV.META//uindex(USDTUSD) 11.03%, binance_future METAUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=METAUSDT",
       "provider": "Binance"
     },
@@ -1345,6 +1560,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MINIMAX",
       "methodology": "Index price of MINIMAX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_100HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 0100HK//uindex(USDTHKD) 49.5%, binance_future MINIMAXUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MINIMAXUSDT",
       "provider": "Binance"
     },
@@ -1356,6 +1572,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MOONSHOT",
       "methodology": "Pre-IPO price of MOONSHOT in USDT, computed by Binance; the company is not publicly listed",
       "provider": "Binance"
     },
@@ -1367,6 +1584,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MP",
       "methodology": "Index price of MP in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MP:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MPUSD//uindex(USDTUSD) 25.74%, pyth_pro MP//uindex(USDTUSD) 25.74%, databento MP//uindex(USDTUSD) 11.03%, massive FMV.MP//uindex(USDTUSD) 11.03%, binance_future MPUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MPUSDT",
       "provider": "Binance"
     },
@@ -1378,6 +1596,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MRK",
       "methodology": "Index price of MRK in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MRK:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MRKUSD//uindex(USDTUSD) 25.74%, pyth_pro MRK//uindex(USDTUSD) 25.74%, databento MRK//uindex(USDTUSD) 11.03%, massive FMV.MRK//uindex(USDTUSD) 11.03%, binance_future MRKUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MRKUSDT",
       "provider": "Binance"
     },
@@ -1389,6 +1608,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MRNA",
       "methodology": "Index price of MRNA in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MRNA:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MRNAUSD//uindex(USDTUSD) 25.74%, pyth_pro MRNA//uindex(USDTUSD) 25.74%, databento MRNA//uindex(USDTUSD) 11.03%, massive FMV.MRNA//uindex(USDTUSD) 11.03%, binance_future MRNAUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MRNAUSDT",
       "provider": "Binance"
     },
@@ -1400,6 +1620,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MRVL",
       "methodology": "Index price of MRVL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MRVL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MRVLUSD//uindex(USDTUSD) 25.74%, pyth_pro MRVL//uindex(USDTUSD) 25.74%, databento MRVL//uindex(USDTUSD) 11.03%, massive FMV.MRVL//uindex(USDTUSD) 11.03%, binance_future MRVLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MRVLUSDT",
       "provider": "Binance"
     },
@@ -1411,6 +1632,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MSFT",
       "methodology": "Index price of MSFT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MSFT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MSFTUSD//uindex(USDTUSD) 25.74%, pyth_pro MSFT//uindex(USDTUSD) 25.74%, databento MSFT//uindex(USDTUSD) 11.03%, massive FMV.MSFT//uindex(USDTUSD) 11.03%, binance_future MSFTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MSFTUSDT",
       "provider": "Binance"
     },
@@ -1422,6 +1644,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MSTR",
       "methodology": "Index price of MSTR in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MSTR:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MSTRUSD//uindex(USDTUSD) 25.74%, pyth_pro MSTR//uindex(USDTUSD) 25.74%, databento MSTR//uindex(USDTUSD) 11.03%, massive FMV.MSTR//uindex(USDTUSD) 11.03%, binance_future MSTRUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MSTRUSDT",
       "provider": "Binance"
     },
@@ -1433,6 +1656,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MSTU",
       "methodology": "Index price of MSTU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MSTU:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MSTUUSD//uindex(USDTUSD) 25.74%, pyth_pro MSTU//uindex(USDTUSD) 25.74%, databento MSTU//uindex(USDTUSD) 11.03%, massive FMV.MSTU//uindex(USDTUSD) 11.03%, binance_future MSTUUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MSTUUSDT",
       "provider": "Binance"
     },
@@ -1444,6 +1668,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MU",
       "methodology": "Index price of MU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MU:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MUUSD//uindex(USDTUSD) 25.74%, pyth_pro MU//uindex(USDTUSD) 25.74%, databento MU//uindex(USDTUSD) 11.03%, massive FMV.MU//uindex(USDTUSD) 11.03%, binance_future MUUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MUUSDT",
       "provider": "Binance"
     },
@@ -1455,6 +1680,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MUU",
       "methodology": "Index price of MUU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MUU:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MUUUSD//uindex(USDTUSD) 25.74%, pyth_pro MUU//uindex(USDTUSD) 25.74%, databento MUU//uindex(USDTUSD) 11.03%, massive FMV.MUU//uindex(USDTUSD) 11.03%, binance_future MUUUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MUUUSDT",
       "provider": "Binance"
     },
@@ -1466,6 +1692,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "MVLL",
       "methodology": "Index price of MVLL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed MVLL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_MVLLUSD//uindex(USDTUSD) 25.74%, pyth_pro MVLL//uindex(USDTUSD) 25.74%, databento MVLL//uindex(USDTUSD) 11.03%, massive FMV.MVLL//uindex(USDTUSD) 11.03%, binance_future MVLLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=MVLLUSDT",
       "provider": "Binance"
     },
@@ -1477,6 +1704,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NAVER",
       "methodology": "Index price of NAVER in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_A035420KRW_USD//uindex(USDTUSD) 49.5%, pyth_pro NAVER//uindex(USDTKRW) 49.5%, binance_future NAVERUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NAVERUSDT",
       "provider": "Binance"
     },
@@ -1488,6 +1716,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NBIS",
       "methodology": "Index price of NBIS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NBIS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NBISUSD//uindex(USDTUSD) 25.74%, pyth_pro NBIS//uindex(USDTUSD) 25.74%, databento NBIS//uindex(USDTUSD) 11.03%, massive FMV.NBIS//uindex(USDTUSD) 11.03%, binance_future NBISUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NBISUSDT",
       "provider": "Binance"
     },
@@ -1499,6 +1728,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NET",
       "methodology": "Index price of NET in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NET:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NETUSD//uindex(USDTUSD) 25.74%, pyth_pro NET//uindex(USDTUSD) 25.74%, databento NET//uindex(USDTUSD) 11.03%, massive FMV.NET//uindex(USDTUSD) 11.03%, binance_future NETUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NETUSDT",
       "provider": "Binance"
     },
@@ -1510,7 +1740,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NFLX",
       "methodology": "Index price of NFLX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NFLX:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NFLXUSD//uindex(USDTUSD) 25.74%, pyth_pro NFLX//uindex(USDTUSD) 25.74%, databento NFLX//uindex(USDTUSD) 11.03%, massive FMV.NFLX//uindex(USDTUSD) 11.03%, binance_future NFLXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NFLXUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-7b92-8997-e7706c66f360",
+      "type": "Index",
+      "code": "NIOUSDT",
+      "description": "Binance NIO index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "NIO",
+      "methodology": "Index price of NIO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: dxfeed NIO:USLF24//uindex(USDTUSD) 33.02%, kaiko KK_RFR_NIOUSD//uindex(USDTUSD) 33.02%, pyth_pro NIO//uindex(USDTUSD) 33.02%, binance_future NIOUSDT 0.94%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NIOUSDT",
       "provider": "Binance"
     },
     {
@@ -1521,6 +1764,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NKE",
       "methodology": "Index price of NKE in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NKE:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NKEUSD//uindex(USDTUSD) 25.74%, pyth_pro NKE//uindex(USDTUSD) 25.74%, databento NKE//uindex(USDTUSD) 11.03%, massive FMV.NKE//uindex(USDTUSD) 11.03%, binance_future NKEUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NKEUSDT",
       "provider": "Binance"
     },
@@ -1532,6 +1776,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NOK",
       "methodology": "Index price of NOK in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NOK:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NOKUSD//uindex(USDTUSD) 25.74%, pyth_pro NOK//uindex(USDTUSD) 25.74%, databento NOK//uindex(USDTUSD) 11.03%, massive FMV.NOK//uindex(USDTUSD) 11.03%, binance_future NOKUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NOKUSDT",
       "provider": "Binance"
     },
@@ -1543,6 +1788,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NOW",
       "methodology": "Index price of NOW in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NOW:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NOWUSD//uindex(USDTUSD) 25.74%, pyth_pro NOW//uindex(USDTUSD) 25.74%, databento NOW//uindex(USDTUSD) 11.03%, massive FMV.NOW//uindex(USDTUSD) 11.03%, binance_future NOWUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NOWUSDT",
       "provider": "Binance"
     },
@@ -1554,6 +1800,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NU",
       "methodology": "Index price of NU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-17: dxfeed NU:USLF24//uindex(USDTUSD) 33.02%, kaiko KK_RFR_NUUSD//uindex(USDTUSD) 33.02%, pyth_pro NU//uindex(USDTUSD) 33.02%, binance_future NUUSDT 0.94%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NUUSDT",
       "provider": "Binance"
     },
@@ -1565,6 +1812,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NVDA",
       "methodology": "Index price of NVDA in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NVDA:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NVDAUSD//uindex(USDTUSD) 25.74%, pyth_pro NVDA//uindex(USDTUSD) 25.74%, databento NVDA//uindex(USDTUSD) 11.03%, massive FMV.NVDA//uindex(USDTUSD) 11.03%, binance_future NVDAUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NVDAUSDT",
       "provider": "Binance"
     },
@@ -1576,6 +1824,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NVDL",
       "methodology": "Index price of NVDL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NVDL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NVDLUSD//uindex(USDTUSD) 25.74%, pyth_pro NVDL//uindex(USDTUSD) 25.74%, databento NVDL//uindex(USDTUSD) 11.03%, massive FMV.NVDL//uindex(USDTUSD) 11.03%, binance_future NVDLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NVDLUSDT",
       "provider": "Binance"
     },
@@ -1587,6 +1836,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "NVO",
       "methodology": "Index price of NVO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed NVO:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_NVOUSD//uindex(USDTUSD) 25.74%, pyth_pro NVO//uindex(USDTUSD) 25.74%, databento NVO//uindex(USDTUSD) 11.03%, massive FMV.NVO//uindex(USDTUSD) 11.03%, binance_future NVOUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=NVOUSDT",
       "provider": "Binance"
     },
@@ -1598,6 +1848,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "OKLO",
       "methodology": "Index price of OKLO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed OKLO:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_OKLOUSD//uindex(USDTUSD) 25.74%, pyth_pro OKLO//uindex(USDTUSD) 25.74%, databento OKLO//uindex(USDTUSD) 11.03%, massive FMV.OKLO//uindex(USDTUSD) 11.03%, binance_future OKLOUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=OKLOUSDT",
       "provider": "Binance"
     },
@@ -1609,6 +1860,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ONDS",
       "methodology": "Index price of ONDS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ONDS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ONDSUSD//uindex(USDTUSD) 25.74%, pyth_pro ONDS//uindex(USDTUSD) 25.74%, databento ONDS//uindex(USDTUSD) 11.03%, massive FMV.ONDS//uindex(USDTUSD) 11.03%, binance_future ONDSUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ONDSUSDT",
       "provider": "Binance"
     },
@@ -1620,6 +1872,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "OPENAI",
       "methodology": "Pre-IPO price of OPENAI in USDT, computed by Binance; the company is not publicly listed",
       "provider": "Binance"
     },
@@ -1631,6 +1884,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ORCL",
       "methodology": "Index price of ORCL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ORCL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ORCLUSD//uindex(USDTUSD) 25.74%, pyth_pro ORCL//uindex(USDTUSD) 25.74%, databento ORCL//uindex(USDTUSD) 11.03%, massive FMV.ORCL//uindex(USDTUSD) 11.03%, binance_future ORCLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ORCLUSDT",
       "provider": "Binance"
     },
@@ -1642,6 +1896,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "OURA",
       "methodology": "Pre-IPO price of OURA in USDT, computed by Binance; the company is not publicly listed",
       "provider": "Binance"
     },
@@ -1653,6 +1908,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "OXY",
       "methodology": "Index price of OXY in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed OXY:USLF24//uindex(USDTUSD) 28.93%, kaiko KK_RFR_OXYUSD//uindex(USDTUSD) 28.93%, pyth_pro OXY//uindex(USDTUSD) 28.93%, massive FMV.OXY//uindex(USDTUSD) 12.4%, binance_future OXYUSDT 0.83%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=OXYUSDT",
       "provider": "Binance"
     },
@@ -1664,6 +1920,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "PANW",
       "methodology": "Index price of PANW in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed PANW:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_PANWUSD//uindex(USDTUSD) 25.74%, pyth_pro PANW//uindex(USDTUSD) 25.74%, databento PANW//uindex(USDTUSD) 11.03%, massive FMV.PANW//uindex(USDTUSD) 11.03%, binance_future PANWUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=PANWUSDT",
       "provider": "Binance"
     },
@@ -1675,6 +1932,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "PATH",
       "methodology": "Index price of PATH in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed PATH:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_PATHUSD//uindex(USDTUSD) 25.74%, pyth_pro PATH//uindex(USDTUSD) 25.74%, databento PATH//uindex(USDTUSD) 11.03%, massive FMV.PATH//uindex(USDTUSD) 11.03%, binance_future PATHUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=PATHUSDT",
       "provider": "Binance"
     },
@@ -1686,6 +1944,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "PAYP",
       "methodology": "Index price of PAYP in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed PAYP:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_PAYPUSD//uindex(USDTUSD) 25.74%, pyth_pro PAYP//uindex(USDTUSD) 25.74%, databento PAYP//uindex(USDTUSD) 11.03%, massive FMV.PAYP//uindex(USDTUSD) 11.03%, binance_future PAYPUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=PAYPUSDT",
       "provider": "Binance"
     },
@@ -1697,6 +1956,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "PDD",
       "methodology": "Index price of PDD in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed PDD:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_PDDUSD//uindex(USDTUSD) 25.74%, pyth_pro PDD//uindex(USDTUSD) 25.74%, databento PDD//uindex(USDTUSD) 11.03%, massive FMV.PDD//uindex(USDTUSD) 11.03%, binance_future PDDUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=PDDUSDT",
       "provider": "Binance"
     },
@@ -1708,6 +1968,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "PENG",
       "methodology": "Index price of PENG in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed PENG:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_PENGUSD//uindex(USDTUSD) 25.74%, pyth_pro PENG//uindex(USDTUSD) 25.74%, databento PENG//uindex(USDTUSD) 11.03%, massive FMV.PENG//uindex(USDTUSD) 11.03%, binance_future PENGUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=PENGUSDT",
       "provider": "Binance"
     },
@@ -1719,6 +1980,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "PFE",
       "methodology": "Index price of PFE in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed PFE:USLF24//uindex(USDTUSD) 40.7%, kaiko KK_RFR_PFEUSD//uindex(USDTUSD) 40.7%, massive FMV.PFE//uindex(USDTUSD) 17.44%, binance_future PFEUSDT 1.16%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=PFEUSDT",
       "provider": "Binance"
     },
@@ -1730,6 +1992,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "PLTR",
       "methodology": "Index price of PLTR in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed PLTR:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_PLTRUSD//uindex(USDTUSD) 25.74%, pyth_pro PLTR//uindex(USDTUSD) 25.74%, databento PLTR//uindex(USDTUSD) 11.03%, massive FMV.PLTR//uindex(USDTUSD) 11.03%, binance_future PLTRUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=PLTRUSDT",
       "provider": "Binance"
     },
@@ -1741,6 +2004,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "POPMART",
       "methodology": "Index price of POPMART in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_9992HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 9992HK//uindex(USDTHKD) 49.5%, binance_future POPMARTUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=POPMARTUSDT",
       "provider": "Binance"
     },
@@ -1752,6 +2016,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "PYPL",
       "methodology": "Index price of PYPL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed PYPL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_PYPLUSD//uindex(USDTUSD) 25.74%, pyth_pro PYPL//uindex(USDTUSD) 25.74%, databento PYPL//uindex(USDTUSD) 11.03%, massive FMV.PYPL//uindex(USDTUSD) 11.03%, binance_future PYPLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=PYPLUSDT",
       "provider": "Binance"
     },
@@ -1763,6 +2028,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "QCOM",
       "methodology": "Index price of QCOM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed QCOM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_QCOMUSD//uindex(USDTUSD) 25.74%, pyth_pro QCOM//uindex(USDTUSD) 25.74%, databento QCOM//uindex(USDTUSD) 11.03%, massive FMV.QCOM//uindex(USDTUSD) 11.03%, binance_future QCOMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=QCOMUSDT",
       "provider": "Binance"
     },
@@ -1774,6 +2040,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "QNTX",
       "methodology": "Index price of QNTX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed QNT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_QNTUSD//uindex(USDTUSD) 25.74%, pyth_pro QNT//uindex(USDTUSD) 25.74%, databento QNT//uindex(USDTUSD) 11.03%, massive FMV.QNT//uindex(USDTUSD) 11.03%, binance_future QNTXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=QNTXUSDT",
       "provider": "Binance"
     },
@@ -1785,6 +2052,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "QQQ",
       "methodology": "Index price of QQQ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed QQQ:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_QQQUSD//uindex(USDTUSD) 25.74%, pyth_pro QQQ//uindex(USDTUSD) 25.74%, databento QQQ//uindex(USDTUSD) 11.03%, massive FMV.QQQ//uindex(USDTUSD) 11.03%, binance_future QQQUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=QQQUSDT",
       "provider": "Binance"
     },
@@ -1796,6 +2064,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "RAM",
       "methodology": "Index price of RAM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed RAM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_RAMUSD//uindex(USDTUSD) 25.74%, pyth_pro RAM//uindex(USDTUSD) 25.74%, databento RAM//uindex(USDTUSD) 11.03%, massive FMV.RAM//uindex(USDTUSD) 11.03%, binance_future RAMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=RAMUSDT",
       "provider": "Binance"
     },
@@ -1807,6 +2076,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "RDDT",
       "methodology": "Index price of RDDT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed RDDT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_RDDTUSD//uindex(USDTUSD) 25.74%, pyth_pro RDDT//uindex(USDTUSD) 25.74%, databento RDDT//uindex(USDTUSD) 11.03%, massive FMV.RDDT//uindex(USDTUSD) 11.03%, binance_future RDDTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=RDDTUSDT",
       "provider": "Binance"
     },
@@ -1818,6 +2088,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "RDW",
       "methodology": "Index price of RDW in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed RDW:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_RDWUSD//uindex(USDTUSD) 25.74%, pyth_pro RDW//uindex(USDTUSD) 25.74%, databento RDW//uindex(USDTUSD) 11.03%, massive FMV.RDW//uindex(USDTUSD) 11.03%, binance_future RDWUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=RDWUSDT",
       "provider": "Binance"
     },
@@ -1829,6 +2100,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "RIVN",
       "methodology": "Index price of RIVN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed RIVN:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_RIVNUSD//uindex(USDTUSD) 25.74%, pyth_pro RIVN//uindex(USDTUSD) 25.74%, databento RIVN//uindex(USDTUSD) 11.03%, massive FMV.RIVN//uindex(USDTUSD) 11.03%, binance_future RIVNUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=RIVNUSDT",
       "provider": "Binance"
     },
@@ -1840,6 +2112,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "RKLB",
       "methodology": "Index price of RKLB in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed RKLB:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_RKLBUSD//uindex(USDTUSD) 25.74%, pyth_pro RKLB//uindex(USDTUSD) 25.74%, databento RKLB//uindex(USDTUSD) 11.03%, massive FMV.RKLB//uindex(USDTUSD) 11.03%, binance_future RKLBUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=RKLBUSDT",
       "provider": "Binance"
     },
@@ -1851,6 +2124,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "RUM",
       "methodology": "Index price of RUM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed RUM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_RUMUSD//uindex(USDTUSD) 25.74%, pyth_pro RUM//uindex(USDTUSD) 25.74%, databento RUM//uindex(USDTUSD) 11.03%, massive FMV.RUM//uindex(USDTUSD) 11.03%, binance_future RUMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=RUMUSDT",
       "provider": "Binance"
     },
@@ -1862,6 +2136,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SAMSUNGEM",
       "methodology": "Index price of SAMSUNGEM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_A009150KRW_USD//uindex(USDTUSD) 49.5%, pyth_pro SAMSUNGEM//uindex(USDTKRW) 49.5%, binance_future SAMSUNGEMUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SAMSUNGEMUSDT",
       "provider": "Binance"
     },
@@ -1873,6 +2148,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SAMSUNG",
       "methodology": "Index price of SAMSUNG in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_A005930KRW_USD//uindex(USDTUSD) 49.02%, pyth_pro SAMSUNG//uindex(USDTKRW) 49.02%, binance_future SAMSUNGUSDT 0.98%, hyperliquid xyz:SMSN//uindex(USDTUSD) 0.98%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SAMSUNGUSDT",
       "provider": "Binance"
     },
@@ -1884,6 +2160,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SECZ",
       "methodology": "Index price of SECZ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SECZ:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SECZUSD//uindex(USDTUSD) 25.74%, pyth_pro SECZ//uindex(USDTUSD) 25.74%, databento SECZ//uindex(USDTUSD) 11.03%, massive FMV.SECZ//uindex(USDTUSD) 11.03%, binance_future SECZUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SECZUSDT",
       "provider": "Binance"
     },
@@ -1895,6 +2172,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SHAZ",
       "methodology": "Index price of SHAZ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SHAZ:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SHAZUSD//uindex(USDTUSD) 25.74%, pyth_pro SHAZ//uindex(USDTUSD) 25.74%, databento SHAZ//uindex(USDTUSD) 11.03%, massive FMV.SHAZ//uindex(USDTUSD) 11.03%, binance_future SHAZUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SHAZUSDT",
       "provider": "Binance"
     },
@@ -1906,6 +2184,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SHOP",
       "methodology": "Index price of SHOP in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SHOP:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SHOPUSD//uindex(USDTUSD) 25.74%, pyth_pro SHOP//uindex(USDTUSD) 25.74%, databento SHOP//uindex(USDTUSD) 11.03%, massive FMV.SHOP//uindex(USDTUSD) 11.03%, binance_future SHOPUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SHOPUSDT",
       "provider": "Binance"
     },
@@ -1917,6 +2196,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SKDD",
       "methodology": "Index price of SKDD in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SKDD:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SKDDUSD//uindex(USDTUSD) 25.74%, pyth_pro SKDD//uindex(USDTUSD) 25.74%, databento SKDD//uindex(USDTUSD) 11.03%, massive FMV.SKDD//uindex(USDTUSD) 11.03%, binance_future SKDDUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SKDDUSDT",
       "provider": "Binance"
     },
@@ -1928,6 +2208,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SKHYNIX",
       "methodology": "Index price of SKHYNIX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_A000660KRW_USD//uindex(USDTUSD) 49.02%, pyth_pro SKHYNIX//uindex(USDTKRW) 49.02%, binance_future SKHYNIXUSDT 0.98%, hyperliquid xyz:SKHX//uindex(USDTUSD) 0.98%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SKHYNIXUSDT",
       "provider": "Binance"
     },
@@ -1939,6 +2220,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SKHY",
       "methodology": "Index price of SKHY in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SKHY:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SKHYUSD//uindex(USDTUSD) 25.74%, pyth_pro SKHY//uindex(USDTUSD) 25.74%, databento SKHY//uindex(USDTUSD) 11.03%, massive FMV.SKHY//uindex(USDTUSD) 11.03%, binance_future SKHYUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SKHYUSDT",
       "provider": "Binance"
     },
@@ -1950,6 +2232,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SKUU",
       "methodology": "Index price of SKUU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SKUU:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SKUUUSD//uindex(USDTUSD) 25.74%, pyth_pro SKUU//uindex(USDTUSD) 25.74%, databento SKUU//uindex(USDTUSD) 11.03%, massive FMV.SKUU//uindex(USDTUSD) 11.03%, binance_future SKUUUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SKUUUSDT",
       "provider": "Binance"
     },
@@ -1961,6 +2244,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SMCI",
       "methodology": "Index price of SMCI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SMCI:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SMCIUSD//uindex(USDTUSD) 25.74%, pyth_pro SMCI//uindex(USDTUSD) 25.74%, databento SMCI//uindex(USDTUSD) 11.03%, massive FMV.SMCI//uindex(USDTUSD) 11.03%, binance_future SMCIUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SMCIUSDT",
       "provider": "Binance"
     },
@@ -1972,6 +2256,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SMH",
       "methodology": "Index price of SMH in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SMH:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SMHUSD//uindex(USDTUSD) 25.74%, pyth_pro SMH//uindex(USDTUSD) 25.74%, databento SMH//uindex(USDTUSD) 11.03%, massive FMV.SMH//uindex(USDTUSD) 11.03%, binance_future SMHUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SMHUSDT",
       "provider": "Binance"
     },
@@ -1983,6 +2268,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SMR",
       "methodology": "Index price of SMR in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed SMR:USLF24//uindex(USDTUSD) 28.93%, kaiko KK_RFR_SMRUSD//uindex(USDTUSD) 28.93%, pyth_pro SMR//uindex(USDTUSD) 28.93%, massive FMV.SMR//uindex(USDTUSD) 12.4%, binance_future SMRUSDT 0.83%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SMRUSDT",
       "provider": "Binance"
     },
@@ -1994,6 +2280,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SNDK",
       "methodology": "Index price of SNDK in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SNDK:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SNDKUSD//uindex(USDTUSD) 25.74%, pyth_pro SNDK//uindex(USDTUSD) 25.74%, databento SNDK//uindex(USDTUSD) 11.03%, massive FMV.SNDK//uindex(USDTUSD) 11.03%, binance_future SNDKUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SNDKUSDT",
       "provider": "Binance"
     },
@@ -2005,6 +2292,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SNOW",
       "methodology": "Index price of SNOW in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SNOW:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SNOWUSD//uindex(USDTUSD) 25.74%, pyth_pro SNOW//uindex(USDTUSD) 25.74%, databento SNOW//uindex(USDTUSD) 11.03%, massive FMV.SNOW//uindex(USDTUSD) 11.03%, binance_future SNOWUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SNOWUSDT",
       "provider": "Binance"
     },
@@ -2016,6 +2304,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SNPS",
       "methodology": "Index price of SNPS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SNPS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SNPSUSD//uindex(USDTUSD) 25.74%, pyth_pro SNPS//uindex(USDTUSD) 25.74%, databento SNPS//uindex(USDTUSD) 11.03%, massive FMV.SNPS//uindex(USDTUSD) 11.03%, binance_future SNPSUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SNPSUSDT",
       "provider": "Binance"
     },
@@ -2027,6 +2316,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SNXX",
       "methodology": "Index price of SNXX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_SNXXUSD//uindex(USDTUSD) 97.22%, binance_future SNXXUSDT 2.78%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SNXXUSDT",
       "provider": "Binance"
     },
@@ -2038,6 +2328,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SOFI",
       "methodology": "Index price of SOFI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SOFI:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SOFIUSD//uindex(USDTUSD) 25.74%, pyth_pro SOFI//uindex(USDTUSD) 25.74%, databento SOFI//uindex(USDTUSD) 11.03%, massive FMV.SOFI//uindex(USDTUSD) 11.03%, binance_future SOFIUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SOFIUSDT",
       "provider": "Binance"
     },
@@ -2049,6 +2340,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SONY",
       "methodology": "Index price of SONY in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SONY:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SONYUSD//uindex(USDTUSD) 25.74%, pyth_pro SONY//uindex(USDTUSD) 25.74%, databento SONY//uindex(USDTUSD) 11.03%, massive FMV.SONY//uindex(USDTUSD) 11.03%, binance_future SONYUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SONYUSDT",
       "provider": "Binance"
     },
@@ -2060,6 +2352,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SOXL",
       "methodology": "Index price of SOXL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SOXL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SOXLUSD//uindex(USDTUSD) 25.74%, pyth_pro SOXL//uindex(USDTUSD) 25.74%, databento SOXL//uindex(USDTUSD) 11.03%, massive FMV.SOXL//uindex(USDTUSD) 11.03%, binance_future SOXLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SOXLUSDT",
       "provider": "Binance"
     },
@@ -2071,7 +2364,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SOXS",
       "methodology": "Index price of SOXS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SOXS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SOXSUSD//uindex(USDTUSD) 25.74%, pyth_pro SOXS//uindex(USDTUSD) 25.74%, databento SOXS//uindex(USDTUSD) 11.03%, massive FMV.SOXS//uindex(USDTUSD) 11.03%, binance_future SOXSUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SOXSUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfc-79e5-bf0d-9da14db71fec",
+      "type": "Index",
+      "code": "SOXXUSDT",
+      "description": "Binance SOXX index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "SOXX",
+      "methodology": "Index price of SOXX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: dxfeed SOXX:USLF24//uindex(USDTUSD) 33.02%, kaiko KK_RFR_SOXXUSD//uindex(USDTUSD) 33.02%, pyth_pro SOXX//uindex(USDTUSD) 33.02%, binance_future SOXXUSDT 0.94%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SOXXUSDT",
       "provider": "Binance"
     },
     {
@@ -2082,6 +2388,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USD1",
+      "base": "SPCX",
       "methodology": "Index price of SPCX in USD1, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SPCX:USLF24//uindex(USD1USD) 25.74%, kaiko KK_RFR_SPCXUSD//uindex(USD1USD) 25.74%, pyth_pro SPCX//uindex(USD1USD) 25.74%, databento SPCX//uindex(USD1USD) 11.03%, massive FMV.SPCX//uindex(USD1USD) 11.03%, binance_future SPCXUSD1 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SPCXUSD1",
       "provider": "Binance"
     },
@@ -2093,6 +2400,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SPCX",
       "methodology": "Index price of SPCX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SPCX:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SPCXUSD//uindex(USDTUSD) 25.74%, pyth_pro SPCX//uindex(USDTUSD) 25.74%, databento SPCX//uindex(USDTUSD) 11.03%, massive FMV.SPCX//uindex(USDTUSD) 11.03%, binance_future SPCXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SPCXUSDT",
       "provider": "Binance"
     },
@@ -2104,6 +2412,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SPY",
       "methodology": "Index price of SPY in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SPY:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SPYUSD//uindex(USDTUSD) 25.74%, pyth_pro SPY//uindex(USDTUSD) 25.74%, databento SPY//uindex(USDTUSD) 11.03%, massive FMV.SPY//uindex(USDTUSD) 11.03%, binance_future SPYUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SPYUSDT",
       "provider": "Binance"
     },
@@ -2115,6 +2424,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "SQQQ",
       "methodology": "Index price of SQQQ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed SQQQ:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_SQQQUSD//uindex(USDTUSD) 25.74%, pyth_pro SQQQ//uindex(USDTUSD) 25.74%, databento SQQQ//uindex(USDTUSD) 11.03%, massive FMV.SQQQ//uindex(USDTUSD) 11.03%, binance_future SQQQUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=SQQQUSDT",
       "provider": "Binance"
     },
@@ -2126,6 +2436,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "STM",
       "methodology": "Index price of STM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-02: dxfeed STM:USLF24//uindex(USDTUSD) 28.93%, kaiko KK_RFR_STMUSD//uindex(USDTUSD) 28.93%, pyth_pro STM//uindex(USDTUSD) 28.93%, massive FMV.STM//uindex(USDTUSD) 12.4%, binance_future STMUSDT 0.83%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=STMUSDT",
       "provider": "Binance"
     },
@@ -2137,6 +2448,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "STRC",
       "methodology": "Index price of STRC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed STRC:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_STRCUSD//uindex(USDTUSD) 25.74%, pyth_pro STRC//uindex(USDTUSD) 25.74%, databento STRC//uindex(USDTUSD) 11.03%, massive FMV.STRC//uindex(USDTUSD) 11.03%, binance_future STRCUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=STRCUSDT",
       "provider": "Binance"
     },
@@ -2148,6 +2460,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "STXX",
       "methodology": "Index price of STXX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed STX:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_STXUSD//uindex(USDTUSD) 25.74%, pyth_pro STX//uindex(USDTUSD) 25.74%, databento STX//uindex(USDTUSD) 11.03%, massive FMV.STX//uindex(USDTUSD) 11.03%, binance_future STXXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=STXXUSDT",
       "provider": "Binance"
     },
@@ -2159,6 +2472,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TBT",
       "methodology": "Index price of TBT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_TBTUSD//uindex(USDTUSD) 40.7%, pyth_pro TBT//uindex(USDTUSD) 40.7%, massive FMV.TBT//uindex(USDTUSD) 17.44%, binance_future TBTUSDT 1.16%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TBTUSDT",
       "provider": "Binance"
     },
@@ -2170,6 +2484,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TEAM",
       "methodology": "Index price of TEAM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TEAM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TEAMUSD//uindex(USDTUSD) 25.74%, pyth_pro TEAM//uindex(USDTUSD) 25.74%, databento TEAM//uindex(USDTUSD) 11.03%, massive FMV.TEAM//uindex(USDTUSD) 11.03%, binance_future TEAMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TEAMUSDT",
       "provider": "Binance"
     },
@@ -2181,6 +2496,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TEM",
       "methodology": "Index price of TEM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TEM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TEMUSD//uindex(USDTUSD) 25.74%, pyth_pro TEM//uindex(USDTUSD) 25.74%, databento TEM//uindex(USDTUSD) 11.03%, massive FMV.TEM//uindex(USDTUSD) 11.03%, binance_future TEMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TEMUSDT",
       "provider": "Binance"
     },
@@ -2192,6 +2508,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TENCENT",
       "methodology": "Index price of TENCENT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_700HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 0700HK//uindex(USDTHKD) 49.5%, binance_future TENCENTUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TENCENTUSDT",
       "provider": "Binance"
     },
@@ -2203,6 +2520,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TER",
       "methodology": "Index price of TER in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TER:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TERUSD//uindex(USDTUSD) 25.74%, pyth_pro TER//uindex(USDTUSD) 25.74%, databento TER//uindex(USDTUSD) 11.03%, massive FMV.TER//uindex(USDTUSD) 11.03%, binance_future TERUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TERUSDT",
       "provider": "Binance"
     },
@@ -2214,6 +2532,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TMF",
       "methodology": "Index price of TMF in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TMF:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TMFUSD//uindex(USDTUSD) 25.74%, pyth_pro TMF//uindex(USDTUSD) 25.74%, databento TMF//uindex(USDTUSD) 11.03%, massive FMV.TMF//uindex(USDTUSD) 11.03%, binance_future TMFUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TMFUSDT",
       "provider": "Binance"
     },
@@ -2225,6 +2544,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TQQQ",
       "methodology": "Index price of TQQQ in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TQQQ:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TQQQUSD//uindex(USDTUSD) 25.74%, pyth_pro TQQQ//uindex(USDTUSD) 25.74%, databento TQQQ//uindex(USDTUSD) 11.03%, massive FMV.TQQQ//uindex(USDTUSD) 11.03%, binance_future TQQQUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TQQQUSDT",
       "provider": "Binance"
     },
@@ -2236,6 +2556,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TSLA",
       "methodology": "Index price of TSLA in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TSLA:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TSLAUSD//uindex(USDTUSD) 25.74%, pyth_pro TSLA//uindex(USDTUSD) 25.74%, databento TSLA//uindex(USDTUSD) 11.03%, massive FMV.TSLA//uindex(USDTUSD) 11.03%, binance_future TSLAUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TSLAUSDT",
       "provider": "Binance"
     },
@@ -2247,6 +2568,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TSLL",
       "methodology": "Index price of TSLL in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TSLL:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TSLLUSD//uindex(USDTUSD) 25.74%, pyth_pro TSLL//uindex(USDTUSD) 25.74%, databento TSLL//uindex(USDTUSD) 11.03%, massive FMV.TSLL//uindex(USDTUSD) 11.03%, binance_future TSLLUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TSLLUSDT",
       "provider": "Binance"
     },
@@ -2258,6 +2580,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TSM",
       "methodology": "Index price of TSM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TSM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TSMUSD//uindex(USDTUSD) 25.74%, pyth_pro TSM//uindex(USDTUSD) 25.74%, databento TSM//uindex(USDTUSD) 11.03%, massive FMV.TSM//uindex(USDTUSD) 11.03%, binance_future TSMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TSMUSDT",
       "provider": "Binance"
     },
@@ -2269,6 +2592,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TTWO",
       "methodology": "Index price of TTWO in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TTWO:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TTWOUSD//uindex(USDTUSD) 25.74%, pyth_pro TTWO//uindex(USDTUSD) 25.74%, databento TTWO//uindex(USDTUSD) 11.03%, massive FMV.TTWO//uindex(USDTUSD) 11.03%, binance_future TTWOUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TTWOUSDT",
       "provider": "Binance"
     },
@@ -2280,6 +2604,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TWST",
       "methodology": "Index price of TWST in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TWST:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TWSTUSD//uindex(USDTUSD) 25.74%, pyth_pro TWST//uindex(USDTUSD) 25.74%, databento TWST//uindex(USDTUSD) 11.03%, massive FMV.TWST//uindex(USDTUSD) 11.03%, binance_future TWSTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TWSTUSDT",
       "provider": "Binance"
     },
@@ -2291,6 +2616,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TXN",
       "methodology": "Index price of TXN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TXN:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TXNUSD//uindex(USDTUSD) 25.74%, pyth_pro TXN//uindex(USDTUSD) 25.74%, databento TXN//uindex(USDTUSD) 11.03%, massive FMV.TXN//uindex(USDTUSD) 11.03%, binance_future TXNUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TXNUSDT",
       "provider": "Binance"
     },
@@ -2302,6 +2628,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "TZA",
       "methodology": "Index price of TZA in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed TZA:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_TZAUSD//uindex(USDTUSD) 25.74%, pyth_pro TZA//uindex(USDTUSD) 25.74%, databento TZA//uindex(USDTUSD) 11.03%, massive FMV.TZA//uindex(USDTUSD) 11.03%, binance_future TZAUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=TZAUSDT",
       "provider": "Binance"
     },
@@ -2313,6 +2640,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "UBER",
       "methodology": "Index price of UBER in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed UBER:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_UBERUSD//uindex(USDTUSD) 25.74%, pyth_pro UBER//uindex(USDTUSD) 25.74%, databento UBER//uindex(USDTUSD) 11.03%, massive FMV.UBER//uindex(USDTUSD) 11.03%, binance_future UBERUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=UBERUSDT",
       "provider": "Binance"
     },
@@ -2324,6 +2652,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "UNH",
       "methodology": "Index price of UNH in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed UNH:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_UNHUSD//uindex(USDTUSD) 25.74%, pyth_pro UNH//uindex(USDTUSD) 25.74%, databento UNH//uindex(USDTUSD) 11.03%, massive FMV.UNH//uindex(USDTUSD) 11.03%, binance_future UNHUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=UNHUSDT",
       "provider": "Binance"
     },
@@ -2335,6 +2664,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "UNITREE",
       "methodology": "Index price of UNITREE in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: pyth_pro 688836CNY//uindex(USDTCNH) 81.82%, aster_futures_index UNITREEUSD 9.09%, hyperliquid xyz:UNITREE//uindex(USDTUSD) 9.09%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=UNITREEUSDT",
       "provider": "Binance"
     },
@@ -2346,6 +2676,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "URNM",
       "methodology": "Index price of URNM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed URNM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_URNMUSD//uindex(USDTUSD) 25.74%, pyth_pro URNM//uindex(USDTUSD) 25.74%, databento URNM//uindex(USDTUSD) 11.03%, massive FMV.URNM//uindex(USDTUSD) 11.03%, binance_future URNMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=URNMUSDT",
       "provider": "Binance"
     },
@@ -2357,6 +2688,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "USAR",
       "methodology": "Index price of USAR in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed USAR:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_USARUSD//uindex(USDTUSD) 25.74%, pyth_pro USAR//uindex(USDTUSD) 25.74%, databento USAR//uindex(USDTUSD) 11.03%, massive FMV.USAR//uindex(USDTUSD) 11.03%, binance_future USARUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=USARUSDT",
       "provider": "Binance"
     },
@@ -2368,6 +2700,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "USDEX",
       "methodology": "Index price of USDEX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed USDE:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_USDEUSD//uindex(USDTUSD) 25.74%, pyth_pro USDE//uindex(USDTUSD) 25.74%, databento USDE//uindex(USDTUSD) 11.03%, massive FMV.USDE//uindex(USDTUSD) 11.03%, binance_future USDEXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=USDEXUSDT",
       "provider": "Binance"
     },
@@ -2379,6 +2712,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "UVXY",
       "methodology": "Index price of UVXY in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed UVXY:USLF24//uindex(USDTUSD) 34.65%, pyth_pro UVXY//uindex(USDTUSD) 34.65%, databento UVXY//uindex(USDTUSD) 14.85%, massive FMV.UVXY//uindex(USDTUSD) 14.85%, binance_future UVXYUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=UVXYUSDT",
       "provider": "Binance"
     },
@@ -2390,6 +2724,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "VKTX",
       "methodology": "Index price of VKTX in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed VKTX:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_VKTXUSD//uindex(USDTUSD) 25.74%, pyth_pro VKTX//uindex(USDTUSD) 25.74%, databento VKTX//uindex(USDTUSD) 11.03%, massive FMV.VKTX//uindex(USDTUSD) 11.03%, binance_future VKTXUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=VKTXUSDT",
       "provider": "Binance"
     },
@@ -2401,6 +2736,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "VRT",
       "methodology": "Index price of VRT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed VRT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_VRTUSD//uindex(USDTUSD) 25.74%, pyth_pro VRT//uindex(USDTUSD) 25.74%, databento VRT//uindex(USDTUSD) 11.03%, massive FMV.VRT//uindex(USDTUSD) 11.03%, binance_future VRTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=VRTUSDT",
       "provider": "Binance"
     },
@@ -2412,6 +2748,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "VST",
       "methodology": "Index price of VST in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed VST:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_VSTUSD//uindex(USDTUSD) 25.74%, pyth_pro VST//uindex(USDTUSD) 25.74%, databento VST//uindex(USDTUSD) 11.03%, massive FMV.VST//uindex(USDTUSD) 11.03%, binance_future VSTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=VSTUSDT",
       "provider": "Binance"
     },
@@ -2423,6 +2760,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "V",
       "methodology": "Index price of V in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed V:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_VUSD//uindex(USDTUSD) 25.74%, pyth_pro V//uindex(USDTUSD) 25.74%, databento V//uindex(USDTUSD) 11.03%, massive FMV.V//uindex(USDTUSD) 11.03%, binance_future VUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=VUSDT",
       "provider": "Binance"
     },
@@ -2434,6 +2772,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "WDC",
       "methodology": "Index price of WDC in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed WDC:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_WDCUSD//uindex(USDTUSD) 25.74%, pyth_pro WDC//uindex(USDTUSD) 25.74%, databento WDC//uindex(USDTUSD) 11.03%, massive FMV.WDC//uindex(USDTUSD) 11.03%, binance_future WDCUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=WDCUSDT",
       "provider": "Binance"
     },
@@ -2445,6 +2784,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "WEN",
       "methodology": "Index price of WEN in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed WEN:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_WENUSD//uindex(USDTUSD) 25.74%, pyth_pro WEN//uindex(USDTUSD) 25.74%, databento WEN//uindex(USDTUSD) 11.03%, massive FMV.WEN//uindex(USDTUSD) 11.03%, binance_future WENUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=WENUSDT",
       "provider": "Binance"
     },
@@ -2456,6 +2796,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "WMT",
       "methodology": "Index price of WMT in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed WMT:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_WMTUSD//uindex(USDTUSD) 25.74%, pyth_pro WMT//uindex(USDTUSD) 25.74%, databento WMT//uindex(USDTUSD) 11.03%, massive FMV.WMT//uindex(USDTUSD) 11.03%, binance_future WMTUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=WMTUSDT",
       "provider": "Binance"
     },
@@ -2467,7 +2808,20 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "XBI",
       "methodology": "Index price of XBI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed XBI:USLF24//uindex(USDTUSD) 34.65%, pyth_pro XBI//uindex(USDTUSD) 34.65%, databento XBI//uindex(USDTUSD) 14.85%, massive FMV.XBI//uindex(USDTUSD) 14.85%, binance_future XBIUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=XBIUSDT",
+      "provider": "Binance"
+    },
+    {
+      "id": "01a21c05-cbfd-7a1f-8a22-10db4ce0e38f",
+      "type": "Index",
+      "code": "XIAOMIUSDT",
+      "description": "Binance XIAOMI index price",
+      "venue": "XBNF",
+      "quoteUnit": "Currency",
+      "settlementAsset": "USDT",
+      "base": "XIAOMI",
+      "methodology": "Index price of XIAOMI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-11-27: kaiko KK_RFR_1810HKD_USD//uindex(USDTUSD) 40.7%, pyth_pro 1810HK//uindex(USDTHKD) 40.7%, redstone XIAOMI//uindex(USDTHKD) 17.44%, binance_future XIAOMIUSDT 1.16%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=XIAOMIUSDT",
       "provider": "Binance"
     },
     {
@@ -2478,6 +2832,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "XLE",
       "methodology": "Index price of XLE in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed XLE:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_XLEUSD//uindex(USDTUSD) 25.74%, pyth_pro XLE//uindex(USDTUSD) 25.74%, databento XLE//uindex(USDTUSD) 11.03%, massive FMV.XLE//uindex(USDTUSD) 11.03%, binance_future XLEUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=XLEUSDT",
       "provider": "Binance"
     },
@@ -2489,6 +2844,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "XOM",
       "methodology": "Index price of XOM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed XOM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_XOMUSD//uindex(USDTUSD) 25.74%, pyth_pro XOM//uindex(USDTUSD) 25.74%, databento XOM//uindex(USDTUSD) 11.03%, massive FMV.XOM//uindex(USDTUSD) 11.03%, binance_future XOMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=XOMUSDT",
       "provider": "Binance"
     },
@@ -2500,6 +2856,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ZCSH",
       "methodology": "Index price of ZCSH in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ZCSH:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ZCSHUSD//uindex(USDTUSD) 25.74%, pyth_pro ZCSH//uindex(USDTUSD) 25.74%, databento ZCSH//uindex(USDTUSD) 11.03%, massive FMV.ZCSH//uindex(USDTUSD) 11.03%, binance_future ZCSHUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ZCSHUSDT",
       "provider": "Binance"
     },
@@ -2511,6 +2868,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ZHIPU",
       "methodology": "Index price of ZHIPU in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_2513HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 2513HK//uindex(USDTHKD) 49.5%, binance_future ZHIPUUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ZHIPUUSDT",
       "provider": "Binance"
     },
@@ -2522,6 +2880,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ZHONGJI",
       "methodology": "Index price of ZHONGJI in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: kaiko KK_RFR_3308HKD_USD//uindex(USDTUSD) 49.5%, pyth_pro 3308HK//uindex(USDTHKD) 49.5%, binance_future ZHONGJIUSDT 0.99%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ZHONGJIUSDT",
       "provider": "Binance"
     },
@@ -2533,6 +2892,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ZM",
       "methodology": "Index price of ZM in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ZM:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ZMUSD//uindex(USDTUSD) 25.74%, pyth_pro ZM//uindex(USDTUSD) 25.74%, databento ZM//uindex(USDTUSD) 11.03%, massive FMV.ZM//uindex(USDTUSD) 11.03%, binance_future ZMUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ZMUSDT",
       "provider": "Binance"
     },
@@ -2544,6 +2904,7 @@
       "venue": "XBNF",
       "quoteUnit": "Currency",
       "settlementAsset": "USDT",
+      "base": "ZS",
       "methodology": "Index price of ZS in USDT, computed by Binance as a weighted average of vendor prices. Weights as of 2026-10-20: dxfeed ZS:USLF24//uindex(USDTUSD) 25.74%, kaiko KK_RFR_ZSUSD//uindex(USDTUSD) 25.74%, pyth_pro ZS//uindex(USDTUSD) 25.74%, databento ZS//uindex(USDTUSD) 11.03%, massive FMV.ZS//uindex(USDTUSD) 11.03%, binance_future ZSUSDT 0.74%. Binance changes the composition; current one: GET https://fapi.binance.com/fapi/v1/constituents?symbol=ZSUSDT",
       "provider": "Binance"
     }
